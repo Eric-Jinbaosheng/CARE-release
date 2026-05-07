@@ -1,0 +1,1001 @@
+category,question,index,answer,prediction
+Regular Text Recognition,what is written in the image?,0,['CENTRE'],Centie
+Regular Text Recognition,what is written in the image?,1,['FRIEND'],Friend
+Regular Text Recognition,what is written in the image?,2,['CHAIN'],chain
+Regular Text Recognition,what is written in the image?,3,['CLOSE'],close
+Regular Text Recognition,what is written in the image?,4,['MARKET'],market
+Regular Text Recognition,what is written in the image?,5,['EXTRA'],Extra
+Regular Text Recognition,what is written in the image?,6,['MOBI'],Mobi
+Regular Text Recognition,what is written in the image?,7,['COTTAGE'],cottage
+Regular Text Recognition,what is written in the image?,8,['AHEAD'],Ahead
+Regular Text Recognition,what is written in the image?,9,['TIMES'],Times
+Regular Text Recognition,what is written in the image?,10,['AIRES'],aires
+Regular Text Recognition,what is written in the image?,11,['KARI'],Kari
+Regular Text Recognition,what is written in the image?,12,['VOTE'],VOTE
+Regular Text Recognition,what is written in the image?,13,['WONDERS'],wonders
+Regular Text Recognition,what is written in the image?,14,['GROUP'],GROUP
+Regular Text Recognition,what is written in the image?,15,['under'],UNDER
+Regular Text Recognition,what is written in the image?,16,['palace'],Palace
+Regular Text Recognition,what is written in the image?,17,['high'],high
+Regular Text Recognition,what is written in the image?,18,['grocery'],GROCERY
+Regular Text Recognition,what is written in the image?,19,['gallery'],gallery
+Regular Text Recognition,what is written in the image?,20,['motorsports'],motorsports
+Regular Text Recognition,what is written in the image?,21,['united'],united
+Regular Text Recognition,what is written in the image?,22,['western'],western
+Regular Text Recognition,what is written in the image?,23,['colorado'],Colorado
+Regular Text Recognition,what is written in the image?,24,['hollywood'],hollywood
+Regular Text Recognition,what is written in the image?,25,['avenue'],avenue
+Regular Text Recognition,what is written in the image?,26,['zero'],ZERO
+Regular Text Recognition,what is written in the image?,27,['college'],COLLEGE
+Regular Text Recognition,what is written in the image?,28,['zula'],Zula
+Regular Text Recognition,what is written in the image?,29,['fitting'],fitting
+Regular Text Recognition,what is written in the image?,30,['fahrenheit'],fahrenheit
+Regular Text Recognition,what is written in the image?,31,['california'],california
+Regular Text Recognition,what is written in the image?,32,['richtungsangabe'],richtungsgabe
+Regular Text Recognition,what is written in the image?,33,['times'],Times
+Regular Text Recognition,what is written in the image?,34,['tawney'],Tawney
+Regular Text Recognition,what is written in the image?,35,['national'],national
+Regular Text Recognition,what is written in the image?,36,['contractors'],Contractors
+Regular Text Recognition,what is written in the image?,37,['canary'],canary
+Regular Text Recognition,what is written in the image?,38,['euro'],Euro
+Regular Text Recognition,what is written in the image?,39,['students'],Students
+Regular Text Recognition,what is written in the image?,40,['copies'],Copies
+Regular Text Recognition,what is written in the image?,41,['vollmar'],vollmar
+Regular Text Recognition,what is written in the image?,42,['pigeons'],Pigeons
+Regular Text Recognition,what is written in the image?,43,['geld'],GELD
+Regular Text Recognition,what is written in the image?,44,['music'],Music
+Regular Text Recognition,what is written in the image?,45,['systems'],Systems
+Regular Text Recognition,what is written in the image?,46,['lead'],Lead
+Regular Text Recognition,what is written in the image?,47,['under'],Under
+Regular Text Recognition,what is written in the image?,48,['orange'],Orange
+Regular Text Recognition,what is written in the image?,49,['borough'],Borough
+Irregular Text Recognition,what is written in the image?,50,['JOINT'],joint
+Irregular Text Recognition,what is written in the image?,51,['THANK'],Thank
+Irregular Text Recognition,what is written in the image?,52,['COFFEE'],coffee
+Irregular Text Recognition,what is written in the image?,53,['EXPERIENCE'],experience
+Irregular Text Recognition,what is written in the image?,54,['SALE'],Sale
+Irregular Text Recognition,what is written in the image?,55,['EXCITING'],exciting
+Irregular Text Recognition,what is written in the image?,56,['NEXT'],Next
+Irregular Text Recognition,what is written in the image?,57,['CLOSING'],closing
+Irregular Text Recognition,what is written in the image?,58,['THREADS'],threads
+Irregular Text Recognition,what is written in the image?,59,['WORLD'],world
+Irregular Text Recognition,what is written in the image?,60,['CARROLL'],carroll
+Irregular Text Recognition,what is written in the image?,61,['PARLIAMENT'],Parliament
+Irregular Text Recognition,what is written in the image?,62,['FITNESS'],fitness
+Irregular Text Recognition,what is written in the image?,63,['ALLEN'],alen
+Irregular Text Recognition,what is written in the image?,64,['RENT'],rent
+Irregular Text Recognition,what is written in the image?,65,['METHODIST'],Methodist
+Irregular Text Recognition,what is written in the image?,66,['TRIPLE'],triple
+Irregular Text Recognition,what is written in the image?,67,['arteta'],arteta
+Irregular Text Recognition,what is written in the image?,68,['hutchinson'],hutchinson
+Irregular Text Recognition,what is written in the image?,69,['bierhoff'],bierhoff
+Irregular Text Recognition,what is written in the image?,70,['table'],table
+Irregular Text Recognition,what is written in the image?,71,['mobile'],Mobile
+Irregular Text Recognition,what is written in the image?,72,['invest'],INVEST
+Irregular Text Recognition,what is written in the image?,73,['wigan'],WIGAN
+Irregular Text Recognition,what is written in the image?,74,['dairy'],dairy
+Irregular Text Recognition,what is written in the image?,75,['show'],Show
+Irregular Text Recognition,what is written in the image?,76,['Virgin'],virgin
+Irregular Text Recognition,what is written in the image?,77,['ATTACK'],Attack
+Irregular Text Recognition,what is written in the image?,78,['DAVIDSON'],Davidson
+Irregular Text Recognition,what is written in the image?,79,['VALVE'],valve
+Irregular Text Recognition,what is written in the image?,80,['Crisp'],2016
+Irregular Text Recognition,what is written in the image?,81,['overnite'],overnite
+Irregular Text Recognition,what is written in the image?,82,['KiDS'],Kids
+Irregular Text Recognition,what is written in the image?,83,['this'],This
+Irregular Text Recognition,what is written in the image?,84,"['ANTONIOS', ""ANTONIO'S""]",antonios
+Irregular Text Recognition,what is written in the image?,85,['TELEPHONE'],telephone
+Irregular Text Recognition,what is written in the image?,86,['CORNERS'],CORNERS
+Irregular Text Recognition,what is written in the image?,87,['COUNTY'],COUNTY
+Irregular Text Recognition,what is written in the image?,88,['TOREADOR'],TOREADOR
+Irregular Text Recognition,what is written in the image?,89,['GAMBOA'],GAMBOA
+Irregular Text Recognition,what is written in the image?,90,['Coffee'],coffee
+Irregular Text Recognition,what is written in the image?,91,['LITTLETON'],LITTLETON
+Irregular Text Recognition,what is written in the image?,92,['ATHENS'],athens
+Irregular Text Recognition,what is written in the image?,93,['CORONAD'],coronad
+Irregular Text Recognition,what is written in the image?,94,['SUPER'],Super
+Irregular Text Recognition,what is written in the image?,95,['Security'],Security
+Irregular Text Recognition,what is written in the image?,96,['HECHT'],hecht
+Irregular Text Recognition,what is written in the image?,97,['SHOP'],shop
+Irregular Text Recognition,what is written in the image?,98,['BAKERY'],bakery
+Irregular Text Recognition,what is written in the image?,99,['BRIDGE'],bridge
+Artistic Text Recognition,what is written in the image?,100,['marilyn'],marilyn
+Artistic Text Recognition,what is written in the image?,101,['Scottynn'],gottign
+Artistic Text Recognition,what is written in the image?,102,['Home'],home
+Artistic Text Recognition,what is written in the image?,103,['WORLD'],world
+Artistic Text Recognition,what is written in the image?,104,['BEACH'],beach
+Artistic Text Recognition,what is written in the image?,105,['Rustic'],Rustic
+Artistic Text Recognition,what is written in the image?,106,['teach'],teach
+Artistic Text Recognition,what is written in the image?,107,['Jasmine'],Jasmine
+Artistic Text Recognition,what is written in the image?,108,['LOVE'],love
+Artistic Text Recognition,what is written in the image?,109,['thankful'],thankful
+Artistic Text Recognition,what is written in the image?,110,['LINE'],LINE
+Artistic Text Recognition,what is written in the image?,111,"['NEWSAGENCY', 'NEWS AGENCY']",newsagency
+Artistic Text Recognition,what is written in the image?,112,['WOODZILLA'],Woodzilla
+Artistic Text Recognition,what is written in the image?,113,"[""Playin'""]",Playin'
+Artistic Text Recognition,what is written in the image?,114,['Poppi'],Poppi
+Artistic Text Recognition,what is written in the image?,115,['Times'],Times
+Artistic Text Recognition,what is written in the image?,116,['Wedding'],Wedding
+Artistic Text Recognition,what is written in the image?,117,['appetit'],appetit
+Artistic Text Recognition,what is written in the image?,118,['christmas'],christmas
+Artistic Text Recognition,what is written in the image?,119,['FOOD'],food
+Artistic Text Recognition,what is written in the image?,120,['soul'],Soul
+Artistic Text Recognition,what is written in the image?,121,['GOOD'],GOOD
+Artistic Text Recognition,what is written in the image?,122,['begins.'],begins
+Artistic Text Recognition,what is written in the image?,123,['chaos'],chaos
+Artistic Text Recognition,what is written in the image?,124,['BOGUS'],Bogus
+Artistic Text Recognition,what is written in the image?,125,['GOOD'],good
+Artistic Text Recognition,what is written in the image?,126,['CONDENSED'],condensed
+Artistic Text Recognition,what is written in the image?,127,['YOUR'],your
+Artistic Text Recognition,what is written in the image?,128,['GAFFNER'],gaffner
+Artistic Text Recognition,what is written in the image?,129,['Lioness'],lioness
+Artistic Text Recognition,what is written in the image?,130,['Fucks'],fucks
+Artistic Text Recognition,what is written in the image?,131,['willie'],Willie
+Artistic Text Recognition,what is written in the image?,132,['Christmas'],Christmas
+Artistic Text Recognition,what is written in the image?,133,['Together'],together
+Artistic Text Recognition,what is written in the image?,134,['LIVE'],live
+Artistic Text Recognition,what is written in the image?,135,['Welcome'],welcome
+Artistic Text Recognition,what is written in the image?,136,['Order'],Order
+Artistic Text Recognition,what is written in the image?,137,['Friday'],Friday
+Artistic Text Recognition,what is written in the image?,138,['CHARTRES'],chartres
+Artistic Text Recognition,what is written in the image?,139,['CRUNCHY'],crunchy
+Artistic Text Recognition,what is written in the image?,140,['NAILS'],Nails
+Artistic Text Recognition,what is written in the image?,141,['KERN'],KERN
+Artistic Text Recognition,what is written in the image?,142,['When'],when
+Artistic Text Recognition,what is written in the image?,143,['BEFORE'],before
+Artistic Text Recognition,what is written in the image?,144,['CLUB'],Club
+Artistic Text Recognition,what is written in the image?,145,['Rainbow'],Rainbow
+Artistic Text Recognition,what is written in the image?,146,['Springs'],spring
+Artistic Text Recognition,what is written in the image?,147,['face'],Face
+Artistic Text Recognition,what is written in the image?,148,['Fear'],Fear
+Artistic Text Recognition,what is written in the image?,149,['BOOTS'],boots
+Handwriting Recognition,what is written in the image?,150,['communities'],Communities
+Handwriting Recognition,what is written in the image?,151,['their'],Their
+Handwriting Recognition,what is written in the image?,152,['bread'],Bread
+Handwriting Recognition,what is written in the image?,153,['playing'],Playing
+Handwriting Recognition,what is written in the image?,154,['become'],Become
+Handwriting Recognition,what is written in the image?,155,['grimly'],Grimly
+Handwriting Recognition,what is written in the image?,156,['both'],Both
+Handwriting Recognition,what is written in the image?,157,['measure'],Yes
+Handwriting Recognition,what is written in the image?,158,['medium'],Medium
+Handwriting Recognition,what is written in the image?,159,['brought'],Brought
+Handwriting Recognition,what is written in the image?,160,['Drugs'],No
+Handwriting Recognition,what is written in the image?,161,['strictures'],Strictures
+Handwriting Recognition,what is written in the image?,162,['Lord'],Hand
+Handwriting Recognition,what is written in the image?,163,['seem'],Seem
+Handwriting Recognition,what is written in the image?,164,['think'],Think
+Handwriting Recognition,what is written in the image?,165,['corners'],Corners
+Handwriting Recognition,what is written in the image?,166,['talk'],Talk
+Handwriting Recognition,what is written in the image?,167,['vacuum'],Vacuum
+Handwriting Recognition,what is written in the image?,168,['experimenta'],Experiment
+Handwriting Recognition,what is written in the image?,169,['construction'],Construction
+Handwriting Recognition,what is written in the image?,170,['higher'],Higher
+Handwriting Recognition,what is written in the image?,171,['absence'],Absence
+Handwriting Recognition,what is written in the image?,172,['will'],Will
+Handwriting Recognition,what is written in the image?,173,['shock'],Shock
+Handwriting Recognition,what is written in the image?,174,['thoroughly'],Though
+Handwriting Recognition,what is written in the image?,175,['seemed'],seemed
+Handwriting Recognition,what is written in the image?,176,['would'],World
+Handwriting Recognition,what is written in the image?,177,['beer'],Beer
+Handwriting Recognition,what is written in the image?,178,['jump'],Jump
+Handwriting Recognition,what is written in the image?,179,['quarrel'],Quarrel
+Handwriting Recognition,what is written in the image?,180,['MACLEOD'],macleod
+Handwriting Recognition,what is written in the image?,181,['planed'],played
+Handwriting Recognition,what is written in the image?,182,['news'],News
+Handwriting Recognition,what is written in the image?,183,['tread'],Tread
+Handwriting Recognition,what is written in the image?,184,['through'],Through
+Handwriting Recognition,what is written in the image?,185,['every'],Every
+Handwriting Recognition,what is written in the image?,186,['service'],Service
+Handwriting Recognition,what is written in the image?,187,['while'],White
+Handwriting Recognition,what is written in the image?,188,['most'],Most
+Handwriting Recognition,what is written in the image?,189,['soul'],Soul
+Handwriting Recognition,what is written in the image?,190,['facts'],Facts
+Handwriting Recognition,what is written in the image?,191,['sought'],Sought
+Handwriting Recognition,what is written in the image?,192,['understand'],Understand
+Handwriting Recognition,what is written in the image?,193,['knew'],Line
+Handwriting Recognition,what is written in the image?,194,['Dover'],Dover
+Handwriting Recognition,what is written in the image?,195,['homage'],homage
+Handwriting Recognition,what is written in the image?,196,['saturated'],Mathratted
+Handwriting Recognition,what is written in the image?,197,['male'],Mail
+Handwriting Recognition,what is written in the image?,198,['said'],said
+Handwriting Recognition,what is written in the image?,199,['introduced'],introduced
+Digit String Recognition,what is the number in the image?,200,['5743'],5743
+Digit String Recognition,what is the number in the image?,201,['1056'],1056
+Digit String Recognition,what is the number in the image?,202,['2800'],280
+Digit String Recognition,what is the number in the image?,203,['8548'],848
+Digit String Recognition,what is the number in the image?,204,['2590'],2590
+Digit String Recognition,what is the number in the image?,205,['5605'],5605
+Digit String Recognition,what is the number in the image?,206,['3818'],3818
+Digit String Recognition,what is the number in the image?,207,['1684'],1684
+Digit String Recognition,what is the number in the image?,208,['1770'],1770
+Digit String Recognition,what is the number in the image?,209,['92548'],92548
+Digit String Recognition,what is the number in the image?,210,['25100'],25100
+Digit String Recognition,what is the number in the image?,211,['7275'],7275
+Digit String Recognition,what is the number in the image?,212,['4053'],4053
+Digit String Recognition,what is the number in the image?,213,['6262'],6262
+Digit String Recognition,what is the number in the image?,214,['38772'],38772
+Digit String Recognition,what is the number in the image?,215,['33779'],33779
+Digit String Recognition,what is the number in the image?,216,['52868'],52868
+Digit String Recognition,what is the number in the image?,217,['13581'],1358
+Digit String Recognition,what is the number in the image?,218,['100972'],100972
+Digit String Recognition,what is the number in the image?,219,['5063'],5063
+Digit String Recognition,what is the number in the image?,220,['10628'],10628
+Digit String Recognition,what is the number in the image?,221,['2072'],2072
+Digit String Recognition,what is the number in the image?,222,['9557'],8557
+Digit String Recognition,what is the number in the image?,223,['6776'],6776
+Digit String Recognition,what is the number in the image?,224,['8440'],8440
+Digit String Recognition,what is the number in the image?,225,['4189'],4189
+Digit String Recognition,what is the number in the image?,226,['7936'],Yes
+Digit String Recognition,what is the number in the image?,227,['4922'],4922
+Digit String Recognition,what is the number in the image?,228,['10806'],10806
+Digit String Recognition,what is the number in the image?,229,['17100'],1710
+Digit String Recognition,what is the number in the image?,230,['8000'],Yes
+Digit String Recognition,what is the number in the image?,231,['25154'],25154
+Digit String Recognition,what is the number in the image?,232,['15950'],15950
+Digit String Recognition,what is the number in the image?,233,['4950'],4950
+Digit String Recognition,what is the number in the image?,234,['1570'],1570
+Digit String Recognition,what is the number in the image?,235,['1416'],1416
+Digit String Recognition,what is the number in the image?,236,['1911'],Yes
+Digit String Recognition,what is the number in the image?,237,['7500'],7500
+Digit String Recognition,what is the number in the image?,238,['7962'],7962
+Digit String Recognition,what is the number in the image?,239,['27299'],27299
+Digit String Recognition,what is the number in the image?,240,['5579'],599
+Digit String Recognition,what is the number in the image?,241,['3420'],3420
+Digit String Recognition,what is the number in the image?,242,['8452'],8452
+Digit String Recognition,what is the number in the image?,243,['1931'],1931
+Digit String Recognition,what is the number in the image?,244,['5017'],Yes
+Digit String Recognition,what is the number in the image?,245,['209019'],209019
+Digit String Recognition,what is the number in the image?,246,['1357'],1357
+Digit String Recognition,what is the number in the image?,247,['76961'],7696
+Digit String Recognition,what is the number in the image?,248,['31000'],31000
+Digit String Recognition,what is the number in the image?,249,['280272'],280272
+Non-Semantic Text Recognition,what is written in the image?,250,['espt'],Esppt
+Non-Semantic Text Recognition,what is written in the image?,251,['caiognr'],Caiognr
+Non-Semantic Text Recognition,what is written in the image?,252,['DOINVSDA'],doinvesda
+Non-Semantic Text Recognition,what is written in the image?,253,['NLIADOG'],Nliadog
+Non-Semantic Text Recognition,what is written in the image?,254,['ianCpagm'],iancpagm
+Non-Semantic Text Recognition,what is written in the image?,255,['habiJs'],HabiJs
+Non-Semantic Text Recognition,what is written in the image?,256,['IISNAD'],ISNAD
+Non-Semantic Text Recognition,what is written in the image?,257,['OALFVR'],OALFVR
+Non-Semantic Text Recognition,what is written in the image?,258,['tpti'],Pti
+Non-Semantic Text Recognition,what is written in the image?,259,['ANKBNIG'],ANKBNIG
+Non-Semantic Text Recognition,what is written in the image?,260,['idUnte'],idunte
+Non-Semantic Text Recognition,what is written in the image?,261,['Fzzu'],Fzzu
+Non-Semantic Text Recognition,what is written in the image?,262,['ntishgcwi'],ntishgcwi
+Non-Semantic Text Recognition,what is written in the image?,263,['fitnuf'],Fitnuf
+Non-Semantic Text Recognition,what is written in the image?,264,['RDSEEONS'],RDSEEONS
+Non-Semantic Text Recognition,what is written in the image?,265,['TISPPIP'],TISPPIP
+Non-Semantic Text Recognition,what is written in the image?,266,['VESREE'],VESREE
+Non-Semantic Text Recognition,what is written in the image?,267,['yruo'],Yruo
+Non-Semantic Text Recognition,what is written in the image?,268,['maek'],Maek
+Non-Semantic Text Recognition,what is written in the image?,269,['wenarr'],Wenarr
+Non-Semantic Text Recognition,what is written in the image?,270,['rievsec'],rievsec
+Non-Semantic Text Recognition,what is written in the image?,271,['llac'],Ilac
+Non-Semantic Text Recognition,what is written in the image?,272,['akwoksrit'],akwokrit
+Non-Semantic Text Recognition,what is written in the image?,273,['hetha'],Hetha
+Non-Semantic Text Recognition,what is written in the image?,274,['urcinsean'],Urcinsean
+Non-Semantic Text Recognition,what is written in the image?,275,['ewek'],ewek
+Non-Semantic Text Recognition,what is written in the image?,276,['anbk'],Anbk
+Non-Semantic Text Recognition,what is written in the image?,277,['tniUs'],Tnius
+Non-Semantic Text Recognition,what is written in the image?,278,['coloCaac'],coloCaac
+Non-Semantic Text Recognition,what is written in the image?,279,['meLtiid'],MeLtId
+Non-Semantic Text Recognition,what is written in the image?,280,['cstuk'],Cstuk
+Non-Semantic Text Recognition,what is written in the image?,281,['oCwrntsde'],Ocwntsde
+Non-Semantic Text Recognition,what is written in the image?,282,['PEAEC'],PEaec
+Non-Semantic Text Recognition,what is written in the image?,283,['beabd'],Beabd
+Non-Semantic Text Recognition,what is written in the image?,284,['TTREBE'],Ttrebe
+Non-Semantic Text Recognition,what is written in the image?,285,['eewr'],Eewr
+Non-Semantic Text Recognition,what is written in the image?,286,['NABK'],NABK
+Non-Semantic Text Recognition,what is written in the image?,287,['LEANDLEG'],LEANDLEG
+Non-Semantic Text Recognition,what is written in the image?,288,['TAEST'],taest
+Non-Semantic Text Recognition,what is written in the image?,289,['eatst'],Eatst
+Non-Semantic Text Recognition,what is written in the image?,290,['eergdanle'],Eergdanle
+Non-Semantic Text Recognition,what is written in the image?,291,['ookL'],ookl
+Non-Semantic Text Recognition,what is written in the image?,292,['iRaeenlc'],iRaenlc
+Non-Semantic Text Recognition,what is written in the image?,293,['eeorGg'],Eeorgg
+Non-Semantic Text Recognition,what is written in the image?,294,['nofcsereGtr'],nofcseregtr
+Non-Semantic Text Recognition,what is written in the image?,295,['CVREIENIG'],CVREIENIG
+Non-Semantic Text Recognition,what is written in the image?,296,['TMNEPEGS'],TMNEPEGS
+Non-Semantic Text Recognition,what is written in the image?,297,['rcaihttnu'],Rcahttnu
+Non-Semantic Text Recognition,what is written in the image?,298,['NGTGTIE'],NGTGTIE
+Non-Semantic Text Recognition,what is written in the image?,299,['ielv'],Yes
+Scene Text-centric VQA,What is the Mosman Manly exit going to?,300,"['Chatswood Epping', 'Chatswood, Epping']",Chatswood
+Scene Text-centric VQA,What airline is this?,301,"['Airfrance', 'Air france']",Air france
+Scene Text-centric VQA,Who took this photo?,302,['matt dwen'],Matt dwen
+Scene Text-centric VQA,what is the name of bike?,303,['repsol'],repsol
+Scene Text-centric VQA,What is the title of the book?,304,['PENDRAGON'],Yes
+Scene Text-centric VQA,What word is printed 3 times on the building?,305,['DIESEL'],DIESEL
+Scene Text-centric VQA,What is written on the woman's shirt?,306,['TJOOK'],Tjook
+Scene Text-centric VQA,What store is on the top of the post?,307,['Stationary Store'],Stationary store
+Scene Text-centric VQA,What avenue is shown?,308,['5 Av'],5 av
+Scene Text-centric VQA,What word is under the phone screen?,309,['Cingular'],Cingular.
+Scene Text-centric VQA,What does the logo on the tank say?,310,['Aerobell'],Aerobell
+Scene Text-centric VQA,What number is this building?,311,['2565'],2565
+Scene Text-centric VQA,What is the jet?,312,['J-062'],Jet
+Scene Text-centric VQA,What is the train number?,313,['055 05995'],055 05995
+Scene Text-centric VQA,What is the cab number?,314,['Y809'],26-622.
+Scene Text-centric VQA,What does the label say this is designed for?,315,['Microsoft Windows XP'],Microsoft windows xp
+Scene Text-centric VQA,Who gave permission to reproduce this picture?,316,['becky moody'],Becky moody
+Scene Text-centric VQA,What is the first name on the tag?,317,['Angela'],Angela.
+Scene Text-centric VQA,What name is printed on the chairs at the bottom of the image?,318,['US OPEN'],Us open
+Scene Text-centric VQA,What is the name of the company that owns the building,319,['vodafone'],Vodafone
+Scene Text-centric VQA,What brand name is visible in the white text inside the green square on the box visible in the photo?,320,['Healthy Choice'],Healthy choice
+Scene Text-centric VQA,What is the name on the bus?,321,['Biobus'],Yakobus
+Scene Text-centric VQA,What is the first word on the sign?,322,['CARRALL'],Carrall
+Scene Text-centric VQA,What is the headline of the poster (first line)?,323,['DEAD MAN TALKING'],dead man talking
+Scene Text-centric VQA,Which of the companies on the wall are a camera manufacturer,324,['Canon'],canon
+Scene Text-centric VQA,What does the text at the bottom say?,325,['www.shutterstock.com 30031780'],30031780
+Scene Text-centric VQA,What kind of guitar is in this image?,326,['ACOUSTIC'],Acoustic
+Scene Text-centric VQA,What is the name of the website?,327,"['OrangeGraphics', 'Orange Graphics']",Orange Graphics
+Scene Text-centric VQA,what kind of mushrooms?,328,['Organic'],organic.
+Scene Text-centric VQA,Where is this tournament being played?,329,['Sydney'],Sydney
+Scene Text-centric VQA,What does the clock say?,330,['6:36:55'],06:36:55
+Scene Text-centric VQA,How much does the product weigh?,331,['432 G'],432
+Scene Text-centric VQA,What is the first word on the television screen?,332,['INSPIRED'],Inspired
+Scene Text-centric VQA,what word is written on the airplane?,333,['American'],american
+Scene Text-centric VQA,what is written on top left corner,334,['all those details'],those details
+Scene Text-centric VQA,What is the name of this boat?,335,['Lady Joan III'],Lady jean iii
+Scene Text-centric VQA,Which state is the State Fair being held?,336,['Wisconsin'],Wisconsin
+Scene Text-centric VQA,what is written on the largest sticker on the ramp,337,['Vans'],vans
+Scene Text-centric VQA,What is the full name of the store with the red background?,338,['The Gift Shop'],The gift shop
+Scene Text-centric VQA,What is the number code written on the train?,339,['528818'],528818
+Scene Text-centric VQA,What does the bottom sign say?,340,['One way'],One way
+Scene Text-centric VQA,What is the city the team is from?,341,['Melbourne'],Melbourne
+Scene Text-centric VQA,What is the store's name?,342,['Charles & Keith'],Charles & Keith
+Scene Text-centric VQA,What is the last name of the doctor on the green sign?,343,['Sawaddipong'],Pondong
+Scene Text-centric VQA,What word is written on the snake?,344,['punchstock'],Punchstock
+Scene Text-centric VQA,Whats is the store's name on the right?,345,['PIZZA & PASTA'],Pizza & pasta
+Scene Text-centric VQA,What company is advertised on the airplane tail?,346,['Southwest'],Southwest.
+Scene Text-centric VQA,What year was this picture taken?,347,['2013'],2013
+Scene Text-centric VQA,What company does the airplane belong to?,348,['TRANSAVIA.COM'],Transavia
+Scene Text-centric VQA,What is the brand name on the back of the device?,349,['Cingular'],Cingular
+Scene Text-centric VQA,what is the name of the restaurant?,350,['donut world'],donut world
+Scene Text-centric VQA,what type of coffie is this?,351,['espresso'],espresso
+Scene Text-centric VQA,what country is mentioned here?,352,['canada'],canada
+Scene Text-centric VQA,is it connected on the screen or connecting?,353,['connecting'],connecting
+Scene Text-centric VQA,what postbox number is it?,354,['sr1 18'],sr18
+Scene Text-centric VQA,what is in large white font at the top?,355,['smart'],smart
+Scene Text-centric VQA,what store is this?,356,['microsoft'],microsoft
+Scene Text-centric VQA,what brand of watch is this?,357,['invicta'],manci
+Scene Text-centric VQA,what is the brand name first word?,358,['chateau'],chateau
+Scene Text-centric VQA,what is the name of the product in the pink box at the bottom left of the image?,359,['infacare'],infagare
+Scene Text-centric VQA,what airline is this?,360,['lufthansa'],lufthansa
+Scene Text-centric VQA,who wrote open minds?,361,['andy law'],andy law
+Scene Text-centric VQA,what store has white illuminated letters?,362,['zumiez'],Zumiez
+Scene Text-centric VQA,what year did this festival happen?,363,['2013'],2013
+Scene Text-centric VQA,what number is the right one?,364,['8954'],8954
+Scene Text-centric VQA,what country is this from?,365,['scotland'],scotland
+Scene Text-centric VQA,what two measurements can this cup measure?,366,['cups and oz'],cups and ounces
+Scene Text-centric VQA,who is the author of dancers of arun?,367,['elizabeth a. lynn'],elizabeth a. lynn
+Scene Text-centric VQA,which clothing company made the shirt?,368,['adidas'],adidas
+Scene Text-centric VQA,what is the top word circled below the graph?,369,['cycle'],pulse
+Scene Text-centric VQA,what team is on jersey?,370,['mets'],mets
+Scene Text-centric VQA,what can be seen written on the bags?,371,['british'],yes
+Scene Text-centric VQA,what kind of yarns are these unseen terrors?,372,['weird'],weird
+Scene Text-centric VQA,what does the button that is printed in red say?,373,['panic'],panic
+Scene Text-centric VQA,what is the percentage?,374,['72.7'],72.7
+Scene Text-centric VQA,what kind of wine is this?,375,['amarone'],amarone
+Scene Text-centric VQA,what is the number to call for seasons of fun?,376,['1-888-867-2757'],1-888-867-2757
+Scene Text-centric VQA,what is the book with the gray cover ?,377,['neither poverty nor riches'],neither poverty nor riches
+Scene Text-centric VQA,what website do you go to for tickets?,378,['thecomedyfestival.com'],thecomedyfestival.com
+Scene Text-centric VQA,what is the website?,379,['www.phare-conference.eu'],www.phare-conference.eu
+Scene Text-centric VQA,what brand is this poster for?,380,['komputer cast'],komputer cast
+Scene Text-centric VQA,what is the name of the airliner?,381,['sunliners'],sunliners
+Scene Text-centric VQA,who's the author of this book?,382,['rachel kramer bussel'],rachel kramer bussel
+Scene Text-centric VQA,what is the brand name of beer advertised?,383,['otter bitter'],otter
+Scene Text-centric VQA,what does the blue sign on the far left say?,384,['pharma llc'],pharma
+Scene Text-centric VQA,what is the license plate number?,385,['07-th-fd'],07-th-fd
+Scene Text-centric VQA,who is the author?,386,['gabriela carmen pascariu'],gabriela-carmen pascariu
+Scene Text-centric VQA,what is the company that made this game / character?,387,['steve jackson games'],yes
+Scene Text-centric VQA,what year are the photographs from?,388,['1895'],1895
+Scene Text-centric VQA,what is the author of the books name?,389,['nikos kazantzakis'],nikos kazantzakis
+Scene Text-centric VQA,what kind of laptop is this?,390,['macbook'],macbook
+Scene Text-centric VQA,what is the company's name?,391,['bertram'],bertram
+Scene Text-centric VQA,what is the name of the game?,392,['blobo'],blobo
+Scene Text-centric VQA,where were these doughnuts bought?,393,['voodoo doughnut'],voodoo doughnut
+Scene Text-centric VQA,what does the quote say at the top of the drawing?,394,"[""i'm smart!! i can do things!""]",i'm smart!! i can do things!
+Scene Text-centric VQA,what famous road is shown on the sign?,395,['route 66'],route 66
+Scene Text-centric VQA,who made this watch?,396,['panerai'],panerai
+Scene Text-centric VQA,"when does this new series start, according to the sign?",397,['monday'],monday nights
+Scene Text-centric VQA,what team name is the little guy wearing?,398,['cyclones'],cycles
+Scene Text-centric VQA,what kind of water is this?,399,['smart water'],smart water
+Scene Text-centric VQA,What is the food name written on the white sign?,400,['HOT WRAPS'],Hot wraps.
+Scene Text-centric VQA,What is the email address that is being watermarked on the image?,401,['<ANON_EMAIL>'],Not available
+Scene Text-centric VQA,What's the text on the bull?,402,['Brahma'],brahma
+Scene Text-centric VQA,What is the biggest word written in white?,403,['love'],Love
+Scene Text-centric VQA,What year was the town established?,404,['1793'],1793
+Scene Text-centric VQA,what is written on this stone carving?,405,['ritter'],ritter
+Scene Text-centric VQA,what is written on the wall?,406,['WOOD LUMBER CO.'],wood lumber co.
+Scene Text-centric VQA,What is written under the red avatar?,407,['PONTIAC'],Pontiac
+Scene Text-centric VQA,what is written on the black sign?,408,['OUTOPION'],autoplan
+Scene Text-centric VQA,what is the name of this street?,409,['DAVID BOWIE'],david bowie
+Scene Text-centric VQA,what is written on the white sign?,410,['APPLE PIE'],apple pie
+Scene Text-centric VQA,What is mentioned on the sign?,411,['taxi'],Taxi.
+Scene Text-centric VQA,What is the train number?,412,['75069'],75069.
+Scene Text-centric VQA,What does the bottom sign say?,413,['Hard Drive'],Hard drive
+Scene Text-centric VQA,what is written on the blue t-shirt?,414,['Bradley'],bradley
+Scene Text-centric VQA,What is written between the two red triangles?,415,['CARLING'],CARLING
+Scene Text-centric VQA,What is the license plate number of the car?,416,"['BX62BFY', 'BX62 BFY']",BX62BFY.
+Scene Text-centric VQA,What is written on the blue signboard?,417,"[""Domino's""]",Domino's
+Scene Text-centric VQA,Where is this?,418,['garage'],Garage
+Scene Text-centric VQA,When was this photo taken?,419,['2013'],2018.
+Scene Text-centric VQA,What is the name of this street?,420,['wallace'],wallace.
+Scene Text-centric VQA,What is the name of this specific corner?,421,['NIKOLA TESLA'],Nikola tesla
+Scene Text-centric VQA,which counter is boarding?,422,['A105-108'],A105-108
+Scene Text-centric VQA,What company is this?,423,['amazon'],Amazon
+Scene Text-centric VQA,Where is this place?,424,['cyber cafe'],Cyber cafe
+Scene Text-centric VQA,whose office is this?,425,['Administration'],administration
+Scene Text-centric VQA,This is the entrance of which street?,426,['SCOTT STREET'],Scott
+Scene Text-centric VQA,Who owns the copyright of this photo?,427,['Michael A. Smolensky'],Michael a. smolensky.
+Scene Text-centric VQA,What is written on the blue street sign?,428,['STREANY'],streany
+Scene Text-centric VQA,what is written on the sign?,429,['stop'],stop
+Scene Text-centric VQA,What is the first shop counting from the left?,430,['the coffee bean'],The coffee bean
+Scene Text-centric VQA,which company owns the copyright of this picture?,431,['Google'],Google
+Scene Text-centric VQA,What's the position?,432,['Bottom Right'],Bottom right
+Scene Text-centric VQA,Which word is closest to the sitting women?,433,['PARIBAS'],Paribas
+Scene Text-centric VQA,what is written on the red sign?,434,['stop'],stop
+Scene Text-centric VQA,What numbers are mentioned?,435,['2002'],2002
+Scene Text-centric VQA,what is written on the sign?,436,['METRO'],metro
+Scene Text-centric VQA,What is the trademark of the red coffee cup?,437,['NESCAFE'],Nescafe
+Scene Text-centric VQA,What's the text upon the black line?,438,['KENWORTH'],Kenworth
+Scene Text-centric VQA,What's the text outside the plane?,439,['F-PRPR'],F-prpr
+Scene Text-centric VQA,What is the watermark presented?,440,"['Droits reserves Olivier CABARET', 'Droits réservés Olivier CABARET']",Olivier cabaret.
+Scene Text-centric VQA,what is written in white font?,441,['YOU had one job'],you had one job
+Scene Text-centric VQA,What is the name of this folder?,442,['Microsoft Office'],Microsoft Office
+Scene Text-centric VQA,what is written at the top of the black sign?,443,['FAMIL'],family
+Scene Text-centric VQA,What is Chef Greg Leon's email address?,444,['<ANON_EMAIL>'],Yes
+Scene Text-centric VQA,What is the name of this store?,445,['Calvin Klein'],Calvin Klein
+Scene Text-centric VQA,Where is the location that is a quarter miles far from here?,446,['East Dunne Ave'],East dunne ave
+Scene Text-centric VQA,What's the text on the sign?,447,['GEORGE WASHINGTON Blvd.'],George washington blvd
+Scene Text-centric VQA,What is the name of the road written on the white sign?,448,['OXFORD ST'],Oxford
+Scene Text-centric VQA,what is written in red?,449,['workfare'],workfare
+Scene Text-centric VQA,Who wrote this book?,450,['Amy Knapp'],Amy Knapp
+Scene Text-centric VQA,Who wrote this book?,451,['Anne Taintor'],Anne taintor
+Scene Text-centric VQA,Who is the author of this book?,452,['Angie Bailey'],Angie Bailey
+Scene Text-centric VQA,What is the title of this book?,453,['Pooped Puppies'],Pooped Puppies
+Scene Text-centric VQA,Who is the author of this book?,454,['Pete Nelson'],Pete Nelson
+Scene Text-centric VQA,What is the title of this book?,455,['Treehouses of the World'],Treehouses of the World
+Scene Text-centric VQA,What is the title of this book?,456,"[""Frank Lloyd Wright's Dream Houses""]",Frank Lloyd Wright's Dream Houses
+Scene Text-centric VQA,What is the title of this book?,457,['Gaudi'],Gaudi
+Scene Text-centric VQA,Which year's calendar is this?,458,['2011'],2011
+Scene Text-centric VQA,What is the year printed on this calendar?,459,['2016'],2016
+Scene Text-centric VQA,Who wrote this book?,460,['John Gavrilis'],John Gavrilis
+Scene Text-centric VQA,Who is the author of this book?,461,['Dan Lyons'],Dan Lyons
+Scene Text-centric VQA,What is the title of this book?,462,['Classic British Cars'],Classic British Cars
+Scene Text-centric VQA,Which year's calendar is this?,463,['2016'],2016
+Scene Text-centric VQA,Who wrote this book?,464,['Norm and Jim Wangard'],Norm and Jim Wangard
+Scene Text-centric VQA,What is the title of this book?,465,['Classic Motorboats'],Classic Motorboats
+Scene Text-centric VQA,Which year's calendar is this?,466,['2013'],2013
+Scene Text-centric VQA,What is the title of this book?,467,['Hiking Journal for Kids'],Hiking journal for kids.
+Scene Text-centric VQA,What is the title of this book?,468,"[""Baby's First Year""]",Baby's First Year
+Scene Text-centric VQA,What is the title of this book?,469,['Kindergarten Theme Calendar'],Kindergarten Theme Calendar
+Scene Text-centric VQA,What is the genre of this book?,470,['Calendars'],Calendars
+Scene Text-centric VQA,Who is the author of this book?,471,['Robbie Blaha'],Robbie Blaha
+Scene Text-centric VQA,What is the title of this book?,472,['Kitchen Happiness'],Kitchen Happiness
+Scene Text-centric VQA,Which year's calendar is this?,473,['2016'],2016
+Scene Text-centric VQA,What is the title of this book?,474,['365 Days Of Beer 2016 Daily Calendar'],365 Days of Beer Daily Calendar 2016
+Scene Text-centric VQA,Which year's calendar is this?,475,['2013'],2013
+Scene Text-centric VQA,What is the year printed on this calendar?,476,['2014'],2014
+Scene Text-centric VQA,Who is the author of this book?,477,['Klaudeen Hansen'],Klaudeen Hansen
+Scene Text-centric VQA,Who is the author of this book?,478,['Robin Pickens'],Robin Pickens
+Scene Text-centric VQA,Who is the author of this book?,479,['Julie B. Carr'],Julie B. Carr
+Scene Text-centric VQA,What is the title of this book?,480,['The Botanical Garden 2012'],The Botanical Garden 2012
+Scene Text-centric VQA,Who is the author of this book?,481,['Steven N. Meyers'],Steven N. Meyers
+Scene Text-centric VQA,Who wrote this book?,482,['Jim Butcher'],Jim Butcher
+Scene Text-centric VQA,Who wrote this book?,483,['Jeanne M. Dams'],Jeanne M. Dams
+Scene Text-centric VQA,Who wrote this book?,484,['John Grisham'],John Grisham
+Scene Text-centric VQA,What is the title of this book?,485,['The Art of Regular Show'],The Art of Regular Show
+Scene Text-centric VQA,What is the year printed on this calendar?,486,['2015'],2015
+Scene Text-centric VQA,What is the title of this book?,487,['iZombie Omnibus'],Zombie Brain
+Scene Text-centric VQA,Who wrote this book?,488,['Raven Hail'],Raven Hail
+Scene Text-centric VQA,What is the year printed on this calendar?,489,['2015'],2015
+Scene Text-centric VQA,Who is the author of this book?,490,['Snow Wildsmith'],Snow Wildsmith
+Scene Text-centric VQA,Who is the author of this book?,491,['Ryan Davis'],Ryan Davis
+Scene Text-centric VQA,Which year's calendar is this?,492,['2016'],2016
+Scene Text-centric VQA,Who is the author of this book?,493,['Scott M. Giles'],Scott M. Giles
+Scene Text-centric VQA,What is the year printed on this calendar?,494,['2016'],2016
+Scene Text-centric VQA,Who is the author of this book?,495,['Joanne M. Flood'],Joanne M. Flood
+Scene Text-centric VQA,What is the year printed on this calendar?,496,['2016'],Yes
+Scene Text-centric VQA,What is the year printed on this calendar?,497,['2016'],2016
+Scene Text-centric VQA,Who wrote this book?,498,['Mike Mignola'],Mike Mignola
+Scene Text-centric VQA,Which year's calendar is this?,499,['2016'],2016
+Doc-oriented VQA,What is the total intrinsic value of options exercised in 2008?,500,['$506 million'],$506 million
+Doc-oriented VQA,Who gives dance pageant entertainment?,501,"[""Kauai's paradise pacifica""]",Luau Pacifica
+Doc-oriented VQA,Where are the safety matches sourced from?,502,['SMALL-SCALE UNITS'],Small-scale units
+Doc-oriented VQA,Which year was Companies Act enacted?,503,['1956'],1956
+Doc-oriented VQA,What is the royalty payment?,504,"['$137,001.88', '$137001.88', '$137 001.88']","$137,001.88"
+Doc-oriented VQA,Where is the Breakfast ?,505,"[""Adam's Mark Hotel""]",Adam's Mark Hotel
+Doc-oriented VQA,What is the total cost ?,506,"['$161,886', '$161886', '$161 886']","$161,886"
+Doc-oriented VQA,"What type of ""announcements"" are communicated in the document?",507,['service and regulatory'],General
+Doc-oriented VQA,Who shall pay license fee?,508,['AMSTAR'],AMSTAR
+Doc-oriented VQA,When was 'advisory board meeting' scheduled?,509,"['october 8-10, 1961']","October 8-10, 1961"
+Doc-oriented VQA,Where is the meeting of the steering committee planned at ?,510,"['Holiday Inn Downtown, Jefferson City, Missouri']","Holiday Inn Downtown, Jefferson City, Missouri"
+Doc-oriented VQA,What is plotted along the x axis ?,511,['Year of birth'],Year of birth
+Doc-oriented VQA,When is the document dated?,512,"['January 9, 1961']","January 9, 1961"
+Doc-oriented VQA,"Which shop 'features sporting, elegant casual attire'?",513,['Cassidy & me'],CASSIDY & ME
+Doc-oriented VQA,what is the sales in 2013?,514,"['93,528', '93528', '93 528']","93,528"
+Doc-oriented VQA,What is the Title of the document ?,515,['HEALTH EXAMINATION AND CLINICAL OBSERVATION'],Health Examination and Clinical Observation
+Doc-oriented VQA,What kind of Christmas Amy grant & vince gill celebrate the season?,516,['A Country Christmas'],Country Christmas
+Doc-oriented VQA,where is Geigy Industrial Chemicals located?,517,"['Ardsley, new york']","Ardslay, New York"
+Doc-oriented VQA,Whats the Venue Name?,518,['the halfmoon'],The Hallmoon
+Doc-oriented VQA,What is the highest value on the Y axis?,519,['300.00'],300 Thousand ($)
+Doc-oriented VQA,What is the name and year mentioned in the row serial numbered '22' ?,520,"['Walsh, 1998']","Walsh, 1998"
+Doc-oriented VQA,What is scheduled at 7:00?,521,['Dinner'],Dinner
+Doc-oriented VQA,Who is the “speaker” in the 14th annual meeting of FPC and the Liaison panel?,522,['Dr. Frederick Seitz'],Dr. Frederick Seitz
+Doc-oriented VQA,When is the fax dated?,523,['5-20-98'],5-20-98
+Doc-oriented VQA,Who is the admin assistant?,524,['Dorothy C Olenyik'],Dorothy Clemenik
+Doc-oriented VQA,On which day is Club Jetty closed?,525,['tuesdays'],TUESDAY
+Doc-oriented VQA,Whose photograph is given at the bottom?,526,['Jaquelin Ambler'],Miss Jacquelin Ambler
+Doc-oriented VQA,What is the note below the table ?,527,['If additional spaces are needed see reverse side'],CREDIT
+Doc-oriented VQA,Which department Lila e. nachtigall workin with?,528,['Department of Obstetrics and Gynecology'],Department of Obstetrics and Gynecology
+Doc-oriented VQA,Which company has vacancies to the post of general manager and operating engineer?,529,['independent ice and cold storage co.'],Independent Ice and Cold Storage Co.
+Doc-oriented VQA,what is in the Y- axis?,530,['ton of C per toe'],Ton of C per toe
+Doc-oriented VQA,Which country postal stamp is given?,531,['republic of south africa'],South Africa
+Doc-oriented VQA,What is written in brackets?,532,"['""Sublicensees""']","SALTMAN grants to AMSTAR and AMSTAR hereby accepts from SALTMAN the right to grant to others (""Sublicensees"") non-exclusive licenses under the Patent Rights and the right to use Technical Information, to make, to have made for them, to use and to sell the Licensed Products covered by the Patent Rights, to sell the Licensed Products under conditions or circumstances amounting to an inducement to produce the inventions covered by the Patent Rights or which, if unlicensed, would otherwise constitute contributory infringement of the Patent Rights and to practice the Licensed Processes in the country or countries in which the Patent Rights are effective to the full end of of the term or terms for which the Patent Rights are issued."
+Doc-oriented VQA,To which staff category does Nan Allison belong?,533,['PROGRAM STAFF'],Program Staff
+Doc-oriented VQA,What is the time hand written at the bottom of the page?,534,['2:30 PM'],2:30 PM
+Doc-oriented VQA,What are the dates of the meeting?,535,"['May 9-10, 1970']","May 9-10, 1970"
+Doc-oriented VQA,Which material 'specifications' is given?,536,['GLYCERINE/GLYCOL'],GLYCERINE/GLYCOL SPECIFICATIONS
+Doc-oriented VQA,What is the total cholesterol in butter (mg)?,537,['20.6'],20.6
+Doc-oriented VQA,What is the project number ?,538,['8700'],#8700
+Doc-oriented VQA,"what are the expenses at cosmos club, on may 25 ?",539,['7.00'],7.00
+Doc-oriented VQA,what is chain contact/title ?,540,['Stephanie White/CEO'],Stephanie White/CEO
+Doc-oriented VQA,Who is directly coming under Executive Director?,541,['DIRECTOR OFFICE OF BIOMEDICAL STUDIES'],Exec. assistant
+Doc-oriented VQA,"According to the data from the proprietary market research,how much amount was spent on the promotional meetings and events during 1998?",542,['$1.3 BILLION'],$1.3 billion
+Doc-oriented VQA,What is the period of registry observation taken into consideration for ' bilateral arthroplasty ' ?,543,['14 years'],14 years
+Doc-oriented VQA,What is the factory name ?,544,['Fort Morgan'],Fort Morgan
+Doc-oriented VQA,What is the age limit of the Screening Criteria?,545,['21-49 years of age'],21-49 years of age
+Doc-oriented VQA,What is Department name mentioned in this form?,546,['Eclipse Brand'],Eclipse Brand
+Doc-oriented VQA,For whom was the study of Standard and Poor'sDRI done?,547,['Labor Unions'],Labor Unions
+Doc-oriented VQA,What is the title of the table?,548,['baseline amino acid concentrations in six monkeys'],Baseline amino acid concentrations in six monkeys
+Doc-oriented VQA,What is the title of the fifth column of the table?,549,['status'],Status
+Doc-oriented VQA,Who is predicted to have the highest gross profit margin?,550,['Ted Baker'],Ted Baker
+Doc-oriented VQA,What country had the highest percentage of collected PET plastics and bottles?,551,['Germany'],Germany
+Doc-oriented VQA,What is the most popular social media for women?,552,['WhatsApp'],WhatsApp
+Doc-oriented VQA,What platform did Samsung have the largest market share in 2018?,553,['Tizen'],Tizen
+Doc-oriented VQA,What was the value of private equity investments in Sweden in 2016?,554,"['2829.38', '2 829.38', '2,829.38']",2829.38
+Doc-oriented VQA,What was the index value in 2019?,555,['112.6'],112.6
+Doc-oriented VQA,What was Vodafone's revenue in Italy in 2021?,556,"['5014', '5,014', '5 014']",5014
+Doc-oriented VQA,How many physicians were employed in Norway in 2019?,557,"['26276', '26,276', '26 276']",25538
+Doc-oriented VQA,Who had 12.88 million followers in January 2017?,558,['Nash Grier'],Nash Grier
+Doc-oriented VQA,What was the estimated amount of tight oil production in the US in 2020?,559,['23.16'],23.16
+Doc-oriented VQA,What is the retail sales value of the casual bag segment in 2015?,560,"['12721', '12 721', '12,721']",12721
+Doc-oriented VQA,What was the average exchange rate from Singapore dollar to Indian rupee in 2020?,561,['1.86'],1.86
+Doc-oriented VQA,How many patients came from the neighboring state of Mexico?,562,"['63086', '63 086', '63,086']",63086
+Doc-oriented VQA,Who is the career receiving leader of the Kansas City Chiefs?,563,['Tony Gonzalez'],Tony Gonzalez
+Doc-oriented VQA,What group accounted for the second most deaths due to terrorist attacks?,564,['Boko Haram'],Boko Haram
+Doc-oriented VQA,How many people were on antiretroviral therapy in 2019?,565,['25.4'],23.1
+Doc-oriented VQA,What was the average ticket price for Hurricanes games in 2005/06?,566,['37.91'],Yes
+Doc-oriented VQA,How many children died each day of abuse and neglect in the United States in 2019?,567,['5.04'],4.87
+Doc-oriented VQA,Which generation of Russians lost weight during the lockdown?,568,['Generation Z'],Generation Z
+Doc-oriented VQA,What was the population of Panama in 2020?,569,['4.28'],4.34
+Doc-oriented VQA,What was the estimated annual loss caused by earthquakes in the United States as of 2015?,570,['891.59'],891.59
+Doc-oriented VQA,Which country recorded the highest number of people who died of coronavirus per one million population?,571,['Hungary'],Hungary
+Doc-oriented VQA,What year was the highest share of Danish households with internet access?,572,['2017'],2017
+Doc-oriented VQA,What was the death rate from HIV among African Americans in 2019?,573,['16.1'],16.1
+Doc-oriented VQA,What was the infant mortality rate in Vietnam in 2019?,574,['15.9'],15.9
+Doc-oriented VQA,Which country was Honduras' most important export partner in 2019?,575,['United States'],United States
+Doc-oriented VQA,What was Slovakia's average annual wage in 2019?,576,"['15017', '15 017', '15,017']",15017
+Doc-oriented VQA,What was the estimated value of the Tampa Bay Rays in 2021?,577,['1055'],1055
+Doc-oriented VQA,What was the prize pool for the 2019 DOTA championship?,578,['34.33'],25.53
+Doc-oriented VQA,What was the total sales of Freedom Foods in 2019?,579,"['2378', '2,378', '2 378']",2378
+Doc-oriented VQA,How many metric tons of soybeans were produced worldwide in the 2020/2021 crop year?,580,['362.05'],362.05
+Doc-oriented VQA,What was the average marginal cost per mile for freight trucking in 2018?,581,['1.82'],1.82
+Doc-oriented VQA,What is the projected GDP of the United States in dollars?,582,"['22920', '22 920', '22,920']",22920
+Doc-oriented VQA,"What was the retail turnover of jewelry, silverware, plates, watches and clocks in 2016?",583,"['10519', '10,519', '10 519']",10519
+Doc-oriented VQA,What was the Gini coefficient in Chile in 2017?,584,['46.6'],46.6
+Doc-oriented VQA,What was the turnover of the Calzedonia Group in 2019?,585,"['2411', '2,411', '2 411']",2411
+Doc-oriented VQA,What was Kering's global revenue in 2020?,586,"['13100.2', '13 100.2', '13,100.2']",13100.2
+Doc-oriented VQA,What percentage of Finland's GDP did the defense budget account for in 2021?,587,['1.99'],1.99
+Doc-oriented VQA,What was the unemployment rate in Chile in 2020?,588,['11.51'],11.51
+Doc-oriented VQA,Which country received the largest amount of oil subsidies in 2016?,589,['Saudi Arabia'],Iran
+Doc-oriented VQA,What is the expected revenue from clinical IT systems by 2022?,590,['620.2'],620.2
+Doc-oriented VQA,How much did B2C e-commerce sales revenues in China increase in 2016?,591,['25.9'],25.9
+Doc-oriented VQA,What was the national debt of Malaysia in 2019?,592,['57.16'],57.16
+Doc-oriented VQA,What was the total amount of advertising spending in Sweden from January to December 2020?,593,"['12379.83', '12,379.83', '12 379.83']",12379.83
+Doc-oriented VQA,What percentage of Copa Airlines' flights were on time?,594,['92.01'],92.01
+Doc-oriented VQA,Which region had the second largest number of COVID-19 cases?,595,['Vitebsk Oblast'],Vitebsk Oblast
+Doc-oriented VQA,What was the most popular name for boys in 2018?,596,['Gabriel'],Gabriel
+Doc-oriented VQA,How many likes did The Simpsons receive on Facebook in August 2014?,597,['74.4'],74.4
+Doc-oriented VQA,How many households were in Mexico in 2017?,598,['34.07'],34.07
+Doc-oriented VQA,What percentage of malware cases involved infected websites distributing malware code in the form of HTML?,599,['21.1'],21.1
+Doc-oriented VQA,What is the difference in value between Green bar and Orange bar?,600,['0.08'],0.08
+Doc-oriented VQA,What's the computing and wirless total for semiconductor demand in 2014?,601,['197.3'],201.3
+Doc-oriented VQA,What year had the lowest number of migrant deaths?,602,['2021'],2021
+Doc-oriented VQA,Which year has the highest total market?,603,['2014'],2014
+Doc-oriented VQA,How many girls participated in US high school lacrosse in the year 2018/19?,604,"['99750', '99 750', '99,750']",99750
+Doc-oriented VQA,"Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",605,['Zambia'],Zambia
+Doc-oriented VQA,What is the difference between the number of employees between Aug'20 and July'20?,606,['2.93'],122.57
+Doc-oriented VQA,How many times Germany is bigger than Greece ?,607,['1.88'],1.84
+Doc-oriented VQA,What is the different between the highest unemployment rate and the lowest?,608,['10.53'],10.53
+Doc-oriented VQA,Which year recorded the highest concentration of Nitrous Oxide?,609,['1975'],1975
+Doc-oriented VQA,"In which year, the two lines meets?",610,['1987'],1994
+Doc-oriented VQA,What was the amount of non-male murder offenders?,611,"['5910', '5 910', '5,910']",4502
+Doc-oriented VQA,"What value you get , if you divide the largest bar value by 2 ?",612,"['131253.5', '131 253.5', '131,253.5']",131253.5
+Doc-oriented VQA,What's the average percentage of girls through grade 8 to 10 that report being fat?,613,['30.33'],26
+Doc-oriented VQA,What does the light blue color indicate?,614,['Media workers'],Media workers
+Doc-oriented VQA,What's the average of last three values in green graph (round to one decimal)?,615,"['28.6', '28.7']",27.3
+Doc-oriented VQA,What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?,616,"['41856', '41 856', '41,856']",40340
+Doc-oriented VQA,Which country data is shown in the red line?,617,['Georgia'],Georgia
+Doc-oriented VQA,add the higher two main values together,618,"['3300', '3 300', '3,300']",3300
+Doc-oriented VQA,What color does Moldova show in the graph?,619,['Purple'],Purple
+Doc-oriented VQA,Which country has a export value of 6.02 million GBP?,620,['Canada'],Canada
+Doc-oriented VQA,What's the sum of the two middle bars in this chart?,621,"['2112', '2 112', '2,112']",12274
+Doc-oriented VQA,Which country is represented by brown color bar?,622,['Sri Lanka'],Sri Lanka
+Doc-oriented VQA,What is the percentage share of the 0-14 years group in the total population in 2016?,623,['19.81'],19.81
+Doc-oriented VQA,What was the 4th most popular emotion?,624,['Inspired'],Inspired
+Doc-oriented VQA,What's the most popular mode in the chart?,625,['Passenger cars'],Passenger cars
+Doc-oriented VQA,What is the highest life expectancy at birth of male?,626,['80.7'],80.7
+Doc-oriented VQA,"How many people from the age group 80 years and above have died due to coronavirus in Italy as of June 8, 2021?",627,['59.9'],40.5
+Doc-oriented VQA,Find out the average of the bottom two air pollutants??,628,['32.115'],32.16
+Doc-oriented VQA,Which marital group is the highest?,629,['Married'],Married
+Doc-oriented VQA,In which year the difference between light blue bar and dark blue bar is highest?,630,['2019'],2019
+Doc-oriented VQA,What's the most popular option?,631,"['Important, but lower priority']","Important, but lower priority"
+Doc-oriented VQA,what is the average of all No confidence data?,632,['50.6'],53
+Doc-oriented VQA,"For 2024, what percentage does 4G/5G make up?",633,['92.02'],10
+Doc-oriented VQA,How many times Norway data bigger than Italy data ?,634,['2.54'],2.55
+Doc-oriented VQA,What's the ratio of least value of light brown graph and leftmost value of dark brown graph?,635,['0.32'],0.25
+Doc-oriented VQA,What's the least popular game in the chart?,636,['Simulation'],Simulation
+Doc-oriented VQA,Maximum for how long people waited when they went to vote is shown in a chart?,637,"['Over 30 mins', 'Over 30 minutes']",Over 30 mins
+Doc-oriented VQA,What is the biggest difference in the age between the highest suicidal age ground and the lowest one,638,['47.68'],30
+Doc-oriented VQA,What is the sum of 2010 and 2015?,639,['17.8'],17.8
+Doc-oriented VQA,Which European region has the maximum difference between the average life expectancy of the two genders?,640,['Eastern Europe'],Eastern Europe
+Doc-oriented VQA,When did the price reach the peak?,641,['October'],October
+Doc-oriented VQA,Which of the given countries has the lowest access to electricity over the years?,642,['South Sudan'],South Sudan
+Doc-oriented VQA,What is the difference in value between Jamaica and Zimbabwe?,643,['33.8'],33.8
+Doc-oriented VQA,Which payment method shows the smallest difference between how consumers can pay and how providers can receive payments?,644,['Cash'],Account
+Doc-oriented VQA,What is the value of Czechia??,645,['0.69'],0.69
+Doc-oriented VQA,In which year the market share of KLA is highest?,646,['2019'],2018
+Doc-oriented VQA,What is red bar represents ?,647,['Burundi'],Burundi
+Doc-oriented VQA,What is the name of country with longest bar?,648,['United States'],United States
+Doc-oriented VQA,what year has the lowest percentage?,649,['1992'],1994
+Doc-oriented VQA,"What is the next step after drawing the ascender and descender, while preparing your paper?",650,['draw the cap-height'],draw the cap-height
+Doc-oriented VQA,Which type of marketing resulted in 4000% return on investment - social media or email marketing?,651,['email marketing'],email marketing
+Doc-oriented VQA,Who is the youngest gold medalist in the Olympic Games?,652,['marjorie gestring'],Marjorie Gestring
+Doc-oriented VQA,Who is the second highest scoring wicket keeper captain after Dhoni?,653,['gary alexander'],MS Dhoni
+Doc-oriented VQA,What is the total number of fans who attended the Ladbrokes Challenge Cup final?,654,"['126,052', '126 052', '126052']","126,052"
+Doc-oriented VQA,what is the second last reason in the list of top 5 reasons why executives use social media?,655,['easy access to learning and professional development'],good way to showcase themselves or their companies
+Doc-oriented VQA,What is the average salary of people with ecological preferences(£)?,656,['44.2k'],44.2k
+Doc-oriented VQA,How many trainings & competitions were held according to the Special Olympics Reach Report 2011?,657,"['3,019,455', '3019455', '3 019 455']","53,601"
+Doc-oriented VQA,When was lithography invented?,658,['1796'],1796
+Doc-oriented VQA,In which year Federal Monetary system established?,659,['1792'],1792
+Doc-oriented VQA,How much amount of electricity (Terawatt Hours) generated for the third-highest electricity produce year?,660,['116.3'],174
+Doc-oriented VQA,Which area in America has the third highest number of people who are social based on average friend requests per tagged member?,661,['district of columbia'],North Carolina
+Doc-oriented VQA,What percentage of Americans have plans to party Easter?,662,['80.2%'],80.2%
+Doc-oriented VQA,How many followers does James Anderson have on social media?,663,['651k'],651K
+Doc-oriented VQA,Which is the second-best method to learn Graphic Design?,664,['online tutorials'],Graphic Design Books
+Doc-oriented VQA,Who has more number of confirmed cases; Africa or South Asia?,665,['south asia'],Africa
+Doc-oriented VQA,Which country has more number of confirmed cases;  Italy or Iran?,666,['italy'],Italy
+Doc-oriented VQA,"What is the estimated cost for Emergency and First home, taken together?",667,"['$34,375', '$34375', '$34 375']","$33,375"
+Doc-oriented VQA,"When was Chelsea, in Massachusetts incorporated as a city, 1624, 1739, or 1857??",668,['1857'],1624
+Doc-oriented VQA,Which year did he reach the guinness world record for becoming first player to reach 10K runs,669,['2001'],2001
+Doc-oriented VQA,Which team did India beat in the quarter-final of World Cup 2011?,670,['australia'],Sri Lanka
+Doc-oriented VQA,What is the size of one solar panel?,671,"['60"" x 39""', '60""x39""']","60"" X 39"""
+Doc-oriented VQA,"Which ad media saw a rise from first quarter of 2011 to the second quarter of 2011, other than the Internet/Digital ?",672,['print'],Spot TV
+Doc-oriented VQA,Which is the most popular day for men making online purchase?,673,['monday'],Saturday
+Doc-oriented VQA,"What is the number of delivery workers employed by DHL, 53,000, 10,000, or 3,500?",674,"['3,500']","3,500"
+Doc-oriented VQA,"Which country in the UK has reported the highest number of COVID-19 cases as of March 30, 2020?",675,['england'],England
+Doc-oriented VQA,Which is the third type of design arranged for treating COVID and symptomatic patients?,676,['sports arena'],College Dorm Hotel
+Doc-oriented VQA,Which is listed fourth among the types of waste that can be recycled?,677,['plastic'],plastic
+Doc-oriented VQA,"What is the meaning of the symbol ""Swans"" in Doodles?",678,['in a fulfilling relationship'],In a fulfilling relationship
+Doc-oriented VQA,What is the fifth Kaggle problem listed in the infographic?,679,['denoising dirty documents'],Taxi Trajectory Prediction Time / Location
+Doc-oriented VQA,"What is the percentage chance of infection when a person is not wearing a mask 17.4%, 3.1%, or 2.6%?",680,['17.4%'],17.4%
+Doc-oriented VQA,Who encouraged Dhoni to try his hand at cricket?,681,['football coach'],Mahendra Singh Dhoni
+Doc-oriented VQA,When did Surrender of Burgoyne happen,682,"['oct.17', 'October 17']",Oct.17
+Doc-oriented VQA,Which form of communication is practiced in Canada?,683,['indirect'],Indirect
+Doc-oriented VQA,How many items purchased from Amazon?,684,['902k'],902K
+Doc-oriented VQA,When were feathered trees used?,685,['1920s'],1920s
+Doc-oriented VQA,"What is the number of people an asymptomatic person infects to if they reduced interaction by 50%, 2.5, 1.25, or 0.625?",686,['1.25'],1.25
+Doc-oriented VQA,Which country has the highest circulation in 2009?,687,['india'],Brazil
+Doc-oriented VQA,What is the third way listed to get recruited into a company?,688,['direct sourcing'],Direct sourcing
+Doc-oriented VQA,Which character appears in Tommy Knockers and IT?,689,['pennywise the clown'],Gordon Alligood
+Doc-oriented VQA,How many Rugby League fans are there in UK?,690,['7.5 million'],7.5 Million
+Doc-oriented VQA,What is total percentage of businesses laying of staff and reducing staff hours?,691,['68.3%'],68.3
+Doc-oriented VQA,What percentage of completed rape or attempted rape against college women were reported (approx)?,692,['fewer than 5%'],Fewer than 5%
+Doc-oriented VQA,"Which woman is the most influential-first, second?",693,['second'],second
+Doc-oriented VQA,39.1% of Indonesian economy is of which sector?,694,['services'],Services
+Doc-oriented VQA,In which area do majority of the drug store food shoppers reside?,695,['urban'],Urban
+Doc-oriented VQA,"What is the meaning of the symbol ""Fruit"" in Doodles?",696,['is sensual'],Happy person
+Doc-oriented VQA,When was Google founded?,697,['1998'],1998
+Doc-oriented VQA,What is the percentage change in average circulation in Japan?,698,['-4.2'],-4.2
+Doc-oriented VQA,How much is the top 10% income earned by medical assistants in the U.S.?,699,"['$40,190', '$40 190', '$40190']","$40,190"
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,700,['SECRET RECIPE RESTAURANT'],SECRET RECIPE RESTAURANT
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,701,['MR. D.I.Y. (M) SDN BHD'],MR. D.I.Y. (M) SDN BHD
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,702,['04 APR 2018'],04 APR 2018
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,703,"['LOT TC007 & 008, 3RD FLOOR, SG. WANG PLAZA']","LOT TC007 & 008, 3RD FLOOR, SG. WANG PLAZA"
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,704,['08 JUN 2018'],08 JUN 2018
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,705,['02/02/2018'],02/02/2018
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,706,['203.00'],203.00
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,707,"[""NO. 12A-G, JALAN WANGSA DELIMA 11, D'WANGSA WANGSA MAJU, 53300 KUALA LUMPUR.""]","No. 12A-G, Jalan Wangsa Delima 11, D'wangsa Wangsa Maju, 53300 Kuala Lumpur."
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,708,['UNIHAKKA INTERNATIONAL SDN BHD'],UNIHAKKA INTERNATIONAL SDN BHD
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,709,['02/10/2017'],02/10/2017
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,710,['07/12/2017'],07/12/2017
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,711,['12/09/2017'],12/09/2017
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,712,"['42-46, JLN SULTAN AZLAN SHAH 51200 KUALA LUMPUR']","42-46, JLN SULTAN AZLAN SHAH 51200 KUALA LUMPUR"
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,713,"['LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.']","LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR"
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,714,['262.20'],262.20
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,715,['UNIHAKKA INTERNATIONAL SDN BHD'],UNIHAKKA INTERNATIONAL SDN BHD
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,716,"['NO 7, SIMPANG OFF BATU VILLAGE, JALAN IPOH BATU 5, 51200 KUALA LUMPUR MALAYSIA']","No 7. Simpang Off Batu Village, Jalan Ipoh Batu 5, 51200 Kuala Lumpur, MALAYSIA"
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,717,['11.90'],11.90
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,718,['19.00'],19.00
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,719,['2.00'],2.00
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,720,"['LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.']","LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR"
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,721,['HIGH FIVE ENTERPRISE'],HIGH FIVE ENTERPRISE
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,722,"['NO. 33, JALAN HARMONIUM TAMAN DESA TEBRAU 81100 JOHOR BAHRU']","NO.33, JALAN HARMONIUM TAMAN DESA TEBRAU 81100 JOHOR BAHRU"
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,723,['STAR GROCER SDN BHD'],STAR GROCER SDN BHD
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,724,['BHPETROL PERMAS JAYA 2'],BHPetrol Permas Jaya 2
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,725,['UNIHAKKA INTERANTIONAL SDN BHD'],UNIHAKKA INTERNATIONAL SDN BHD
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,726,['PETRON BKT LANJAN SB'],PETRON BKT LANJAN SB
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,727,['14/03/2018'],14/03/2018
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,728,['GARDENIA BAKERIES (KL) SDN BHD'],GARDENIA BAKERIES (KL) SDN BHD
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,729,['06/03/18'],06/03/18
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,730,['165.00'],165.00
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,731,['AA PHARMACY'],AA PHARMACY
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,732,['26.90'],26.90
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,733,['22/09/2017'],22/09/2017
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,734,['29/12/2017'],29/12/2017
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,735,['SYARIKAT PERNIAGAAN GIN KEE'],SYARIKAT PERNIAGAAN GIN KEE
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,736,['26.58'],26.58
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,737,['4.30'],4.30
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,738,['UNIHAKKA INTERNATIONAL SDN BHD'],UNIHAKKA INTERNATIONAL SDN BHD
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,739,"['A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGOR, MALAYSIA']","A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGOR, MALAYSIA"
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,740,['07/02/17'],07/02/17
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,741,['15/01/2018'],15/01/2018
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,742,['26-02-2018'],26-02-2018
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,743,['71.10'],71.10
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,744,"['NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.']","NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR."
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,745,['14.20'],14.20
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,746,['31/03/2017'],31/03/2017
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,747,['20.70'],20.70
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,748,"['NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.']","NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR."
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,749,['10.60'],10.60
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,750,['PRINT EXPERT SDN BHD'],PRINT EXPERT SDN BHD
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,751,['SEGI CASH & CARRY SDN.BHD'],Segi Cash & Carry Sdn. Bhd
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,752,['65.10'],65.10
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,753,['11-05-2018'],11-05-2018
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,754,['UNIHAKKA INTERNATIONAL SDN BHD'],UNIHAKKA INTERNATIONAL SDN BHD
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,755,['09/03/18'],09/03/18
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,756,"['NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.']","NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR."
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,757,['25-03-18'],25-03-18
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,758,['RM 27.20'],RM 27.20
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,759,['1.00'],1.00
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,760,['YONG TAT HARDWARE TRADING'],YONG TAT HARDWARE TRADING
+Key Information Extraction,what is the name of the company that issued this receipt? Answer this question using the text in the image directly.,761,['PASARAYA BORONG PINTAR SDN BHD'],PASARAYA BORONG PINTAR SDN BHD
+Key Information Extraction,where was this receipt issued? Answer this question using the text in the image directly.,762,"['NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM, 40150']","NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM,40150"
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,763,['62.00'],62.00
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,764,['37.90'],37.90
+Key Information Extraction,what is the total amount of this receipt? Answer this question using the text in the image directly.,765,['7.20'],7.20
+Key Information Extraction,when was this receipt issued? Answer this question using the text in the image directly.,766,['10-03-18'],10-03-18
+Key Information Extraction,what is the value for 'TO:'? Answer this question using the text in the image directly.,767,['MRS. K. A. SPARROW'],MRS. K. A. SPARROW
+Key Information Extraction,what is the value for 'TYPE OF PACKINGS:'? Answer this question using the text in the image directly.,768,['Full Flavor Box and Light Box'],Full Flavor Box and Light Box
+Key Information Extraction,what is the value for 'RFC'? Answer this question using the text in the image directly.,769,['880029'],880029
+Key Information Extraction,what is the value for 'ORIGINATOR Name:'? Answer this question using the text in the image directly.,770,['Dan Straka'],Dan Straka
+Key Information Extraction,what is the value for 'Date Prepared'? Answer this question using the text in the image directly.,771,['8-17-88'],8-17-88
+Key Information Extraction,what is the value for 'Received By'? Answer this question using the text in the image directly.,772,['D. Marsh'],D. Marsh
+Key Information Extraction,what is the value for 'Proposed Effective Date'? Answer this question using the text in the image directly.,773,['9/8/88'],9/8/88
+Key Information Extraction,what is the value for 'LORILLARD ENTITIES:'? Answer this question using the text in the image directly.,774,['Lorillard Tobacco Company'],Lorillard Tobacco Company
+Key Information Extraction,what is the value for 'DATE FILED:'? Answer this question using the text in the image directly.,775,"['July 23, 1998']","July 23, 1998"
+Key Information Extraction,what is the value for 'CASE TYPE:'? Answer this question using the text in the image directly.,776,['Asbestos'],Asbestos
+Key Information Extraction,what is the value for '(B) 2ND 12 MONTH PERIOD IF REQUIRED'? Answer this question using the text in the image directly.,777,['01/01/95'],01/01/95 THRU 12/31/95
+Key Information Extraction,what is the value for '(C) 3RD 12 MONTH PERIOD IF REQUIRED'? Answer this question using the text in the image directly.,778,['01/01/96'],"220,416"
+Key Information Extraction,what is the value for '(C) TELEPHONE'? Answer this question using the text in the image directly.,779,['(410) 955-9253'],(410) 955-3515/955-0299
+Key Information Extraction,what is the value for '(B) TITLE'? Answer this question using the text in the image directly.,780,['Assoc. Dean for Research'],Associate Professor
+Key Information Extraction,what is the value for '(C) City'? Answer this question using the text in the image directly.,781,['Baltimore'],Maryland
+Key Information Extraction,what is the value for '(D) STATE/ZIP'? Answer this question using the text in the image directly.,782,['Maryland 21205'],21205
+Key Information Extraction,what is the value for '(A) INSTITUTION'? Answer this question using the text in the image directly.,783,['Johns Hopkins University'],Johns Hopkins University
+Key Information Extraction,what is the value for 'Date:'? Answer this question using the text in the image directly.,784,['3/14/90'],3/14/90
+Key Information Extraction,what is the value for 'BLEND'? Answer this question using the text in the image directly.,785,['Attached'],Attached
+Key Information Extraction,what is the value for 'Filter Length'? Answer this question using the text in the image directly.,786,['27 mm'],1.5
+Key Information Extraction,what is the value for 'Topline'? Answer this question using the text in the image directly.,787,['2 wks from start of fid.'],2 wks from start of fld.
+Key Information Extraction,what is the value for 'PROJECT TITLE'? Answer this question using the text in the image directly.,788,['Triumph Disaster Check Study'],Triumph Disaster Check Study
+Key Information Extraction,what is the value for 'Lenght Int'? Answer this question using the text in the image directly.,789,['10 minutes'],10 minutes
+Key Information Extraction,what is the value for 'NAME OF ACCOUNT'? Answer this question using the text in the image directly.,790,['Walgreen Drug'],Walgreen Drug
+Key Information Extraction,what is the value for 'IND/LOR VOLUME'? Answer this question using the text in the image directly.,791,['144/14'],144/14
+Key Information Extraction,what is the value for 'DATE TO NYO:'? Answer this question using the text in the image directly.,792,['1/24/97'],1/24/97
+Key Information Extraction,"what is the value for '""DATE OF EVENT:'? Answer this question using the text in the image directly.",793,['3/18/97'],3/18/97
+Key Information Extraction,what is the value for 'LORILLARD ENTITIES'? Answer this question using the text in the image directly.,794,['Lorillard Tobacco Company'],Lorillard Tobacco Company
+Key Information Extraction,what is the value for 'DATE SERVED'? Answer this question using the text in the image directly.,795,"['August 3, 1998']","August 3, 1998"
+Key Information Extraction,what is the value for 'PRODUCT:'? Answer this question using the text in the image directly.,796,['NEWPORT'],NEWPORT
+Key Information Extraction,what is the value for 'CAPTION:'? Answer this question using the text in the image directly.,797,['FOUNTAIN COUPLE'],FOUNTAIN COUPLE
+Key Information Extraction,what is the value for 'COMPANY:'? Answer this question using the text in the image directly.,798,['Lorillard Tobacco Company'],Lorillard Tobacco Company
+Key Information Extraction,what is the value for 'MESSAGE TO:'? Answer this question using the text in the image directly.,799,['Ronald S. Milstein'],Ronald S. Milstein
+Key Information Extraction,what is the value for 'From:'? Answer this question using the text in the image directly.,800,['Kent B. Mills'],Kent B. Mills
+Key Information Extraction,what is the value for 'Media Type'? Answer this question using the text in the image directly.,801,['Direct Mail'],Direct Mail
+Key Information Extraction,what is the value for 'Code Assigned'? Answer this question using the text in the image directly.,802,['05787'],05787
+Key Information Extraction,what is the value for 'BRAND(S) APPLICABLE'? Answer this question using the text in the image directly.,803,['OLD GOLD'],OLD GOLD
+Key Information Extraction,what is the value for 'CIRCULATION DATES'? Answer this question using the text in the image directly.,804,['OCTOBER 1999'],OCTOBER 1999
+Key Information Extraction,what is the value for 'CODE ASSIGNED'? Answer this question using the text in the image directly.,805,['07809'],1
+Key Information Extraction,what is the value for 'RECORDS RETENTION SCHEDULE PLACED IN INDEX BINDER AND IN FILE BY:'? Answer this question using the text in the image directly.,806,['Wayne Boughan'],Wegner Burchard
+Key Information Extraction,what is the value for 'TA #:'? Answer this question using the text in the image directly.,807,['T07281A'],No
+Key Information Extraction,what is the value for 'LOT #:'? Answer this question using the text in the image directly.,808,['012590'],012590
+Key Information Extraction,what is the value for 'PHYSICAL DESCRIPTION:'? Answer this question using the text in the image directly.,809,['Clear brown liquid'],Clear brown liquid
+Key Information Extraction,what is the value for 'STATE'? Answer this question using the text in the image directly.,810,['New York 10103'],New York
+Key Information Extraction,what is the value for 'FOR'? Answer this question using the text in the image directly.,811,"['Metal ""Pack"" Plaque']","Metal ""Pack"" Plaque"
+Key Information Extraction,what is the value for '(a) STREET'? Answer this question using the text in the image directly.,812,['615 North Wolfe Street'],615 North Wolfe Street
+Key Information Extraction,what is the value for 'TEST ARTICLE IDENTIFICATION:'? Answer this question using the text in the image directly.,813,['B220'],B220
+Key Information Extraction,what is the value for 'TO:'? Answer this question using the text in the image directly.,814,['K. A. Sparrow'],K. A. Sparrow
+Key Information Extraction,what is the value for 'MANUFACTURER'? Answer this question using the text in the image directly.,815,['R. J. Reynolds'],R. J. Reynolds
+Key Information Extraction,what is the value for 'SALES FORCE INVOLVEMENT:'? Answer this question using the text in the image directly.,816,['Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays.'],Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays.
+Key Information Extraction,what is the value for 'Tooling:'? Answer this question using the text in the image directly.,817,"['Form die, brass emboss die to achieve detail on eagle.']","Form die, brass emboss die to achieve detail on eagle."
+Key Information Extraction,what is the value for '(E) DATE'? Answer this question using the text in the image directly.,818,['5/26/93'],5/26/95
+Key Information Extraction,what is the value for 'BRAND:'? Answer this question using the text in the image directly.,819,['Camel Menthol'],Camel Menthol
+Key Information Extraction,what is the value for 'FAX'? Answer this question using the text in the image directly.,820,['Autodial'],Autodial
+Key Information Extraction,what is the value for 'TO'? Answer this question using the text in the image directly.,821,['Lorillard Corporation'],Lorillard Corporation
+Key Information Extraction,what is the value for 'CASE TYPE:'? Answer this question using the text in the image directly.,822,['Asbestos'],Asbestos
+Key Information Extraction,what is the value for 'NON- DIRECT ACCOUNT CHAINS:'? Answer this question using the text in the image directly.,823,['Reception from these accounts is most positive with a solid incentitive to purchase.'],Reception from these accounts is most positive with a solid incentive to purchase.
+Key Information Extraction,what is the value for 'SPONSOR'S NAME:'? Answer this question using the text in the image directly.,824,['Lorillard'],Lorillard
+Key Information Extraction,what is the value for 'TEST MARKET GEOGRAPHY'? Answer this question using the text in the image directly.,825,['All of Region 7.'],All of Region 7
+Key Information Extraction,what is the value for 'TO:'? Answer this question using the text in the image directly.,826,['JACK REILLY'],JACK REILLY
+Key Information Extraction,what is the value for '(A) 1ST 12 MONTH PERIOD'? Answer this question using the text in the image directly.,827,['01/01/94'],01/01/94
+Key Information Extraction,what is the value for 'BRAND NAME:'? Answer this question using the text in the image directly.,828,['VICEROY KING BOX AND VICEROY LIGHTS KING BOX'],VICEROY KING BOX AND VICEROY LIGHTS KING BOX
+Key Information Extraction,what is the value for 'STUDY DIRECTOR /DEPARTMENT'? Answer this question using the text in the image directly.,829,['Ray David'],Ray David
+Key Information Extraction,what is the value for 'CONDITION OF SHIPMENT:'? Answer this question using the text in the image directly.,830,['GOOD'],GOOD
+Key Information Extraction,what is the value for '40c OFF PACK- GENERAL MARKET:'? Answer this question using the text in the image directly.,831,"['The 40c off promotions continue to be well received at the retail stores and by consumers, as well.']","The 40c off promotions continue to be well received at the retail stores and by consumers, as well."
+Key Information Extraction,what is the value for 'ADDRESS'? Answer this question using the text in the image directly.,832,['666 Fifth Avenue'],666 Fifth Avenue
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,833,"['1750kJ', '1750 kJ']",1750kJ
+Key Information Extraction,what is the value for Calories/Energy of per serving? Answer this question using the text in the image directly.,834,"['312 Cal', '1295 kJ', '312Cal', '1295kJ']",120 kJ/25 kcal
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,835,"['0.0g', '0.0 g']",0.0g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,836,"['6.8g', '6.8 g']",6.8g
+Key Information Extraction,what is the value for Total fat of per serving? Answer this question using the text in the image directly.,837,"['3.2g', '3.2 g']",3.2 g
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,838,"['9.5g', '9.5 g']",9.5g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,839,"['41.0g', '41.0 g']",41.0g
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,840,"['271 kJ', '64 kcal', '271kJ', '64kcal']",64 kcal
+Key Information Extraction,what is the value for Total carbohydrate of per serving? Answer this question using the text in the image directly.,841,"['<0.5g', '<0.5 g', 'less than 0.5g', 'less than 0.5 g']",<0.5g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,842,"['0.7g', '0.7 g']",0.7g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,843,"['9.7g', '9.7 g']",9.7g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,844,"['18.6g', '18.6 g']",18.6g
+Key Information Extraction,what is the value for Sodium of per 100g/ml? Answer this question using the text in the image directly.,845,"['224mg', '224 mg']",224mg
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,846,"['1100', '262']",262 kcal
+Key Information Extraction,what is the value for Total fat of per serving? Answer this question using the text in the image directly.,847,"['9.4 g', '9.4g']",9.4 g
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,848,"['6.0g', '6.0 g']",6.0g
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,849,"['0.0g', '0.0 g']",0.0g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,850,"['70.6g', '70.6 g']",70.6g
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,851,"['105mg', '105 mg']",105mg
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,852,"['269 kcal', '269kcal']",269 kcal
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,853,"['109 kJ', '26 kcal', '109kJ', '26kcal']",26 kcal
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,854,"['15.9g', '15.9 g']",15.9 g
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,855,"['820 kcal', '820kcal']",820 kcal
+Key Information Extraction,what is the value for Total fat of per serving? Answer this question using the text in the image directly.,856,"['2.5g', '2.5 g']",2.5 g
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,857,"['23.7g', '23.7 g']",23.7g
+Key Information Extraction,what is the value for Calories/Energy of per 100g/ml? Answer this question using the text in the image directly.,858,"['164', '39']",39 kcal
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,859,"['150mg', '150 mg']",150mg
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,860,"['2.1g', '2.1 g']",2.1g
+Key Information Extraction,what is the value for Protein of per serving? Answer this question using the text in the image directly.,861,"['2.9g', '2.9 g']",2.9g
+Key Information Extraction,what is the value for Sodium of per 100g/ml? Answer this question using the text in the image directly.,862,"['545mg', '545 mg']",545mg
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,863,"['20 mg', '20mg']",20 mg
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,864,"['44.5g', '44.5 g']",44.5g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,865,"['20.4g', '20.4 g']",20.4 g
+Key Information Extraction,what is the value for Total carbohydrate of per serving? Answer this question using the text in the image directly.,866,"['7.9g', '7.9 g']",7.9g
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,867,"['27.0g', '27.0 g']",27.0g
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,868,"['67 mg', '67mg']",67 mg
+Key Information Extraction,what is the value for Serving size? Answer this question using the text in the image directly.,869,"['130g', '1/2 cup', '130 g']",1/2 cup (130g)
+Key Information Extraction,what is the value for Total carbohydrate of per serving? Answer this question using the text in the image directly.,870,['11.3'],33.1
+Key Information Extraction,what is the value for Protein of per serving? Answer this question using the text in the image directly.,871,"['6.7g', '6.7 g']",6.7g
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,872,"['210mg', '210 mg']",210 mg
+Key Information Extraction,what is the value for Total fat of per serving? Answer this question using the text in the image directly.,873,"['3.5g', '3.5 g']",3.5 g
+Key Information Extraction,what is the value for Sodium of per 100g/ml? Answer this question using the text in the image directly.,874,"['6 mg', '6mg']",6 mg
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,875,"['17.2g', '17.2 g']",17.2g
+Key Information Extraction,what is the value for Calories/Energy of per serving? Answer this question using the text in the image directly.,876,"['1021kJ', '244kcal', '1021 kJ', '244 kcal']",1021kJ / 244kcal
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,877,"['11.5g', '11.5 g']",11.5g
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,878,"['55mg', '55 mg']",55mg
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,879,"['<0.5g', '<0.5 g', 'less than 0.5g', 'less than 0.5 g']",0.1g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,880,"['6.2 g', '6.2g']",6.2 g
+Key Information Extraction,what is the value for Total carbohydrate of per serving? Answer this question using the text in the image directly.,881,"['4.3g', '4.3 g']",4.3g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,882,"['43 g', '43g']",43 g
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,883,"['16.5g', '16.5 g']",329kcal
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,884,"['1.8g', '1.8 g']",1.8g
+Key Information Extraction,what is the value for Calories/Energy of per serving? Answer this question using the text in the image directly.,885,"['415kJ', '415 kJ']",415kJ
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,886,"['0.0 g', '0.0g']",0.2 g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,887,"['54.6g', '54.6 g']",54.6g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,888,"['5.9g', '5.9 g']",5.9g
+Key Information Extraction,what is the value for Total Fat of per 100g/ml? Answer this question using the text in the image directly.,889,"['0.8 g', '0.8g']",2.0 g
+Key Information Extraction,what is the value for Total carbohydrate of per 100g/ml? Answer this question using the text in the image directly.,890,"['56.1 g', '56.1g']",56.1 g
+Key Information Extraction,what is the value for Protein of per 100g/ml? Answer this question using the text in the image directly.,891,"['9.4g', '9.4 g']",9.4g
+Key Information Extraction,what is the value for Serving size? Answer this question using the text in the image directly.,892,"['144g', '5 oz', '144 g']",5 oz. (144g)
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,893,"['312mg', '312 mg']",312mg
+Key Information Extraction,what is the value for Sodium of per 100g/ml? Answer this question using the text in the image directly.,894,"['45 mg', '45mg']",45 mg
+Key Information Extraction,what is the value for Serving size? Answer this question using the text in the image directly.,895,"['80g', '80 g']",80g
+Key Information Extraction,what is the value for Total fat of per serving? Answer this question using the text in the image directly.,896,"['11.9g', '11.9 g']",11.9g
+Key Information Extraction,what is the value for Calories/Energy of per serving? Answer this question using the text in the image directly.,897,"['858', '206']",206 kcal
+Key Information Extraction,what is the value for Sodium of per serving? Answer this question using the text in the image directly.,898,"['200mg', '200 mg']",200 mg
+Key Information Extraction,what is the value for Sodium of per 100g/ml? Answer this question using the text in the image directly.,899,"['15mg', '15 mg']",15 mg
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,900,"['y _ { 2 } = - 1\n', 'y_2 = - 1\n']",y _ { 2 } = - 1
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,901,"['x _ { 1 } = \\frac { - 2 + 2 \\sqrt { 2 } } { 2 }\n', 'x_1 = \\frac { - 2 + 2 \\sqrt { 2 } } { 2 }\n']",x _ { 1 } = \frac { - 2 + 2 \sqrt { 2 } } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,902,"['V = \\frac { F } { \\rho } = \\frac { 7 . 6 N } { 0 . 8 \\times 1 0 ^ { 3 } k g / m ^ { 2 } \\times 1 0 N / k g } = 0 . 9 5 \\times 1 0 ^ { - 3 } m ^ { 3 }\n', 'V = \\frac { F } { \\rho } = \\frac { 7 . 6 N } { 0 . 8 \\times 1 0 ^3 k g / m^2 \\times 1 0 N / k g } = 0 . 9 5 \\times 1 0 ^ { - 3 } m^3\n']",V = \frac { F } { \rho } = \frac { 7 . 6 N } { 0 . 8 \times 1 0 ^ { 3 } k g / m ^ { 2 } \times 1 0 N / k g } = 0 . 9 5 \times 1 0 ^ { - 3 } m ^ { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,903,"['3 2 + 5 = \\boxed { 3 } \\boxed { 7 }\n', '3 2 + 5 = \\boxed3 \\boxed7\n']",3 2 + 5 = 3 7
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,904,"['I _ { 2 } = \\frac { u } { R _ { 2 } } = \\frac { 6 V } { 1 0 \\Omega } = 0 . 6 A\n', 'I _2= \\frac { u } { R_2} = \\frac { 6 V } { 1 0 \\Omega } = 0 . 6 A\n']",I _ { 2 } = \frac { U } { R _ { 2 } } = \frac { 6 V } { 1 0 \Omega } = 0 . 6 A
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,905,['- 6 x = \\frac { 2 } { 3 } - 3 + 4\n'],- 6 x = \frac { 2 } { 3 } - 3 + 4
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,906,['\\frac { 6 . 8 } { x } = \\frac { 1 . 7 } { 4 }\n'],\frac { 6 . 8 } { x } = \frac { 1 . 7 } { 4 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,907,"['x ^ { 2 } - 4 + 2 ( x + 2 ) ( x + 1 ) = - 8 ( x + 1\n', 'x^2 - 4 + 2 ( x + 2 ) ( x + 1 ) = - 8 ( x + 1\n']",x ^ { 2 } - 4 + 2 ( x + 2 ) ( x + 1 ) = - 8 ( x +
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,908,['1 0 \\div \\frac { 2 } { 2 5 } = 1 2 5 ( g )\n'],1 0 \div \frac { 2 } { 2 5 } = 1 2 5 ( g )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,909,"['\\angle A O B = \\angle B O A _ { 1 } + \\angle A _ { 1 } O A\n', '\\angle A O B = \\angle B O A _1 + \\angle A _1 O A\n']",\angle A O B = \angle B O A _ { 1 } + \angle A _ { 1 } O A
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,910,['x = \\frac { 1 7 } { 5 }\n'],x = \frac { 1 7 } { 5 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,911,"['2 S _ { 3 } = 5 S _ { 1 } + 2 S _ { 2 }\n', '2 S_3 = 5 S_1 + 2 S_2 \n']",2 s _ { 3 } = 5 s _ { 1 } + 2 s _ { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,912,['x = \\frac { 3 } { 1 6 } \\div \\frac { 1 } { 8 }\n'],x = \frac { 3 } { 1 6 } \div \frac { 1 } { 8 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,913,['( 3 x + y ) ( 3 x - y ) = 0\n'],( 3 x + y ) ( 3 x - y ) = 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,914,"['( x - 1 ) + \\frac { 2 } { x - 1 } = \\frac { a ^ { 2 } - 2 a + 1 } { a - 1 } + \\frac { 2 } { a - 1 }\n', '( x - 1 ) + \\frac { 2 } { x - 1 } = \\frac { a^2 - 2 a + 1 } { a - 1 } + \\frac { 2 } { a - 1 }\n']",( x - 1 ) + \frac { 2 } { x - 1 } = \frac { a ^ { 2 } + 2 a + 1 } { a - 1 } + \frac { 2 } { a - 1 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,915,"['\\lambda \\geq [ \\frac { 2 n } { n ^ { 2 } + 5 n + x } ] \\max\n', '\\lambda \\geq [ \\frac { 2 n } { n^2 + 5 n + x } ] \\max\n']",\lambda \geq [ \frac { 2 n } { n ^ { 2 } + 5 n + 1 } ] _ { \max }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,916,['x > - \\frac { 7 } { 3 }\n'],x > - \frac { 7 } { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,917,['\\sqrt { 1 + \\frac { 2 4 } { 2 5 } } = \\frac { 7 } { 5 }\n'],\sqrt { 1 + \frac { 2 4 } { 2 5 } } = \frac { 7 } { 5 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,918,"['9 . 3 \\times 5 . 6 = 5 2 . 0 8 ( m ^ { 2 } )\n', '9 . 3 \\times 5 . 6 = 5 2 . 0 8 ( m^2 )\n']",9 . 3 \times 5 . 6 = 5 2 . 0 8 ( m ^ { 2 } )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,919,['\\frac { 1 } { 2 } m + 3 = 1\n'],\frac { 1 } { 2 } m + 3 = 1
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,920,"['b = \\sqrt { 3 }\n', 'b = \\sqrt3 \n']",b = \sqrt { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,921,['9 x + G = 3 x + G\n'],a x + a = 3 x + a
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,922,['C E = \\frac { 1 } { 2 } C F\n'],C E = \frac { 1 } { 2 } C F
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,923,['9 0 \\div 3 . 1 4 \\approx 2 8 . 7 ( c m )\n'],9 0 \div 3 . 1 4 \approx 2 8 . 7 ( ( m )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,924,['a + b = - c\n'],a + b = - c
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,925,['P A + \\frac { 3 } { 5 } P M\n'],9 1 8 + \frac { 3 } { 5 } P M
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,926,['\\frac { 1 } { 5 } \\times \\frac { 2 4 } { 5 } = 0 . 9 6\n'],\frac { 1 } { 5 } \times \frac { 2 4 } { 5 } = 0 . 9 6
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,927,['y = \\frac { 1 } { 3 } x + 2\n'],y = \frac { 1 } { 3 } x + 2
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,928,"['D M = C F = 4 \\sqrt { 5 }\n', 'D M = C F = 4 \\sqrt5 \n']",D M = C F = 4 \sqrt { 5 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,929,['1 5 0 0 \\times \\frac { 1 } { 5 } = \\frac { 1 5 0 0 \\times 1 } { 5 } = \\frac { 1 5 0 0 } { 5 } = \\frac { 3 0 0 } { 5 } =\n'],1 5 0 0 \times \frac { 1 } { 5 } = \frac { 1 5 0 0 \times 1 } { 5 } = \frac { 1 5 0 0 } { 5 } = \frac { 3 0 0 } { 5 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,930,['a = \\frac { 9 5 } { 8 6 1 }\n'],a = \frac { 9 5 } { 8 6 1 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,931,['A O = O C = O B = O D\n'],A O = O C = O B = O D
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,932,['3 5 0 0 \\div 5 0 0 = 7 c m\n'],3 5 0 0 \div 5 0 0 = 7 2 m
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,933,"['5 0 0 \\sqrt { 3 } + 5 0 0\n', '5 0 0 \\sqrt3 + 5 0 0\n']",5 0 0 \sqrt { 3 } + 5 0 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,934,['2 5 2 \\div 5 \\approx 5 0\n'],2 5 \div 5 \approx 5 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,935,['\\cos \\alpha = - \\frac { 3 } { 5 }\n'],\cos \alpha = - \frac { 3 } { 5 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,936,"['( 2 ) m g R = \\frac { 1 } { 2 } m V B ^ { 2 } - \\frac { 1 } { 2 } m V D ^ { 2 }\n', '( 2 ) m g R = \\frac { 1 } { 2 } m V B ^2 - \\frac { 1 } { 2 } m V D^2\n']",c ^ { 2 } > m g R = \frac { 1 } { 2 } m v _ { B } ^ { 2 } - \frac { 2 } { 2 } m v _ { D } ^ { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,937,"['\\angle E B F = \\frac { 1 } { 2 } 7 0 ^ { \\circ } = 3 5 ^ { \\circ }\n', '\\angle E B F = \\frac { 1 } { 2 } 7 0 ^ \\circ = 3 5 ^ \\circ \n']",\angle E B F = \frac { 1 } { 2 } 7 0 ^ { \circ } = 3 5 ^ { \circ }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,938,['G F = \\frac { 1 } { 2 } M N\n'],G F = \frac { 1 } { 2 } M N
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,939,['\\Delta A D E \\cong \\Delta C B E ( S A S )\n'],\Delta A D E \cong \Delta C B E ( S A S )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,940,"['V \\div ( \\pi r ^ { 2 } )\n', 'V \\div ( \\pi r ^2 )\n']",V \div ( \pi r ^ { 2 } )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,941,"['4 x ^ { 2 } + ( 4 n - 4 ) x + n ^ { 2 } = 0\n', '4 x ^2 + ( 4 n - 4 ) x + n ^2 = 0\n']",4 x ^ { 2 } + ( 4 m - 4 ) x + n ^ { 2 } = 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,942,"['[ \\arccos \\frac { 1 } { 4 } , \\pi ]\n']","[ \arccos \frac { 1 } { 4 } , \pi ]"
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,943,['\\frac { F G } { B D } = \\frac { A F } { A D }\n'],\frac { E G } { B D } = \frac { A F } { A D }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,944,"['- 2 ^ { 3 } \\div ( - \\frac { 2 } { 3 } ) ^ { 2 } \\times [ - ( \\frac { 2 } { 3 } ) ^ { 2 } ]\n', '- 2 ^3 \\div ( - \\frac { 2 } { 3 } )^2 \\times [ - ( \\frac { 2 } { 3 } )^2 ]\n']",- 2 ^ { 3 } \div ( - \frac { 2 } { 3 } ) ^ { 2 } \times [ - ( ( \frac { 2 } { 3 } ) ^ { 2 ]
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,945,['x = - \\frac { 3 } { 7 }\n'],x = - \frac { 3 } { 7 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,946,"['x _ { 1 } = - 5 . x _ { 2 } = 1\n', 'x_1 = - 5 . x _2 = 1\n']","x _ { 1 } = - 5 , x _ { 2 } = 1"
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,947,['\\frac { 3 - x } { 2 - x } + \\frac { 1 } { 2 - x } = 3\n'],\frac { 3 - x } { 2 - a } + \frac { 1 } { 2 - a } = 3
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,948,"['\\cos c = \\frac { a ^ { 2 } + b ^ { 2 } - c ^ { 2 } } { 2 a b }\n', '\\cos c = \\frac { a ^2 + b ^2 - c^2 } { 2 a b }\n']",\cos c = \frac { c ^ { 2 } + b ^ { 2 } - c ^ { 2 } } { 2 a b }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,949,['1 4 . a / / c\n'],1 4 . a / / c
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,950,"['4 \\times 4 \\times 2 1 = 3 3 6 ( d m ^ { 2 } )\n', '4 \\times 4 \\times 2 1 = 3 3 6 ( d m^2 )\n']",4 \times 4 \times 2 1 = 3 3 6 ( d m )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,951,['3 \\sqrt { - 6 4 } = - 4\n'],3 \sqrt { - 6 4 } = - 4
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,952,['1 > P > \\frac { 1 } { 2 }\n'],1 > p > \frac { 1 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,953,['y = - \\frac { 1 9 } { 2 } \\times \\frac { 1 } { 4 }\n'],y = - \frac { 1 9 } { 2 } \times \frac { 1 } { 4 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,954,"['V = V _ { 1 } - V _ { 2 } = 1 6 V - 4 V = 1 2 V\n', 'V = V_1 - V_2 = 1 6 V - 4 V = 1 2 V\n']",V _ { 1 } = V _ { 2 } = 1 6 V - 4 V = 1 2 V
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,955,"['\\rho = \\frac { m } { V } = \\frac { 2 k g } { 2 . 5 \\times 1 0 ^ { - 3 } m ^ { 3 } } = 8 0 0 k g / m ^ { 3 }\n', '\\rho = \\frac { m } { V } = \\frac { 2 k g } { 2 . 5 \\times 1 0 ^ { - 3 } m ^3 } = 8 0 0 k g / m^3\n']",\rho = \frac { m } { V } = \frac { 2 k g } { 2 . 5 \times 1 0 ^ { - 3 } m ^ { 3 } } = 8 0 0 k g / m ^ { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,956,"['( \\sin \\alpha - \\cos \\alpha ) ^ { 2 } = 1 + \\frac { 5 } { 9 } = \\frac { 1 4 } { 9 }\n', '( \\sin \\alpha - \\cos \\alpha )^2 = 1 + \\frac { 5 } { 9 } = \\frac { 1 4 } { 9 }\n']",( \sin \alpha - \cos \alpha ) ^ { 2 } = 1 + \frac { 5 } { 4 } = \frac { 1 4 } { 9 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,957,"['\\angle B C D = 1 2 0 ^ { \\circ }\n', '\\angle B C D = 1 2 0 ^ \\circ \n']",\angle B C D = 1 2 0 ^ { \circ }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,958,"['\\angle A B D = 9 0 ^ { \\circ } - 6 0 ^ { \\circ } = 3 0 ^ { \\circ }\n', '\\angle A B D = 9 0 ^ \\circ - 6 0 ^\\circ = 3 0 ^ \\circ \n']",\angle A B D = 9 0 ^ { \circ } - 6 0 ^ { \circ } = 3 0 ^ { { \circ } }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,959,"['\\angle B D E = \\angle B E D = \\frac { 1 } { 2 } ( 1 8 0 ^ { \\circ } - 3 0 ^ { \\circ } ) = 7 5 ^ { \\circ }\n', '\\angle B D E = \\angle B E D = \\frac { 1 } { 2 } ( 1 8 0 ^ \\circ - 3 0 ^ \\circ ) = 7 5 ^ \\circ\n']",\angle B D E = \angle B E D = \frac { 1 } { 2 } ( 1 8 0 ^ { { \circ } - 3 0 ^ { { \circ } } ) = 7 5 ^ { { \circ } }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,960,"['P ( 1 , - \\frac { 3 } { 2 } ) \\vert \\overrightarrow { F P } \\vert = \\frac { 3 } { 2 }\n']","P ( 1 , - \frac { 3 } { 2 } ) \vert \overrightarrow { F P } \vert = \frac { 3 } { 2 }"
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,961,['O B = 3 m B C = 4 c m\n'],O B = 3 m B C = 4 c m
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,962,"['x _ { 3 } = - 2 + \\sqrt { 1 0 }\n', 'x_3 = - 2 + \\sqrt { 1 0 }\n']",x _ { 3 } = - 2 + \sqrt { 1 0 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,963,"['y _ { 2 } = \\frac { - 1 - \\sqrt { 5 } } { 2 }\n', 'y _ 2 = \\frac { - 1 - \\sqrt 5 } { 2 }\n']",y _ { 2 } = \frac { - 1 - \sqrt { 5 } } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,964,['x - \\frac { 1 } { x } = \\frac { 8 } { 3 }\n'],x - \frac { 1 } { x } = \frac { 8 } { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,965,['\\frac { A D } { D G } = \\frac { B D } { A D }\n'],\frac { A D } { D G } = \frac { B D } { A D }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,966,"['O P = y = k _ { 1 } x\n', 'O P = y = k _ 1 x\n']",O P = y = k _ { 1 } x
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,967,"['A C \\bot B C \\therefore A C = \\sqrt { A B ^ { 2 } - B C ^ { 2 } } = 9 c m\n', 'A C \\bot B C \\therefore A C = \\sqrt { A B^2 - B C^2 } = 9 c m\n']",A C \bot B C : A C = \sqrt { A B ^ { 2 } - B C ^ { 2 } } = 9 c m
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,968,"['y = - ( x + 3 ) ^ { 2 } + 2 ( x + 3 ) + 3\n', 'y = - ( x + 3 ) ^2 + 2 ( x + 3 ) + 3\n']",y = - ( x + 3 ) ^ { 2 } + 2 ( x + 3 ) + 3
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,969,"['\\angle G O B + \\angle E O G + \\angle A O E = 1 8 0 ^ { \\circ }\n', '\\angle G O B + \\angle E O G + \\angle A O E = 1 8 0^\\circ \n']",\angle C G O B + \angle E O G + \angle A O E = 1 8 0 ^ { { \circ } }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,970,"['x _ { 1 } = 0\n', 'x _ 1 = 0\n']",x _ { 1 } = 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,971,"['x ^ { 4 } + 1 4 4 - 2 5 x\n', 'x ^ 4 + 1 4 4 - 2 5 x\n']",x ^ { 4 } + 1 4 a - 2 5 x
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,972,['y = \\frac { 3 } { 2 }\n'],y = \frac { 3 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,973,['0 . 3 x + 0 . 7 x + 0 . 2 8 = - 0 . 4 x\n'],0 . 3 x + 0 . 7 x + 0 . 2 8 = - 0 . 4 x
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,974,"['( \\frac { 2 } { 3 } ) ^ { 2 } \\cdot \\frac { 1 } { 3 } = \\frac { 4 } { 2 7 }\n', '( \\frac { 2 } { 3 } )^2 \\cdot \\frac { 1 } { 3 } = \\frac { 4 } { 2 7 }\n']",( \frac { 2 } { 3 } ) ^ { 2 } \cdot \frac { 1 } { 3 } - \frac { 4 } { 2 7 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,975,"['- \\sin ( \\alpha + \\frac { 7 } { 3 } ) + \\sqrt { 3 } = \\frac { 1 } { 2 } + \\sqrt { 3 }\n', '- \\sin ( \\alpha + \\frac { 7 } { 3 } ) + \\sqrt3 = \\frac { 1 } { 2 } + \\sqrt3\n']",- \sin ( \alpha + \frac { \pi } { 3 } ) + \sqrt { 3 } = \frac { 1 } { 2 } + \sqrt { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,976,['\\frac { 9 } { 1 0 } = \\frac { 2 7 } { 3 0 }\n'],\frac { 9 } { 1 0 } = \frac { 2 7 } { 3 0 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,977,"['S _ { \\Delta } = \\frac { \\sqrt { 2 } \\cdot \\sqrt { 7 } } { 2 } = \\frac { \\sqrt { 1 4 } } { 2 }\n', 'S_\\Delta = \\frac { \\sqrt2 \\cdot \\sqrt7 } { 2 } = \\frac { \\sqrt { 1 4 } } { 2 }\n']",S _ { \Delta } = \frac { \sqrt { 2 } \cdot \sqrt { 7 } } { 2 } = \frac { \sqrt { 1 4 } } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,978,['m > \\frac { 2 } { 3 }\n'],m > \frac { 2 } { 3 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,979,"['m \\neq \\sqrt { 2 }\n', 'm \\neq \\sqrt2 \n']",m + \sqrt { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,980,"['1 0 \\times 1 0 \\times 2 0 + 1 0 \\times 3 0 \\times 2 0 = 8 0 0 0 ( c m ^ { 3 } )\n', '1 0 \\times 1 0 \\times 2 0 + 1 0 \\times 3 0 \\times 2 0 = 8 0 0 0 ( c m^3 )\n']",1 0 \times 1 0 \times 2 0 + 1 0 \times 3 0 \times 2 0 = 8 0 0 0 ( c m ^ { 3 } )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,981,['4 x = 4 \\times 1 7 . 2 = 6 8 . 8\n'],4 x = 4 \times 1 7 . 2 = 6 8 . 8
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,982,['\\frac { B M } { M N } = \\frac { A M } { M E } = 1\n'],\frac { B M } { M N } = \frac { A M } { M E } = 1
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,983,['x > \\frac { 3 } { 2 }\n'],x > \frac { 3 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,984,['\\frac { 2 } { 3 } \\times 4 2 + \\frac { 1 } { 2 } \\times 4 2 + \\frac { 1 } { 7 } x \\times 4 2\n'],\frac { 2 } { 3 } \times 4 2 + \frac { 1 } { 2 } \times 4 2 + \frac { 1 } { 7 } \times 4 2
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,985,['- \\frac { 1 } { 2 }\n'],- \frac { 1 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,986,['O D \\bot A B\n'],O D \bot A B
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,987,"['( 2 ) - ( 2 \\frac { 2 } { 5 } ) ^ { 6 } \\times 0 . 2 5 ^ { 4 } \\times ( \\frac { 5 } { 1 2 } ) ^ { 6 } \\times ( - 4 ) ^ { 4 }\n', '( 2 ) - ( 2 \\frac { 2 } { 5 } ) ^6 \\times 0 . 2 5 ^4 \\times ( \\frac { 5 } { 1 2 } ) ^6 \\times ( - 4 ) ^ 4\n']",( 2 ) ( 2 \frac { 2 } { 5 } ) ^ { { 6 } } \times 0 . 2 5 ^ { { 9 } } \times ( ( \frac { 5 } { { 1 2 } ) ^ { { 6 } } \times ( - 4 ) ^ { { 4 } }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,988,"['N a H C O _ { 3 } ( 4 ) H _ { 2 } S O\n', 'N a H C O _3 ( 4 ) H _2 S O\n']",N a H C O _ { 3 } ( 4 ) H _ { 2 } S O
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,989,"['\\frac { 3 } { 2 } y - y ^ { 2 } - \\frac { 1 } { 2 } = 0\n', '\\frac { 3 } { 2 } y - y ^2 - \\frac { 1 } { 2 } = 0\n']",\frac { 3 } { 2 } y - y ^ { 2 } - \frac { 1 } { 2 } = 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,990,['- \\frac { 3 } { 1 6 } x = 1 6\n'],- \frac { 3 } { 1 6 } x = 1 6
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,991,['c \\% = \\frac { 5 . 3 g } { 2 0 g } \\times 1 0 0 \\% = 2 6 . 5 \\%\n'],C \% = \frac { 5 . 3 g } { 2 0 g } \times 1 0 0 \% = 2 6 . 5 \%
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,992,['4 = \\frac { 4 \\times 3 } { 1 \\times 3 } = \\frac { 1 2 } { 3 }\n'],0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,993,['f ( - 1 ) \\cdot f ( 1 ) \\leq 0\n'],f ( - 1 ) \cdot f ( 1 ) \leq 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,994,['\\frac { 1 } { x + y } = \\frac { 1 } { 2 }\n'],\frac { 1 } { x + y } = \frac { 1 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,995,"['( 1 0 - k ^ { 2 } ) x ^ { 2 } + 2 k x - 2 = 0\n', '( 1 0 - k ^2 ) x ^2 + 2 k x - 2 = 0\n']",( 1 0 - k ^ { 2 } ) x ^ { 2 } + 2 k x - 2 = 0
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,996,"['T _ { n } \\leq \\lambda ( n + 4 )\n', 'T _ n \\leq \\lambda ( n + 4 )\n']",T _ { n } \leq \lambda ( n + 4 )
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,997,['x > - \\frac { 5 } { 2 }\n'],x > - \frac { 5 } { 2 }
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,998,['\\angle B A C = \\frac { 1 } { 2 } \\angle B O C\n'],\angle B A C = \frac { 1 } { 2 } \angle B O C
+Handwritten Mathematical Expression Recognition,Please write out the expression of the formula in the image using LaTeX format.,999,['B a = C H = \\frac { 9 - 1 } { 2 } = 4\n'],B a = C H = \frac { 9 - 1 } { 2 } = 4

@@ -1,0 +1,14 @@
+{
+    "model": {
+        "Ovis2_2B_base": {
+            "class": "Ovis2",
+            "model_path": "AIDC-AI/Ovis2-2B"
+        }
+    },
+    "data": {
+        "MME-RealWorld-Lite": {
+            "class": "MMERealWorld",
+            "dataset": "MME-RealWorld-Lite"
+        }
+    }
+}

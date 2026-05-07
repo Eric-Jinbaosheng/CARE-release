@@ -1,0 +1,19 @@
+benchmarks:
+  - textvqa
+  - chartqa
+  - ocrvqa
+  - ocrbench
+
+n: 1000
+
+variants:
+  - full
+  - frequency_only
+  - majority_vote
+  - no_format
+  - no_length_risk
+
+notes:
+  full_config_pattern: benchmark_configs/test_config_smolvlm2_v91_nocf_{benchmark}.json
+  ablation_config_pattern: paper_neurips2026_artifacts/configs/ablation_configs/test_config_smolvlm2_v91_nocf_ablation_{variant}_{benchmark}.json
+  submission_uses_subset_len_env: true

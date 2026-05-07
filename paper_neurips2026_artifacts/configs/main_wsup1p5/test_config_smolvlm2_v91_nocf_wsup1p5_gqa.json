@@ -1,0 +1,37 @@
+{
+    "model": {
+        "V91NoCF_SmolVLM2_2B": {
+            "class": "V91NoCF_SmolVLM2_2B",
+            "model_args": {
+                "model_path": "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+            },
+            "v91_enabled": true,
+            "deterministic_seeding": true,
+            "deterministic_seeding_log": true,
+            "text_aug_args": {
+                "gpt_paraphraser_strategy": "simple_paraphraser",
+                "save_or_load": null,
+                "path_text_aug_to_file": null
+            },
+            "image_aug_args": {
+                "aug_strength": "high",
+                "save_or_load_generativeimg": null,
+                "strength_gen_aug": 0.25,
+                "path_generativeimg_to_directory": null
+            },
+            "token_selection_aggregation_method": "average",
+            "number_of_versions": 8,
+            "save_inputs_for_debugging": false,
+            "v91_w_freq": 1.5,
+            "v91_w_format": 1.0,
+            "v91_w_baseline_bias": 0.4,
+            "v91_w_length_risk": 0.5
+        }
+    },
+    "data": {
+        "GQA_TestDev_Balanced": {
+            "class": "ImageVQADataset",
+            "dataset": "GQA_TestDev_Balanced"
+        }
+    }
+}

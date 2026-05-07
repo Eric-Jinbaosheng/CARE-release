@@ -1,0 +1,36 @@
+% NeurIPS 2026 patch sections (artifact-generated draft)
+
+\paragraph{Experimental Setup.}
+We evaluate on nine benchmarks (OCRBench, GQA, TextVQA, ChartQA, OCRVQA, AI2D, MME-RealWorld, COCO, and AMBER) using deterministic 8-view TTAug inference. Our main method, V91-NoCF, preserves the same deterministic views and generation settings as the paper TTAug baseline and modifies only the candidate aggregation stage through answer-space-aware evidence aggregation. Unless otherwise noted, we report results on n=1000 subsets with fixed evaluation scripts and parsing.
+
+\paragraph{Main Results.}
+Table~\ref{tab:main_n1000} compares Base, deterministic TTAug, and V91-NoCF. V91-NoCF is the primary method and is evaluated as a stable backbone across heterogeneous answer spaces. We report benchmark-wise deltas rather than overclaiming universal gains, and we include per-benchmark caveats where task formats differ (e.g., caption metrics for COCO).
+
+\paragraph{NoCF Ablations.}
+We ablate the four core NoCF components and related decision policies: view frequency, format validity, base bias, and length-risk control, plus majority-vote and weak baselines. These ablations are reported in Table~\ref{tab:nocf_ablation_n200} (and n=1000 where available) to show that improvements are not from arbitrary weight tuning.
+
+\paragraph{Optional CF Verifier.}
+Counterfactual (CF) is treated as an optional verifier on top of V91-NoCF, not as a global answer selector. The raw CF signal is based on candidate log-likelihood differences between control-drop and relevant-drop views. In practice, useful behavior appears only under strict routing and gating with small coverage; broad ungated switching is harmful.
+
+\paragraph{CF Negative Ablations.}
+We explicitly retain negative CF results (e.g., no-quality-gate and force-switch variants) as evidence that naive CF intervention can strongly degrade performance. This is a central empirical finding: CF must be sparse and high-precision to be beneficial.
+
+\paragraph{Compute Cost.}
+AS-TTA (V91-NoCF) uses the same deterministic views as TTAug and therefore keeps model-generation cost comparable, with additional computation in aggregation only. Optional CF incurs extra candidate scoring calls only for a routed subset; we report measured and estimated costs in Table~\ref{tab:compute_cost}.
+
+\paragraph{Limitations.}
+Our strongest evidence is currently on a SmolVLM2-2.2B-centered pipeline. Gains are benchmark-dependent, and CF improvements are sparse and conditional on strict gating. n=1000 subset results may not fully characterize full-set behavior. Heuristic answer-space rules may require adaptation for other backbones or domains.
+
+\paragraph{Reproducibility.}
+We provide scripts, configs, and table/figure generators for reproducibility, including explicit handling of missing per-sample files for CI computation, and we avoid fabricating unavailable confidence intervals.
+
+\paragraph{Checklist Notes.}
+We avoid SOTA or universal-improvement claims, report negative ablations, separate focused CF checks from routed-CF tables, and annotate missing/aggregate-only statistics where pairing is unavailable.
+
+% Suggested table includes:
+% \input{paper_neurips2026_artifacts/tables/main_results_n1000.tex}
+% \input{paper_neurips2026_artifacts/tables/cf_results_n1000.tex}
+% \input{paper_neurips2026_artifacts/tables/cf_textvqa_focused.tex}
+% \input{paper_neurips2026_artifacts/tables/cf_bad_ablation.tex}
+% \input{paper_neurips2026_artifacts/tables/compute_cost_table.tex}
+% \input{paper_neurips2026_artifacts/tables/bootstrap_ci_main.tex}

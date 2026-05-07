@@ -1,0 +1,11 @@
+Benchmark,Metric,Baseline,Method,Delta,95% CI,p-value,Pairing status,Notes
+ocrbench,Final Score Norm,72.50,72.50,0.0000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_ocrbench/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_OCRBench.xlsx
+gqa,Overall,9.900,10.20,0.3000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_gqa/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_GQA_TestDev_Balanced.xlsx
+textvqa,Overall,71.96,NA,NA,NA (aggregate only),NA,missing,missing routed row
+chartqa,Overall,76.30,76.30,0.0000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_chartqa/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_ChartQA_TEST.xlsx
+ocrvqa,Overall,16.20,16.10,-0.1000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_ocrvqa/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_OCRVQA_TEST.xlsx
+ai2d,Overall,0.6880,0.6880,0.0000,"[0.0000, 0.0000]",2,paired:1000,routed:V91CF3Routed_SmolVLM2_2B_AI2D_TEST_openai_result.xlsx
+mme_rw,Overall,0.3150,0.3150,0.0000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_mme_rw/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_MME-RealWorld-Lite.xlsx
+coco,ROUGE_L,18.77,18.77,0.0000,NA (aggregate only),NA,aggregate_only,routed:<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/benchmark_results/n_samples_1000/test_config_smolvlm2_v91_cf3_routed_coco/V91CF3Routed_SmolVLM2_2B/V91CF3Routed_SmolVLM2_2B_COCO_VAL.xlsx
+amber,Avg ACC,74.70,74.70,0.0000,"[0.0000, 0.0000]",2,paired:1000,routed:V91CF3Routed_SmolVLM2_2B_AMBER_auxmatch.xlsx
+textvqa(force_grid),Overall,71.96,72.28,0.3200,NA (aggregate only),NA,aggregate,focused check with recorded rescue/harm in logs

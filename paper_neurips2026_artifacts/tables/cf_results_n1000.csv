@@ -1,0 +1,10 @@
+Benchmark,Metric,NoCF,Routed_CF,Delta,CF_usage,Note,n
+ocrbench,Final Score Norm,72.50,72.50,0.0000,NA,,1000
+gqa,Overall,9.900,10.20,0.3000,NA,,1000
+textvqa,Overall,71.96,72.08,0.1200,NA,override_from_force_grid,1000
+chartqa,Overall,76.30,76.30,0.0000,NA,,1000
+ocrvqa,Overall,16.20,16.10,-0.1000,NA,,1000
+ai2d,Overall,0.6880,0.6880,0.0000,NA,,1000
+mme_rw,Overall,0.3150,0.3150,0.0000,NA,,1000
+coco,ROUGE_L,18.77,18.77,0.0000,NA,,1000
+amber,Avg ACC,74.70,74.70,0.0000,NA,,1000

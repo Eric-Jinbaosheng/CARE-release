@@ -1,0 +1,3 @@
+benchmark,setting,changed,full_wins,ablation_wins,net_gain
+textvqa,without_consistency_module,27,8,4,-4
+textvqa,without_answer_space_module,2,0,1,1

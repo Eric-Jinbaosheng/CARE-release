@@ -1,0 +1,10 @@
+setting_name,w_sup,w_valid,w_base,w_risk,mean_rank,n_benchmarks,improved_count,hurt_count,average_delta,worst_negative_delta,candidate_new_default,note
+wsup3p0_wvalid1p0_wbase0p4_wrisk0p5,3.0,1.0,0.4,0.5,1.500,1,1,0,0.300000,0.300000,no,
+wsup2p0_wvalid0p5_wbase0p4_wrisk0p5,2.0,0.5,0.4,0.5,1.500,1,1,0,0.300000,0.300000,no,
+wsup2p0_wvalid0p25_wbase0p4_wrisk0p5,2.0,0.25,0.4,0.5,3.000,1,1,0,0.200000,0.200000,no,
+wsup1p5_wvalid1p0_wbase0p4_wrisk0p5,1.5,1.0,0.4,0.5,4.000,1,1,0,0.100000,0.100000,no,
+wsup2p0_wvalid1p0_wbase0p4_wrisk0p5,2.0,1.0,0.4,0.5,6.000,1,0,0,0.000000,0.000000,no,default
+wsup2p5_wvalid1p0_wbase0p4_wrisk0p5,2.5,1.0,0.4,0.5,6.000,1,0,0,0.000000,0.000000,no,
+wsup2p0_wvalid2p0_wbase0p4_wrisk0p5,2.0,2.0,0.4,0.5,6.000,1,0,0,0.000000,0.000000,no,
+wsup1p0_wvalid1p0_wbase0p4_wrisk0p5,1.0,1.0,0.4,0.5,8.500,1,0,1,-0.100000,-0.100000,no,
+wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,2.0,1.5,0.4,0.5,8.500,1,0,1,-0.100000,-0.100000,no,

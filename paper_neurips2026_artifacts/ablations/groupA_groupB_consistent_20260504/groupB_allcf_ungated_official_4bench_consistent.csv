@@ -1,0 +1,5 @@
+benchmark,n,asca_only_official,all_cf_ungated_official,delta_official,asca_only_proxy_pct,all_cf_ungated_proxy_pct,delta_proxy_pct,eligible_count,switch_count,correct_switches_proxy,incorrect_switches_proxy,net_switch_gain_proxy,notes
+textvqa,1000,71.96,63.11,-8.85,73.3,64.5,-8.8,121,121,0,88,-88,official metric + proxy switch diagnostics
+ocrvqa,1000,16.20,21.60,+5.40,60.7,49.6,-11.1,597,331,41,152,-111,"OCRVQA official uses ANLS-family scoring; proxy switch stats are strict exact-match, not directly comparable"
+chartqa,1000,76.30,52.30,-24.00,71.3,59.2,-12.1,853,325,42,163,-121,official metric + proxy switch diagnostics
+ocrbench,1000,72.50,54.70,-17.80,70.4,60.9,-9.5,654,302,30,125,-95,official metric + proxy switch diagnostics

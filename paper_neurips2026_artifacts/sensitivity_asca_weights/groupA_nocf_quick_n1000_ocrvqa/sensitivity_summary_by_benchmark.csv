@@ -1,0 +1,2 @@
+benchmark,default_score,best_setting,best_score,best_delta,stability,warning
+ocrvqa,16.200000,wsup1p5_wvalid1p0_wbase0p4_wrisk0p5,16.400000,0.200000,isolated,

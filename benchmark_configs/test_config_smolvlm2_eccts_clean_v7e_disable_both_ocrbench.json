@@ -1,0 +1,51 @@
+{
+    "model": {
+        "ECCTSClean_V7E_disable_both_SmolVLM2_2B": {
+            "class": "TTAugClassical_ECCTS_V7E_SmolVLM2_2B",
+            "model_args": {
+                "model_path": "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+            },
+            "text_aug_args": {
+                "gpt_paraphraser_strategy": "simple_paraphraser",
+                "save_or_load": null,
+                "path_text_aug_to_file": null
+            },
+            "image_aug_args": {
+                "aug_strength": "high",
+                "save_or_load_generativeimg": null,
+                "strength_gen_aug": 0.25,
+                "path_generativeimg_to_directory": null
+            },
+            "token_selection_aggregation_method": "average",
+            "number_of_versions": 8,
+            "save_inputs_for_debugging": false,
+            "eccts_enabled": true,
+            "counterfactual_answer_rerank": true,
+            "counterfactual_rerank_uncertainty_gate": true,
+            "counterfactual_rerank_quality_gate": true,
+            "counterfactual_rerank_top_k": 3,
+            "counterfactual_rerank_alpha": 1.0,
+            "counterfactual_rerank_alpha_base": 0.5,
+            "counterfactual_rerank_alpha_max": 1.5,
+            "counterfactual_rerank_entropy_center": 1.0,
+            "counterfactual_rerank_entropy_slope": 4.0,
+            "counterfactual_rerank_grounding_tau": 0.0,
+            "counterfactual_rerank_margin_threshold": 0.25,
+            "counterfactual_rerank_entropy_threshold": 1.0,
+            "counterfactual_rerank_min_grounding_gap": 1.0,
+            "counterfactual_rerank_loc_conf_threshold": 0.55,
+            "counterfactual_corruption": "blur",
+            "counterfactual_blur_radius": 7.0,
+            "counterfactual_center_ratio": 0.6,
+            "eccts_diag_per_sample": true,
+            "eccts_disable_uncertainty_gate": true,
+            "eccts_disable_quality_gate": true
+        }
+    },
+    "data": {
+        "OCRBench": {
+            "class": "OCRBench",
+            "dataset": "OCRBench"
+        }
+    }
+}

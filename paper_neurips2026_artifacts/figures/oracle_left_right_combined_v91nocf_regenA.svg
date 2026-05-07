@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="680">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="800.00" y="36.00" font-size="22" text-anchor="middle">Diagnosing the Selection Bottleneck</text>
+<text x="420.00" y="62.00" font-size="15" text-anchor="middle">(a) Oracle--TTAug gap</text>
+<text x="1180.00" y="62.00" font-size="15" text-anchor="middle">(b) TTAug error decomposition</text>
+<rect x="70.00" y="80.00" width="700.00" height="420.00" fill="none" stroke="#000000" stroke-width="1.00" />
+<rect x="830.00" y="80.00" width="700.00" height="420.00" fill="none" stroke="#000000" stroke-width="1.00" />
+<text x="25.00" y="290.00" font-size="12" text-anchor="middle" transform="rotate(-90.0,25.00,290.00)">Gap (points)</text>
+<text x="785.00" y="290.00" font-size="12" text-anchor="middle" transform="rotate(-90.0,785.00,290.00)">Error (points)</text>
+<rect x="101.56" y="450.32" width="52.00" height="49.68" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="127.56" y="444.32" font-size="11" text-anchor="middle">9.4</text>
+<text x="127.56" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,127.56,540.00)">OCRBench</text>
+<rect x="185.11" y="362.05" width="52.00" height="137.95" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="211.11" y="356.05" font-size="11" text-anchor="middle">26.1</text>
+<text x="211.11" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,211.11,540.00)">GQA</text>
+<rect x="268.67" y="437.63" width="52.00" height="62.37" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="294.67" y="431.63" font-size="11" text-anchor="middle">11.8</text>
+<text x="294.67" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,294.67,540.00)">TextVQA</text>
+<rect x="352.22" y="431.82" width="52.00" height="68.18" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="378.22" y="425.82" font-size="11" text-anchor="middle">12.9</text>
+<text x="378.22" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,378.22,540.00)">ChartQA</text>
+<rect x="435.78" y="430.76" width="52.00" height="69.24" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="461.78" y="424.76" font-size="11" text-anchor="middle">13.1</text>
+<text x="461.78" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,461.78,540.00)">OCRVQA</text>
+<rect x="519.33" y="332.98" width="52.00" height="167.02" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="545.33" y="326.98" font-size="11" text-anchor="middle">31.6</text>
+<text x="545.33" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,545.33,540.00)">AI2D</text>
+<rect x="602.89" y="134.78" width="52.00" height="365.22" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="628.89" y="128.78" font-size="11" text-anchor="middle">69.1</text>
+<text x="628.89" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,628.89,540.00)">MME-RW</text>
+<rect x="686.44" y="405.92" width="52.00" height="94.08" fill="#3a86ff" stroke="#111111" stroke-width="1.00" />
+<text x="712.44" y="399.92" font-size="11" text-anchor="middle">17.8</text>
+<text x="712.44" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,712.44,540.00)">AMBER</text>
+<rect x="861.56" y="460.52" width="52.00" height="39.48" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="861.56" y="378.62" width="52.00" height="81.90" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="887.56" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,887.56,540.00)">OCRBench</text>
+<rect x="945.11" y="390.38" width="52.00" height="109.62" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="945.11" y="245.90" width="52.00" height="144.48" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="971.11" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,971.11,540.00)">GQA</text>
+<rect x="1028.67" y="450.44" width="52.00" height="49.56" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1028.67" y="402.14" width="52.00" height="48.30" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1054.67" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1054.67,540.00)">TextVQA</text>
+<rect x="1112.22" y="445.82" width="52.00" height="54.18" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1112.22" y="372.32" width="52.00" height="73.50" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1138.22" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1138.22,540.00)">ChartQA</text>
+<rect x="1195.78" y="444.98" width="52.00" height="55.02" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1195.78" y="334.52" width="52.00" height="110.46" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1221.78" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1221.78,540.00)">OCRVQA</text>
+<rect x="1279.33" y="367.28" width="52.00" height="132.72" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1279.33" y="367.28" width="52.00" height="0.00" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1305.33" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1305.33,540.00)">AI2D</text>
+<rect x="1362.89" y="209.78" width="52.00" height="290.22" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1362.89" y="209.78" width="52.00" height="0.00" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1388.89" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1388.89,540.00)">MME-RW</text>
+<rect x="1446.44" y="425.24" width="52.00" height="74.76" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<rect x="1446.44" y="402.14" width="52.00" height="23.10" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="1472.44" y="540.00" font-size="11" text-anchor="middle" transform="rotate(-30.0,1472.44,540.00)">AMBER</text>
+<rect x="850.00" y="100.00" width="18.00" height="12.00" fill="#ff6b6b" stroke="#111111" stroke-width="1.00" />
+<text x="874.00" y="111.00" font-size="11" text-anchor="start">Selection error (Oracle - TTAug)</text>
+<rect x="850.00" y="122.00" width="18.00" height="12.00" fill="#ffd166" stroke="#111111" stroke-width="1.00" />
+<text x="874.00" y="133.00" font-size="11" text-anchor="start">Generation failure (100 - Oracle)</text>
+<text x="800.00" y="635.00" font-size="12" text-anchor="middle">Caption: Red = selection error (Oracle - TTAug), yellow = generation failure (100 - Oracle). Their sum equals total TTAug error (100 - TTAug).</text>
+</svg>

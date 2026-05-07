@@ -1,0 +1,2 @@
+benchmark,default_score,best_setting,best_score,best_delta,stability,warning
+textvqa,NA,wsup2p0_wvalid0p0_wbase0p4_wrisk0p5,0.772000,0.002000,unknown,

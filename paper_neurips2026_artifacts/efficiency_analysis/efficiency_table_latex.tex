@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Efficiency analysis on a representative TextVQA subset. CARE uses the same eight-view generation budget as TTAug; the full variant adds routed likelihood evaluations only for uncertain cases.}
+\label{tab:efficiency_care}
+\begin{tabular}{lcccccc}
+\toprule
+Method & Gen./sample & Verifier evals/sample & Route rate & Switch rate & Latency/sample & Rel. cost \\
+\midrule
+TTAug & 8.00 & 0.00 & 0.00% & 0.00% & 8.22s & 1.00x \\
+CARE w/o switch & 8.00 & 0.00 & 0.00% & 0.00% & TODO & TODO \\
+CARE full & 8.00 & 5.16 & 4.55% & 3.45% & TODO & TODO \\
+\bottomrule
+\end{tabular}
+\end{table}

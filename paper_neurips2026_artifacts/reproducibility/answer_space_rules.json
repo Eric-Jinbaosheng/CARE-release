@@ -1,0 +1,92 @@
+{
+  "source_file": "<ANON_ROOT>/peking/smolvlm2_paper/ets_clean/vlmeval/vlm/tta/tta_v91_aggregator.py",
+  "normalization": {
+    "function": "normalize_answer",
+    "behavior": "strip -> lowercase -> remove punctuation -> strip",
+    "inferred_from": "normalize_answer()"
+  },
+  "regex_patterns": {
+    "numeric": "r\"^[\\$\u00a3\u20ac\u00a5]?[+-]?\\d+(?:[\\.,]\\d+)*(?:%|\u00b0|usd|gb|kg|mg|cm|mm|km|kmh|hp|ml|l|kw|kwh)?\\.?$\",\n    flags=re.IGNORECASE,",
+    "date": "r\"\\b(19|20)\\d{2}\\b|\\b\\d{1,2}[\\-/]\\d{1,2}[\\-/]\\d{2,4}\\b\"",
+    "mcq_letter": "r\"^[abcdefgh][\\.\\):]?$\", flags=re.IGNORECASE",
+    "option_parse": "r\"\\b([A-H])[\\.\\):]\\s+([^\\n]+)\""
+  },
+  "keyword_patterns": {
+    "ocr_intent": [
+      "what does the sign",
+      "what does it say",
+      "what is written",
+      "what word is",
+      "read the text",
+      "read the label",
+      "read the sign",
+      "what is the label",
+      "what is the title",
+      "what is the brand",
+      "what brand",
+      "what company",
+      "what product",
+      "what book",
+      "what author",
+      "what number is",
+      "what number on",
+      "what time is",
+      "license plate",
+      "what does the text",
+      "what is the name"
+    ],
+    "chart_intent": [
+      "chart",
+      "graph",
+      "diagram",
+      "table",
+      "axis",
+      "bar",
+      "line",
+      "legend",
+      "trend",
+      "percentage",
+      "pie",
+      "scatter",
+      "histogram",
+      "what value",
+      "what percent",
+      "highest",
+      "lowest",
+      "y axis",
+      "x axis"
+    ],
+    "caption_intent": [
+      "describe",
+      "caption",
+      "what is happening",
+      "what is going on",
+      "summarize the image"
+    ]
+  },
+  "answer_spaces": [
+    "yes_no",
+    "multiple_choice",
+    "numeric",
+    "ocr_text_short",
+    "open_entity",
+    "chart_or_diagram",
+    "caption_like",
+    "unknown"
+  ],
+  "format_validity": "implemented in _format_validity()",
+  "length_risk": "implemented in _length_risk()",
+  "general_score": "score = 2.0*view_freq + 1.0*fmt_validity + 0.4*is_base - 0.5*length_risk (default weights)",
+  "inferred_from": "score_candidates_general()",
+  "observed_answer_space_distribution_n1000_v91_nocf": {
+    "ocrbench": {},
+    "gqa": {},
+    "textvqa": {},
+    "chartqa": {},
+    "ocrvqa": {},
+    "ai2d": {},
+    "mme_rw": {},
+    "coco": {},
+    "amber": {}
+  }
+}

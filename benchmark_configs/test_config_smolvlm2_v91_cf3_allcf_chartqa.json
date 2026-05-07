@@ -1,0 +1,51 @@
+{
+    "model": {
+        "V91CF3AllCF_SmolVLM2_2B": {
+            "class": "V91CF3Routed_SmolVLM2_2B",
+            "model_args": {
+                "model_path": "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+            },
+            "v91_enabled": true,
+            "deterministic_seeding": true,
+            "deterministic_seeding_log": true,
+            "v91_cf_logprob_tau": 0.0,
+            "v91_cf_grid_size": 4,
+            "v91_cf_grid_min_candidates": 1,
+            "v91_cf_rel_drop_min": 0.02,
+            "v91_cf_ctrl_nonempty_std": 8.0,
+            "v91_cf3_enable_candidate_grid": true,
+            "v91_cf3_general_gap_tau": 999.0,
+            "v91_cf3_switch_spaces": [
+                "ocr_text_short",
+                "open_entity",
+                "unknown",
+                "chart_or_diagram",
+                "caption_like",
+                "multiple_choice",
+                "yes_no",
+                "numeric"
+            ],
+            "v91_cf3_mode": "force_grid_no_quality_gate_force_switch_analysis",
+            "text_aug_args": {
+                "gpt_paraphraser_strategy": "simple_paraphraser",
+                "save_or_load": null,
+                "path_text_aug_to_file": null
+            },
+            "image_aug_args": {
+                "aug_strength": "high",
+                "save_or_load_generativeimg": null,
+                "strength_gen_aug": 0.25,
+                "path_generativeimg_to_directory": null
+            },
+            "token_selection_aggregation_method": "average",
+            "number_of_versions": 8,
+            "save_inputs_for_debugging": false
+        }
+    },
+    "data": {
+        "ChartQA_TEST": {
+            "class": "ImageVQADataset",
+            "dataset": "ChartQA_TEST"
+        }
+    }
+}

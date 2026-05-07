@@ -1,0 +1,5 @@
+benchmark,setting_name,changed,default_wins,setting_wins,net
+textvqa,wsup2p0_wvalid1p0_wbase0p8_wrisk0p5,21,3,5,2
+ocrvqa,wsup2p0_wvalid1p0_wbase0p8_wrisk0p5,23,3,8,5
+chartqa,wsup2p0_wvalid1p0_wbase0p8_wrisk0p5,11,3,2,-1
+ocrbench,wsup2p0_wvalid1p0_wbase0p8_wrisk0p5,36,5,8,3

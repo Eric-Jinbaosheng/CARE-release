@@ -1,0 +1,740 @@
+benchmark,sample_id,type,gt,tta,as_tta
+ocrbench,0,tta_correct_as_wrong,['CENTRE'],Centre.,Centurion.
+ocrbench,57,tta_wrong_as_right,['CLOSING'],Closing soon.,CLOSING.
+ocrbench,138,tta_wrong_as_right,['CHARTRES'],CHARTERS.,CHARTRES.
+ocrbench,145,tta_correct_as_wrong,['Rainbow'],Rainbow.,Walkabout.
+ocrbench,196,tta_correct_as_wrong,['saturated'],Saturated.,Saharated.
+ocrbench,250,tta_correct_as_wrong,['espt'],espt.,Esp.
+ocrbench,251,tta_wrong_as_right,['caiognr'],Caio gnr.,caiognr.
+ocrbench,275,tta_correct_as_wrong,['ewek'],ewek.,Newek.
+ocrbench,281,tta_wrong_as_right,['oCwrntsde'],oCwntsde.,oCwrntsde.
+ocrbench,379,tta_correct_as_wrong,['www.phare-conference.eu'],Www.phare-conference.eu.,Phare-conference.eu.
+ocrbench,384,tta_wrong_as_right,['pharma llc'],Pharma.,Pharma L.L.C.
+ocrbench,409,tta_wrong_as_right,['DAVID BOWIE'],David Bowie St.,David Bowie.
+ocrbench,424,tta_correct_as_wrong,['cyber cafe'],Cyber Cafe.,Coffee shop.
+ocrbench,426,tta_wrong_as_right,['SCOTT STREET'],Scott.,Scott Street.
+ocrbench,427,tta_correct_as_wrong,['Michael A. Smolensky'],Michael A. Smolensky.,"Michael A. Smolensky, Esq."
+ocrbench,455,tta_wrong_as_right,['Treehouses of the World'],Treehouses of the World 2014 Calendar.,Treehouses of the World.
+ocrbench,456,tta_correct_as_wrong,"[""Frank Lloyd Wright's Dream Houses""]",Frank Lloyd Wright's Dream Houses.,Frank Lloyd Wright's Dream Houses 2007 Deluxe Engagement Book.
+ocrbench,502,tta_wrong_as_right,['SMALL-SCALE UNITS'],Small-scale and cottage units.,Small-scale units.
+ocrbench,529,tta_correct_as_wrong,['independent ice and cold storage co.'],Independent ice and cold storage co.,United States Cold Storage of California.
+ocrbench,549,tta_wrong_as_right,['status'],Manuscript in development.,Status.
+ocrbench,562,tta_wrong_as_right,"['63086', '63 086', '63,086']",162189.,63086.
+ocrbench,616,tta_correct_as_wrong,"['41856', '41 856', '41,856']",41856.,40340.
+ocrbench,651,tta_wrong_as_right,['email marketing'],Social media.,Email marketing.
+ocrbench,656,tta_correct_as_wrong,['44.2k'],44.2k.,£44.2k.
+ocrbench,673,tta_wrong_as_right,['monday'],TUESDAY.,MONDAY.
+ocrbench,676,tta_correct_as_wrong,['sports arena'],Sports Arena.,College dorm.
+ocrbench,686,tta_correct_as_wrong,['1.25'],1.25.,2.5.
+ocrbench,689,tta_correct_as_wrong,['pennywise the clown'],Pennywise the clown.,IT.
+ocrbench,717,tta_wrong_as_right,['11.90'],RM 11.90,11.90
+ocrbench,740,tta_correct_as_wrong,['07/02/17'],07/02/17,07/02/17 16:18
+ocrbench,754,tta_wrong_as_right,['UNIHAKKA INTERNATIONAL SDN BHD'],UNIKAKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD
+ocrbench,768,tta_correct_as_wrong,['Full Flavor Box and Light Box'],Full Flavor Box and Light Box,Full Flavors Box and Light Box
+ocrbench,777,tta_correct_as_wrong,['01/01/95'],01/01/95,"01/01/95 THRU 12/31/95 $ 212,481"
+ocrbench,796,tta_correct_as_wrong,['NEWPORT'],NEWPORT,NEWSPAPER.
+ocrbench,811,tta_correct_as_wrong,"['Metal ""Pack"" Plaque']","Metal ""Pack"" Plaque","Metal ""Pack"" Plaque October 16, 1987"
+ocrbench,817,tta_correct_as_wrong,"['Form die, brass emboss die to achieve detail on eagle.']","Form die, brass emboss die to achieve detail on eagle.","$3,015.00"
+ocrbench,836,tta_wrong_as_right,"['6.8g', '6.8 g']",236kcal.,6.8g.
+ocrbench,841,tta_wrong_as_right,"['<0.5g', '<0.5 g', 'less than 0.5g', 'less than 0.5 g']",12g,0.5g
+ocrbench,849,tta_correct_as_wrong,"['0.0g', '0.0 g']",0.0g,0.09
+ocrbench,856,tta_wrong_as_right,"['2.5g', '2.5 g']",2.5,2.5g
+ocrbench,877,tta_correct_as_wrong,"['11.5g', '11.5 g']",11.5g.,11.5
+ocrbench,878,tta_correct_as_wrong,"['55mg', '55 mg']",55mg,55
+ocrbench,879,tta_wrong_as_right,"['<0.5g', '<0.5 g', 'less than 0.5g', 'less than 0.5 g']",0.19g,0.5g.
+ocrbench,892,tta_correct_as_wrong,"['144g', '5 oz', '144 g']",5 oz,5
+ocrbench,906,tta_wrong_as_right,['\\frac { 6 . 8 } { x } = \\frac { 1 . 7 } { 4 }\n'],\frac{6.8}{x}=\frac{1.7}{4},\frac { 6 . 8 } { x } = \frac { 1 . 7 } { 4 }
+ocrbench,933,tta_correct_as_wrong,"['5 0 0 \\sqrt { 3 } + 5 0 0\n', '5 0 0 \\sqrt3 + 5 0 0\n']",5 0 0 \sqrt { 3 } + 5 0 0,500\sqrt{3}+500
+ocrbench,935,tta_correct_as_wrong,['\\cos \\alpha = - \\frac { 3 } { 5 }\n'],\cos \alpha = - \frac { 3 } { 5 },\cos \alpha = - \frac { 5 } { 5 }
+ocrbench,965,tta_wrong_as_right,['\\frac { A D } { D G } = \\frac { B D } { A D }\n'],\frac { AD } { DG } = \frac { BD } { AD },\frac { A D } { D G } = \frac { B D } { A D }
+ocrbench,983,tta_wrong_as_right,['x > \\frac { 3 } { 2 }\n'],x > \frac{3}{2},x > \frac { 3 } { 2 }
+gqa,n473688_1,tta_wrong_as_right,left,"left.
+Rationale: The mirror is on the left.",left
+gqa,n235859_5,tta_correct_as_wrong,fat,Fat.,not fat.
+gqa,n433532_4,tta_wrong_as_right,gray,"gray.
+Rationale: The woman has gray hair.",gray
+gqa,n335542_3,tta_correct_as_wrong,sky,Sky.,"sky.
+Rationale: The bird is in the sky."
+gqa,n131634_1,tta_wrong_as_right,no,yes.,No.
+gqa,n298104_2,tta_wrong_as_right,beach,"beach.
+Rationale: The person is on the beach.",beach
+gqa,n501951_2,tta_correct_as_wrong,plastic,plastic.,"metal.
+Rationale: The helmet is made of metal."
+gqa,n532191_2,tta_correct_as_wrong,chair,Chair.,"chair.
+Rationale: The person is sitting in a chair."
+gqa,n497658_1,tta_correct_as_wrong,no,No.,yes.
+gqa,n554880_9,tta_correct_as_wrong,woman,Woman.,man
+gqa,n68769_1,tta_wrong_as_right,menu,"menu.
+Rationale: The woman is looking at the menu.",Menu.
+gqa,n469525_1,tta_correct_as_wrong,yes,Yes.,"deer.
+Rationale: The animal is a deer."
+gqa,n468864_3,tta_correct_as_wrong,sleeveless,Sleeveless.,Short sleeved.
+gqa,n240666_5,tta_correct_as_wrong,no,No.,yes
+gqa,n192021_5,tta_wrong_as_right,left,"left.
+Rationale: The chair is to the left.",left
+gqa,n429883_5,tta_wrong_as_right,no,Yes.,no.
+gqa,n500209_13,tta_correct_as_wrong,shelf,Shelf.,bookshelf
+gqa,n131634_7,tta_wrong_as_right,motorcycle,"motorcycle.
+Rationale: The seat is on a motorcycle.",motorcycle
+gqa,n501609_8,tta_correct_as_wrong,cabinets,cabinets,counter
+gqa,n161313_2,tta_correct_as_wrong,no,No.,Yes.
+gqa,n146522_8,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n264887_8,tta_wrong_as_right,wood,"wood.
+Rationale: The desk is made of wood.",Wood.
+gqa,n126087_7,tta_correct_as_wrong,no,No.,yes
+gqa,n199097_8,tta_wrong_as_right,yes,No.,Yes.
+gqa,n283587_11,tta_correct_as_wrong,coffee table,Coffee table.,"coffee table.
+Rationale: The table is in front of the sofa."
+gqa,n39114_7,tta_wrong_as_right,left,"left.
+Rationale: The bench is on the left side of the image.",Left.
+gqa,n257997_5,tta_wrong_as_right,trees,Cars.,Trees.
+gqa,n278453_4,tta_correct_as_wrong,ham,Ham.,Chicken
+gqa,n507959_17,tta_wrong_as_right,table,"table.
+Rationale: The dolls are sitting on top of a table.",table
+gqa,n143935_5,tta_wrong_as_right,white,gray.,White
+gqa,n204894_7,tta_correct_as_wrong,crown,crown.,"crown.
+Rationale: The kid is wearing a crown."
+gqa,n192021_11,tta_correct_as_wrong,yellow,yellow,"beige.
+Rationale: The curtain is beige."
+gqa,n446242_5,tta_wrong_as_right,yes,no.,yes
+gqa,n514467_6,tta_correct_as_wrong,wet,wet.,"wet.
+Rationale: The sidewalk is wet."
+gqa,n207893_3,tta_wrong_as_right,trees,grass.,Trees.
+gqa,n89148_7,tta_wrong_as_right,yes,No.,Yes.
+gqa,n326988_16,tta_correct_as_wrong,right,right,"right.
+Rationale: The doll is on the right."
+gqa,n219840_11,tta_correct_as_wrong,zebra,Zebra.,"zebra.
+Rationale: The animal is a zebra."
+gqa,n412144_8,tta_correct_as_wrong,yes,Yes.,Skateboarder.
+gqa,n119886_8,tta_correct_as_wrong,yes,Yes.,no
+gqa,n326988_20,tta_correct_as_wrong,gold,Gold.,"gold.
+Rationale: The glasses are gold."
+gqa,n312206_9,tta_wrong_as_right,yes,no,yes
+gqa,n208458_4,tta_wrong_as_right,yes,No.,Yes.
+gqa,n279581_6,tta_wrong_as_right,left,"left.
+Rationale: The helmet is on the left.",Left
+gqa,n314171_12,tta_correct_as_wrong,yes,Yes.,no.
+gqa,n184551_15,tta_wrong_as_right,woman,"woman.
+Rationale: The woman is holding the umbrella.",woman.
+gqa,n83784_11,tta_wrong_as_right,left,"left.
+Rationale: The small table is on the left.",Left.
+gqa,n98544_10,tta_correct_as_wrong,white,White.,red
+gqa,n511913_10,tta_wrong_as_right,right,"left.
+Rationale: The books are on the left.",right.
+gqa,n477215_5,tta_wrong_as_right,birds,"birds.
+Rationale: The animals are birds.",birds
+gqa,n116329_10,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n140421_18,tta_correct_as_wrong,clean,Clean.,"clean.
+Rationale: The sink is clean."
+gqa,n479092_10,tta_correct_as_wrong,right,right,"right.
+Rationale: The silver forks are on the right."
+gqa,n500209_17,tta_wrong_as_right,yes,No.,Yes.
+gqa,n356822_17,tta_correct_as_wrong,sweater,sweater,Red.
+gqa,n445353_10,tta_wrong_as_right,vase,Vase of roses.,Vase.
+gqa,n51002_20,tta_correct_as_wrong,black,Black.,"black.
+Rationale: The color is black."
+gqa,n51658_10,tta_wrong_as_right,racket,"racket.
+Rationale: The person is holding a tennis racket.",racket
+gqa,n531359_6,tta_wrong_as_right,left,"left.
+Rationale: The tables are on the left.",Left.
+gqa,n578564_21,tta_wrong_as_right,toaster,"toaster.
+Rationale: The appliance is a toaster.",Toaster.
+gqa,n166008_9,tta_wrong_as_right,table,"table.
+Rationale: The item of furniture is a table.",table.
+gqa,n290409_11,tta_correct_as_wrong,dog,Dog.,"dog.
+Rationale: The animal is a dog."
+gqa,n296467_39,tta_wrong_as_right,cookies,"sushi.
+Rationale: The food is sushi.",Cookies.
+gqa,n411121_20,tta_wrong_as_right,left,"right.
+Rationale: The silver van is to the right of the female cyclist.",Left.
+gqa,n460556_9,tta_wrong_as_right,no,yes.,No.
+gqa,n507149_3,tta_correct_as_wrong,sand,Sand.,rock
+gqa,n554880_42,tta_wrong_as_right,left,"left.
+Rationale: The couch is to the left of the man.",left.
+gqa,n214497_14,tta_correct_as_wrong,left,Left.,"left.
+Rationale: The man is on the left."
+gqa,n240973_25,tta_wrong_as_right,desk,"laptop.
+Rationale: The tray is mounted on the laptop.",desk
+gqa,n199097_18,tta_wrong_as_right,yellow,"yellow.
+Rationale: The umbrella is yellow.",yellow.
+gqa,n324908_22,tta_correct_as_wrong,thick,Thick.,Short.
+gqa,n556604_15,tta_wrong_as_right,yes,no,Yes
+gqa,n352479_10,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n433692_26,tta_wrong_as_right,no,Yes.,No.
+gqa,n167552_16,tta_wrong_as_right,no,Yes.,No.
+gqa,n369970_6,tta_wrong_as_right,snowboarder,"snowboarder.
+Rationale: The person is snowboarding.",snowboarder
+gqa,n489190_15,tta_wrong_as_right,skate park,"skate park.
+Rationale: The skateboarder is in a bowl with other people.",skate park
+gqa,n578564_32,tta_correct_as_wrong,yes,yes.,No.
+gqa,n527589_15,tta_wrong_as_right,woman,"woman.
+Rationale: The woman is wearing the earring.",Woman.
+gqa,n489190_16,tta_correct_as_wrong,yes,yes,No.
+gqa,n293477_30,tta_wrong_as_right,bed,"bed.
+Rationale: The cellphone is on a bed.",bed
+gqa,n207708_25,tta_correct_as_wrong,yes,yes.,No.
+gqa,n315887_50,tta_wrong_as_right,left,right.,Left.
+gqa,n170941_19,tta_wrong_as_right,bacon,"bacon.
+Rationale: The plate has bacon.",Bacon.
+gqa,n310625_17,tta_wrong_as_right,right,"right.
+Rationale: The bottle is to the right of the mug.",Right.
+gqa,n119886_20,tta_correct_as_wrong,no,"no.
+Rationale: The mirror is a flat surface.",yes.
+gqa,n501609_27,tta_wrong_as_right,yes,no.,yes
+gqa,n567860_14,tta_wrong_as_right,banana,"apple.
+Rationale: The fruit is an apple.",Banana.
+gqa,n258500_11,tta_correct_as_wrong,no,No.,yes.
+gqa,n415215_18,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n479092_23,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n501951_18,tta_wrong_as_right,street,"street.
+Rationale: The place is a street.",Street.
+gqa,n344136_22,tta_correct_as_wrong,no,no,Bookcase.
+gqa,n55058_49,tta_wrong_as_right,restaurant,"restaurant.
+Rationale: The table is inside of a restaurant.",restaurant
+gqa,n271392_17,tta_wrong_as_right,yes,No.,yes
+gqa,n159284_13,tta_wrong_as_right,no,yes.,No.
+gqa,n472825_15,tta_wrong_as_right,left,"left.
+Rationale: The lamp is on the left.",Left
+gqa,n181355_57,tta_correct_as_wrong,short sleeved,short sleeved.,long sleeved.
+gqa,n51002_36,tta_correct_as_wrong,flowers,Flowers.,"flowers.
+Rationale: The flowers are in the vase."
+gqa,n219840_27,tta_correct_as_wrong,no,no.,yes
+gqa,n260762_26,tta_wrong_as_right,no,Yes.,No.
+gqa,n86120_21,tta_wrong_as_right,no,Yes.,No.
+gqa,n489190_24,tta_wrong_as_right,black,"black.
+Rationale: The fence is black.",black.
+gqa,n579928_25,tta_wrong_as_right,yes,No.,yes.
+gqa,n573460_29,tta_wrong_as_right,chairs,"chairs.
+Rationale: The seats are padded.",chairs
+gqa,n181210_27,tta_wrong_as_right,no,yes,No
+gqa,n97485_42,tta_correct_as_wrong,right,right.,"right.
+Rationale: The shelves are on the right."
+gqa,n14_15,tta_wrong_as_right,white,"white.
+Rationale: The motorbike is not little.",White.
+gqa,n433692_39,tta_correct_as_wrong,left,Left.,"left.
+Rationale: The monitor is to the left of the lamp."
+gqa,n331357_13,tta_correct_as_wrong,no,No.,Yes.
+gqa,n356822_28,tta_wrong_as_right,jacket,"jacket.
+Rationale: The man is wearing a jacket.",Jacket.
+gqa,n579256_44,tta_wrong_as_right,jeans,"old.
+Rationale: The woman is wearing jeans.",Jeans.
+gqa,n538039_21,tta_wrong_as_right,left,"right.
+Rationale: The woman is to the right of the car.",Left.
+gqa,n380113_27,tta_correct_as_wrong,yes,yes.,no
+gqa,n28996_32,tta_wrong_as_right,ham,"ham.
+Rationale: The sandwiches have ham.",ham
+gqa,n272098_19,tta_wrong_as_right,woman,"woman.
+Rationale: The woman is wearing the hat.",Woman.
+gqa,n192021_36,tta_correct_as_wrong,yes,Yes,"no.
+Rationale: There are no chairs or tv stands."
+gqa,n246334_25,tta_wrong_as_right,yes,"no.
+Rationale: The glass is a window.",yes
+gqa,n403734_18,tta_wrong_as_right,no,Yes.,No.
+gqa,n16656_35,tta_correct_as_wrong,cat,cat,"cat.
+Rationale: The animal is a cat."
+gqa,n145498_19,tta_wrong_as_right,bed,"bed.
+Rationale: The person is laying on a bed.",bed
+gqa,n400036_34,tta_wrong_as_right,right,"right.
+Rationale: The black bag is on the right.",right
+gqa,n367944_30,tta_correct_as_wrong,donut,donut.,"donut.
+Rationale: The food item is a donut."
+gqa,n143935_27,tta_correct_as_wrong,yes,Yes.,No
+gqa,n111390_31,tta_correct_as_wrong,wood,Wood.,"wood.
+Rationale: The window is made of wood."
+gqa,n400036_35,tta_correct_as_wrong,tall,Tall.,short.
+gqa,n525901_35,tta_correct_as_wrong,desk,Desk.,"blinds.
+Rationale: The window has blinds."
+gqa,n477215_18,tta_wrong_as_right,concrete,"concrete.
+Rationale: The bridge is made of concrete.",concrete
+gqa,n88933_31,tta_correct_as_wrong,right,Right.,Left.
+gqa,n69237_64,tta_correct_as_wrong,yes,Yes.,No.
+gqa,n546884_26,tta_wrong_as_right,donut,"donut.
+Rationale: The item is a donut.",donut.
+gqa,n59147_35,tta_correct_as_wrong,top,Top.,Bottom
+gqa,n435808_44,tta_wrong_as_right,chair,"chair.
+Rationale: The chair is to the right of the router.",Chair.
+gqa,n88366_32,tta_wrong_as_right,no,Yes.,No.
+textvqa,34667,tta_correct_as_wrong,"['marvel', 'marvel', 'marvel', 'marvel', 'marvel', 'marvel', 'marvel', 'marvel', 'marvel', 'marvel']",marvel,timehop
+textvqa,34777,tta_wrong_as_right,"['dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita', 'dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita']",poeme,dolce vita
+textvqa,34802,tta_correct_as_wrong,"['baseball', 'baseball', 'mets game', 'baseball', 'baseball', 'baseball', 'answering does not require reading text in the image', 'baseball', 'answering does not require reading text in the image', 'baseball']",baseball,unanswerable
+textvqa,34827,tta_wrong_as_right,"['nog km', 'nog 3km nog 2km nog 1km', 'nog 3km , nog 2km , nog 1km', 'nog 3 km, nog 2 km, nog 1 km', 'unanswerable', 'nog 3 km, nog 2 km, nog 1 km', 'nog ', 'nog 3km, nog 2km, nog 1 km', 'nog 3 km nog 2 km nog 1 km', 'nog 3 km, nog 2 km, nog 1 km']",no,nog
+textvqa,34857,tta_wrong_as_right,"['ted 5000', 'ted', 'ted 5000', 'ted', 'ted', 'ted', 'ted', 'ted', 'the energy dectetive', 'ted']",ted.com,ted
+textvqa,35072,tta_wrong_as_right,"['genders', 'restroom identities', 'gender of toilet rooms', 'gentle', 'what gender each toilet is for', 'gender', 'gentle', 'toilets for ladies and gentlemen', 'ladies and gentlemen', 'toilet']",sex,toilet
+textvqa,35087,tta_wrong_as_right,"['playstation 2', 'playstation 2', 'playstation 2', 'playstation 2', 'playstation 2', 'playstation 2', 'playstation2', 'playstation 2', 'playstation 2', 'playstation 2']",unanswerable,playstation 2
+textvqa,35192,tta_wrong_as_right,"['lee hong ', 'lee hong', 'lee hong', 'lee hong', 'what', 'lee hong', 'lee hong', 'lee hong', 'lee hong', 'lee hong']",unanswerable,lee hong
+textvqa,35322,tta_correct_as_wrong,"['skol', 'skol', 'skol', 'skol', 'skol', 'skol', 'skol', 'skol', 'skol', 'skol']",skol,skl
+textvqa,35352,tta_wrong_as_right,"['mamette pipi', 'dear', 'animals', 'mamette', 'pim, mamette', 'pim, mamette, kara', 'unanswerable', 'pim, mamette', 'mamette, pipi', 'mamette']",pim and kari,mamette
+textvqa,35377,tta_correct_as_wrong,"['anvil ', 'hardcast', 'carlisle', 'carlisle', 'hardcast', 'carlisle', 'hardcast', 'hardcast', 'carlisle', 'carlisle']",hardcast,flexibleductconnector
+textvqa,35387,tta_correct_as_wrong,"['08/24/13', '08/24/2013', '2013', '08/24/13', '08/24/13', '08/24/13', '08/24/13', '08/24/2013', '08/24/13', '8/24/13']",08/24/13,unanswerable
+textvqa,35397,tta_correct_as_wrong,"['dignity', 'a dignity memorial ', 'dignity', 'dignity', 'dignity', 'dignity', 'dogmotu', 'diginity memorial', 'dignity', 'dignity']",dignity,cemetery
+textvqa,35407,tta_wrong_as_right,"['4', '4', 'par 4', '4', '4', 'par 4', '4', '4', '4', '4']",14,4
+textvqa,35457,tta_wrong_as_right,"['""a little""', 'a litle', 'a little ', 'a little', 'little', 'give a little', 'a little', 'a little time ', 'a little', 'a lot']",unanswerable,a lot
+textvqa,35502,tta_correct_as_wrong,"['619', '617', '617', '617', '617', '617', '617', '617', '617', '617']",617,jct
+textvqa,35577,tta_wrong_as_right,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'unanswerable', 'yes', 'yes ']",no,yes
+textvqa,35587,tta_correct_as_wrong,"['valerie', 'valerie', 'valerie', 'valerie', 'valerie', 'valerie', 'valerie', 'valerie', 'valerie ', 'vallerie']",valerie,klock
+textvqa,35602,tta_correct_as_wrong,"['buckminister fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller']",buckminster fuller,buckminster
+textvqa,35642,tta_correct_as_wrong,"['unanswerable', 'answering does not require reading text in the image', 'unanswerable', 'no', 'no', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable']",no,yes
+textvqa,35677,tta_wrong_as_right,"['online', 'paid online', 'online', 'online', 'online', 'online', 'online', 'online', 'online', 'online']",argos,online
+textvqa,35782,tta_correct_as_wrong,"['long time together', 'long time together', 'unanswerable', 'unanswerable', 'an opinion', 'an opinion like this', 'unanswerable', 'an opinion', '*an opinion like this should feel fuperfluous to him who knows, that the great father the universe is perpetually present to all his actions; but, alas, the human mind feems incapable of retaining that great idea for any long time together.', 'long time together']",unanswerable,the young man dries up his tears
+textvqa,35842,tta_wrong_as_right,"['whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps', 'whitecaps']",unanswerable,whitecaps
+textvqa,35877,tta_wrong_as_right,"['loop', 'loopholes', 'loopholes', 'loop', 'loopholes', 'loopholes', 'loopholes', 'loopholes', 'loopholes', 'loopholes']",baseball,loopholes
+textvqa,35932,tta_correct_as_wrong,"['chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi dom', 'chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi-dom', 'chess and nazi-dom']",chess and nazi-dom,chess and nazism
+textvqa,36127,tta_correct_as_wrong,"['40', 'u.s. highway 40', '40', '40', 'u.s. highway 40', 'u.s. highway 40 is shown.3', 'us highway 40', 'bob anderson', 'u>s> highway 40', '40']",u.s. highway 40,u.s
+textvqa,36192,tta_correct_as_wrong,"['wal-e', 'wall-e', 'elephants drems', 'wall-e', 'wall-e', 'wall-e', 'wall-e', 'wall-e', 'wall-e/antitrust', 'wall-e']",wall-e,elephants dream
+textvqa,36222,tta_wrong_as_right,"['apologia', 'an oounce of loyalty', 'apologiea', 'apologia', 'apologia', 'apologia', 'apologia', 'apologia', 'apologia', 'apologia']",apology,apologia
+textvqa,36232,tta_wrong_as_right,"['to christ', 'to christ', 'christ', 'christ', 'christ', 'other christians', 'christ', 'to christ ', 'christ', 'christ']",christians,christ
+textvqa,36322,tta_wrong_as_right,"['edwards', 'edwards', 'edwards', 'edwards', 'edwards', 'the dead rabbit', 'edwards', 'edwards', 'gene edwards', 'edwards']",gene,edwards
+textvqa,36407,tta_wrong_as_right,"['sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners', 'sunliners']",vf-8,sunliners
+textvqa,36507,tta_wrong_as_right,"['6', '6', '6', '6', '6', '6', '6', '6', '6', '6']",5,6
+textvqa,36672,tta_correct_as_wrong,"['10', '10', '10', '10', '10', '0', '10', '10', '0', '10']",10,67
+textvqa,36747,tta_wrong_as_right,"['philadelphia insurance company', 'philadelphia insurance', 'unanswerable', 'unanswerable', 'philadelphia insurance company', 'philadelphia insurance', 'unanswerable', 'philadelphia insurance', 'unanswerable', 'unanswerable']",subway,unanswerable
+textvqa,36862,tta_wrong_as_right,"['veteran', 'veteran', 'veteran', 'vetera', 'veterans', 'veteran', 'veteran', 'vetera', 'veterans', 'veteran']",yes,veterans
+textvqa,36872,tta_correct_as_wrong,"['forever in debt. ', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt', 'forever in debt']",forever in debt,forever
+textvqa,36887,tta_wrong_as_right,"['2 ba-2-1-07', '47', '2ba 2 1 07', '2 ba-2-1-07', '2 ba-2-1-07', '2ba-2-1-07', '2 ba-2-1-07', 'unanswerable', 'unanswerable', '2ba-2-1-07']",28a-2-1-07,2ba2-1-07
+textvqa,36907,tta_wrong_as_right,"['old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller', 'old yeller ']",disney's old yeller,old yeller
+textvqa,36992,tta_correct_as_wrong,"['amarone', 'amarone', 'amarone', 'amarone', 'amarone', 'a red wine', 'amarone', 'amarone', 'amarone', 'amarone']",amarone,amaro
+textvqa,37002,tta_correct_as_wrong,"['westland', 'george washington', 'george washington', 'straight', 'george washington', 'george washington straight rye whiskey', 'george washington', 'george washington', 'george washington', 'george washington']",george washington,hudson
+textvqa,37032,tta_correct_as_wrong,"['unnaer', ""unna'er"", 'unnaer', 'unnaer', ""unna'er"", 'fuhrung mit turmbesteigung', 'unnaer', 'unnaer', 'unnaer', 'unnaer']",unnaer,fuhrun
+textvqa,37067,tta_correct_as_wrong,"['amma', 'amma', 'amma', 'amma', 'amma chocolate ', 'amma', 'amma', 'amma', 'amma', 'amma']",amma,amla
+textvqa,37237,tta_wrong_as_right,"['lavazza', 'lavazza', 'lavazza', 'lavazza', 'lavazza', 'lavatia', 'zavazza', 'lavazza', 'lavazza', 'lavalla']",identita,lavazza
+textvqa,37252,tta_wrong_as_right,"['4', '4', '4', '4', '4', '4', '4', '4', '4', '4']",353,4
+textvqa,37677,tta_correct_as_wrong,"['ringdoll', 'ringdoll', 'ringdoll', 'doll', 'doll', 'ringdoll', 'ringdoll', 'ringdoll', 'ringdoll', 'ringdoll']",ringdoll,ring doll
+textvqa,37692,tta_wrong_as_right,"['nearest recruiting office', 'the nearest recruiting offfice', 'nearest recruiting office', 'the nearest recruiting office', 'the nearest recruiting office', 'the nearest recruiting office', 'recruiting office', 'recruiting office', 'the nearest recruiting office ', 'nearest recruiting office']",office,nearest recruiting office
+textvqa,37707,tta_correct_as_wrong,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'not a question']",yes,no
+textvqa,37777,tta_wrong_as_right,"['dap 2288', 'dap 2288', 'dap', 'dap22?', 'dap2288', 'dap 2288', 'dap 2288', 'looks like it\'s ""dap two two eight eight"". ', 'dap 2288', 'dap 2288']",dap 2280,dap 2288
+textvqa,37807,tta_wrong_as_right,"['white', 'no ', 'no', 'no', 'white', 'no', 'no', 'no', 'white', 'answering does not require reading text in the image']",black,white
+textvqa,37987,tta_wrong_as_right,"['america', 'america', 'america', 'america', 'america', 'america', 'america', 'america', 'america', 'america']",unanswerable,america
+textvqa,38132,tta_wrong_as_right,"['mercedes-benz travego ', 'mercedes-benz travego', 'mercedes travego', 'mercedes benz ', 'euro vi coach', 'mercedes-benz travego', 'mercedez benz travego', 'mercedes benz travego', 'euro vi coach', 'mercedes benz travego']",travego,mercedes benz
+textvqa,38172,tta_correct_as_wrong,"['06 ago 07', '15 august 07', 'august 15', '15 august 07', '15 ago 07', '15 ago 07', 'unanswerable', '8/15/07', '15 ago 07', '15 august 2007']",15 ago 07,15 ao 07
+textvqa,38372,tta_wrong_as_right,"['perulla pietre rolando picteo', 'rolando pieteo', 'rolando pieteo', 'unanswerable', 'rolando picteo', 'unanswerable', 'parollo pierlre rolando picteo', 'rolando pietro', 'perottio pielre rolfano picteo', 'rolando picted']",solano,unanswerable
+textvqa,38402,tta_correct_as_wrong,"['extra', 'extra', 'extra', 'extra', 'extra', 'ick', 'extra', 'extra', 'extra', 'extra']",extra,dubbel
+textvqa,38457,tta_correct_as_wrong,"['habana', 'habana', 'habana', 'habana', 'habana', 'habana', 'habana', 'habana', 'habana', 'habana']",habana,star
+textvqa,38537,tta_wrong_as_right,"['25', '25', '25', '25', '25', '25', '25', '25', '17', '25']",10,25
+textvqa,38562,tta_wrong_as_right,"['no', 'no', 'no', 'no', 'no', 'no, it is not.', 'no', 'no', 'no', 'no']",yes,no
+textvqa,38567,tta_wrong_as_right,"['go west', 'go west', 'go west!', 'go west', 'go west!', 'go west ', 'go west!', 'wills capstan', 'go west!', 'gowest']",unanswerable,go west
+textvqa,38572,tta_correct_as_wrong,"[""qatar it's time to lead"", ""qatar it's time to lead"", ""qatar it's time to lead"", ""qatar it's time to lead"", ""qatar it's time to lead"", ""qatar it's time to lead"", 'qatar its time to lead', ""qatar it's time to lead"", 'oatar its time to lead ', 'qatar its time to lead']",qatar it's time to lead,qatar it s time to lead
+textvqa,38617,tta_wrong_as_right,"['answering does not require reading text in the image', 'gold', 'answering does not require reading text in the image', 'answering does not require reading text in the image', 'answering does not require reading text in the image', 'gold', 'golden', 'gold', 'gold/brass', 'answering does not require reading text in the image']",orange,gold
+textvqa,38712,tta_wrong_as_right,"['medstar emergency ', 'emergency matthew', 'meister emergency', 'medstar emergency', 'medstar emergency', 'medstar emergency', 'medstar emergency', 'emergency', 'medstar emergency', 'medstar emergency matthew']",medstar,medstar emergency
+textvqa,38732,tta_correct_as_wrong,"['paddy reillys', 'paddy reillys', 'paddy rellys', 'paddy reillys', 'paddy reillys ', ""paddy reilly's"", ""paddy reilly's"", 'paddy reillys', 'paddy reillys', ""paddy reill'ys""]",paddy reillys,parady reillys
+textvqa,38787,tta_correct_as_wrong,"['miramar', 'sf', 'se', 'g', 'sf', 'sd', 's & f', 'sf', 'sf', 'sf']",sf,gia
+textvqa,38912,tta_wrong_as_right,"['travel', 'unanswerable', 'travel', 'travel', 'travel', 'guravel', 'travel', 'travel', 'travel', 'travel']",library,unanswerable
+textvqa,38937,tta_wrong_as_right,"['quadrille', 'unanswerable', 'quadrille balenciaga', 'quadrille', 'unanswerable', 'quadrille', 'quadrille balenciaga', 'quadrille', 'quadrille balencia paris', 'quadrille']",quadrile balenciaga,quadrille balenciaga
+textvqa,39142,tta_correct_as_wrong,"['proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls', 'proof of pearls']",proof of pearls,proof
+textvqa,39257,tta_correct_as_wrong,"['sorteo navidad', 'sorteo navidad', 'loteria nacional', 'ormaechea', 'sorteo navidad', 'ormaechea', 'otro prmio', 'otro premio', 'otro premio', 'otro premio']",ormaechea,loteria ormachea
+textvqa,39422,tta_correct_as_wrong,"['10', '6', '6', '6', 'gumy', '6', '6', '6', '6', '6']",6,2
+textvqa,39437,tta_correct_as_wrong,"[""dominic's"", 'dominics', ""dominic's italian sausage"", ""dominic's"", 'real estate commissions', ""dominic's"", ""dominic's"", ""dominic's"", ""domino's italian sausage"", ""dominic's""]",dominics,domincs
+textvqa,39492,tta_correct_as_wrong,"['manz', '4001-4053 ravenswood ave. chicago, ill', '4001-4053 ravenswood ave. chicago, ill.', '4001-4053 ravenswood ave. chicago, ill.', '4001-4053 ravenswood ave', '4001-4053 ravenswood ave chicago ill', '4001-4053 ravenswood ave. chicago, ill.', '4001-4053 ravenswood ave chicaago, ill', '4001-4053 ravenswood ave. chicago, ill', '4001-4053 ravenswood ave. chicago,ill.']",4001-4053 ravenswood ave,4001-4053 ravenwood ave
+textvqa,39517,tta_correct_as_wrong,"['caerago b poccnn', 'no', 'no', 'no', 'no', 'no', 'no', 'portugal', 'no', 'no']",no,yes
+chartqa,49,tta_wrong_as_right,83,0.83,83
+chartqa,61,tta_wrong_as_right,28,26,28
+chartqa,67,tta_wrong_as_right,4.1,7.5,4.1
+chartqa,71,tta_correct_as_wrong,93.45,93.45,0.9345
+chartqa,79,tta_wrong_as_right,U.S.,UK,U.S
+chartqa,97,tta_wrong_as_right,50,44,50
+chartqa,195,tta_correct_as_wrong,No role,No role,A minor role
+chartqa,199,tta_correct_as_wrong,5.32,5.32,Libya
+chartqa,213,tta_wrong_as_right,2,3,2
+chartqa,221,tta_correct_as_wrong,27.5,27.5,0.275
+chartqa,253,tta_wrong_as_right,40.7,0.4,40.7
+chartqa,301,tta_wrong_as_right,Deaths from HIV/AIDS,"[Number of people living with HIV (x10), Deaths from HIV/AIDS]",[Deaths from HIV/AIDS]
+chartqa,337,tta_wrong_as_right,brown,Orange,Brown
+chartqa,341,tta_correct_as_wrong,53.9,53.9,59.5
+chartqa,359,tta_wrong_as_right,North America,Eritrea,North America
+chartqa,371,tta_correct_as_wrong,4,4,3
+chartqa,399,tta_wrong_as_right,Belize,Nepal,Belize
+chartqa,411,tta_correct_as_wrong,50-69 years old,50-69 years old,70+ years old
+chartqa,439,tta_wrong_as_right,4,5,4
+chartqa,471,tta_wrong_as_right,37,0.37,37
+chartqa,479,tta_correct_as_wrong,3,3,10
+chartqa,483,tta_wrong_as_right,71,0.71,71
+chartqa,513,tta_wrong_as_right,47,47.0,47
+chartqa,649,tta_wrong_as_right,Russian Federation,Russia,Russian Federation
+chartqa,651,tta_wrong_as_right,2009,2010,2009
+chartqa,657,tta_wrong_as_right,3,1,3
+chartqa,673,tta_correct_as_wrong,Periscope,Periscope,Other
+chartqa,687,tta_correct_as_wrong,2,2,3
+chartqa,699,tta_wrong_as_right,Netherlands,UK,Netherlands
+chartqa,729,tta_correct_as_wrong,NFL (2016),NFL (2016),NFL
+chartqa,789,tta_wrong_as_right,28.49,28.87,28.49
+chartqa,797,tta_wrong_as_right,20,12,20
+chartqa,849,tta_correct_as_wrong,WhatsApp,WhatsApp,Facebook Messenger
+chartqa,853,tta_wrong_as_right,108,55,108
+chartqa,865,tta_wrong_as_right,2019,2009,2019
+chartqa,867,tta_correct_as_wrong,58,58,59
+chartqa,869,tta_correct_as_wrong,5,5,4
+chartqa,927,tta_correct_as_wrong,6.2,6.2,5.5
+chartqa,971,tta_wrong_as_right,16,17,16
+chartqa,979,tta_wrong_as_right,12.99,18.43,12.99
+chartqa,983,tta_wrong_as_right,gray,navy blue,gray
+chartqa,987,tta_wrong_as_right,5,4,5
+chartqa,1003,tta_correct_as_wrong,317,317,601
+chartqa,1085,tta_wrong_as_right,No,Yes,No
+chartqa,1137,tta_wrong_as_right,35 to 44,25 to 34,35 to 44
+chartqa,1155,tta_correct_as_wrong,2,2,16
+chartqa,1179,tta_correct_as_wrong,43.4,43.4,32.8
+chartqa,1183,tta_wrong_as_right,31.01,29.26,31.01
+chartqa,1201,tta_wrong_as_right,23,9,23
+chartqa,1219,tta_correct_as_wrong,Same,Same,More
+chartqa,1255,tta_wrong_as_right,36,30,36
+chartqa,1303,tta_correct_as_wrong,2008,2008,2009
+chartqa,1317,tta_wrong_as_right,14766,14506,14766
+chartqa,1377,tta_wrong_as_right,47,38,47
+chartqa,1401,tta_wrong_as_right,6607,25101,6607
+chartqa,1411,tta_correct_as_wrong,47438,47438,144498
+chartqa,1425,tta_correct_as_wrong,30.22,30.22,33.99
+chartqa,1493,tta_wrong_as_right,13.52,13.2,13.52
+chartqa,1507,tta_wrong_as_right,1.6,1.5,1.6
+chartqa,1527,tta_wrong_as_right,2014,2012,2014
+chartqa,1593,tta_wrong_as_right,Heart disease,Cancer,Heart disease
+chartqa,1817,tta_correct_as_wrong,3069,3069,3039
+chartqa,1825,tta_wrong_as_right,3.9,3.3,3.9
+chartqa,1867,tta_correct_as_wrong,1999,1999,2000
+chartqa,1983,tta_wrong_as_right,63086,162189,63086
+ocrvqa,1610463633_0,tta_wrong_as_right,Brush Dance,Bruschi.,Brush Dance
+ocrvqa,177046087X_2,tta_correct_as_wrong,Comics & Graphic Novels,Comics & Graphic Novels,Comics.
+ocrvqa,160978605X_2,tta_correct_as_wrong,Test Preparation,Test Preparation.,Science & Math
+ocrvqa,1451628323_4,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,146831002X_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,819574058_3,tta_wrong_as_right,Yes,No.,Yes
+ocrvqa,966264959_3,tta_wrong_as_right,Yes,No.,Yes
+ocrvqa,738561940_3,tta_correct_as_wrong,Yes,Yes.,No.
+ocrvqa,8401015561_3,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,385537565_1,tta_correct_as_wrong,Empire of Self: A Life of Gore Vidal,Empire of Self: A Life of Gore Vidal,Empire of Self
+ocrvqa,374531056_2,tta_wrong_as_right,Literature & Fiction,Fiction.,Literature & Fiction.
+ocrvqa,964920549_0,tta_wrong_as_right,Dave Grossman,Col. Dave Grossman.,Dave Grossman.
+ocrvqa,873419332_1,tta_wrong_as_right,Engineering & Transportation,Automotive.,Engineering & Transportation
+ocrvqa,1610915836_1,tta_wrong_as_right,Urban Acupuncture,Urban Acupuncture: Celebrating Pinks of Change that Enrich City Life.,Urban Acupuncture
+ocrvqa,762453966_1,tta_correct_as_wrong,Sea Salt Sweet: The Art of Using Salts for the Ultimate Dessert Experience,Sea Salt Sweet: The Art of Using Salts for the Ultimate Dessert Experience.,Sea Salt Sweet
+ocrvqa,1988002095_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,929975340_2,tta_correct_as_wrong,"Crafts, Hobbies & Home","Crafts, Hobbies & Home.",Reference.
+ocrvqa,185149667X_2,tta_correct_as_wrong,"Crafts, Hobbies & Home","Crafts, Hobbies & Home",Biographies & Memoirs
+ocrvqa,041583614X_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,1451568177_2,tta_correct_as_wrong,"Crafts, Hobbies & Home","Crafts, Hobbies & Home.",Crafts.
+ocrvqa,9081513214_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,847836525_2,tta_correct_as_wrong,Arts & Photography,Arts & Photography,Arts and Photography
+ocrvqa,486477495_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,495804703_3,tta_correct_as_wrong,Yes,Yes.,No.
+ocrvqa,596514921_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,762447699_1,tta_correct_as_wrong,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,You Are a Badass
+ocrvqa,1618370855_3,tta_correct_as_wrong,No,No,Yes
+ocrvqa,399168125_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,8441536538_3,tta_wrong_as_right,Yes,No.,Yes
+ocrvqa,979510228_4,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,826123686_1,tta_correct_as_wrong,Fast Facts for the Operating Room Nurse: An Orientation and Care Guide in a Nutshell,Fast Facts for the Operating Room Nurse: An Orientation and Care Guide in a Nutshell,Fast Facts for the Operating Room Nurse
+ocrvqa,1416587098_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,3836549220_1,tta_correct_as_wrong,Science & Math,Science & Math.,Science Fiction
+ocrvqa,824771117_2,tta_correct_as_wrong,Science & Math,Science & Math.,Science.
+ocrvqa,195140923_3,tta_correct_as_wrong,Yes,Yes.,No.
+ocrvqa,B00IEWX2ZG_3,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,195340809_0,tta_correct_as_wrong,Alexander R Lucas,Alexander R. Lucas,Alexander R. Lucas M.D.
+ocrvqa,1591848032_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,1569245215_2,tta_wrong_as_right,"Health, Fitness & Dieting",Medical Books,"Health, Fitness & Dieting."
+ocrvqa,722524013_2,tta_correct_as_wrong,"Health, Fitness & Dieting","Health, Fitness & Dieting.",Self-help.
+ocrvqa,805089586_2,tta_wrong_as_right,"Health, Fitness & Dieting",Self-Help.,"Health, Fitness & Dieting."
+ocrvqa,142005045_0,tta_correct_as_wrong,Philip Friedman,Philip Friedman.,Philip Friedman and Gail Eisen
+ocrvqa,1492755796_1,tta_wrong_as_right,Jailhouse Strong,Nail House Strong,Jailhouse Strong
+ocrvqa,1936303663_2,tta_correct_as_wrong,"Health, Fitness & Dieting","Health, Fitness & Dieting.",Medical Books
+ocrvqa,743228979_4,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,688166350_1,tta_wrong_as_right,The Artist's Way at Work: Riding the Dragon,The Artist's Way at Work,The Artist's Way at Work: Riding the Dragon
+ocrvqa,553371312_1,tta_wrong_as_right,Getting Past No: Negotiating in Difficult Situations,Getting Past No.,Getting past no negotiating in difficult situations
+ocrvqa,472030221_1,tta_correct_as_wrong,Slaves to Fashion: Poverty and Abuse in the New Sweatshops,Slaves to Fashion: Poverty and Abuse in the New Sweatshops,Slaves to Fashion.
+ocrvqa,1511697423_2,tta_wrong_as_right,Business & Money,Self-Help.,Business & Money.
+ocrvqa,9089791280_1,tta_wrong_as_right,Turning Points in Environmental Negotiation: Exploring Conflict Resolution Dynamics in Domestic and International Cases,Turning Points in Environmental Negotiation.,Turning Points in Environmental Negotiation: Exploring Conflict Resolution Dynamics in Domestic and International Cases.
+ocrvqa,470583770_0,tta_wrong_as_right,Yoram Koren,Yoran Koren.,Yoram Koren
+ocrvqa,8495787806_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,1557668639_4,tta_wrong_as_right,No,Yes.,No.
+ocrvqa,030795949X_1,tta_correct_as_wrong,A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service,A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service,A Passion for Leadership
+ocrvqa,618448330_0,tta_wrong_as_right,Sheryl Lindsell-Roberts,Sheryl Lindsell Roberts.,Sheryl Lindsell-Roberts.
+ocrvqa,521604664_1,tta_correct_as_wrong,"The Rise of Bronze Age Society: Travels, Transmissions and Transformations","The Rise of Bronze Age Society: Travels, Transmissions and Transformations",The Rise of Bronze Age Society
+ocrvqa,425273008_1,tta_correct_as_wrong,Bloody Ridge and Beyond: A World War II Marine's Memoir of Edson's Raiders in the Pacific,Bloody Ridge and Beyond: A World War II Marine's Memoir of Edson's Raiders in the Pacific,Bloody Ridge and Beyond
+ocrvqa,199764867_3,tta_wrong_as_right,Yes,No.,Yes
+ocrvqa,1583940839_1,tta_wrong_as_right,The Reincarnation of Edgar Cayce?: Interdimensional Communication and Global Transformation,The Reincarnation of Edgar Cayce,The Reincarnation of Edgar Cayce: Interdimensional Communication and Global Transformation.
+ocrvqa,199357544_0,tta_correct_as_wrong,Lester M. Salamon,Lester M. Salamon.,Lester M. Salmon
+ocrvqa,1597752134_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,1400317207_3,tta_wrong_as_right,Yes,No.,Yes.
+ocrvqa,609803980_3,tta_correct_as_wrong,Yes,Yes,No.
+ocrvqa,1555401813_2,tta_wrong_as_right,Religion & Spirituality,Study.,Religion & Spirituality
+ocrvqa,089281408X_1,tta_wrong_as_right,The Nature of Things: The Secret Life of Inanimate Objects,The Nature of the Secret Life of Inanimate Objects,The Nature of Things: The Secret Life of Inanimate Objects
+ocrvqa,080701205X_2,tta_correct_as_wrong,Religion & Spirituality,Religion & Spirituality.,Politics.
+ocrvqa,145600316X_4,tta_correct_as_wrong,No,No.,Yes.
+ocrvqa,1507646364_2,tta_correct_as_wrong,Sports & Outdoors,Sports & Outdoors.,"Health, Fitness & Dieting."
+ocrvqa,1879233207_1,tta_wrong_as_right,An Introduction to Programming Using Microsoft Visual Basic: Versions 5 and 6,An Introduction to Programming Using Microsoft Visual Basic.,An Introduction to Programming Using Microsoft Visual Basic Versions 5 and 6.
+ocrvqa,1442417048_2,tta_wrong_as_right,Children's Books,Science Fiction.,Children's Books
+ocrvqa,1898323933_0,tta_correct_as_wrong,Ross Velton,Ross Velton.,Ross Veiton
+ocrvqa,1845115120_1,tta_wrong_as_right,Mysteries of the Gobi: Searching for Wild Camels and Lost Cities in the Heart of Asia,Mysteries of the Gobi,Mysteries of the Gobi: Searching for Wild Camels and Lost Cities in the Heart of Asia
+ocrvqa,1496994078_1,tta_correct_as_wrong,Show Me the Money: Where Did All the Aid and Money Go After Typhoon Yolanda in the Philippines November 2013,Show Me the Money: Where Did All the Aid and Money Go After Typhoon Yolanda in the Philippines November 2013,Show Me The Money.
+ai2d,81409,tta_wrong_as_right,C,A,C
+ai2d,456000,tta_wrong_as_right,C,B,C
+ai2d,214304,tta_wrong_as_right,D,B,D
+ai2d,199708,tta_wrong_as_right,B,C,B
+ai2d,284202,tta_correct_as_wrong,A,A,D
+ai2d,43801,tta_wrong_as_right,A,C,A
+ai2d,44100,tta_wrong_as_right,A,D,A
+ai2d,236002,tta_wrong_as_right,D,B,D
+ai2d,187000,tta_wrong_as_right,A,B,A
+ai2d,228404,tta_correct_as_wrong,A,A,D
+ai2d,418801,tta_correct_as_wrong,C,C,D
+ai2d,187207,tta_correct_as_wrong,C,C,D
+ai2d,227201,tta_correct_as_wrong,C,C,D
+ai2d,47107,tta_wrong_as_right,C,B,C
+ai2d,202608,tta_correct_as_wrong,B,B,D
+ai2d,232000,tta_correct_as_wrong,C,C,B
+ai2d,110901,tta_wrong_as_right,D,A,D
+ai2d,41000,tta_correct_as_wrong,B,B,C
+ai2d,49509,tta_correct_as_wrong,A,A,D
+ai2d,29401,tta_wrong_as_right,A,B,A
+ai2d,471900,tta_correct_as_wrong,C,C,A
+ai2d,291002,tta_wrong_as_right,C,B,C
+ai2d,269900,tta_wrong_as_right,B,D,B
+ai2d,33705,tta_wrong_as_right,C,D,C
+ai2d,39700,tta_wrong_as_right,A,D,A
+ai2d,178102,tta_correct_as_wrong,A,A,B
+ai2d,384000,tta_wrong_as_right,C,A,C
+ai2d,355502,tta_correct_as_wrong,B,B,C
+ai2d,59800,tta_wrong_as_right,C,B,C
+ai2d,421400,tta_wrong_as_right,C,A,C
+ai2d,217903,tta_correct_as_wrong,D,D,B
+ai2d,220802,tta_wrong_as_right,C,A,C
+ai2d,198302,tta_wrong_as_right,D,A,D
+ai2d,128703,tta_correct_as_wrong,B,B,C
+ai2d,103601,tta_correct_as_wrong,C,C,B
+ai2d,8000,tta_wrong_as_right,D,B,D
+ai2d,49606,tta_wrong_as_right,B,A,B
+ai2d,5600,tta_correct_as_wrong,A,A,D
+ai2d,274502,tta_wrong_as_right,B,C,B
+ai2d,0,tta_correct_as_wrong,D,D,C
+ai2d,100301,tta_wrong_as_right,B,D,B
+ai2d,126602,tta_wrong_as_right,B,D,B
+ai2d,473100,tta_correct_as_wrong,C,C,B
+ai2d,13001,tta_wrong_as_right,C,D,C
+ai2d,370400,tta_correct_as_wrong,D,D,C
+ai2d,143102,tta_wrong_as_right,B,C,B
+ai2d,208109,tta_wrong_as_right,B,D,B
+ai2d,435201,tta_wrong_as_right,B,A,B
+ai2d,3404,tta_wrong_as_right,A,C,A
+ai2d,37201,tta_correct_as_wrong,B,B,D
+ai2d,178305,tta_correct_as_wrong,C,C,D
+ai2d,387400,tta_correct_as_wrong,A,A,B
+ai2d,263400,tta_correct_as_wrong,B,B,D
+ai2d,263404,tta_correct_as_wrong,D,D,C
+ai2d,182601,tta_correct_as_wrong,C,C,A
+ai2d,99302,tta_correct_as_wrong,B,B,D
+mme_rw,23204,tta_wrong_as_right,A,B,A
+mme_rw,22819,tta_correct_as_wrong,D,D,B
+mme_rw,22406,tta_wrong_as_right,A,D,A
+mme_rw,23069,tta_wrong_as_right,A,B,A
+mme_rw,23436,tta_wrong_as_right,C,D,C
+mme_rw,22895,tta_correct_as_wrong,B,B,A
+mme_rw,328,tta_correct_as_wrong,A,A,C
+mme_rw,412,tta_wrong_as_right,A,D,A
+mme_rw,718,tta_correct_as_wrong,B,B,D
+mme_rw,97,tta_wrong_as_right,A,D,A
+mme_rw,604,tta_correct_as_wrong,A,A,B
+mme_rw,293,tta_wrong_as_right,A,B,A
+mme_rw,486,tta_correct_as_wrong,B,B,D
+mme_rw,218,tta_wrong_as_right,A,B,A
+mme_rw,696,tta_wrong_as_right,C,B,C
+mme_rw,209,tta_wrong_as_right,B,D,B
+mme_rw,428,tta_wrong_as_right,A,B,A
+mme_rw,548,tta_wrong_as_right,D,A,D
+mme_rw,745,tta_wrong_as_right,A,B,A
+mme_rw,1578,tta_wrong_as_right,B,D,B
+mme_rw,2257,tta_wrong_as_right,B,D,B
+mme_rw,2102,tta_correct_as_wrong,A,A,D
+mme_rw,2149,tta_correct_as_wrong,C,C,D
+mme_rw,2091,tta_wrong_as_right,A,D,A
+mme_rw,2185,tta_wrong_as_right,C,D,C
+mme_rw,2281,tta_correct_as_wrong,A,A,D
+mme_rw,2314,tta_wrong_as_right,D,C,D
+mme_rw,2285,tta_wrong_as_right,B,D,B
+mme_rw,2309,tta_correct_as_wrong,A,A,B
+mme_rw,2511,tta_correct_as_wrong,D,D,C
+mme_rw,2548,tta_wrong_as_right,D,E,D
+mme_rw,2877,tta_wrong_as_right,D,A,D
+mme_rw,2893,tta_correct_as_wrong,C,C,D
+mme_rw,2657,tta_wrong_as_right,A,E,A
+mme_rw,2864,tta_correct_as_wrong,C,C,D
+mme_rw,3164,tta_wrong_as_right,A,E,A
+mme_rw,2524,tta_correct_as_wrong,C,C,E
+mme_rw,3242,tta_wrong_as_right,C,B,C
+mme_rw,3559,tta_correct_as_wrong,B,B,D
+mme_rw,3351,tta_wrong_as_right,B,D,B
+mme_rw,3626,tta_correct_as_wrong,A,A,E
+mme_rw,3362,tta_correct_as_wrong,B,B,C
+mme_rw,3782,tta_wrong_as_right,D,B,D
+mme_rw,3778,tta_correct_as_wrong,A,A,C
+mme_rw,3889,tta_wrong_as_right,A,B,A
+mme_rw,3732,tta_wrong_as_right,D,A,D
+mme_rw,3890,tta_correct_as_wrong,C,C,B
+mme_rw,3870,tta_correct_as_wrong,D,D,C
+mme_rw,3666,tta_wrong_as_right,D,A,D
+mme_rw,4026,tta_correct_as_wrong,B,B,E
+mme_rw,4004,tta_correct_as_wrong,C,C,E
+mme_rw,4054,tta_correct_as_wrong,B,B,E
+mme_rw,3991,tta_correct_as_wrong,D,D,E
+mme_rw,3982,tta_correct_as_wrong,C,C,E
+mme_rw,4201,tta_wrong_as_right,D,C,D
+mme_rw,4162,tta_correct_as_wrong,A,A,D
+mme_rw,4083,tta_wrong_as_right,D,C,D
+mme_rw,4270,tta_wrong_as_right,B,C,B
+mme_rw,4366,tta_correct_as_wrong,C,C,B
+mme_rw,4329,tta_correct_as_wrong,B,B,A
+mme_rw,4353,tta_wrong_as_right,C,B,C
+mme_rw,4297,tta_wrong_as_right,B,D,B
+mme_rw,4548,tta_correct_as_wrong,A,A,D
+mme_rw,4629,tta_wrong_as_right,B,D,B
+mme_rw,4621,tta_correct_as_wrong,B,B,D
+mme_rw,4668,tta_wrong_as_right,B,D,B
+mme_rw,4612,tta_wrong_as_right,C,D,C
+mme_rw,4769,tta_correct_as_wrong,D,D,A
+mme_rw,4756,tta_correct_as_wrong,A,A,D
+mme_rw,4762,tta_wrong_as_right,A,D,A
+mme_rw,4786,tta_correct_as_wrong,A,A,C
+mme_rw,4796,tta_wrong_as_right,C,B) yielding,C
+mme_rw,4748,tta_wrong_as_right,D,A,D
+mme_rw,4802,tta_wrong_as_right,A,D,A
+mme_rw,4879,tta_wrong_as_right,D,B,D
+mme_rw,4853,tta_wrong_as_right,C,A,C
+mme_rw,4865,tta_correct_as_wrong,A,A,D
+mme_rw,4904,tta_correct_as_wrong,D,D,B
+mme_rw,4943,tta_wrong_as_right,A,D,A
+mme_rw,4912,tta_correct_as_wrong,C,C,D
+mme_rw,4938,tta_wrong_as_right,D,A,D
+mme_rw,5819,tta_wrong_as_right,D,E,D
+mme_rw,5069,tta_correct_as_wrong,A,A,E
+mme_rw,5794,tta_wrong_as_right,A,E,A
+mme_rw,5266,tta_wrong_as_right,C,E,C
+mme_rw,5777,tta_correct_as_wrong,A,A,E
+mme_rw,6062,tta_correct_as_wrong,A,A,E
+mme_rw,5053,tta_wrong_as_right,B,A,B
+mme_rw,10565,tta_wrong_as_right,C,A,C
+mme_rw,10494,tta_correct_as_wrong,D,D,A
+mme_rw,10470,tta_correct_as_wrong,C,C,E
+mme_rw,10574,tta_wrong_as_right,B,A,B
+mme_rw,10480,tta_correct_as_wrong,A,A,D
+mme_rw,10510,tta_correct_as_wrong,D,D,B
+mme_rw,10548,tta_wrong_as_right,C,D,C
+mme_rw,6553,tta_wrong_as_right,D,E,D
+mme_rw,7598,tta_wrong_as_right,D,E,D
+mme_rw,9984,tta_wrong_as_right,A,D,A
+mme_rw,7517,tta_correct_as_wrong,D,D,A
+mme_rw,7912,tta_correct_as_wrong,A,A,B
+mme_rw,9873,tta_wrong_as_right,B,D,B
+mme_rw,8365,tta_wrong_as_right,A,E,A
+mme_rw,7660,tta_correct_as_wrong,B,B,E
+mme_rw,8767,tta_correct_as_wrong,D,D,B
+mme_rw,9277,tta_correct_as_wrong,C,C,A
+mme_rw,10617,tta_correct_as_wrong,B,B,A
+mme_rw,10811,tta_correct_as_wrong,C,C,A
+mme_rw,10813,tta_correct_as_wrong,B,B,D
+mme_rw,10715,tta_correct_as_wrong,B,B,A
+mme_rw,10795,tta_wrong_as_right,A,C,A
+mme_rw,10893,tta_wrong_as_right,B,D,B
+mme_rw,10791,tta_wrong_as_right,B,D,B
+mme_rw,10852,tta_correct_as_wrong,C,C,E
+mme_rw,10733,tta_correct_as_wrong,B,B,D
+amber,1117,tta_correct_as_wrong,yes,"Yes, the grass is yellowed in this image.",The grass is not yellowed in this image.
+amber,1271,tta_wrong_as_right,yes,no,Yes
+amber,1593,tta_correct_as_wrong,yes,"Yes, the ground is clean in this image.",The ground is not clean in this image.
+amber,1621,tta_wrong_as_right,yes,The mountain is not short in this image.,Yes
+amber,1817,tta_correct_as_wrong,yes,"Yes, the beach is uneven.",The beach is not uneven.
+amber,2027,tta_wrong_as_right,yes,"No, the grass is not green.",Yes
+amber,2335,tta_wrong_as_right,yes,The beach is not uneven in this image.,"Yes, the beach is uneven in this image."
+amber,2349,tta_correct_as_wrong,yes,"Yes, the ground is dirty in this image.","No, the ground is not dirty in this image."
+amber,2363,tta_wrong_as_right,yes,The mountain is not short in this image.,yes
+amber,2405,tta_correct_as_wrong,yes,"Yes, the grass is yellow-green in this image.",The grass is yellow-green in color.
+amber,2447,tta_wrong_as_right,yes,The mountain is tall in this image.,"Yes, the mountain is tall in this image."
+amber,2475,tta_correct_as_wrong,yes,"Yes, the tree is lush in this image.",The tree is lush in this image.
+amber,2503,tta_wrong_as_right,yes,No.,yes
+amber,2825,tta_wrong_as_right,yes,The sky is not sunny in this image.,Yes
+amber,2909,tta_wrong_as_right,yes,"No, the person is snowboarding.",Yes
+amber,2979,tta_correct_as_wrong,yes,"Yes, the mountain is tall in this image.",The mountain is tall in this image.
+amber,3035,tta_correct_as_wrong,yes,"Yes, the forest is emerald in this image.","No, it is not emerald."
+amber,3063,tta_correct_as_wrong,yes,"Yes, the plane is stopped in this image.","No, the plane does not stop in this image."
+amber,3119,tta_wrong_as_right,yes,The sea is not stormy in this image.,"Yes, the sea is stormy in this image."
+amber,3147,tta_correct_as_wrong,yes,"Yes, the sea is endless in this image.",The sea is not endless in this image.
+amber,3427,tta_wrong_as_right,yes,The sky is not white in this image.,yes
+amber,3609,tta_wrong_as_right,yes,The sky is gray in this image.,Yes
+amber,3833,tta_correct_as_wrong,yes,"Yes, the forest is colorful in this image.","No, the forest is not colorful in this image."
+amber,3861,tta_wrong_as_right,yes,"The river is not calm seas in this image. The river is a natural body of water, and its surface is not smooth and still like the surface of the sea.","Yes, the river is calm."
+amber,4099,tta_correct_as_wrong,yes,"Yes, the grass is dense in this image.",The grass is not dense in this image.
+amber,4295,tta_correct_as_wrong,yes,"Yes, the ground is dry in this image.",The ground is not dry in this image.
+amber,4337,tta_wrong_as_right,yes,No,yes
+amber,4379,tta_correct_as_wrong,yes,Yes,The mirror is not irregular in this image.
+amber,4421,tta_correct_as_wrong,yes,Yes,The wall is not white in this image.
+amber,4477,tta_wrong_as_right,yes,The tree is not sparse in this image.,"Yes, the tree is sparse in this image."
+amber,4715,tta_correct_as_wrong,yes,"Yes, the ground is dirty in this image.",No
+amber,4743,tta_correct_as_wrong,yes,"Yes, the mountain is tall in this image.",The mountain is not tall in this image.
+amber,4883,tta_wrong_as_right,yes,"No, the plate is not square.",Yes
+amber,4897,tta_correct_as_wrong,yes,Yes,no
+amber,5037,tta_correct_as_wrong,yes,Yes,no
+amber,5051,tta_wrong_as_right,yes,"No, there is no table in this image.",yes
+amber,5247,tta_wrong_as_right,yes,The grass is not lively in this image.,"Yes, the grass is lively in this image."
+amber,5261,tta_correct_as_wrong,yes,"Yes, the cloud is white in this image.",The cloud is white in this image.
+amber,5541,tta_wrong_as_right,yes,The cloud is white in this image.,Yes
+amber,5611,tta_wrong_as_right,yes,"The sea is not sparkling in this image. The image shows a calm sea with a few ripples on the surface, but there are no sparkling effects.","Yes, the sea is sparkling in this image."
+amber,5681,tta_wrong_as_right,yes,"No, the cable is not messy in this image.","Yes, the cable is messy in this image."
+amber,5751,tta_wrong_as_right,yes,The ground is not clean in this image.,"Yes, the ground is clean."
+amber,5807,tta_wrong_as_right,yes,No,Yes
+amber,5877,tta_wrong_as_right,yes,The ground is not clean in this image.,Yes
+amber,6129,tta_correct_as_wrong,yes,"Yes, the grass is lively in this image.",The grass is not lively in this image.
+amber,6143,tta_wrong_as_right,yes,The sky is partly cloudy in the image.,Yes
+amber,6213,tta_correct_as_wrong,yes,"Yes, the ground is clean in this image.",The ground is clean in this image.
+amber,6353,tta_wrong_as_right,yes,The cloud is white in this image.,"Yes, the cloud is white in this image."
+amber,6451,tta_wrong_as_right,yes,The cloud is white in this image.,"Yes, the cloud is white in this image."
+amber,6465,tta_wrong_as_right,yes,The table is not tidy in this image.,Yes
+amber,6633,tta_correct_as_wrong,yes,"Yes, the sky is sunny in this image.",The sky is not sunny in this image. The sky is blue with white clouds.
+amber,6731,tta_correct_as_wrong,yes,Yes,The mountain is not short in this image.
+amber,6773,tta_wrong_as_right,yes,"No, the cloud is not white in this image.","Yes, the cloud is white in this image."
+amber,7179,tta_correct_as_wrong,yes,"Yes, the wall is smooth in this image.",The wall is not smooth in this image.
+amber,7347,tta_correct_as_wrong,yes,"Yes, the grass is lively in this image.",No
+amber,7487,tta_wrong_as_right,yes,The tree is not withered in this image.,Yes
+amber,7557,tta_wrong_as_right,yes,The grass is not lively in this image.,Yes
+amber,7641,tta_correct_as_wrong,yes,Yes,The child runs in this image.
+amber,7795,tta_correct_as_wrong,yes,"Yes, the mountain is short in this image.",The mountain is not short in this image.
+amber,7991,tta_wrong_as_right,yes,The forest is lively in this image.,"Yes, the forest is lively in this image."
+amber,8019,tta_wrong_as_right,yes,The grass in the image is not lively. It is a static image with no movement or activity.,"Yes, the grass is lively in this image."
+amber,8131,tta_correct_as_wrong,yes,"Yes, the table is clean in this image.",The table is not clean in this image.
+amber,8271,tta_wrong_as_right,yes,The ground is not clean in this image.,"Yes, the ground is clean in this image."
+amber,8299,tta_correct_as_wrong,yes,"Yes, the sky is sunny in this image.",The sky is partly cloudy in the image.
+amber,8579,tta_wrong_as_right,yes,The sky is cloudy in the image.,"Yes, the sky is sunny in this image."
+amber,8663,tta_wrong_as_right,no,"Yes, there is a sky in this image.",No.
+amber,8719,tta_correct_as_wrong,no,"No, there is no sun in this image.",Yes
+amber,8915,tta_correct_as_wrong,no,No,"Yes, there is a sky in this image."
+amber,9433,tta_wrong_as_right,no,"Yes, there is a light in this image.","No, there is no light in this image."
+amber,9531,tta_wrong_as_right,no,"Yes, there is a light in this image.",no
+amber,9587,tta_wrong_as_right,no,"Yes, there is a railing in the image.","No, there is no railing in this image."
+amber,9909,tta_correct_as_wrong,no,No,"Yes, there is a mouse in this image."
+amber,9979,tta_correct_as_wrong,no,"No, there is no lounge in this image.","Yes, there is a lounge in this image."
+amber,9993,tta_wrong_as_right,no,Yes,no
+amber,10245,tta_wrong_as_right,no,Yes,no
+amber,10329,tta_correct_as_wrong,no,No,Yes
+amber,10455,tta_wrong_as_right,no,"Yes, there is a bin in the image.",No
+amber,10497,tta_correct_as_wrong,no,no,Yes
+amber,10525,tta_wrong_as_right,no,"Yes, there is a sky in this image.","No, there is no sky in this image."
+amber,10553,tta_correct_as_wrong,no,"No, there is no sky in this image.","Yes, there is a sky in this image."
+amber,10567,tta_wrong_as_right,no,"Yes, there is a light in this image.","No, there is no light in this image."
+amber,10623,tta_correct_as_wrong,no,No,Yes
+amber,10903,tta_wrong_as_right,no,yes,no
+amber,10917,tta_wrong_as_right,no,"Yes, there is a floor in this image.",No
+amber,11029,tta_wrong_as_right,no,"Yes, there is a sun in this image.",No
+amber,11267,tta_wrong_as_right,no,"Yes, there is a sun in this image.","No, there is no sun in this image."
+amber,11855,tta_wrong_as_right,no,"Yes, there is a sun in this image.","No, there is no sun in this image."
+amber,11897,tta_wrong_as_right,no,"Yes, there is a chair in this image.",No
+amber,12121,tta_correct_as_wrong,no,"No, there is no fish in this image.","Yes, there is a fish in this image."
+amber,12751,tta_correct_as_wrong,no,"No, there is no forest in this image.","Yes, there is a forest in the image."
+amber,13227,tta_wrong_as_right,no,"Yes, there is a seagull in the image.","No, there is no seegull in this image."
+amber,13381,tta_wrong_as_right,no,"Yes, there is a sun in this image.","No, there is no sun in this image."
+amber,13395,tta_wrong_as_right,no,"Yes, there is a table in the image.",No
+amber,13675,tta_correct_as_wrong,no,"No, there is no direct contact between the man and cup.","Yes, there is direct contact between the man and cup."
+amber,13717,tta_correct_as_wrong,yes,"Yes, there is direct contact between the person and camera.","No, there is no direct contact between the person and camera."
+amber,13815,tta_wrong_as_right,yes,"No, there is no direct contact between the volleyball and the beach. The volleyball is resting on the sand, and the beach is in the background.","Yes, there is direct contact between the volleyball and the beach. The volleyball is resting on the sand, and the sand is covering the volleyball."
+amber,13983,tta_wrong_as_right,no,"Yes, there is direct contact between the person and umbrella. The person is lying on the beach chair, which is under the umbrella.","No, there is no direct contact between the person and umbrella."
+amber,14081,tta_correct_as_wrong,yes,"Yes, there is direct contact between the book and sofa.","No, there is no direct contact between the book and sofa. The book is open on the sofa, but there is no direct contact between the book and the sofa."
+amber,14263,tta_correct_as_wrong,yes,"Yes, there is direct contact between the keyboard and table. The keyboard is placed directly on the table, and the mouse is placed on the table next to the keyboard.","No, there is no direct contact between the keyboard and table. The keyboard is connected to the computer via a cable, and the mouse is connected to the computer via a wire."
+amber,14529,tta_correct_as_wrong,no,"No, there is no direct contact between the horse and the lake. The horse is grazing on the grass, and the lake is in the background.","Yes, the horse is directly in contact with the lake."
+amber,14725,tta_wrong_as_right,yes,"No, there is no direct contact between the dog and snow. The dog is standing on the snow, but there is no direct contact between the dog and the snow.","Yes, there is direct contact between the dog and snow."
+amber,14823,tta_correct_as_wrong,yes,"Yes, there is direct contact between the person and kite.","No, there is no direct contact between the person and kite."
+amber,14893,tta_wrong_as_right,yes,"No, there is no direct contact between the table and laptop. The laptop is placed on the table, and the table is not in contact with the laptop.","Yes, there is direct contact between the table and laptop."
+amber,14949,tta_correct_as_wrong,yes,"Yes, there is direct contact between the bench and ground.","No, there is no direct contact between the bench and ground."
+amber,14977,tta_wrong_as_right,no,"Yes, there is direct contact between the umbrella and chair. The umbrella is directly above the chair, providing shade.","No, there is no direct contact between the umbrella and chair. The umbrella is above the chair, providing shade."

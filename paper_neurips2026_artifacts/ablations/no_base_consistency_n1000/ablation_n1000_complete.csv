@@ -1,0 +1,6 @@
+benchmark,full,frequency_only,majority_vote,no_format,no_base_consistency,no_length_risk
+textvqa,0.77,0.771,0.77,0.771,0.771,0.77
+ocrvqa,0.607,0.596,0.607,0.607,0.605,0.607
+gqa,0.407,,,,,
+chartqa,0.713,0.709,,0.713,0.711,0.713
+ocrbench,0.706,0.706,0.706,0.705,0.706,0.706

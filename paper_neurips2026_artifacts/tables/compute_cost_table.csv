@@ -1,0 +1,8 @@
+Method,Generations/sample,Logprob calls/sample,CF usage,Prediction change rate,Runtime_sec,Runtime_status,Relative cost vs base,Log source,Notes
+Base_SmolVLM2,1.00,NA,NA,NA,NA,missing_log,NA,NA,single-view base inference
+TTAug_deterministic,8.00,NA,NA,NA,NA,missing_log,NA,NA,8 deterministic views
+V91_NoCF,8.00,NA,NA,NA,NA,missing_log,NA,NA,"same 8-view generation, rerank-only"
+V91_CF3_Routed,8.00,NA,NA,NA,NA,missing_log,NA,NA,optional sparse CF verifier
+V91_CF3_ForceGrid,8.00,NA,NA,NA,NA,missing_log,NA,NA,focused CF stress-test
+CF3_NoQualityGate,8.00,NA,NA,NA,NA,missing_log,NA,NA,negative ablation
+CF3_ForceSwitch,8.00,NA,NA,NA,NA,missing_log,NA,NA,negative ablation

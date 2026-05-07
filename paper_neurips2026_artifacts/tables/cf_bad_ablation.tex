@@ -1,0 +1,13 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{lccccc}
+\toprule
+Variant & Dataset & n & Score & $\Delta$ vs NoCF & Finding \\
+\midrule
+cf3_no_quality_gate & TextVQA & 200 & 61.25 & -7.80 & ungated switching harms \\
+cf3_force_switch_analysis & TextVQA & 200 & 60.75 & -8.30 & CF winner selector collapses \\
+\bottomrule
+\end{tabular}
+\caption{Negative ablations: naive/ungated CF can severely hurt.}
+\label{tab:cf_bad}
+\end{table}

@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{lcccccc}
+\toprule
+Method & Generations/sample & Logprob calls/sample & CF usage & Prediction change & Relative cost & Notes \\
+\midrule
+Base_SmolVLM2 & 1.00 & NA & NA & NA & NA & single-view base inference \\
+TTAug_deterministic & 8.00 & NA & NA & NA & NA & 8 deterministic views \\
+V91_NoCF & 8.00 & 0.00 & 0.0000 & 0.0040 & NA & same 8-view generation, rerank-only \\
+V91_CF3_Routed & 8.00 & 4.59 & 0.0050 & 0.0050 & NA & optional sparse CF verifier \\
+V91_CF3_ForceGrid & 8.00 & 7.25 & 0.0230 & 0.0250 & NA & focused CF stress-test \\
+CF3_NoQualityGate & 8.00 & 4.84 & 0.2600 & 0.2600 & NA & negative ablation \\
+CF3_ForceSwitch & 8.00 & 4.84 & 0.2650 & 0.2650 & NA & negative ablation \\
+\bottomrule
+\end{tabular}
+\caption{Compute and latency accounting (measured where logs allow; otherwise deterministic call-count estimates).}
+\label{tab:compute_cost}
+\end{table}

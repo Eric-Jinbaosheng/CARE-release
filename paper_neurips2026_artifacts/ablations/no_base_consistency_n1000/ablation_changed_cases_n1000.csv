@@ -1,0 +1,9 @@
+benchmark,ablation,changed,full_wins,ablation_wins,net_vs_full
+textvqa,no_base_consistency,29,6,7,1
+textvqa,frequency_only,44,12,13,1
+ocrvqa,no_base_consistency,16,2,0,-2
+ocrvqa,frequency_only,38,14,3,-11
+chartqa,no_base_consistency,38,8,6,-2
+chartqa,frequency_only,37,10,6,-4
+ocrbench,no_base_consistency,35,5,5,0
+ocrbench,frequency_only,43,6,6,0

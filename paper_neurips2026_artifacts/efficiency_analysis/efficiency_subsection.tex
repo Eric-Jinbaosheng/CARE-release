@@ -1,0 +1,16 @@
+\subsection{Efficiency Analysis}
+Efficiency is central for test-time scaling: gains are only compelling when they do not come from brute-force candidate expansion. CARE is designed to keep the candidate-generation budget fixed and reallocate computation to answer selection. In particular, CARE uses the same deterministic 8-view pool as TTAug and does not add extra candidate generation.
+
+\input{paper_neurips2026_artifacts/efficiency_analysis/efficiency_table_latex.tex}
+
+\textbf{Obs. ❶ (same generation budget).}
+Base uses one generation per sample, while TTAug, CARE w/o switch, and CARE full all use eight generations per sample.
+This means the improvement target of CARE is not ``more candidates'', but better selection over the same candidate pool.
+CARE w/o switch performs constrained ranking only, with no routed verifier and no additional log-likelihood calls.
+
+\textbf{Obs. ❷ (sparse verifier and concentrated overhead).}
+CARE full adds extra computation only through routed evidence verification.
+In our representative TextVQA run, routed verification remains sparse (route rate $2.55\%$, switch rate $2.55\%$; diagnostics available for 550 cached samples), and the extra computation appears as likelihood scoring rather than new candidate generation.
+This supports a budget--performance interpretation: CARE reallocates computation from generation to concentrated verification/selection.
+
+We also report missing fields explicitly rather than imputing values: base latency and hardware metadata are marked as TODO in the current snapshot because the corresponding base runtime log was not available.

@@ -1,0 +1,38 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{lccccccccc}
+\toprule
+Config & Dataset & n & Score & $\Delta$ vs NoCF & CF usage & Change & Rescue & Harm & Net \\
+\midrule
+test_config_smolvlm2_v91_cf3_routed_ai2d & AI2D_TEST & 1000 & 0.6880 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf_ai2d & AI2D_TEST & 200 & 0.6700 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_amber & AMBER & 1000 & 74.7046 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_coco & COCO_VAL & 1000 & 18.7680 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf_coco & COCO_VAL & 200 & 18.6422 & 0.0000 & 0.0000 & 0.1250 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_chartqa & ChartQA_TEST & 1000 & 76.3000 & 0.0000 & 0.0020 & 0.0050 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf_chartqa & ChartQA_TEST & 200 & 83.5000 & 0.0000 & 0.0800 & 0.0100 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_gqa & GQA_TestDev_Balanced & 1000 & 10.2000 & 0.3000 & 0.0370 & 0.0370 & 10 & 3 & 7 \\
+test_config_smolvlm2_v91_cf_gqa & GQA_TestDev_Balanced & 200 & 10.0000 & 0.0000 & 0.2000 & 0.0850 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_mme_rw & MME-RealWorld-Lite & 1000 & 0.3150 & NA & 0.0000 & 0.0000 & NA & NA & NA \\
+test_config_smolvlm2_v91_cf_mme_rw & MME-RealWorld-Lite & 200 & 0.3850 & NA & 0.0000 & 0.0350 & NA & NA & NA \\
+test_config_smolvlm2_v91_cf3_routed_ocrbench & OCRBench & 1000 & 72.5000 & 0.0000 & 0.0104 & 0.0149 & 3 & 3 & 0 \\
+test_config_smolvlm2_v91_cf_ocrbench & OCRBench & 200 & 14.7000 & 0.0000 & 0.1550 & 0.0450 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_ocrvqa & OCRVQA_TEST & 1000 & 16.1000 & -0.1000 & 0.0070 & 0.0070 & 0 & 1 & -1 \\
+test_config_smolvlm2_v91_cf_ocrvqa & OCRVQA_TEST & 200 & 17.5000 & 0.0000 & 0.1550 & 0.0300 & 0 & 1 & -1 \\
+test_config_smolvlm2_v91_cf2_textvqa & TextVQA_VAL & 200 & 69.0500 & 0.0000 & 0.0300 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_force_grid_no_quality_gate_textvqa & TextVQA_VAL & 200 & 61.7500 & -7.3000 & 0.3150 & 0.2750 & 7 & 22 & -15 \\
+test_config_smolvlm2_v91_cf3_force_grid_textvqa & TextVQA_VAL & 1000 & 72.2800 & 0.3200 & 0.0230 & 0.0250 & 9 & 6 & 3 \\
+test_config_smolvlm2_v91_cf3_force_switch_analysis_textvqa & TextVQA_VAL & 200 & 60.7500 & -8.3000 & 0.2650 & 0.2650 & 6 & 23 & -17 \\
+test_config_smolvlm2_v91_cf3_no_quality_gate_textvqa & TextVQA_VAL & 200 & 61.2500 & -7.8000 & 0.2600 & 0.2600 & 6 & 22 & -16 \\
+test_config_smolvlm2_v91_cf3_routed_textvqa & TextVQA_VAL & 200 & 69.0500 & 0.0000 & 0.0050 & 0.0050 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_routed_textvqa_g01 & TextVQA_VAL & 200 & 69.0500 & NA & 0.0050 & 0.0050 & NA & NA & NA \\
+test_config_smolvlm2_v91_cf3_routed_textvqa_g02 & TextVQA_VAL & 200 & 69.0500 & NA & 0.0050 & 0.0050 & NA & NA & NA \\
+test_config_smolvlm2_v91_cf3_routed_textvqa_g04 & TextVQA_VAL & 200 & 69.0500 & NA & 0.0050 & 0.0050 & NA & NA & NA \\
+test_config_smolvlm2_v91_cf3_score_only_textvqa & TextVQA_VAL & 200 & 69.0500 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf3_textvqa & TextVQA_VAL & 200 & 69.0500 & 0.0000 & 0.0000 & 0.0000 & 0 & 0 & 0 \\
+test_config_smolvlm2_v91_cf_textvqa & TextVQA_VAL & 200 & 69.0500 & 0.0000 & 0.3740 & 0.0360 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}
+\caption{CF coverage-vs-risk across available CF variants.}
+\label{tab:cf_coverage_risk}
+\end{table}

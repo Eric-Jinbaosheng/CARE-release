@@ -1,0 +1,2 @@
+benchmark,default_score,best_setting,best_score,best_delta,stability,warning
+ocrbench,72.500000,wsup2p0_wvalid1p0_wbase0p4_wrisk0p5,72.500000,0.000000,default,

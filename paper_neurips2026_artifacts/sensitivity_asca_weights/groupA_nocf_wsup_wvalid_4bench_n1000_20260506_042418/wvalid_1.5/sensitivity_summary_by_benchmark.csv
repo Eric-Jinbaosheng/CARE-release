@@ -1,0 +1,5 @@
+benchmark,default_score,best_setting,best_score,best_delta,stability,warning
+chartqa,NA,wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,56.400000,-19.900000,isolated,
+textvqa,NA,wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,68.290000,-3.670000,isolated,best_setting_hurts_key_benchmark
+ocrvqa,NA,wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,49.400000,33.200000,isolated,
+ocrbench,NA,wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,54.300000,-18.200000,isolated,best_setting_hurts_key_benchmark

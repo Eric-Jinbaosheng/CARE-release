@@ -1,0 +1,38 @@
+{
+    "model": {
+        "ASCA_Qwen2_5_VL_3B": {
+            "class": "ASCA_Qwen2_5_VL_3B",
+            "model_args": {
+                "model_path": "Qwen/Qwen2.5-VL-3B-Instruct"
+            },
+            "text_aug_args": {
+                "gpt_paraphraser_strategy": "simple_paraphraser",
+                "save_or_load": null,
+                "path_text_aug_to_file": null
+            },
+            "image_aug_args": {
+                "aug_strength": "high",
+                "save_or_load_generativeimg": null,
+                "strength_gen_aug": 0.25,
+                "path_generativeimg_to_directory": null
+            },
+            "token_selection_aggregation_method": "original",
+            "number_of_versions": 8,
+            "save_inputs_for_debugging": false,
+            "handle_oom": true,
+            "asca_w_freq": 2.0,
+            "asca_w_format": 1.0,
+            "asca_w_baseline_bias": 0.4,
+            "asca_w_length_risk": 0.5,
+            "asca_decision_mode": "scored",
+            "asca_diag": true,
+            "asca_diag_per_sample": true
+        }
+    },
+    "data": {
+        "OCRBench": {
+            "class": "OCRBench",
+            "dataset": "OCRBench"
+        }
+    }
+}

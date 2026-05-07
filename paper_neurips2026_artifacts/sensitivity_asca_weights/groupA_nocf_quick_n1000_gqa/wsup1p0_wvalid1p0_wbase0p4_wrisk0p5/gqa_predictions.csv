@@ -1,0 +1,1435 @@
+sample_id,prediction,default_prediction,changed_vs_default
+1,No.,No.,0
+2,yes,No,1
+3,"left
+rationale the person is on the left",Left.,1
+4,Window.,Window.,0
+5,No.,No.,0
+6,Woman.,Woman.,0
+7,yes,yes,0
+8,brown,brown,0
+9,left,left,0
+10,"plastic.
+Rationale: The phone is made of plastic.","plastic.
+Rationale: The phone is made of plastic.",0
+11,Sink.,Sink.,0
+12,Yes.,Yes.,0
+13,yes.,yes.,0
+14,Bicycle.,Bicycle.,0
+15,Yes.,Yes.,0
+16,bench,bench,0
+17,Refrigerator.,Refrigerator.,0
+18,Yes.,Yes.,0
+19,yes,yes,0
+20,man,man,0
+21,Desk,Desk,0
+22,white,white,0
+23,Giraffe.,Giraffe.,0
+24,Red.,Red.,0
+25,1000 pounds.,1000 pounds.,0
+26,Toilet.,Toilet.,0
+27,"table.
+Rationale: The table is made of wood.","table.
+Rationale: The table is made of wood.",0
+28,yes,yes,0
+29,Yes.,Yes.,0
+30,yes,no,1
+31,not fat.,not fat.,0
+32,"gray
+rationale the color is gray",gray,1
+33,The man.,The man.,0
+34,No.,No.,0
+35,Yes.,Yes.,0
+36,No,No,0
+37,"sky.
+Rationale: The bird is in the sky.","sky.
+Rationale: The bird is in the sky.",0
+38,Yes.,Yes.,0
+39,Yes,Yes,0
+40,No.,No.,0
+41,50.,50.,0
+42,Yes.,Yes.,0
+43,Jacket.,Jacket.,0
+44,Dishwasher.,Dishwasher.,0
+45,"ice
+rationale the blender is full of ice",Ice,1
+46,"chair.
+Rationale: The furniture is a chair.","chair.
+Rationale: The furniture is a chair.",0
+47,beach,beach,0
+48,"metal.
+Rationale: The helmet is made of metal.","metal.
+Rationale: The helmet is made of metal.",0
+49,"computer.
+Rationale: The computer is not black.","computer.
+Rationale: The computer is not black.",0
+50,Yes.,Yes.,0
+51,Short.,Short.,0
+52,Yes.,Yes.,0
+53,no,no,0
+54,black,black,0
+55,New.,New.,0
+56,"chair.
+Rationale: The person is sitting in a chair.","chair.
+Rationale: The person is sitting in a chair.",0
+57,no,yes.,1
+58,Yes.,Yes.,0
+59,"sidewalk.
+Rationale: The person is walking on a sidewalk.","sidewalk.
+Rationale: The person is walking on a sidewalk.",0
+60,yes.,yes.,0
+61,man,man,0
+62,"beach.
+Rationale: There are palm trees and a beach.","beach.
+Rationale: There are palm trees and a beach.",0
+63,"stroller.
+Rationale: The stuffed dog is hanging from a stroller.","stroller.
+Rationale: The stuffed dog is hanging from a stroller.",0
+64,"mouse.
+Rationale: The device is a mouse.","mouse.
+Rationale: The device is a mouse.",0
+65,Goat.,Goat.,0
+66,Menu.,Menu.,0
+67,no,no,0
+68,No.,No.,0
+69,"large.
+Rationale: The pipe is not short.","large.
+Rationale: The pipe is not short.",0
+70,"right.
+Rationale: The lamp is to the right of the car.","right.
+Rationale: The lamp is to the right of the car.",0
+71,"deer.
+Rationale: The animal is a deer.","deer.
+Rationale: The animal is a deer.",0
+72,Yes,Yes,0
+73,computer,computer,0
+74,Black.,Black.,0
+75,"right.
+Rationale: The black device is to the right of the couch.","right.
+Rationale: The black device is to the right of the couch.",0
+76,Yes.,Yes.,0
+77,"small.
+Rationale: The utensil is small.","small.
+Rationale: The utensil is small.",0
+78,yes,yes,0
+79,CPU.,CPU.,0
+80,tennis player,tennis player,0
+81,"bar stools.
+Rationale: The furniture is bar stools.","bar stools.
+Rationale: The furniture is bar stools.",0
+82,elephant.,elephant.,0
+83,Short sleeved.,Short sleeved.,0
+84,No.,No.,0
+85,"left
+rationale the water bottle is on the left",Left.,1
+86,Shirt.,Shirt.,0
+87,"tie.
+Rationale: The person is wearing a tie.","tie.
+Rationale: The person is wearing a tie.",0
+88,Black.,Black.,0
+89,"yes
+rationale the mirror is made of metal",yes,1
+90,Very.,Very.,0
+91,No,No,0
+92,Trees.,Trees.,0
+93,"cupcakes.
+Rationale: The sprinkles are on the cupcakes.","cupcakes.
+Rationale: The sprinkles are on the cupcakes.",0
+94,Color.,Color.,0
+95,yes.,yes.,0
+96,"monitor.
+Rationale: The screen is to the right of the bowl.","monitor.
+Rationale: The screen is to the right of the bowl.",0
+97,Desk.,Desk.,0
+98,Yes.,Yes.,0
+99,Apples.,Apples.,0
+100,sofa,sofa,0
+101,yes.,yes.,0
+102,Catcher.,Catcher.,0
+103,No.,No.,0
+104,Yes.,Yes.,0
+105,On the left.,On the left.,0
+106,Bed.,Bed.,0
+107,"glasses.
+Rationale: The glasses are inside the fridge.","glasses.
+Rationale: The glasses are inside the fridge.",0
+108,"vanity.
+Rationale: The vanity is dark brown.","vanity.
+Rationale: The vanity is dark brown.",0
+109,"baseball player.
+Rationale: The baseball player is wearing the belt.","baseball player.
+Rationale: The baseball player is wearing the belt.",0
+110,Black.,Black.,0
+111,Brown.,Brown.,0
+112,left,left,0
+113,yes,yes,0
+114,No.,No.,0
+115,"truck.
+Rationale: The vehicle is a truck.","truck.
+Rationale: The vehicle is a truck.",0
+116,Behind.,Behind.,0
+117,"stars.
+Rationale: The shuttle is surrounded by stars.","stars.
+Rationale: The shuttle is surrounded by stars.",0
+118,Desk.,Desk.,0
+119,yes.,yes.,0
+120,"cabinet.
+Rationale: The doll is inside of a cabinet.","cabinet.
+Rationale: The doll is inside of a cabinet.",0
+121,CH-47 Chinook.,CH-47 Chinook.,0
+122,no,no,0
+123,Asian.,Asian.,0
+124,no.,no.,0
+125,Dress,Dress,0
+126,bookshelf,bookshelf,0
+127,Desk.,Desk.,0
+128,yes.,yes.,0
+129,yes,yes,0
+130,"table.
+Rationale: The papers are sitting on a table.","table.
+Rationale: The papers are sitting on a table.",0
+131,long sleeved.,long sleeved.,0
+132,motorcycle,motorcycle,0
+133,counter,counter,0
+134,Horses.,Horses.,0
+135,Yes.,Yes.,0
+136,zebra,zebra,0
+137,no.,no.,0
+138,No.,No.,0
+139,yes.,yes.,0
+140,No.,No.,0
+141,"keyboard.
+Rationale: The keyboard is not large.","keyboard.
+Rationale: The keyboard is not large.",0
+142,"large.
+Rationale: The cabinet is large.","large.
+Rationale: The cabinet is large.",0
+143,Wood.,Wood.,0
+144,Giraffe,Giraffe,0
+145,man.,man.,0
+146,"small.
+Rationale: The books are small.","small.
+Rationale: The books are small.",0
+147,Woman.,Woman.,0
+148,Yes.,Yes.,0
+149,baseball,baseball,0
+150,Window.,Window.,0
+151,"no
+rationale the ladder is not below the windows",No.,1
+152,Man.,Man.,0
+153,yes,yes,0
+154,"donut.
+Rationale: The person is eating a donut.","donut.
+Rationale: The person is eating a donut.",0
+155,Yes.,Yes.,0
+156,tennis court.,tennis court.,0
+157,Desk.,Desk.,0
+158,No.,No.,0
+159,Yes.,Yes.,0
+160,Kitchen.,Kitchen.,0
+161,"coffee table.
+Rationale: The table is in front of the sofa.","coffee table.
+Rationale: The table is in front of the sofa.",0
+162,Yes,Yes,0
+163,Sand.,Sand.,0
+164,yes,yes,0
+165,Yes.,Yes.,0
+166,left,left,0
+167,Left.,Left.,0
+168,Right.,Right.,0
+169,"cat.
+Rationale: The animal is a cat.","cat.
+Rationale: The animal is a cat.",0
+170,Sailboats,Sailboats,0
+171,no,no,0
+172,People.,People.,0
+173,Trees.,Trees.,0
+174,No.,No.,0
+175,"cabinets
+rationale there are cabinets in the room",No.,1
+176,yes.,yes.,0
+177,white,white,0
+178,Bench.,Bench.,0
+179,No.,No.,0
+180,Laptop.,Laptop.,0
+181,Bow.,Bow.,0
+182,no,no,0
+183,No.,No.,0
+184,"no.
+Rationale: There is no door visible in the image.","no.
+Rationale: There is no door visible in the image.",0
+185,White,White,0
+186,Yes.,Yes.,0
+187,"chair.
+Rationale: The chair is under the desk.","chair.
+Rationale: The chair is under the desk.",0
+188,Chicken,Chicken,0
+189,table,table,0
+190,"blue.
+Rationale: The necklace is blue.","blue.
+Rationale: The necklace is blue.",0
+191,White,White,0
+192,Refrigerator.,Refrigerator.,0
+193,white.,white.,0
+194,Yes.,Yes.,0
+195,black.,black.,0
+196,No.,No.,0
+197,"crown.
+Rationale: The kid is wearing a crown.","crown.
+Rationale: The kid is wearing a crown.",0
+198,"string lights.
+Rationale: The lights are above the flowers.","string lights.
+Rationale: The lights are above the flowers.",0
+199,Yes.,Yes.,0
+200,no,no,0
+201,Boy,Boy,0
+202,Bookcase,Bookcase,0
+203,Person.,Person.,0
+204,"zebra.
+Rationale: The animal is a zebra.","zebra.
+Rationale: The animal is a zebra.",0
+205,"bar stool.
+Rationale: The stools are tall.","bar stool.
+Rationale: The stools are tall.",0
+206,"beige.
+Rationale: The curtain is beige.","beige.
+Rationale: The curtain is beige.",0
+207,yes.,yes.,0
+208,yes,yes,0
+209,"wet.
+Rationale: The sidewalk is wet.","wet.
+Rationale: The sidewalk is wet.",0
+210,no.,no.,0
+211,yes,yes,0
+212,"right.
+Rationale: The man is on the right.","right.
+Rationale: The man is on the right.",0
+213,Trees.,Trees.,0
+214,reading.,reading.,0
+215,"plastic.
+Rationale: The bottle cap is made of plastic.","plastic.
+Rationale: The bottle cap is made of plastic.",0
+216,Bus.,Bus.,0
+217,Toaster,Toaster,0
+218,"man
+rationale the person is a man",Man.,1
+219,Yes.,Yes.,0
+220,Radish,Radish,0
+221,Horse.,Horse.,0
+222,"glass.
+Rationale: The glass is made of glass.","glass.
+Rationale: The glass is made of glass.",0
+223,man.,man.,0
+224,Posing.,Posing.,0
+225,Map.,Map.,0
+226,Girl.,Girl.,0
+227,"man.
+Rationale: The man is on the left.","man.
+Rationale: The man is on the left.",0
+228,Yes.,Yes.,0
+229,no,Yes.,1
+230,Bottom.,Bottom.,0
+231,Yes.,Yes.,0
+232,Yes.,Yes.,0
+233,Yes.,Yes.,0
+234,Sink.,Sink.,0
+235,Both are white.,Both are white.,0
+236,No.,No.,0
+237,Bed.,Bed.,0
+238,Yes.,Yes.,0
+239,Photograph.,Photograph.,0
+240,yes,yes,0
+241,No,No,0
+242,Male.,Male.,0
+243,"mirror.
+Rationale: The man is taking a picture of himself in the mirror.","mirror.
+Rationale: The man is taking a picture of himself in the mirror.",0
+244,Yes.,Yes.,0
+245,"computer.
+Rationale: The keyboard is sitting next to a computer.","computer.
+Rationale: The keyboard is sitting next to a computer.",0
+246,No.,No.,0
+247,No.,No.,0
+248,blond.,blond.,0
+249,"small.
+Rationale: The tub is small.","small.
+Rationale: The tub is small.",0
+250,Bottom.,Bottom.,0
+251,"cupcakes.
+Rationale: The cupcakes are fresh.","cupcakes.
+Rationale: The cupcakes are fresh.",0
+252,talking.,talking.,0
+253,"food.
+Rationale: The food is not electronic.","food.
+Rationale: The food is not electronic.",0
+254,"surfboard.
+Rationale: The person is holding a surfboard.","surfboard.
+Rationale: The person is holding a surfboard.",0
+255,left,"right.
+Rationale: The doll is on the right.",1
+256,"zebra.
+Rationale: The animal is a zebra.","zebra.
+Rationale: The animal is a zebra.",0
+257,Man.,Man.,0
+258,"pot.
+Rationale: The pot is larger.","pot.
+Rationale: The pot is larger.",0
+259,yes.,yes.,0
+260,Small.,Small.,0
+261,"eating.
+Rationale: The elephant is eating.","eating.
+Rationale: The elephant is eating.",0
+262,"small.
+Rationale: The chair is small.","small.
+Rationale: The chair is small.",0
+263,"elephant.
+Rationale: The animal is an elephant.","elephant.
+Rationale: The animal is an elephant.",0
+264,"baseball players.
+Rationale: The people are athletes that play baseball.","baseball players.
+Rationale: The people are athletes that play baseball.",0
+265,"cotton candy machine.
+Rationale: The machine is for making cotton candy.","cotton candy machine.
+Rationale: The machine is for making cotton candy.",0
+266,"left.
+Rationale: The bottle is on the left.","left.
+Rationale: The bottle is on the left.",0
+267,No.,No.,0
+268,Porcelain.,Porcelain.,0
+269,Skateboarder.,Skateboarder.,0
+270,yes,no,1
+271,Window.,Window.,0
+272,No.,No.,0
+273,right,right,0
+274,"gold.
+Rationale: The glasses are gold.","gold.
+Rationale: The glasses are gold.",0
+275,Bottom.,Bottom.,0
+276,No.,No.,0
+277,Police officer.,Police officer.,0
+278,"surfboard.
+Rationale: The flower is on the surfboard.","surfboard.
+Rationale: The flower is on the surfboard.",0
+279,Yes.,Yes.,0
+280,yes,yes,0
+281,Yes.,Yes.,0
+282,Casual.,Casual.,0
+283,Yes.,Yes.,0
+284,Rectangle,Rectangle,0
+285,"dresser.
+Rationale: The piece of furniture is a dresser.","dresser.
+Rationale: The piece of furniture is a dresser.",0
+286,3 feet.,3 feet.,0
+287,No.,No.,0
+288,yes,yes,0
+289,yes,yes,0
+290,Yes.,Yes.,0
+291,No.,No.,0
+292,"table.
+Rationale: The plate is on a table.","table.
+Rationale: The plate is on a table.",0
+293,Asian,Asian,0
+294,Yes.,Yes.,0
+295,Yes.,Yes.,0
+296,Left,Left,0
+297,motorcycle,motorcycle,0
+298,zebra,zebra,0
+299,man,man,0
+300,No,No,0
+301,no.,no.,0
+302,No.,No.,0
+303,"right.
+Rationale: The shelf is on the right.","right.
+Rationale: The shelf is on the right.",0
+304,No.,No.,0
+305,No.,No.,0
+306,Yes.,Yes.,0
+307,No.,No.,0
+308,yes,yes,0
+309,Boy.,Boy.,0
+310,"restaurant.
+Rationale: The man is sitting at a table with condiments and a basket of food.","restaurant.
+Rationale: The man is sitting at a table with condiments and a basket of food.",0
+311,Batter.,Batter.,0
+312,"computer.
+Rationale: The device is a computer.","computer.
+Rationale: The device is a computer.",0
+313,woman.,woman.,0
+314,"fire truck.
+Rationale: The vehicle is a fire truck.","fire truck.
+Rationale: The vehicle is a fire truck.",0
+315,Goalie,Goalie,0
+316,Yes.,Yes.,0
+317,No.,No.,0
+318,Left.,Left.,0
+319,Yes.,Yes.,0
+320,Desk.,Desk.,0
+321,woman.,woman.,0
+322,no,no,0
+323,Clean.,Clean.,0
+324,No.,No.,0
+325,"cat
+rationale the animal is a cat",Cat,1
+326,Brown,Brown,0
+327,"skier.
+Rationale: The skier is wearing blue pants.","skier.
+Rationale: The skier is wearing blue pants.",0
+328,Yes.,Yes.,0
+329,brown,brown,0
+330,"suitcase.
+Rationale: The bag is a suitcase.","suitcase.
+Rationale: The bag is a suitcase.",0
+331,catcher,catcher,0
+332,green,green,0
+333,yes.,yes.,0
+334,yes,yes,0
+335,No.,No.,0
+336,"sand.
+Rationale: The trees are growing on sand.","sand.
+Rationale: The trees are growing on sand.",0
+337,"12 inches.
+Rationale: The length is 12 inches.","12 inches.
+Rationale: The length is 12 inches.",0
+338,red,red,0
+339,"formal.
+Rationale: The skirt is formal.","formal.
+Rationale: The skirt is formal.",0
+340,Asian.,Asian.,0
+341,Baseball glove.,Baseball glove.,0
+342,Restaurant.,Restaurant.,0
+343,Yes.,Yes.,0
+344,Yes.,Yes.,0
+345,right.,right.,0
+346,cord.,cord.,0
+347,birds,birds,0
+348,oven,oven,0
+349,No.,No.,0
+350,"no.
+Rationale: There is no taxi behind the sticker.","no.
+Rationale: There is no taxi behind the sticker.",0
+351,Wii,Wii,0
+352,"clean.
+Rationale: The sink is clean.","clean.
+Rationale: The sink is clean.",0
+353,boy,boy,0
+354,"right.
+Rationale: The silver forks are on the right.","right.
+Rationale: The silver forks are on the right.",0
+355,No.,No.,0
+356,Yes.,Yes.,0
+357,man,man,0
+358,Red.,Red.,0
+359,Empty.,Empty.,0
+360,"lights
+rationale the lights are on top",Lights.,1
+361,No.,No.,0
+362,Red.,Red.,0
+363,"wood
+rationale the bat is made out of wood","wood.
+Rationale: The bat is made of wood.",1
+364,Giraffe.,Giraffe.,0
+365,People.,People.,0
+366,bed,bed,0
+367,Yes.,Yes.,0
+368,30 feet.,30 feet.,0
+369,Rectangle.,Rectangle.,0
+370,Desk.,Desk.,0
+371,Wood.,Wood.,0
+372,Tennis racket.,Tennis racket.,0
+373,"living room.
+Rationale: The man is playing in the living room.","living room.
+Rationale: The man is playing in the living room.",0
+374,looking down.,looking down.,0
+375,yes.,yes.,0
+376,Cows.,Cows.,0
+377,"pie server.
+Rationale: The utensil is used for serving pie.","pie server.
+Rationale: The utensil is used for serving pie.",0
+378,Yes.,Yes.,0
+379,No.,No.,0
+380,No.,No.,0
+381,Stop sign.,Stop sign.,0
+382,"zoo.
+Rationale: The enclosure is too small for the giraffe.","zoo.
+Rationale: The enclosure is too small for the giraffe.",0
+383,"boat.
+Rationale: The man is holding a surfboard, not a canoe or kayak.","boat.
+Rationale: The man is holding a surfboard, not a canoe or kayak.",0
+384,beige,beige,0
+385,Vase.,Vase.,0
+386,"black.
+Rationale: The color is black.","black.
+Rationale: The color is black.",0
+387,"rug.
+Rationale: The rug is on the floor.","rug.
+Rationale: The rug is on the floor.",0
+388,racket,racket,0
+389,Yes.,Yes.,0
+390,no,no,0
+391,yes.,yes.,0
+392,Yes.,Yes.,0
+393,man.,man.,0
+394,Umbrella.,Umbrella.,0
+395,catcher.,catcher.,0
+396,"no.
+Rationale: The boxes are rectangular.","no.
+Rationale: The boxes are rectangular.",0
+397,laptop.,laptop.,0
+398,"ramp
+rationale the skateboarder is standing on a ramp","ramp.
+Rationale: The skater is on a ramp.",1
+399,Left.,Left.,0
+400,No,No,0
+401,No.,No.,0
+402,2 feet.,2 feet.,0
+403,tan.,tan.,0
+404,Yes.,Yes.,0
+405,Yes.,Yes.,0
+406,Toaster.,Toaster.,0
+407,yes,yes,0
+408,Yes.,Yes.,0
+409,The person on the left.,The person on the left.,0
+410,"table
+rationale the bottle is on a table",table.,1
+411,Desk.,Desk.,0
+412,"dog.
+Rationale: The animal is a dog.","dog.
+Rationale: The animal is a dog.",0
+413,Porcelain.,Porcelain.,0
+414,Left.,Left.,0
+415,yes.,yes.,0
+416,No.,No.,0
+417,Dog.,Dog.,0
+418,Green beans,Green beans,0
+419,"tan.
+Rationale: The desk is tan.","tan.
+Rationale: The desk is tan.",0
+420,Yes.,Yes.,0
+421,"camera
+rationale the man is in front of a camera",camera,1
+422,Yes.,Yes.,0
+423,yes.,yes.,0
+424,Woman.,Woman.,0
+425,Cookies.,Cookies.,0
+426,Yes.,Yes.,0
+427,white,white,0
+428,Staring.,Staring.,0
+429,Motorcycle.,Motorcycle.,0
+430,"cell phone.
+Rationale: The man is holding a small electronic device that is used for communication.","cell phone.
+Rationale: The man is holding a small electronic device that is used for communication.",0
+431,Left.,Left.,0
+432,No.,No.,0
+433,Yes.,Yes.,0
+434,Yes.,Yes.,0
+435,No.,No.,0
+436,Yes.,Yes.,0
+437,"sofa.
+Rationale: The woman is in front of a sofa.","sofa.
+Rationale: The woman is in front of a sofa.",0
+438,lamp,lamp,0
+439,"black.
+Rationale: The helmet is black.","black.
+Rationale: The helmet is black.",0
+440,Green.,Green.,0
+441,"open.
+Rationale: The basket is open.","open.
+Rationale: The basket is open.",0
+442,Girl.,Girl.,0
+443,both are in kitchen,same color.,1
+444,"right.
+Rationale: The small device is on the right.","right.
+Rationale: The small device is on the right.",0
+445,"light.
+Rationale: The light is on the ceiling.","light.
+Rationale: The light is on the ceiling.",0
+446,left.,left.,0
+447,Yes.,Yes.,0
+448,yes.,yes.,0
+449,Yes.,Yes.,0
+450,"girls.
+Rationale: The people are girls.","girls.
+Rationale: The people are girls.",0
+451,carrots,carrots,0
+452,6 feet.,6 feet.,0
+453,No.,No.,0
+454,rock,rock,0
+455,"man.
+Rationale: The man is in front of the car.","man.
+Rationale: The man is in front of the car.",0
+456,Yes.,Yes.,0
+457,No,No,0
+458,Kitchen counter,Kitchen counter,0
+459,left.,left.,0
+460,yes.,yes.,0
+461,"left.
+Rationale: The man is on the left.","left.
+Rationale: The man is on the left.",0
+462,Wood.,Wood.,0
+463,desk,desk,0
+464,Yes.,Yes.,0
+465,No.,No.,0
+466,No.,No.,0
+467,yellow.,yellow.,0
+468,Yes.,Yes.,0
+469,Yes.,Yes.,0
+470,"chair.
+Rationale: The furniture is a chair.","chair.
+Rationale: The furniture is a chair.",0
+471,No.,No.,0
+472,left.,left.,0
+473,Wii controller.,Wii controller.,0
+474,"gray.
+Rationale: The sidewalk is gray.","gray.
+Rationale: The sidewalk is gray.",0
+475,"red.
+Rationale: The bus is red.","red.
+Rationale: The bus is red.",0
+476,yes,yes,0
+477,Short.,Short.,0
+478,office.,office.,0
+479,"spatula.
+Rationale: The utensil is a spatula.","spatula.
+Rationale: The utensil is a spatula.",0
+480,Yes,Yes,0
+481,man,man,0
+482,yes,yes,0
+483,Yes.,Yes.,0
+484,No.,No.,0
+485,Toaster.,Toaster.,0
+486,yes.,yes.,0
+487,bed,bed,0
+488,zebras,zebras,0
+489,yes.,yes.,0
+490,Yes.,Yes.,0
+491,No.,No.,0
+492,No.,No.,0
+493,Yes.,Yes.,0
+494,couch.,couch.,0
+495,laptop,Monitor.,1
+496,plant,plant,0
+497,snowboarder,snowboarder,0
+498,"table.
+Rationale: The furniture is a table.","table.
+Rationale: The furniture is a table.",0
+499,skate park,skate park,0
+500,Yes.,Yes.,0
+501,The boy.,The boy.,0
+502,No.,No.,0
+503,12 inches,12 inches,0
+504,No.,No.,0
+505,No.,No.,0
+506,"red
+rationale the bucket is red",red,1
+507,Brown.,Brown.,0
+508,"right.
+Rationale: The microwave is on the right.","right.
+Rationale: The microwave is on the right.",0
+509,Hard.,Hard.,0
+510,no,no,0
+511,Yes.,Yes.,0
+512,Yes.,Yes.,0
+513,Apples.,Apples.,0
+514,No.,No.,0
+515,no,no,0
+516,yes,yes,0
+517,Woman.,Woman.,0
+518,yes,yes,0
+519,Yes.,Yes.,0
+520,"wood
+rationale the picture frame is made of wood",wood.,1
+521,yes.,yes.,0
+522,Woman.,Woman.,0
+523,In front.,In front.,0
+524,gray,gray,0
+525,No.,No.,0
+526,Circle.,Circle.,0
+527,thumbs up,thumbs up,0
+528,"thick.
+Rationale: The birds are flying in a large group through thick clouds.","thick.
+Rationale: The birds are flying in a large group through thick clouds.",0
+529,Yes.,Yes.,0
+530,Toilet.,Toilet.,0
+531,light,light,0
+532,Yes.,Yes.,0
+533,yes.,yes.,0
+534,No.,No.,0
+535,yes.,yes.,0
+536,"metal.
+Rationale: The table is metallic.","metal.
+Rationale: The table is metallic.",0
+537,"floor.
+Rationale: The cable is on the floor.","floor.
+Rationale: The cable is on the floor.",0
+538,"baseball game.
+Rationale: The spectators are watching a baseball game.","baseball game.
+Rationale: The spectators are watching a baseball game.",0
+539,yes.,yes.,0
+540,No.,No.,0
+541,"suitcase.
+Rationale: The woman is pulling a suitcase.","suitcase.
+Rationale: The woman is pulling a suitcase.",0
+542,"cloth
+rationale the material is cloth",Cloth.,1
+543,"table.
+Rationale: The table is to the left of the books.","table.
+Rationale: The table is to the left of the books.",0
+544,Yes.,Yes.,0
+545,"chair.
+Rationale: The chair is in front of the closet.","chair.
+Rationale: The chair is in front of the closet.",0
+546,"cupcake liners.
+Rationale: The cookies are in cupcake liners.","cupcake liners.
+Rationale: The cookies are in cupcake liners.",0
+547,"computer
+rationale the headphones are in front of the computer",Computer.,1
+548,Ocean.,Ocean.,0
+549,yes.,yes.,0
+550,No.,No.,0
+551,bed,bed,0
+552,parking lot.,parking lot.,0
+553,"elephant.
+Rationale: The animal is an elephant.","elephant.
+Rationale: The animal is an elephant.",0
+554,Fire hydrant.,Fire hydrant.,0
+555,right.,right.,0
+556,Yes.,Yes.,0
+557,no.,no.,0
+558,"large.
+Rationale: The bucket is large.","large.
+Rationale: The bucket is large.",0
+559,"large.
+Rationale: The window is large.","large.
+Rationale: The window is large.",0
+560,Yes,Yes,0
+561,No.,No.,0
+562,sofa,sofa,0
+563,Yes.,Yes.,0
+564,yes,yes,0
+565,yes,yes,0
+566,"monitor.
+Rationale: The device is a monitor.","monitor.
+Rationale: The device is a monitor.",0
+567,No.,No.,0
+568,Yes.,Yes.,0
+569,Stove.,Stove.,0
+570,man.,man.,0
+571,Overcast.,Overcast.,0
+572,Building.,Building.,0
+573,No.,No.,0
+574,Toilet,Toilet,0
+575,Yes.,Yes.,0
+576,salad,salad,0
+577,Green.,Green.,0
+578,"jacket.
+Rationale: The item is a jacket.","jacket.
+Rationale: The item is a jacket.",0
+579,"eating.
+Rationale: The boy is eating.","eating.
+Rationale: The boy is eating.",0
+580,Fire truck.,Fire truck.,0
+581,Metal.,Metal.,0
+582,Green.,Green.,0
+583,Yes,Yes,0
+584,Left.,Left.,0
+585,Yes.,Yes.,0
+586,"5'9""","5'9""",0
+587,"car.
+Rationale: The vehicle is a car.","car.
+Rationale: The vehicle is a car.",0
+588,bar stools.,bar stools.,0
+589,Refrigerator.,Refrigerator.,0
+590,Wood.,Wood.,0
+591,No.,No.,0
+592,"trailer.
+Rationale: The vehicle is a trailer.","trailer.
+Rationale: The vehicle is a trailer.",0
+593,"left
+rationale the bag is on the left",Left.,1
+594,Baseball uniform.,Baseball uniform.,0
+595,no,no,0
+596,No.,No.,0
+597,"marshmallows.
+Rationale: The cake and the marshmallow are both white.","marshmallows.
+Rationale: The cake and the marshmallow are both white.",0
+598,Bacon.,Bacon.,0
+599,cow,cow,0
+600,Yes.,Yes.,0
+601,Cows.,Cows.,0
+602,Wii,Wii,0
+603,yes.,yes.,0
+604,Right.,Right.,0
+605,Truck,Truck,0
+606,No.,No.,0
+607,Washing machine.,Washing machine.,0
+608,"waffle.
+Rationale: The food is a waffle.","waffle.
+Rationale: The food is a waffle.",0
+609,yes.,yes.,0
+610,Bus.,Bus.,0
+611,yes,yes,0
+612,No.,No.,0
+613,Racket.,Racket.,0
+614,CPU.,CPU.,0
+615,"van
+rationale the vehicle is a van","van.
+Rationale: The van is metallic.",1
+616,"fire hydrant.
+Rationale: The man is sitting on a fire hydrant.","fire hydrant.
+Rationale: The man is sitting on a fire hydrant.",0
+617,"keyboard.
+Rationale: The device is a keyboard.","keyboard.
+Rationale: The device is a keyboard.",0
+618,"elephant.
+Rationale: The animal is an elephant.","elephant.
+Rationale: The animal is an elephant.",0
+619,Car,Car,0
+620,Yes.,Yes.,0
+621,"gray.
+Rationale: The fence is gray.","gray.
+Rationale: The fence is gray.",0
+622,"catcher
+rationale the person behind the plate is the catcher",catcher,1
+623,sleeping.,sleeping.,0
+624,yes,yes,0
+625,No.,No.,0
+626,"skateboarder.
+Rationale: The person is crouching down.","skateboarder.
+Rationale: The person is crouching down.",0
+627,"oven.
+Rationale: The utensils are in the oven.","oven.
+Rationale: The utensils are in the oven.",0
+628,Buildings.,Buildings.,0
+629,Bicycle.,Bicycle.,0
+630,5 feet.,5 feet.,0
+631,Banana.,Banana.,0
+632,Horses,Horses,0
+633,No.,No.,0
+634,No.,No.,0
+635,"plastic.
+Rationale: The fork is plastic.","plastic.
+Rationale: The fork is plastic.",0
+636,the man,the man,0
+637,No.,No.,0
+638,Photograph.,Photograph.,0
+639,Desk.,Desk.,0
+640,left.,left.,0
+641,"large.
+Rationale: The motorbike is large.","large.
+Rationale: The motorbike is large.",0
+642,no,yes.,1
+643,Left.,Left.,0
+644,No.,No.,0
+645,Rectangle.,Rectangle.,0
+646,Yes.,Yes.,0
+647,wall.,wall.,0
+648,Yes.,Yes.,0
+649,"bar stool.
+Rationale: The furniture is a bar stool.","bar stool.
+Rationale: The furniture is a bar stool.",0
+650,"boys.
+Rationale: The kids are playing baseball.","boys.
+Rationale: The kids are playing baseball.",0
+651,No.,No.,0
+652,Blue.,Blue.,0
+653,No.,No.,0
+654,Bottom.,Bottom.,0
+655,"zoo.
+Rationale: The place is a zoo.","zoo.
+Rationale: The place is a zoo.",0
+656,riding,riding,0
+657,yes.,yes.,0
+658,yes,yes,0
+659,"right
+rationale the lamp is on the right","left.
+Rationale: The lamp is on the left.",1
+660,left,left,0
+661,"park.
+Rationale: The man is playing soccer in a grassy field.","park.
+Rationale: The man is playing soccer in a grassy field.",0
+662,"coach.
+Rationale: The man is the woman's coach.","coach.
+Rationale: The man is the woman's coach.",0
+663,Yes.,Yes.,0
+664,Street.,Street.,0
+665,"laptop.
+Rationale: The device is a laptop.","laptop.
+Rationale: The device is a laptop.",0
+666,"green.
+Rationale: The bus and the tree are both green.","green.
+Rationale: The bus and the tree are both green.",0
+667,No.,No.,0
+668,No.,No.,0
+669,No.,No.,0
+670,Bookcase.,Bookcase.,0
+671,"computer.
+Rationale: The computer is on the mouse pad.","computer.
+Rationale: The computer is on the mouse pad.",0
+672,no,no,0
+673,Man.,Man.,0
+674,No.,No.,0
+675,No.,No.,0
+676,"left.
+Rationale: The microwave is on the left.","left.
+Rationale: The microwave is on the left.",0
+677,Main St.,Main St.,0
+678,Yes.,Yes.,0
+679,metal.,metal.,0
+680,woman,woman,0
+681,Yes,Yes,0
+682,restaurant,restaurant,0
+683,yes,yes,0
+684,"cake.
+Rationale: The food is a cake.","cake.
+Rationale: The food is a cake.",0
+685,"stove.
+Rationale: The appliance is a stove.","stove.
+Rationale: The appliance is a stove.",0
+686,Left.,Left.,0
+687,man,man,0
+688,bread,bread,0
+689,Photographer.,Photographer.,0
+690,Left.,Left.,0
+691,Iced tea.,Iced tea.,0
+692,yes,yes,0
+693,Yes.,Yes.,0
+694,"wood.
+Rationale: The bleachers are made of wood.","wood.
+Rationale: The bleachers are made of wood.",0
+695,yes.,yes.,0
+696,Asian.,Asian.,0
+697,"blue
+rationale the man is wearing blue jeans",blue.,1
+698,Train.,Train.,0
+699,no,no,0
+700,Yes.,Yes.,0
+701,Zebra.,Zebra.,0
+702,Fire truck,Fire truck,0
+703,no one.,no one.,0
+704,yes,yes,0
+705,"table.
+Rationale: The furniture is a table.","table.
+Rationale: The furniture is a table.",0
+706,Red.,Red.,0
+707,desk,desk,0
+708,"man.
+Rationale: The statue is of a man.","man.
+Rationale: The statue is of a man.",0
+709,Man.,Man.,0
+710,None.,None.,0
+711,No.,No.,0
+712,No.,No.,0
+713,"full.
+Rationale: The box is full.","full.
+Rationale: The box is full.",0
+714,"plastic.
+Rationale: The vacuum is made of plastic.","plastic.
+Rationale: The vacuum is made of plastic.",0
+715,Not very,Not very,0
+716,No.,No.,0
+717,Car.,Car.,0
+718,No.,No.,0
+719,Skaters.,Skaters.,0
+720,Tv.,Tv.,0
+721,"luggage.
+Rationale: The luggage is hanging.","luggage.
+Rationale: The luggage is hanging.",0
+722,Left,Left,0
+723,"table.
+Rationale: The laptop is on a table.","table.
+Rationale: The laptop is on a table.",0
+724,"car.
+Rationale: The vehicle is a car.","car.
+Rationale: The vehicle is a car.",0
+725,Yes.,Yes.,0
+726,"girl.
+Rationale: The girl is wearing the shoe.","girl.
+Rationale: The girl is wearing the shoe.",0
+727,"left.
+Rationale: The elephant is on the left of the man.","left.
+Rationale: The elephant is on the left of the man.",0
+728,Man.,Man.,0
+729,yes.,yes.,0
+730,"smoking.
+Rationale: The man is smoking.","smoking.
+Rationale: The man is smoking.",0
+731,Left.,Left.,0
+732,metal.,metal.,0
+733,Black.,Black.,0
+734,"male
+rationale the jockey is male",male,1
+735,Bottom.,Bottom.,0
+736,No.,No.,0
+737,yes.,yes.,0
+738,Ice.,Ice.,0
+739,Restaurant.,Restaurant.,0
+740,"parking.
+Rationale: The sign says parking.","parking.
+Rationale: The sign says parking.",0
+741,no,no,0
+742,Yes.,Yes.,0
+743,long sleeved.,long sleeved.,0
+744,Couch.,Couch.,0
+745,"umpire.
+Rationale: The person in front of the wall is the batter. the person behind the wall is the catcher. the person behind the wall is watching the batter.","umpire.
+Rationale: The person in front of the wall is the batter. the person behind the wall is the catcher. the person behind the wall is watching the batter.",0
+746,"flowers.
+Rationale: The flowers are in the vase.","flowers.
+Rationale: The flowers are in the vase.",0
+747,Yes.,Yes.,0
+748,Man.,Man.,0
+749,no,no,0
+750,yes,yes,0
+751,Both are used by people.,Both are used by people.,0
+752,Yes,Yes,0
+753,Cabinets.,Cabinets.,0
+754,yes,yes,0
+755,Speaker.,Speaker.,0
+756,"skier.
+Rationale: The skier is looking down.","skier.
+Rationale: The skier is looking down.",0
+757,"no.
+Rationale: There are no horses in the picture.","no.
+Rationale: There are no horses in the picture.",0
+758,black.,black.,0
+759,Yes.,Yes.,0
+760,Kitchen,Kitchen,0
+761,Pants.,Pants.,0
+762,no.,no.,0
+763,No.,No.,0
+764,Yes.,Yes.,0
+765,Yes.,Yes.,0
+766,1000,1000,0
+767,No.,No.,0
+768,yes,yes,0
+769,"right.
+Rationale: The woman is on the right.","right.
+Rationale: The woman is on the right.",0
+770,Yes.,Yes.,0
+771,Goalie,Goalie,0
+772,no.,no.,0
+773,No.,No.,0
+774,no,Yes.,1
+775,Green.,Green.,0
+776,"black.
+Rationale: The umpire is wearing black.","black.
+Rationale: The umpire is wearing black.",0
+777,River.,River.,0
+778,blue,blue,0
+779,black.,black.,0
+780,Kitchen.,Kitchen.,0
+781,yes.,yes.,0
+782,Yes.,Yes.,0
+783,Sandwich.,Sandwich.,0
+784,"stop.
+Rationale: The man is standing beside a stop sign.","stop.
+Rationale: The man is standing beside a stop sign.",0
+785,Yes,Yes,0
+786,chairs,chairs,0
+787,Yes.,Yes.,0
+788,Yes.,Yes.,0
+789,No.,No.,0
+790,"keyboard.
+Rationale: The keyboard is the device.","keyboard.
+Rationale: The keyboard is the device.",0
+791,No,No,0
+792,Motorcycle.,Motorcycle.,0
+793,No.,No.,0
+794,yes.,yes.,0
+795,Yes.,Yes.,0
+796,Performing.,Performing.,0
+797,Wooden.,Wooden.,0
+798,"right.
+Rationale: The shelves are on the right.","right.
+Rationale: The shelves are on the right.",0
+799,Nothing,Nothing,0
+800,"woman.
+Rationale: The woman is using the spices.","woman.
+Rationale: The woman is using the spices.",0
+801,Dog.,Dog.,0
+802,Building.,Building.,0
+803,White.,White.,0
+804,yes.,yes.,0
+805,"blue.
+Rationale: The can is blue.","blue.
+Rationale: The can is blue.",0
+806,Washing machine.,Washing machine.,0
+807,"brown.
+Rationale: The necklace is brown.","brown.
+Rationale: The necklace is brown.",0
+808,"left.
+Rationale: The microwave is on the left side of the image.","left.
+Rationale: The microwave is on the left side of the image.",0
+809,yes.,yes.,0
+810,Yes.,Yes.,0
+811,"small.
+Rationale: The window is small.","small.
+Rationale: The window is small.",0
+812,Bottle.,Bottle.,0
+813,Yes.,Yes.,0
+814,"beach.
+Rationale: The sand is on the beach.","beach.
+Rationale: The sand is on the beach.",0
+815,Mountains.,Mountains.,0
+816,No.,No.,0
+817,yes.,yes.,0
+818,No.,No.,0
+819,Yes.,Yes.,0
+820,Egg.,Egg.,0
+821,"right.
+Rationale: The candles are on the right.","right.
+Rationale: The candles are on the right.",0
+822,"left.
+Rationale: The monitor is to the left of the lamp.","left.
+Rationale: The monitor is to the left of the lamp.",0
+823,Yes,Yes,0
+824,Left.,Left.,0
+825,Yes.,Yes.,0
+826,Yes,Yes,0
+827,"jacket
+rationale the man is wearing a jacket",Jacket.,1
+828,Jeans.,Jeans.,0
+829,"right
+rationale the car is on the right",Left.,1
+830,Dirt.,Dirt.,0
+831,yes.,yes.,0
+832,Orange.,Orange.,0
+833,Behind.,Behind.,0
+834,No.,No.,0
+835,Sitting.,Sitting.,0
+836,no,no,0
+837,ham,ham,0
+838,no.,no.,0
+839,No.,No.,0
+840,Zebra.,Zebra.,0
+841,Green,Green,0
+842,catcher,catcher,0
+843,Green.,Green.,0
+844,Woman.,Woman.,0
+845,Yes.,Yes.,0
+846,Yes.,Yes.,0
+847,Silver.,Silver.,0
+848,"yes
+rationale the man is wearing a shirt",Yes.,1
+849,No.,No.,0
+850,yes.,yes.,0
+851,"closet.
+Rationale: The closet is closed.","closet.
+Rationale: The closet is closed.",0
+852,"large.
+Rationale: The table is large.","large.
+Rationale: The table is large.",0
+853,laptop.,laptop.,0
+854,"white.
+Rationale: The counter is white.","white.
+Rationale: The counter is white.",0
+855,no,Yes.,1
+856,Concrete.,Concrete.,0
+857,Girl.,Girl.,0
+858,Yes.,Yes.,0
+859,"cake.
+Rationale: The strawberry is in front of the cake.","cake.
+Rationale: The strawberry is in front of the cake.",0
+860,"no.
+Rationale: There are no chairs or tv stands.","no.
+Rationale: There are no chairs or tv stands.",0
+861,Woman.,Woman.,0
+862,"desk.
+Rationale: The desk is to the right of the phone.","desk.
+Rationale: The desk is to the right of the phone.",0
+863,yes,yes,0
+864,Cows.,Cows.,0
+865,zebra.,zebra.,0
+866,30.,30.,0
+867,No.,No.,0
+868,"table.
+Rationale: The umbrella is sitting behind a table.","table.
+Rationale: The umbrella is sitting behind a table.",0
+869,"cat.
+Rationale: The animal is a cat.","cat.
+Rationale: The animal is a cat.",0
+870,"left.
+Rationale: The pillow is on the left.","left.
+Rationale: The pillow is on the left.",0
+871,Xavier.,Xavier.,0
+872,bed,bed,0
+873,Laptop.,Laptop.,0
+874,Eggs.,Eggs.,0
+875,No.,No.,0
+876,Swinging,Swinging,0
+877,"computer.
+Rationale: The cable is connected to a computer.","computer.
+Rationale: The cable is connected to a computer.",0
+878,Yes.,Yes.,0
+879,Dog.,Dog.,0
+880,Yes,Yes,0
+881,white,white,0
+882,No.,No.,0
+883,"donut.
+Rationale: The person is holding a donut.","donut.
+Rationale: The person is holding a donut.",0
+884,No,No,0
+885,Yes.,Yes.,0
+886,Red.,Red.,0
+887,no.,no.,0
+888,no,no,0
+889,Fish tank.,Fish tank.,0
+890,yes.,yes.,0
+891,left,left,0
+892,Town Mob.,Town Mob.,0
+893,No.,No.,0
+894,Yes.,Yes.,0
+895,No.,No.,0
+896,yes.,yes.,0
+897,Left,Left,0
+898,No.,No.,0
+899,Bike.,Bike.,0
+900,No,No,0
+901,Wood.,Wood.,0
+902,Yes,Yes,0
+903,Dishwasher.,Dishwasher.,0
+904,Yes.,Yes.,0
+905,right,right,0
+906,"left.
+Rationale: The coffee maker is on the left.","left.
+Rationale: The coffee maker is on the left.",0
+907,"cup holder.
+Rationale: The cup holder is in front of the chair.","cup holder.
+Rationale: The cup holder is in front of the chair.",0
+908,Fences.,Fences.,0
+909,no.,no.,0
+910,Yes.,Yes.,0
+911,"small.
+Rationale: The mousepad is small.","small.
+Rationale: The mousepad is small.",0
+912,"small.
+Rationale: The kitten is small.","small.
+Rationale: The kitten is small.",0
+913,"donut.
+Rationale: The food item is a donut.","donut.
+Rationale: The food item is a donut.",0
+914,no,no,0
+915,No,No,0
+916,Car.,Car.,0
+917,"wood.
+Rationale: The window is made of wood.","wood.
+Rationale: The window is made of wood.",0
+918,Yes.,Yes.,0
+919,3 inches.,3 inches.,0
+920,Yes.,Yes.,0
+921,Yes.,Yes.,0
+922,very.,very.,0
+923,Stainless steel.,Stainless steel.,0
+924,"right.
+Rationale: The magazine is on the right.","right.
+Rationale: The magazine is on the right.",0
+925,No,No,0
+926,yes,yes,0
+927,blue.,blue.,0
+928,Yes.,Yes.,0
+929,Man.,Man.,0
+930,zebra,zebra,0
+931,No.,No.,0
+932,two girls,two girls,0
+933,No.,No.,0
+934,"girl.
+Rationale: The person is a female.","girl.
+Rationale: The person is a female.",0
+935,no,no,0
+936,silver,silver,0
+937,yes.,yes.,0
+938,Yes.,Yes.,0
+939,"apple.
+Rationale: The fruit is an apple.","apple.
+Rationale: The fruit is an apple.",0
+940,cat,cat,0
+941,For 2 days.,For 2 days.,0
+942,short.,short.,0
+943,"cobblestone
+rationale the sidewalk is made out of stones",Cobblestone.,1
+944,No.,No.,0
+945,No.,No.,0
+946,White,White,0
+947,"no.
+Rationale: The color of the bed is white and the snack is green.","no.
+Rationale: The color of the bed is white and the snack is green.",0
+948,No.,No.,0
+949,Yes,Yes,0
+950,Watching.,Watching.,0
+951,"barrel.
+Rationale: The barrel is to the right of the woman.","barrel.
+Rationale: The barrel is to the right of the woman.",0
+952,Uniform.,Uniform.,0
+953,No.,No.,0
+954,No.,No.,0
+955,sofa,sofa,0
+956,yes.,yes.,0
+957,no,no,0
+958,"chair
+rationale the chair is black",chair,1
+959,"right.
+Rationale: The bottle is on the right.","right.
+Rationale: The bottle is on the right.",0
+960,"blinds.
+Rationale: The window has blinds.","blinds.
+Rationale: The window has blinds.",0
+961,Black.,Black.,0
+962,Yes.,Yes.,0
+963,"concrete
+rationale the bridge is made of concrete",concrete,1
+964,Car.,Car.,0
+965,apple.,apple.,0
+966,"elephant
+rationale the woman is riding on the back of an elephant",elephant,1
+967,left,left,0
+968,Left.,Left.,0
+969,"sedan.
+Rationale: The sedan is higher than the truck.","sedan.
+Rationale: The sedan is higher than the truck.",0
+970,No.,No.,0
+971,japan.,japan.,0
+972,"flag.
+Rationale: The man is holding a flag.","flag.
+Rationale: The man is holding a flag.",0
+973,yes,yes,0
+974,Kite.,Kite.,0
+975,donut.,donut.,0
+976,No.,No.,0
+977,tv stand,tv stand,0
+978,Book.,Book.,0
+979,People.,People.,0
+980,TV stand.,TV stand.,0
+981,"laptop.
+Rationale: The device is a laptop.","laptop.
+Rationale: The device is a laptop.",0
+982,Yes.,Yes.,0
+983,"racket.
+Rationale: The woman is holding a tennis racket.","racket.
+Rationale: The woman is holding a tennis racket.",0
+984,Kitchen.,Kitchen.,0
+985,Toilets.,Toilets.,0
+986,"pizza.
+Rationale: The food is a pizza.","pizza.
+Rationale: The food is a pizza.",0
+987,"white.
+Rationale: The color is white.","white.
+Rationale: The color is white.",0
+988,white,white,0
+989,Bottom,Bottom,0
+990,Left.,Left.,0
+991,"television.
+Rationale: The lamp is in front of the tv.","television.
+Rationale: The lamp is in front of the tv.",0
+992,table.,table.,0
+993,yes.,yes.,0
+994,woman.,woman.,0
+995,Chair.,Chair.,0
+996,"short.
+Rationale: The shirt is short.","short.
+Rationale: The shirt is short.",0
+997,No.,No.,0
+998,No.,No.,0
+999,lid,lid,0
+1000,"crossing street.
+Rationale: The man is crossing the street.","crossing street.
+Rationale: The man is crossing the street.",0

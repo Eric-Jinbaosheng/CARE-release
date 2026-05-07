@@ -1,0 +1,1001 @@
+question,category,image_path,answer,l2-category,index,prediction
+Is it overcast?,verify,n161313.jpg,no,global,n161313_1,No
+Are there drapes to the right of the bed?,verify,n23181.jpg,yes,relation,n23181_3,Yes
+Where is the skinny person standing?,query,n52544.jpg,table,relation,n52544_2,Table
+What are the drapes around of?,query,n23181.jpg,window,relation,n23181_4,Window
+Is the field soft and snowy?,logical,n146522.jpg,no,attribute,n146522_1,No
+Who is wearing a shirt?,query,n137182.jpg,girl,relation,n137182_2,Woman
+Are the cabinets below the stove wooden and open?,logical,n501609.jpg,no,attribute,n501609_1,No
+What color are the drawers?,query,n35676.jpg,light brown,attribute,n35676_1,Brown
+On which side of the picture is the clean mirror?,query,n473688.jpg,left,attribute,n473688_1,Left
+What is the phone made of?,query,n315887.jpg,plastic,attribute,n315887_4,Plastic
+The soap dispenser made of chrome is sitting on what?,query,n473688.jpg,countertop,relation,n473688_4,Sink.
+Does the utensil beside the pan have black color and small size?,logical,n184385.jpg,no,attribute,n184385_1,Yes
+Was iron used to make the fence?,verify,n171169.jpg,no,attribute,n171169_1,No
+What is the boy on?,query,n262929.jpg,bike,relation,n262929_1,Bicycle
+Does the brown field appear to be large and dirty?,logical,n66756.jpg,yes,attribute,n66756_2,Yes
+What piece of furniture is it?,query,n88933.jpg,sofa,category,n88933_5,Bench
+What appliance is in front of the wall?,query,n500308.jpg,refrigerator,relation,n500308_1,Refrigerator
+Is the player to the right of the frisbee that looks white?,verify,n260762.jpg,yes,relation,n260762_1,Yes
+Is the person near the grass sitting on a bench?,verify,n302358.jpg,yes,relation,n302358_1,Yes
+Who is wearing a watch?,query,n235859.jpg,women,relation,n235859_3,Man
+What kind of furniture isn't small?,query,n525901.jpg,shelf,category,n525901_2,chair
+"What color are the towels made of cloth, black or white?",choose,n153293.jpg,black,attribute,n153293_1,black.
+Which kind of animal is the woman staring at?,query,n160664.jpg,giraffe,relation,n160664_4,giraffe.
+What color is the sticker that looks rectangular?,query,n324644.jpg,purple,attribute,n324644_2,Red
+How heavy is the bison?,query,n410476.jpg,heavy,attribute,n410476_1,Very
+What type of appliance is under the sink that is shown in the picture?,query,n141939.jpg,radiator,relation,n141939_2,radiator
+What kind of furniture is wooden?,query,n170941.jpg,table,category,n170941_1,Table.
+Is the suitcase to the right of the other suitcase tall and brown?,logical,n382416.jpg,yes,attribute,n382416_2,Yes
+Is the garbage can behind a mat?,verify,n240666.jpg,yes,relation,n240666_2,Yes
+Are both the spectators to the left of the batter and the spectators that are to the right of the batter sitting?,logical,n317260.jpg,yes,object,n317260_3,No
+How fat are the old people who are wearing a dress?,query,n235859.jpg,fat,attribute,n235859_5,answer not available
+"What color is the hair, gray or red?",choose,n433532.jpg,gray,attribute,n433532_4,Gray
+Who is wearing a knee pad?,query,n489190.jpg,skateboarder,relation,n489190_5,Skateboarder
+Does the smooth table have brown color?,verify,n556604.jpg,no,attribute,n556604_1,Yes
+Is the shirt made of cotton short sleeved and gray?,logical,n477702.jpg,no,attribute,n477702_1,Yes
+Is the woman near the man standing on the bricks?,verify,n556604.jpg,yes,relation,n556604_2,Yes
+What is filled with bird?,query,n335542.jpg,sky,relation,n335542_3,lake
+Does the sunny beach look bright?,verify,n414992.jpg,yes,attribute,n414992_2,Yes
+Does the knife in the knife block have black color and short length?,logical,n278312.jpg,no,attribute,n278312_2,no
+Are there both a helmet and a motorcycle in the image?,logical,n131634.jpg,no,object,n131634_1,no
+How old is the person that the jacket is worn around?,query,n342511.jpg,old,attribute,n342511_2,Old
+Does the helmet have blue color?,verify,n531731.jpg,yes,attribute,n531731_1,Yes
+What do you think is the old lady wearing?,query,n111390.jpg,coat,relation,n111390_2,Jacket
+What kind of furniture is underneath the countertop?,query,n35676.jpg,drawers,relation,n35676_4,Cabinets
+What is the blender full of?,query,n37274.jpg,ice,relation,n37274_3,Liquid.
+What type of furniture is to the left of the shelf that looks light brown?,query,n167552.jpg,chair,relation,n167552_1,Chair.
+Where do you think is the happy person standing on?,query,n298104.jpg,beach,relation,n298104_2,Beach
+Is the helmet made of plastic or metal?,choose,n501951.jpg,plastic,attribute,n501951_2,metal
+What device is not black?,query,n282436.jpg,computer mouse,category,n282436_2,Mouse
+Does the sand on the beach look wet and rough?,logical,n92308.jpg,yes,attribute,n92308_1,Yes
+Is the black hair long or short?,choose,n468864.jpg,long,attribute,n468864_2,Long
+Are there pots?,verify,n184385.jpg,yes,object,n184385_2,Yes
+Is the fireplace near the couch white and closed?,logical,n23181.jpg,no,attribute,n23181_5,no
+What color is the round mirror?,query,n344136.jpg,brown,attribute,n344136_1,Brown.
+Does the train that looks orange and gray look old or new?,choose,n542609.jpg,new,attribute,n542609_1,New
+What kind of furniture is the smiling person sitting on?,query,n532191.jpg,chair,relation,n532191_2,Chair.
+Is the door white and open?,logical,n497658.jpg,no,attribute,n497658_1,No
+Does the sculpture look tall and curved?,logical,n346247.jpg,yes,attribute,n346247_4,Yes
+What is the person near the wall walking on?,query,n95904.jpg,ground,relation,n95904_3,Sidewalk.
+Is the hat the same color as the uniform?,compare,n202379.jpg,yes,attribute,n202379_1,Yes
+Who wears the sweater?,query,n554880.jpg,woman,relation,n554880_9,woman.
+Which place is it?,query,n92308.jpg,beach,global,n92308_4,Beach
+What is the stuffed dog hanging from?,query,n4777.jpg,stroller,relation,n4777_3,stroller
+What is the device to the right of the keyboard?,query,n51002.jpg,computer monitor,relation,n51002_1,laptop
+Are these goats or a sheep?,choose,n86120.jpg,goats,category,n86120_2,goat
+What is the young woman looking at?,query,n68769.jpg,menu,relation,n68769_1,Camera.
+Are there any cows to the left of the fence?,verify,n6309.jpg,no,relation,n6309_5,No
+Is the dessert below tomatoes?,verify,n363445.jpg,no,relation,n363445_2,No
+How big is the pipe that is not short?,query,n171169.jpg,small,attribute,n171169_3,Large.
+Is the lamp to the right or to the left of the car?,choose,n472825.jpg,left,relation,n472825_1,left
+Is there any zebra or deer in this scene?,logical,n469525.jpg,yes,object,n469525_1,Yes
+Are the devices on top of the desk black and open?,logical,n262920.jpg,no,attribute,n262920_3,Yes
+What device is on top of the desk?,query,n264887.jpg,monitor,relation,n264887_4,Keyboard.
+Which color is the bookcase?,query,n69237.jpg,black,attribute,n69237_3,Black
+Is the black device to the left or to the right of the couch?,choose,n527290.jpg,right,relation,n527290_4,Right
+Is the black car to the left of a woman?,verify,n538039.jpg,no,relation,n538039_4,No
+How big is the utensil that is slicing the cake?,query,n111390.jpg,large,attribute,n111390_3,Large
+Are there both remote controls and computer mice in this photograph?,logical,n90294.jpg,yes,object,n90294_3,Yes
+What device is on top of the computer underneath the desk?,query,n435808.jpg,router,relation,n435808_8,speaker
+Who is wearing shorts?,query,n413319.jpg,player,relation,n413319_2,Man
+Which kind of furniture is black?,query,n283587.jpg,chairs,category,n283587_5,stools.
+What animal is in front of the trees?,query,n543966.jpg,elephants,relation,n543966_4,Elephant
+Is the shirt sleeveless or short sleeved?,choose,n468864.jpg,sleeveless,attribute,n468864_3,Sleeveless.
+Is the shower near the mirror dirty and large?,logical,n141939.jpg,no,attribute,n141939_8,No
+"On which side of the picture is the water bottle, the right or the left?",choose,n166008.jpg,left,attribute,n166008_2,Left
+What item of clothing is long sleeved?,query,n159802.jpg,blouse,category,n159802_4,hoodie
+What is the person wearing?,query,n206785.jpg,dress shirt,relation,n206785_3,glasses
+Does the hair seem to be black or blond?,choose,n468864.jpg,black,attribute,n468864_4,Black
+Is the mirror made of metal?,verify,n240666.jpg,no,attribute,n240666_5,No
+How clean is the radio?,query,n520071.jpg,clean,attribute,n520071_2,clean
+Is the picture white?,verify,n578564.jpg,no,attribute,n578564_6,No
+What is in front of the dirt?,query,n488874.jpg,beach,relation,n488874_6,Boats
+What are the sprinkles sprinkled on?,query,n296467.jpg,cupcakes,relation,n296467_9,Cupcakes
+What is common to the truck and the frisbee?,compare,n538039.jpg,color,attribute,n538039_5,Color.
+Are the traffic lights hanging from the cables?,verify,n324644.jpg,yes,relation,n324644_6,Yes
+What device is to the right of the bowl?,query,n513429.jpg,keyboard,relation,n513429_4,monitor
+What kind of furniture is brown?,query,n435808.jpg,desk,category,n435808_9,Desk
+Are there any people next to the vehicle that is yellow and black?,verify,n406334.jpg,yes,relation,n406334_5,Yes
+What is inside the container that is made of plastic?,query,n363445.jpg,fork,relation,n363445_5,Food.
+What type of furniture is to the right of the TV stand the television is on top of?,query,n275148.jpg,couch,relation,n275148_10,Couch
+Is the microwave silver and rectangular?,logical,n501609.jpg,yes,attribute,n501609_4,Yes
+Who is wearing a belt?,query,n334278.jpg,umpire,relation,n334278_9,batter
+Are there beds near the bookcase?,verify,n520071.jpg,no,relation,n520071_3,No
+Is the chair that looks dark brown long and curved?,logical,n234722.jpg,no,attribute,n234722_4,Yes
+Where is the traffic sign?,query,n211324.jpg,walkway,relation,n211324_1,Sidewalk
+What kind of furniture is the boy sitting on top of?,query,n49438.jpg,bed,relation,n49438_3,Bed
+What is inside the fridge that is in front of the wall?,query,n500308.jpg,glasses,relation,n500308_4,mugs
+What item of furniture is dark brown?,query,n65866.jpg,cabinet,category,n65866_3,Drawer
+What's wearing the belt?,query,n485969.jpg,pitcher,relation,n485969_3,Pitcher
+What color are the pants?,query,n527589.jpg,dark,attribute,n527589_2,Black
+What color are the empty tables?,query,n58220.jpg,black,attribute,n58220_3,Brown
+Is the dark chair to the left or to the right of the couch that is on the carpet?,choose,n192021.jpg,left,relation,n192021_5,Left
+Is the big bag near the fence black and closed?,logical,n216553.jpg,no,attribute,n216553_6,No
+Are there any hoses or envelopes in the picture?,logical,n162108.jpg,no,object,n162108_1,No
+What is parked alongside the building?,query,n309148.jpg,truck,relation,n309148_8,Fire truck
+Is the tall fence behind or in front of the bench made of wood?,choose,n117888.jpg,front,relation,n117888_6,Behind
+What surrounds the shuttle?,query,n54424.jpg,stars,relation,n54424_7,Stars.
+What is the name of the piece of furniture on top of the carpet?,query,n65885.jpg,table,relation,n65885_3,Piano.
+Do the counter and the sink have the same color?,compare,n446242.jpg,yes,attribute,n446242_2,Yes
+What type of furniture is the doll inside of?,query,n326988.jpg,cabinets,relation,n326988_10,Cabinet
+What is the aircraft that is using the cables?,query,n229548.jpg,helicopter,relation,n229548_9,Helicopter
+Is the home plate different in color than the shoe?,compare,n66756.jpg,no,attribute,n66756_7,Yes
+What race is the player that is wearing trousers?,query,n373692.jpg,caucasian,attribute,n373692_5,Black.
+Are the tie and the suit the same color?,compare,n429883.jpg,no,attribute,n429883_5,Yes
+What is the woman that is to the right of the man wearing?,query,n540852.jpg,dress,relation,n540852_2,suit
+What kind of furniture is standing on the floor?,query,n500209.jpg,shelf,relation,n500209_13,bookshelf
+What is the mouse pad on?,query,n310828.jpg,computer desk,relation,n310828_7,laptop
+Does the glass on the table look clear and small?,logical,n508733.jpg,yes,attribute,n508733_4,yes
+Is there either a briefcase or a purse that is not blue?,logical,n507959.jpg,no,object,n507959_8,No
+What are the papers sitting on?,query,n222915.jpg,mat,relation,n222915_4,Table
+Is that shirt sleeveless or is it long sleeved?,choose,n369595.jpg,sleeveless,attribute,n369595_3,Long sleeved
+What is the seat on?,query,n131634.jpg,motorcycle,relation,n131634_7,Motorcycle
+What items of furniture are below the stove?,query,n501609.jpg,cabinets,relation,n501609_8,Cabinets.
+What do you think are the brown animals called?,query,n210269.jpg,horses,category,n210269_4,Horses
+Do you see both helmets and skis?,logical,n161313.jpg,no,object,n161313_2,No
+What kind of animal is the vehicle behind of?,query,n497789.jpg,zebras,relation,n497789_3,giraffe.
+Do you see a horse on the field?,verify,n154160.jpg,no,relation,n154160_1,No
+Does the helmet that is made of plastic look small?,verify,n146522.jpg,yes,attribute,n146522_8,Yes
+Do you see cats on the device that is in the middle?,verify,n520071.jpg,yes,relation,n520071_6,Yes
+Are there either any towel dispensers or toys in the image?,logical,n357784.jpg,no,object,n357784_4,No
+What device is not large?,query,n315887.jpg,computer mouse,category,n315887_14,Phone.
+How large is the cabinet that is decorating the kitchen?,query,n97485.jpg,large,attribute,n97485_8,Large.
+What makes up the desk?,query,n264887.jpg,wood,attribute,n264887_8,Wood
+What animal stands on the grass?,query,n469525.jpg,deer,relation,n469525_2,Giraffe.
+Who is wearing the shirt?,query,n281241.jpg,gentleman,relation,n281241_10,man on right
+How large are the closed books on top of the coffee table?,query,n526228.jpg,small,attribute,n526228_10,Small
+Who is wearing a jacket?,query,n352479.jpg,snowboarder,relation,n352479_6,Woman
+Does the female person seem to be looking down?,verify,n481777.jpg,yes,attribute,n481777_3,Yes
+What's the pitcher throwing?,query,n485969.jpg,baseball,relation,n485969_11,Baseball
+What is covered by the curtains?,query,n140421.jpg,window,relation,n140421_8,Window
+Is the ladder below the windows?,verify,n89148.jpg,yes,relation,n89148_3,yes
+Who is riding?,query,n501951.jpg,driver,category,n501951_4,man.
+Is the happy man wearing a cap?,verify,n126087.jpg,no,relation,n126087_7,No
+What is the person next to the sign eating?,query,n318370.jpg,donut,relation,n318370_2,Donut
+Does that street sign look red?,verify,n199097.jpg,yes,attribute,n199097_8,Yes
+What's the player in front of?,query,n274905.jpg,fence,relation,n274905_15,Fence
+What is the item of furniture that the window is behind of?,query,n525901.jpg,desk,relation,n525901_10,Desk
+Does that chair seem to be wide and metallic?,logical,n167552.jpg,no,attribute,n167552_7,No
+Is the grass short and green?,logical,n257997.jpg,yes,attribute,n257997_3,Yes
+Behind what kind of furniture is the stove?,query,n118102.jpg,table,relation,n118102_6,Cabinets.
+What is in front of the large sofa?,query,n283587.jpg,coffee table,relation,n283587_11,Coffee table.
+Is the hydrant on the right?,verify,n12404.jpg,no,attribute,n12404_6,No
+What is under the mirror in the top?,query,n434283.jpg,sand,relation,n434283_4,Sand.
+Are they in front of the window frame that is square?,verify,n508733.jpg,yes,relation,n508733_5,Yes
+Is the lamp that is not turned-on silver and tall?,logical,n23181.jpg,yes,attribute,n23181_7,no
+On which side of the image are the metal cars?,query,n406334.jpg,right,attribute,n406334_6,Left
+On which side of the image is the bench?,query,n39114.jpg,left,attribute,n39114_7,Left
+Is the large chair to the right or to the left of the controller?,choose,n250715.jpg,right,relation,n250715_16,Right
+What animal is the man watching?,query,n250821.jpg,cat,relation,n250821_2,cat
+In front of what is the ocean?,query,n386688.jpg,trees,relation,n386688_11,airplane.
+Are there any cars or bags?,logical,n347706.jpg,no,object,n347706_9,No
+What do you think are the busy people watching?,query,n70461.jpg,train,relation,n70461_3,Tram
+What is the crowd in front of?,query,n257997.jpg,trees,relation,n257997_5,Cars.
+Is the black food to the left of the wallet that is lying on top of the bed?,verify,n293477.jpg,yes,relation,n293477_12,Yes
+Are there skateboards or cabinets in the image?,logical,n319845.jpg,no,object,n319845_6,No
+Are both the door and the mirror made of the same material?,compare,n131634.jpg,yes,attribute,n131634_10,Yes
+Which color is the bus to the right of the other bus?,query,n16425.jpg,blue,attribute,n16425_5,White
+What is in front of the silver car?,query,n154856.jpg,van,relation,n154856_5,bench.
+Is the trashcan below a nightstand?,verify,n249639.jpg,no,relation,n249639_7,Yes
+What is the monitor in front of?,query,n513429.jpg,poster,relation,n513429_9,Laptop.
+What is around the teddy bear?,query,n65885.jpg,tie,relation,n65885_9,Bow
+Is the kite green and large?,logical,n541482.jpg,no,attribute,n541482_8,yes
+Is he female and Caucasian?,logical,n413319.jpg,no,attribute,n413319_5,No
+Is there a door in this photo?,verify,n69237.jpg,no,object,n69237_7,No
+What color is the skirt?,query,n496803.jpg,black,attribute,n496803_10,White
+Is the table wooden and wide?,logical,n23762.jpg,yes,attribute,n23762_6,Yes
+What is under the desk?,query,n398257.jpg,chair,relation,n398257_10,Chair
+What is the name of the meat on the porcelain plate?,query,n278453.jpg,ham,relation,n278453_4,bread
+Which kind of furniture do the dolls sit on top of?,query,n507959.jpg,table,relation,n507959_17,Table.
+Is the long necklace gold or blue?,choose,n195249.jpg,gold,attribute,n195249_4,Blue
+Of which color is the house?,query,n143935.jpg,white,attribute,n143935_5,Brown
+What appliance is to the right of the chandelier?,query,n140421.jpg,refrigerator,relation,n140421_12,Refrigerator
+What do both the blinds and the pants have in common?,compare,n511913.jpg,color,attribute,n511913_4,Color
+Does the clear container look closed?,verify,n431447.jpg,yes,attribute,n431447_7,No
+Are the wood shelves black or maybe green?,choose,n527290.jpg,black,attribute,n527290_10,Black
+Is she young and male?,logical,n310828.jpg,no,attribute,n310828_10,No
+What is worn on the kid?,query,n204894.jpg,crown,relation,n204894_7,Crown.
+What's hanging above the flowers?,query,n6908.jpg,picture,relation,n6908_8,picture
+Are there any pens to the right of the tall lamp near the laptop?,verify,n433692.jpg,yes,relation,n433692_8,Yes
+Is the clock to the right of the lady near the tennis ball?,verify,n355567.jpg,yes,relation,n355567_5,Yes
+Who is playing?,query,n126891.jpg,boy,category,n126891_8,Boy
+"Which item of furniture is large, the bookcase or the desk?",choose,n520071.jpg,desk,category,n520071_10,Bookcase.
+Who is wearing the wristband?,query,n496803.jpg,athlete,relation,n496803_12,no
+What kind of animal is above the grass?,query,n196058.jpg,zebras,relation,n196058_6,Zebra
+Which kind of furniture is tall?,query,n283587.jpg,chairs,category,n283587_16,cabinet
+Which color is the curtain to the right of the picture?,query,n192021.jpg,yellow,attribute,n192021_11,Yellow
+Is that woman to the left of a bag?,verify,n160664.jpg,no,relation,n160664_9,No
+Do you see any lamps or mirrors there?,logical,n446242.jpg,yes,object,n446242_5,Yes
+Is the sidewalk made of concrete dry or wet?,choose,n514467.jpg,wet,attribute,n514467_6,Wet
+Is the color of the jeans the same as the sneakers?,compare,n65202.jpg,no,attribute,n65202_6,No
+Is the building different in color than the sign?,compare,n313060.jpg,yes,attribute,n313060_10,Yes
+Which side is the man on?,query,n260762.jpg,right,attribute,n260762_11,Left
+What is on the mountains?,query,n207893.jpg,trees,relation,n207893_3,Trees
+Is the person that is bending resting or reading?,choose,n151768.jpg,resting,attribute,n151768_10,Resting.
+What is the bottle cap made of?,query,n357784.jpg,plastic,attribute,n357784_12,Plastic
+"What vehicle is the telephone pole behind of, a train or a bus?",choose,n16425.jpg,bus,relation,n16425_6,Bus
+What is sitting beside the appliance that is beside the knives?,query,n314630.jpg,house,relation,n314630_8,House
+Who is driving the motorcycle?,query,n501951.jpg,driver,relation,n501951_6,Man
+Is the soccer player in front of the goal watching the ball?,verify,n259002.jpg,yes,relation,n259002_15,Yes
+What is the vegetable that is the same shape as the stove top called?,query,n184385.jpg,potato,relation,n184385_7,Carrot.
+"Which is larger, the pasture or the horse?",compare,n324908.jpg,pasture,attribute,n324908_10,Pasture
+What is the glass made of glass sitting on?,query,n222915.jpg,mat,relation,n222915_10,Table
+Who is skiing?,query,n143672.jpg,skier,category,n143672_11,Man
+Does the person that is sitting appear to be posing or looking down?,choose,n278453.jpg,looking down,attribute,n278453_5,Posing
+What is leaning against the glass window?,query,n69237.jpg,map,relation,n69237_11,map.
+Who is holding the baseball mitt?,query,n356822.jpg,boy,relation,n356822_3,Girl
+What is the man to the left of the woman sitting in front of?,query,n181355.jpg,pillow,relation,n181355_22,Couch
+Are the trousers short and dark?,logical,n92308.jpg,no,attribute,n92308_7,Yes
+Is the doll to the right of the ladder made of plastic?,verify,n89148.jpg,yes,attribute,n89148_7,Yes
+"In which part are the glasses, the top or the bottom?",choose,n470920.jpg,top,attribute,n470920_18,Top
+Is the coat white and long sleeved?,logical,n382416.jpg,yes,attribute,n382416_9,Yes
+Is the sky clear?,verify,n46510.jpg,yes,attribute,n46510_5,Yes
+Does the polo shirt look white and short sleeved?,logical,n413319.jpg,no,attribute,n413319_7,Yes
+What is the soap dispenser sitting on?,query,n473688.jpg,countertop,relation,n473688_7,Sink
+What do the faucet and the light fixture have in common?,compare,n240666.jpg,material,attribute,n240666_11,color
+Are there beds or lamps in the picture?,logical,n275148.jpg,no,object,n275148_18,No
+What item of furniture is not small?,query,n49438.jpg,dresser,category,n49438_12,Bed.
+Is the mouse to the left of a keyboard?,verify,n264887.jpg,yes,relation,n264887_10,Yes
+What are the flowers in front of?,query,n28572.jpg,napkin,relation,n28572_8,Picture
+Does the notebook which is to the left of the napkin look black and closed?,logical,n403734.jpg,yes,attribute,n403734_6,Yes
+Is there a computer or a Wii controller in this photo?,logical,n246334.jpg,no,object,n246334_3,No
+What is the gender of the skateboarder to the right of the lamp?,query,n472825.jpg,female,attribute,n472825_5,male.
+What is the man in front of?,query,n54180.jpg,sink,relation,n54180_6,Mirror
+Is the road near the building dark and narrow?,logical,n206358.jpg,no,attribute,n206358_7,Yes
+Which kind of device is the keyboard sitting next to?,query,n435808.jpg,computer mouse,relation,n435808_15,Monitor
+Do you see fire hydrants on top of the sidewalk that is not dry?,verify,n514467.jpg,no,relation,n514467_7,No
+Is the bat that looks gray and red made of wood?,verify,n117888.jpg,no,attribute,n117888_13,No
+Do you think the person that looks young is blond or brunette?,choose,n511913.jpg,blond,attribute,n511913_6,Blond
+How big is the bath tub?,query,n95369.jpg,small,attribute,n95369_3,Small
+Is the towel in the top or in the bottom of the image?,choose,n531731.jpg,top,attribute,n531731_7,Top
+What dessert is fresh?,query,n296467.jpg,cupcakes,category,n296467_26,Cookies.
+Does the person to the left of the other person seem to be talking or posing?,choose,n445353.jpg,talking,attribute,n445353_5,Talking
+Which kind of device is not electronic?,query,n513429.jpg,keyboard,category,n513429_12,bowl.
+What is the thin person standing behind of?,query,n298104.jpg,sign,relation,n298104_9,Surfboard
+On which side is the doll?,query,n326988.jpg,right,attribute,n326988_16,Left
+What animal is standing behind the horses?,query,n219840.jpg,zebra,relation,n219840_11,Zebra
+Who rides on the skateboard?,query,n299528.jpg,skater,relation,n299528_8,Man
+What is larger than the drink that is in the top?,query,n433532.jpg,oil,relation,n433532_21,Bowl
+Does that luggage look still?,verify,n498712.jpg,yes,attribute,n498712_10,Yes
+How large is the onion to the left of the serving dish?,query,n55058.jpg,small,attribute,n55058_26,Small
+What's the elephant doing?,query,n119944.jpg,staring,attribute,n119944_25,standing
+How big is the chair that is made of wood?,query,n69237.jpg,small,attribute,n69237_14,small.
+What is the animal that the male person looks at?,query,n119944.jpg,elephant,relation,n119944_27,Elephant
+Who wears trousers?,query,n570181.jpg,batter,relation,n570181_11,Batter
+What's located on top of the table?,query,n256120.jpg,machine,relation,n256120_14,flowers
+Is she to the left or to the right of the bottle that looks heavy?,choose,n579256.jpg,left,relation,n579256_23,Left
+Do you think this fence is straight?,verify,n202379.jpg,yes,attribute,n202379_14,No
+What do you think the bath tub is made of?,query,n65866.jpg,porcelain,attribute,n65866_9,porcelain.
+Do you see either a kid or a skateboarder there?,logical,n412144.jpg,yes,object,n412144_8,Yes
+Is the pipe that looks white tall and thin?,logical,n119886.jpg,yes,attribute,n119886_8,Yes
+What is the table in front of?,query,n398429.jpg,bench,relation,n398429_10,Window
+Is there a truck in the street?,verify,n486200.jpg,no,relation,n486200_2,No
+On which side of the image is the fork?,query,n312206.jpg,right,attribute,n312206_7,Right.
+Are the glasses that are to the right of the remote control black or gold?,choose,n326988.jpg,gold,attribute,n326988_20,Black.
+Is the fried food in the top or in the bottom part?,choose,n534106.jpg,top,attribute,n534106_12,Top
+Is the sink below a mirror?,verify,n310625.jpg,no,relation,n310625_8,No
+Who is sitting?,query,n471866.jpg,policeman,category,n471866_6,Police.
+What is the flower on?,query,n298104.jpg,surfboard,relation,n298104_11,Surfboard
+Do the tall windows have white color?,verify,n324644.jpg,no,attribute,n324644_10,Yes
+Are the napkin and the plate the same color?,compare,n312206.jpg,yes,attribute,n312206_9,Yes
+Does the grassy field look brown?,verify,n485969.jpg,yes,attribute,n485969_17,yes
+Which kind of clothing isn't fancy?,query,n234683.jpg,dress shirt,category,n234683_9,Glasses
+Does the clear sky look blue?,verify,n208458.jpg,yes,attribute,n208458_4,Yes
+Which shape is the swimming pool below the man?,query,n222297.jpg,rectangular,attribute,n222297_9,square
+How is the piece of furniture below the mirror the television is to the right of called?,query,n125122.jpg,desk,relation,n125122_15,Desk.
+What is the width of the window?,query,n278312.jpg,narrow,attribute,n278312_17,12 inches
+Is there a pink umbrella in the picture?,verify,n507959.jpg,no,object,n507959_21,No
+Is the color of the bottle different than the napkin?,compare,n403734.jpg,no,attribute,n403734_8,Yes
+Is the bed still?,verify,n23181.jpg,yes,attribute,n23181_9,Yes
+Is the kite to the right of the girl round and small?,logical,n172618.jpg,no,attribute,n172618_7,Yes
+Is the young boy wearing a jacket?,verify,n126891.jpg,no,relation,n126891_14,No
+What piece of furniture is the plate sitting atop?,query,n336443.jpg,table,relation,n336443_9,Table.
+What is the ethnicity of the man near the plants?,query,n350732.jpg,caucasian,attribute,n350732_10,White
+Is the device to the left of the water bottle small and black?,logical,n159802.jpg,no,attribute,n159802_17,Yes
+Are there fences to the right of the bus in the middle of the picture?,verify,n173807.jpg,yes,relation,n173807_6,Yes
+Which side is the helmet on?,query,n279581.jpg,left,attribute,n279581_6,left
+What's the person riding?,query,n390187.jpg,motorcycle,relation,n390187_5,Motorcycle
+Which kind of animal is small?,query,n196058.jpg,zebra,category,n196058_10,Zebra
+Who do you think wears glasses?,query,n470920.jpg,man,relation,n470920_24,Woman.
+Are there toilets near the wall?,verify,n210269.jpg,no,relation,n210269_8,No
+Is there any red table or bottle?,logical,n314171.jpg,yes,object,n314171_12,Yes
+Is she kicking a frisbee?,verify,n400036.jpg,no,relation,n400036_11,No
+Which side of the photo is the shelf on?,query,n167552.jpg,right,attribute,n167552_10,Right
+Is he on a snowboard?,verify,n279173.jpg,no,relation,n279173_10,no.
+Do you see bicycles or scooters that are not gray?,logical,n460556.jpg,no,object,n460556_8,No
+Is the bowl to the right of the bench square and smooth?,logical,n71728.jpg,no,attribute,n71728_13,Yes
+Do you see rolling pins or microwaves in this scene?,logical,n578564.jpg,no,object,n578564_17,Yes
+Is the computer on the left?,verify,n233607.jpg,no,attribute,n233607_11,No
+Who is eating the food?,query,n88933.jpg,girl,relation,n88933_14,Children
+This woman is in front of what?,query,n24526.jpg,car,relation,n24526_10,Table
+Who is wearing shoes?,query,n279581.jpg,batter,relation,n279581_7,Batter
+What kind of device is to the right of the speaker?,query,n315887.jpg,computer,relation,n315887_23,Computer mouse
+Who holds the umbrella the man under of?,query,n184551.jpg,woman,relation,n184551_15,Woman
+What is the vehicle that is in front of the pedestrian called?,query,n309148.jpg,fire truck,relation,n309148_17,Fire truck
+Who is holding the soccer ball that looks red?,query,n380113.jpg,soccer player,relation,n380113_5,goalie.
+Are the curtains white and short?,logical,n518912.jpg,no,attribute,n518912_10,No
+Is the brown cowboy hat below the small sign?,verify,n9181.jpg,yes,relation,n9181_5,Yes
+On which side of the photo is the small side table?,query,n83784.jpg,left,attribute,n83784_11,Left
+Is the sky cloudy and bright?,logical,n298104.jpg,yes,attribute,n298104_12,Yes
+What is the name of the piece of furniture to the right of the phone that is on top of the table?,query,n125122.jpg,bed,relation,n125122_16,Desk
+Who is wearing a shoe?,query,n12404.jpg,woman,relation,n12404_13,woman.
+Is the brush behind horses?,verify,n196058.jpg,no,relation,n196058_12,Yes
+How clean is the microwave?,query,n35676.jpg,clean,attribute,n35676_11,very clean
+Are there umbrellas to the left of the person that is to the left of the palm?,verify,n507959.jpg,yes,relation,n507959_24,Yes
+What animal is staring?,query,n16656.jpg,cat,category,n16656_18,Cat
+What color is the coat?,query,n260521.jpg,black,attribute,n260521_7,Brown
+Who is wearing the pants?,query,n88366.jpg,skier,relation,n88366_5,Skiier
+Is the bath towel near the toilet white and short?,logical,n141939.jpg,no,attribute,n141939_15,Yes
+What color is the scarf?,query,n541482.jpg,white,attribute,n541482_10,No scarf
+What is the bag to the left of the person next to the suitcase?,query,n382416.jpg,purse,relation,n382416_17,Backpack
+Who is watching the pitcher?,query,n334278.jpg,umpire,relation,n334278_21,Umpire.
+What is the food that is the same color as the hair clip that is lying on top of the bed called?,query,n293477.jpg,snack,relation,n293477_18,batteries
+Is there a bench near the tool?,verify,n501951.jpg,yes,relation,n501951_12,Yes
+Does the tea kettle look rounded and white?,logical,n278312.jpg,yes,attribute,n278312_22,Yes
+Are both the courtyard and the wristband the same color?,compare,n126087.jpg,no,attribute,n126087_10,No
+What are the sparse trees growing on?,query,n488874.jpg,dirt,relation,n488874_20,sand
+What is the length of the poster?,query,n249903.jpg,short,attribute,n249903_1,15
+Which color is the toilet paper on the right?,query,n98544.jpg,white,attribute,n98544_10,White
+What tone does the skirt have?,query,n151768.jpg,light,attribute,n151768_16,dark.
+The person that holds the video camera is which ethnicity?,query,n412144.jpg,caucasian,attribute,n412144_12,White.
+What kind of clothing is brown?,query,n356822.jpg,baseball mitt,category,n356822_13,Glove.
+The woman is in front of what?,query,n460385.jpg,shelf,relation,n460385_8,Pizza
+Is the square box in the top?,verify,n382416.jpg,no,attribute,n382416_19,No
+Is that wire thin and gray?,logical,n167164.jpg,yes,attribute,n167164_7,Yes
+Are the small books on the right side or on the left?,choose,n511913.jpg,right,attribute,n511913_10,left
+What is common to the remote and the phone?,compare,n526228.jpg,material,attribute,n526228_22,color
+What animals are it?,query,n477215.jpg,birds,category,n477215_5,Birds
+What appliance is tall?,query,n118102.jpg,stove,category,n118102_15,Stove.
+Is the metal fence on the right?,verify,n116329.jpg,yes,attribute,n116329_10,Yes
+Is there any taxi behind the sticker?,verify,n309148.jpg,no,relation,n309148_19,No
+Which kind of device is the boy playing with?,query,n54424.jpg,wii controller,relation,n54424_22,Wii remote.
+How clean is the sink?,query,n140421.jpg,clean,attribute,n140421_18,clean
+Who is in front of the bench?,query,n39114.jpg,boy,relation,n39114_11,boy.
+On which side are the silver forks?,query,n479092.jpg,right,attribute,n479092_10,Right.
+Is the garden colorful?,verify,n211324.jpg,yes,attribute,n211324_7,No
+Do you think that picture frame is standing?,verify,n500209.jpg,yes,attribute,n500209_17,Yes
+Who rides on a skateboard?,query,n299528.jpg,skater,relation,n299528_10,Man.
+Which kind of clothing is white?,query,n356822.jpg,sweater,category,n356822_17,sweater
+Is the huge stadium empty or full?,choose,n562105.jpg,empty,attribute,n562105_1,Empty
+What is located on top of the fire truck?,query,n309148.jpg,bucket,relation,n309148_22,Lights
+Is there any pasta next to the food on the right?,verify,n296467.jpg,no,relation,n296467_34,No
+Which color is the car to the right of the truck?,query,n538039.jpg,black,attribute,n538039_12,Red
+What is the baseball bat made of?,query,n531731.jpg,metal,attribute,n531731_14,aluminum
+What animal is in front of the animal in the middle?,query,n410476.jpg,giraffe,relation,n410476_10,Giraffe
+Who is the large cow watching?,query,n146555.jpg,crowd,relation,n146555_15,No one
+Which kind of furniture is comfortable?,query,n145498.jpg,bed,category,n145498_6,Bed
+Is the toothpaste on the left side?,verify,n310625.jpg,yes,attribute,n310625_10,Yes
+How wide is the black road?,query,n243701.jpg,wide,attribute,n243701_11,Wide
+What shape is the food the cheese is below?,query,n28996.jpg,rectangular,attribute,n28996_16,triangle
+What type of furniture is in front of the curtain that is to the left of the monitor?,query,n513429.jpg,desk,relation,n513429_24,Desk
+What is the remote made of plastic lying on top of?,query,n181355.jpg,coffee table,relation,n181355_30,Table
+What is the lady that is not antique playing with?,query,n355567.jpg,tennis ball,relation,n355567_10,tennis racket
+Where is the man playing?,query,n326988.jpg,television,relation,n326988_22,wii
+Is the man below the frame driving or looking down?,choose,n526228.jpg,looking down,attribute,n526228_27,Looking down
+Is that a round table?,verify,n186491.jpg,no,attribute,n186491_7,Yes
+What are the animals that she is petting?,query,n86120.jpg,goats,relation,n86120_8,Cows
+How is this cooking utensil called?,query,n379991.jpg,baking pan,category,n379991_4,Pie plate
+Does the hair look thick?,verify,n433532.jpg,no,attribute,n433532_25,no
+Is the building behind a fence?,verify,n313060.jpg,no,relation,n313060_24,No
+Do you see children in this image?,verify,n16378.jpg,no,object,n16378_19,No
+What is hang from the cables?,query,n324644.jpg,light fixture,relation,n324644_11,traffic light
+Which place is it?,query,n160664.jpg,forest,global,n160664_20,Zoo
+What is the colorful watercraft called?,query,n488874.jpg,boats,category,n488874_21,Canoe.
+Is the floor beige or dark brown?,choose,n548534.jpg,beige,attribute,n548534_11,Beige
+What is on the table?,query,n445353.jpg,vase,relation,n445353_10,Flowers
+What is the color of the fireplace the TV is above?,query,n51002.jpg,black,attribute,n51002_20,White
+What is located on top of the floor?,query,n534106.jpg,couch,relation,n534106_18,bottle.
+The person below the tennis ball is holding onto what?,query,n51658.jpg,racket,relation,n51658_10,Racket.
+Do you see any cups or glasses in this photo?,logical,n55058.jpg,no,object,n55058_30,Yes
+Do you see any stainless steel clocks or faucets?,logical,n355567.jpg,yes,object,n355567_12,No
+Does he wear a jersey?,verify,n39114.jpg,no,relation,n39114_15,Yes
+Is the person that is to the left of the water bottle both young and Asian?,logical,n159802.jpg,yes,attribute,n159802_20,Yes
+Who is holding onto the tennis racket?,query,n51658.jpg,man,relation,n51658_12,Man
+What is the bald man holding?,query,n28792.jpg,umbrella,relation,n28792_6,Umbrella
+Who is wearing pants?,query,n508641.jpg,man,relation,n508641_6,Batter
+Do the boxes have a different shape than the steps?,compare,n151768.jpg,no,attribute,n151768_19,No
+"Which kind of device is not on, the calculator or the laptop?",choose,n367944.jpg,calculator,category,n367944_13,Calculator
+What's the skateboarder standing on?,query,n16936.jpg,skateboard,relation,n16936_10,Ramp.
+Which side are the tables on?,query,n531359.jpg,left,attribute,n531359_6,Left
+Are there trash cans to the left of the soccer player that is kicking the ball?,verify,n259002.jpg,yes,relation,n259002_25,no
+Is the hair band white and round?,logical,n380113.jpg,no,attribute,n380113_11,yes
+How tall is the lamp which is to the right of the computer?,query,n520071.jpg,short,attribute,n520071_23,Short
+Is that sweater blue or tan?,choose,n532191.jpg,blue,attribute,n532191_13,Blue
+Is the man to the left of the glasses holding onto the umbrella to the right of the glasses?,verify,n318684.jpg,yes,relation,n318684_14,Yes
+Does the car seem to be small and gray?,logical,n167164.jpg,yes,attribute,n167164_8,Yes
+What is the appliance below the chalkboard near the artwork?,query,n578564.jpg,toaster,relation,n578564_21,Toaster
+Does she appear to be happy and Caucasian?,logical,n527290.jpg,no,attribute,n527290_18,No
+Is the black net made of mesh?,verify,n279581.jpg,no,attribute,n279581_10,Yes
+Who is wearing a helmet?,query,n469156.jpg,skateboarder,relation,n469156_7,skateboarder
+What is the item of furniture underneath the water bottle?,query,n166008.jpg,table,relation,n166008_9,Table
+What is under the device the computer monitor is above?,query,n398257.jpg,desk,relation,n398257_25,Chair
+What animal is inside the truck?,query,n290409.jpg,dog,relation,n290409_11,Dog
+What is the sink made of?,query,n417401.jpg,porcelain,attribute,n417401_4,Porcelain
+Is the white toilet to the left or to the right of the cabinet that is made of wood?,choose,n209843.jpg,left,relation,n209843_10,Left
+Is the bench behind the table that looks red?,verify,n398429.jpg,yes,relation,n398429_15,Yes
+Is there a toaster above the drawer?,verify,n350766.jpg,yes,relation,n350766_9,yes
+What kind of animal is playing in the grass?,query,n92308.jpg,dog,relation,n92308_13,sheep
+What vegetables are not orange?,query,n296467.jpg,beans,category,n296467_38,Carrots
+Is the wood desk above the cords red or tan?,choose,n525901.jpg,tan,attribute,n525901_18,Tan
+Does the building behind the car look brown?,verify,n263180.jpg,yes,attribute,n263180_15,Yes
+Which kind of device is the man in front of?,query,n554880.jpg,television,relation,n554880_37,Camera
+Is the happy man below the umbrella the woman is holding?,verify,n540852.jpg,yes,relation,n540852_5,Yes
+Does that office look small and modern?,logical,n282436.jpg,yes,attribute,n282436_15,Yes
+Who is wearing a coat?,query,n382416.jpg,woman,relation,n382416_20,Woman
+What type of food is to the right of the container that is not open?,query,n296467.jpg,cookies,relation,n296467_39,Sushi.
+Is the vehicle in front of the trees metallic and short?,logical,n153118.jpg,no,attribute,n153118_9,Yes
+Which color are the sailboats that are below the boats?,query,n386688.jpg,white,attribute,n386688_19,White
+Is the man drinking or staring?,choose,n250821.jpg,staring,attribute,n250821_6,Staring
+What is in front of the vest?,query,n9181.jpg,wheelchair,relation,n9181_9,Motorcycle
+What is the device that he holds?,query,n545516.jpg,phone,relation,n545516_11,Cell phone
+Is the silver van to the left or to the right of the female person?,choose,n411121.jpg,left,relation,n411121_20,Right
+Are there both bicycles and chimneys?,logical,n460556.jpg,no,object,n460556_9,No
+Is the tape behind the cookie?,verify,n470131.jpg,yes,relation,n470131_18,Yes
+Does the person to the right of the cup appear to be sitting?,verify,n4777.jpg,yes,attribute,n4777_25,Yes
+Is the cutting board made of the same material as the table?,compare,n55058.jpg,yes,attribute,n55058_33,Yes
+Are there any phones?,verify,n204894.jpg,yes,object,n204894_19,Yes
+What type of furniture is the woman in front of?,query,n511913.jpg,table,relation,n511913_15,window
+What is located on top of the table?,query,n23181.jpg,books,relation,n23181_16,Lamp
+"How does the helmet to the left of the fence look, white or black?",choose,n317260.jpg,black,attribute,n317260_15,Black
+What is the color of the balloon?,query,n314171.jpg,green,attribute,n314171_20,Green
+Is the basket that is brown closed or open?,choose,n119944.jpg,open,attribute,n119944_39,Closed.
+Who is wearing shorts?,query,n298104.jpg,woman,relation,n298104_17,woman
+What do the dish drainer and the garbage can have in common?,compare,n350766.jpg,material,attribute,n350766_13,Color.
+Is the small device on the right or on the left of the photo?,choose,n293477.jpg,left,attribute,n293477_23,Right
+What does the white ceiling hang above?,query,n153293.jpg,floor,relation,n153293_13,light.
+Which side of the photo is the stove on?,query,n398429.jpg,left,attribute,n398429_16,Left
+Is the shirt dark and short?,logical,n305495.jpg,no,attribute,n305495_14,No
+Does the young woman seem to be adult and blond?,logical,n181355.jpg,yes,attribute,n181355_32,Yes
+Does the grass look green and tall?,logical,n541482.jpg,yes,attribute,n541482_13,no
+Who is wearing the sneakers?,query,n256120.jpg,girl,relation,n256120_21,people
+"Which vegetables are not cylindrical, the beans or the carrots?",choose,n296467.jpg,beans,category,n296467_41,Carrots
+How long is the white table?,query,n68769.jpg,long,attribute,n68769_21,Long
+Is the water bottle made of the same material as the desk?,compare,n315887.jpg,no,attribute,n315887_36,No
+What is in front of the sea foam?,query,n507149.jpg,sand,relation,n507149_3,Rock
+Who is in front of the car?,query,n257997.jpg,people,relation,n257997_14,People.
+Is the coffee machine to the left of the bench?,verify,n398429.jpg,yes,relation,n398429_17,Yes
+Are there ladies in front of the plates?,verify,n433532.jpg,yes,relation,n433532_30,Yes
+What does the banana bunch hang above?,query,n567860.jpg,countertop,relation,n567860_7,counter
+Is the couch to the left or to the right of the man?,choose,n554880.jpg,left,relation,n554880_42,Left
+Is that toaster rectangular and black?,logical,n578564.jpg,no,attribute,n578564_23,no.
+Which side of the picture is the man on?,query,n214497.jpg,left,attribute,n214497_14,Left
+What is the chair made of?,query,n23762.jpg,wood,attribute,n23762_12,Wood
+To what is the tray mounted?,query,n240973.jpg,desk,relation,n240973_25,Laptop
+Does the wine have little size and black color?,logical,n235859.jpg,yes,attribute,n235859_17,Yes
+Are there either any traffic lights or cigarettes in the photo?,logical,n415215.jpg,no,object,n415215_14,No
+Is the car to the left of her?,verify,n24526.jpg,no,relation,n24526_15,no
+What color is the umbrella the gentleman is wearing?,query,n199097.jpg,yellow,attribute,n199097_18,Yellow
+Does the gray ground look smooth and hard?,logical,n16656.jpg,no,attribute,n16656_23,Yes
+Are the curtains to the right of a shelf?,verify,n140421.jpg,no,relation,n140421_27,yes
+Which kind of furniture is it?,query,n532191.jpg,chair,category,n532191_18,Chair
+Is the field both brown and rocky?,logical,n334278.jpg,no,attribute,n334278_27,No
+In which part of the picture is the black towel?,query,n240973.jpg,right,attribute,n240973_28,Right.
+"What device is the blonde woman in front of the table holding, a Wii controller or a phone?",choose,n511913.jpg,wii controller,relation,n511913_20,Wii controller.
+What color is the sidewalk?,query,n451187.jpg,beige,attribute,n451187_11,Gray
+What color is the vehicle above the street?,query,n311910.jpg,black,attribute,n311910_13,Red
+Do the fire truck and the wire have a different colors?,compare,n480253.jpg,yes,attribute,n480253_19,Yes
+How thick is the hair?,query,n324908.jpg,thick,attribute,n324908_22,thick
+What kind of furniture is it?,query,n310828.jpg,computer desk,category,n310828_30,Desk.
+What kind of cooking utensil is the same color as the stove top that is made of chrome?,query,n350766.jpg,coffee pot,relation,n350766_18,Spatula
+Is the color of the tree different than the table?,compare,n556604.jpg,yes,attribute,n556604_15,Yes
+Who is the young person to the left of the chair sitting beside?,query,n281241.jpg,gentleman,relation,n281241_20,Man
+Are the trousers white and long?,logical,n98540.jpg,no,attribute,n98540_15,Yes
+Does the baking pan to the left of the scissors appear to be round?,verify,n379991.jpg,yes,attribute,n379991_7,Yes
+Do the jacket and the hat have a different colors?,compare,n352479.jpg,yes,attribute,n352479_10,Yes
+What kind of cooking utensil is above the flower pot?,query,n578564.jpg,pan,relation,n578564_31,cutting board
+Are the cookies to the right of a knife?,verify,n238266.jpg,yes,relation,n238266_9,Yes
+What do you think is the long piece of furniture?,query,n432591.jpg,bed,category,n432591_16,Bed
+Are these zebras or goats?,choose,n196058.jpg,zebras,category,n196058_17,Zebras
+Does that house look small and white?,logical,n493357.jpg,yes,attribute,n493357_9,Yes
+Is the bottle tall?,verify,n4777.jpg,no,attribute,n4777_32,No
+Does the mouse have the same shape as the laptop computer?,compare,n433692.jpg,no,attribute,n433692_26,No
+Are there cats near the shoes?,verify,n167552.jpg,no,relation,n167552_16,No
+Is the man that is to the right of the woman wearing a suit?,verify,n540852.jpg,yes,relation,n540852_7,Yes
+"What type of furniture is not soft, the couch or the coffee table?",choose,n181355.jpg,coffee table,category,n181355_39,Coffee table.
+"What device is not open, the monitor or the laptop?",choose,n513429.jpg,monitor,category,n513429_32,Laptop
+What is in front of the rug?,query,n398257.jpg,sweatshirt,relation,n398257_34,Chair
+Who is wearing the helmet?,query,n369970.jpg,snowboarder,relation,n369970_6,Snowboarder
+Which kind of furniture is to the left of the calculator?,query,n367944.jpg,chair,relation,n367944_16,Chair
+Which place is it?,query,n489190.jpg,skate park,global,n489190_15,Skate park.
+Is there a helmet that is not silver?,verify,n411121.jpg,no,object,n411121_23,No
+Who is wearing a shirt?,query,n272313.jpg,boy,relation,n272313_9,Boy.
+Are there any pans?,verify,n578564.jpg,yes,object,n578564_32,Yes
+How wide is the open window?,query,n210269.jpg,wide,attribute,n210269_21,width 100 height 100
+Are the trousers wet?,verify,n39114.jpg,no,attribute,n39114_18,No
+Do you see any windows that are small?,verify,n295771.jpg,no,object,n295771_10,No
+What do you think is the color of the bucket?,query,n309148.jpg,white,attribute,n309148_28,Red
+What is the color of the table?,query,n460385.jpg,light brown,attribute,n460385_17,Brown
+"On which side is the microwave, the left or the right?",choose,n350766.jpg,right,attribute,n350766_19,Right
+How hard is the dirt that the elephants are on?,query,n543966.jpg,soft,attribute,n543966_22,Hard
+Do you see any trash cans near the long bench?,verify,n145498.jpg,no,relation,n145498_11,No
+Are there any skiers on the snow?,verify,n571179.jpg,no,relation,n571179_16,Yes
+Does the shirt that is not dirty look long sleeved?,verify,n250715.jpg,no,attribute,n250715_38,no
+What kind of food is below the carrots?,query,n363445.jpg,dessert,relation,n363445_23,Apple
+Are the television and the chair made of the same material?,compare,n554880.jpg,no,attribute,n554880_47,No
+Are there any hammers or keyboards?,logical,n351318.jpg,no,object,n351318_8,No
+Are there any sheep or goats that are not brown?,logical,n324908.jpg,no,object,n324908_25,No
+Who is wearing an earring?,query,n527589.jpg,woman,relation,n527589_15,Woman
+Is the laptop black?,verify,n532191.jpg,yes,attribute,n532191_21,Yes
+Are both the spectator to the left of the car and the soccer player to the right of the ball male?,logical,n259002.jpg,yes,object,n259002_35,Yes
+What's the picture frame made of?,query,n162586.jpg,plastic,attribute,n162586_17,Wood.
+Are the pens next to the cat small and colorful?,logical,n433692.jpg,yes,attribute,n433692_29,Yes
+Who is wearing a coat?,query,n111390.jpg,lady,relation,n111390_21,Older woman
+Is the elephant behind or in front of the fence?,choose,n100552.jpg,front,relation,n100552_10,Behind
+What color is the luggage that the people are standing behind of?,query,n507959.jpg,blue,attribute,n507959_36,Gray
+Are the leaves both brown and short?,logical,n413002.jpg,no,attribute,n413002_16,No
+What is the shape of that CD?,query,n315887.jpg,round,attribute,n315887_41,Round
+What is the woman holding?,query,n554880.jpg,camera,relation,n554880_48,snowboard.
+How thick are the clouds the birds are flying in?,query,n477215.jpg,thick,attribute,n477215_12,Thick
+Is there broccoli near the round food?,verify,n222915.jpg,yes,relation,n222915_37,Yes
+What is underneath the window?,query,n119886.jpg,shelf,relation,n119886_15,Toilet
+What's hanging from the cabinets?,query,n548534.jpg,towel,relation,n548534_17,Nothing
+Does the sculpture have black color and small size?,logical,n23181.jpg,yes,attribute,n23181_22,Yes
+Is this a small motorcycle?,verify,n131634.jpg,no,attribute,n131634_13,Yes
+Is the skateboard both black and wooden?,logical,n489190.jpg,yes,attribute,n489190_16,no
+Is the baby to the right of the food that looks soft?,verify,n546616.jpg,yes,relation,n546616_23,Yes
+Which material is the table made of?,query,n479092.jpg,metal,attribute,n479092_17,metal.
+The cable is on what?,query,n250821.jpg,paper,relation,n250821_8,Floor
+What are the spectators watching?,query,n485969.jpg,pitcher,relation,n485969_25,Baseball
+Is that toilet metallic and white?,logical,n162108.jpg,no,attribute,n162108_9,No
+Is the person that is to the right of the cup sitting on the chair in the bottom of the photo?,verify,n4777.jpg,yes,relation,n4777_38,Yes
+What is pulled by the woman?,query,n16378.jpg,luggage cart,relation,n16378_27,Suitcase
+"Which material was used to make the black bag that is to the left of the boy, cloth or plastic?",choose,n146522.jpg,cloth,attribute,n146522_16,cloth.
+What is the item of furniture that is to the left of the books on the right?,query,n511913.jpg,chair,relation,n511913_23,chair
+Is the man standing?,verify,n571179.jpg,yes,attribute,n571179_17,Yes
+What's in front of the closet?,query,n95313.jpg,bed,relation,n95313_31,Bed.
+The cookies are inside what?,query,n296467.jpg,bowl,relation,n296467_47,Container.
+The headphones are in front of what?,query,n264887.jpg,keyboard,relation,n264887_30,Desk.
+The man to the left of the glasses is looking at what?,query,n318684.jpg,ocean,relation,n318684_18,Ocean
+Is the ipod on the right side?,verify,n403734.jpg,no,attribute,n403734_13,no
+Does the plastic bat look antique?,verify,n355567.jpg,no,attribute,n355567_16,No
+What type of furniture is the cellphone lying on top of?,query,n293477.jpg,bed,relation,n293477_30,Bed
+What is the car in front of?,query,n259002.jpg,trees,relation,n259002_36,Fence
+What animal is in front of the trees?,query,n44249.jpg,elephant,relation,n44249_11,Elephant
+What is in front of the girl?,query,n393305.jpg,fire hydrant,relation,n393305_20,Fire hydrant
+Where is the vehicle?,query,n497789.jpg,field,relation,n497789_21,background
+Does the device to the left of the CD look black?,verify,n315887.jpg,no,attribute,n315887_46,Yes
+Are there both elephant and a dolphin in this picture?,logical,n543966.jpg,no,object,n543966_25,No
+What is the size of the bucket?,query,n309148.jpg,large,attribute,n309148_30,No
+How big is the gray window?,query,n579928.jpg,small,attribute,n579928_15,Large
+Is the stone behind the zebras above the grass?,verify,n196058.jpg,yes,relation,n196058_19,Yes
+Does the person that is not male hold a surfboard?,verify,n95904.jpg,no,relation,n95904_13,No
+What kind of furniture is made of wood?,query,n344136.jpg,bookcase,category,n344136_18,Couch.
+Does the table have brown color and square shape?,logical,n28572.jpg,no,attribute,n28572_21,Yes
+Is the surf board to the right of the person who is wearing a hat?,verify,n441859.jpg,no,relation,n441859_11,Yes
+Are there either clean plates or forks?,logical,n363445.jpg,yes,object,n363445_27,Yes
+What is the device above the desk?,query,n315887.jpg,keyboard,relation,n315887_49,Monitor.
+Are there any stoves or microwaves?,logical,n207708.jpg,yes,object,n207708_25,Yes.
+Is the stove that is to the right of the orange small and white?,logical,n200692.jpg,no,attribute,n200692_11,Yes
+What is leaning against the wall?,query,n280089.jpg,artwork,relation,n280089_18,Towel
+Who is wearing the shirt?,query,n24526.jpg,woman,relation,n24526_16,Man
+"What is the weather like, rainy or overcast?",choose,n511881.jpg,overcast,global,n511881_3,Overcast
+What is higher than the cars?,query,n214497.jpg,windows,relation,n214497_17,building
+Are there airplanes behind the long runway?,verify,n572716.jpg,yes,relation,n572716_14,Yes
+What is in front of the sink that is below the mirror?,query,n240666.jpg,mat,relation,n240666_23,Trash can
+Do you think the robe is long?,verify,n433532.jpg,yes,attribute,n433532_38,Yes
+What kind of food is leafy?,query,n222915.jpg,vegetables,category,n222915_39,Salad.
+The trash bin on the beach is of which color?,query,n25275.jpg,white,attribute,n25275_13,White
+What is the blue clothing item called?,query,n554880.jpg,sweater,category,n554880_55,Jacket.
+What is the boy doing?,query,n431447.jpg,resting,attribute,n431447_23,Eating
+What is in front of the green trees?,query,n480253.jpg,barn,relation,n480253_22,Truck
+What material is the utensil that looks big made of?,query,n433532.jpg,wood,attribute,n433532_39,Metal
+What color is the barn in front of the trees?,query,n480253.jpg,blue,attribute,n480253_26,gray
+Does the traffic sign in the street have small size?,verify,n486200.jpg,yes,attribute,n486200_9,No
+Is the large monitor to the right or to the left of the white thing that is on top of the desk?,choose,n315887.jpg,left,relation,n315887_50,Right
+Is it outdoors?,verify,n229548.jpg,yes,global,n229548_17,Yes
+What height is the person that is to the left of the suitcase?,query,n382416.jpg,tall,attribute,n382416_28,Tall.
+What do you think is the vehicle that is to the right of the person that is watching the soccer player?,query,n259002.jpg,car,relation,n259002_39,Car.
+What are the pieces of furniture in front of the staircase?,query,n283587.jpg,chairs,relation,n283587_40,bar
+What is in front of the window?,query,n500308.jpg,sign,relation,n500308_32,refrigerator
+What kind of furniture is light brown?,query,n276011.jpg,chairs,category,n276011_15,Chairs.
+Does the white jersey look dirty?,verify,n508641.jpg,no,attribute,n508641_13,yes
+What type of vehicle is gray?,query,n579928.jpg,van,category,n579928_17,Trailer.
+Is the black bag on the left or on the right?,choose,n532191.jpg,right,attribute,n532191_24,Right.
+Which kind of clothing is not wrinkled?,query,n9856.jpg,hat,category,n9856_11,uniform
+Do you see either any forks or spoons that are made of plastic?,logical,n28572.jpg,no,object,n28572_25,No
+Are there brown desks or dressers?,logical,n23181.jpg,yes,object,n23181_26,Yes
+What do both the cake and the marshmallow have in common?,compare,n546616.jpg,color,attribute,n546616_30,Color
+What kind of meat is on top of the plate near the fork?,query,n170941.jpg,bacon,relation,n170941_19,Bacon
+Who does the light post made of metal hang above?,query,n146555.jpg,crowd,relation,n146555_22,cow.
+Is she holding the food on the right?,verify,n579256.jpg,yes,relation,n579256_40,Yes
+What animals are it?,query,n86120.jpg,goats,category,n86120_13,Cows.
+What is the man in front of?,query,n511913.jpg,table,relation,n511913_31,Window.
+Does the ground look smooth and green?,logical,n127705.jpg,yes,attribute,n127705_9,Yes
+Is the bottle to the left or to the right of the mug that looks red and orange?,choose,n310625.jpg,right,relation,n310625_17,Right
+What vehicle is sturdy?,query,n480253.jpg,fire truck,category,n480253_30,Fire truck
+Are there any bicycles or fences in the photograph?,logical,n210269.jpg,yes,object,n210269_23,No
+What are the pieces of furniture that the folded towels are sitting inside of?,query,n153293.jpg,shelves,relation,n153293_20,Shelf.
+What is the food that is not thin called?,query,n100991.jpg,sausage,category,n100991_35,Waffle
+Are the floor and the mirror the same shape?,compare,n119886.jpg,no,attribute,n119886_20,No
+What is the parked vehicle parked behind of?,query,n263180.jpg,bus,relation,n263180_22,Bus.
+Do the chairs that are to the right of the vase seem to be old fashioned?,verify,n319845.jpg,yes,attribute,n319845_25,Yes
+Does the cloud have the same color as the scarf?,compare,n541482.jpg,yes,attribute,n541482_17,No
+What is the skinny girl holding?,query,n148872.jpg,racket,relation,n148872_12,Tennis racket
+What is located on top of the black computer underneath the desk?,query,n435808.jpg,router,relation,n435808_27,Computer tower.
+What vehicle is metallic?,query,n256120.jpg,van,category,n256120_33,van.
+What is the man to the right of the child sitting on?,query,n347706.jpg,fire hydrant,relation,n347706_22,fire hydrant.
+What device is below the laptop?,query,n525901.jpg,keyboard,relation,n525901_27,Keyboard
+What animal is on the dirt?,query,n543966.jpg,elephants,relation,n543966_28,Elephant
+Which kind of vehicle is parked?,query,n451187.jpg,cars,category,n451187_15,Car
+Are there both a fence and a hat in the image?,logical,n202379.jpg,yes,object,n202379_21,Yes
+What color is the fence?,query,n100552.jpg,brown,attribute,n100552_16,Gray.
+Who is standing next to the umpire that is on the left side?,query,n334278.jpg,player,relation,n334278_37,pitcher
+Does the woman seem to be cooking or sleeping?,choose,n162586.jpg,sleeping,attribute,n162586_22,Sleeping
+Is the sink that is not turned on silver and curved?,logical,n501609.jpg,yes,attribute,n501609_27,no
+Do you think the squash is raw?,verify,n500209.jpg,yes,attribute,n500209_29,Yes
+Who is crouching?,query,n489190.jpg,skateboarder,category,n489190_19,Skateboarder
+What are the utensils inside of?,query,n97485.jpg,utensil holder,relation,n97485_35,can opener
+What is the sand surrounded by?,query,n90944.jpg,trees,relation,n90944_14,trees
+Behind what vehicle is the building?,query,n411121.jpg,van,relation,n411121_30,car
+How tall is the skateboarder?,query,n14.jpg,tall,attribute,n14_9,tall
+What fruit has the same color as the banana bunch?,query,n567860.jpg,banana,relation,n567860_14,banana
+What animals are it?,query,n210269.jpg,horses,category,n210269_24,Horses
+Does the player hold a bat?,verify,n573460.jpg,no,relation,n573460_25,No
+Does the sky have dark tone?,verify,n295771.jpg,no,attribute,n295771_13,No
+What is the fork made of?,query,n363445.jpg,metal,attribute,n363445_35,plastic
+Who is wearing a cap?,query,n159284.jpg,boy,relation,n159284_8,Boy
+Is there a black microwave or dishwasher?,logical,n501609.jpg,no,object,n501609_28,no
+The menu is in front of what?,query,n28572.jpg,flowers,relation,n28572_27,table
+What is the item of furniture that the laptop is on called?,query,n310828.jpg,computer desk,relation,n310828_34,Desk
+Is the office chair on the left or on the right?,choose,n525901.jpg,right,attribute,n525901_28,Right
+What size is the motorbike the skateboarder is to the left of?,query,n14.jpg,large,attribute,n14_10,Small.
+Do the speakers look high and white?,logical,n258500.jpg,no,attribute,n258500_11,Yes
+On which side is the bucket?,query,n52544.jpg,right,attribute,n52544_25,Right.
+Is the shirt long sleeved and white?,logical,n415215.jpg,yes,attribute,n415215_18,No
+Which shape do you think is the food the woman is behind of?,query,n312206.jpg,triangular,attribute,n312206_23,square
+Is the device made of plastic white and rectangular?,logical,n513429.jpg,yes,attribute,n513429_37,Yes
+What's the flower pot on?,query,n119886.jpg,shelf,relation,n119886_23,Shelf
+Is the table sitting beside a shelf?,verify,n233607.jpg,yes,relation,n233607_23,Yes
+What is the name of the piece of furniture in front of the staircase?,query,n283587.jpg,cupboard,relation,n283587_49,Bar
+Who plays on the field?,query,n202379.jpg,boy,relation,n202379_23,baseball
+Is the TV to the right of a boy?,verify,n162586.jpg,no,relation,n162586_25,No
+Which color does the sky have?,query,n412144.jpg,blue,attribute,n412144_21,Blue
+Do the food to the left of the knives look soft?,verify,n479092.jpg,yes,attribute,n479092_23,Yes
+Is the small mug in the top or in the bottom of the photo?,choose,n455563.jpg,bottom,attribute,n455563_18,Bottom
+Which place is it?,query,n493357.jpg,park,global,n493357_12,Zoo
+What is the person doing?,query,n449058.jpg,looking up,attribute,n449058_22,Riding
+Is the metal fence both blue and long?,logical,n334278.jpg,yes,attribute,n334278_38,Yes
+Does the black fireplace look large?,verify,n23181.jpg,no,attribute,n23181_29,Yes
+Is the lamp on the left side or on the right of the photo?,choose,n305495.jpg,right,attribute,n305495_26,Right.
+Is the plastic toothbrush to the left or to the right of the mirror?,choose,n473688.jpg,right,relation,n473688_28,Left.
+Which place is it?,query,n350732.jpg,lawn,global,n350732_23,Field
+What is the man before?,query,n274905.jpg,fence,relation,n274905_36,Woman
+Are there either any cars or buses in the image?,logical,n173807.jpg,yes,object,n173807_18,Yes
+What place was the image taken at?,query,n501951.jpg,street,global,n501951_18,Sidewalk.
+What is the device to the right of the chair made of wood?,query,n355339.jpg,laptop,relation,n355339_31,Laptop
+What do the bus and the tree have in common?,compare,n263180.jpg,color,attribute,n263180_30,Color.
+Is the spoon to the right of a plate?,verify,n293477.jpg,no,relation,n293477_39,No
+Is the wall made of the same material as the SUV?,compare,n206358.jpg,no,attribute,n206358_16,No
+Is the utensil in front of the spoon made of wood?,verify,n437064.jpg,no,attribute,n437064_27,No
+Do you see a white bookcase or bed?,logical,n344136.jpg,no,object,n344136_22,Yes
+What device sits on top of the mouse pad?,query,n435808.jpg,computer mouse,relation,n435808_32,Mouse
+Is the person that is not female wearing a wetsuit?,verify,n488874.jpg,no,relation,n488874_31,No
+Who is wearing a helmet?,query,n16936.jpg,skateboarder,relation,n16936_18,Skateboarder.
+Does that shirt have red color?,verify,n16656.jpg,no,attribute,n16656_30,No
+Is there a goat behind the man that is not old?,verify,n216553.jpg,no,relation,n216553_21,No
+On which side is the large microwave?,query,n207708.jpg,left,attribute,n207708_34,Left
+Which place is it?,query,n532213.jpg,street,global,n532213_17,City
+Are these people all the same gender?,compare,n508733.jpg,yes,attribute,n508733_15,Yes
+What is the house made of?,query,n571179.jpg,wood,attribute,n571179_21,Metal
+Who is wearing the hat?,query,n274905.jpg,player,relation,n274905_37,woman.
+Are there both ties and glasses in the photograph?,logical,n429883.jpg,yes,object,n429883_13,Yes
+What's the table inside of?,query,n55058.jpg,restaurant,relation,n55058_49,Restaurant
+Is the metal tool short and black?,logical,n415215.jpg,no,attribute,n415215_19,Yes
+What is the food that is on top of the round plate?,query,n312206.jpg,pie,relation,n312206_28,Cake.
+What kind of appliance is it?,query,n433532.jpg,stove,category,n433532_45,Stove
+"Where in the image is the mirror, on the left or on the right?",choose,n290409.jpg,right,attribute,n290409_22,Right
+Who is staring?,query,n470920.jpg,woman,category,n470920_38,Man
+What is the meat that that mustard is on?,query,n278453.jpg,ham,relation,n278453_18,Bread
+Who is looking up?,query,n412144.jpg,skateboarder,category,n412144_22,Skateboarder.
+Is the adult man to the right or to the left of the woman that wears a wrist band?,choose,n126087.jpg,left,relation,n126087_17,Left.
+What is the drink that she is behind of?,query,n313060.jpg,coffee,relation,n313060_35,cup
+Is the car to the right of the other car blue and old?,logical,n271392.jpg,yes,attribute,n271392_17,Yes
+Is the shirt blue?,verify,n551964.jpg,no,attribute,n551964_24,No
+What are the bleachers made of?,query,n179136.jpg,wood,attribute,n179136_11,Concrete.
+Is the silver device to the right of her?,verify,n310828.jpg,yes,relation,n310828_36,Yes
+Which ethnic group is the person that is wearing a shirt?,query,n68769.jpg,asian,attribute,n68769_34,asian.
+Which color do you think are the pants?,query,n216553.jpg,light blue,attribute,n216553_24,Blue
+What vehicle is in front of the trees made of wood?,query,n153118.jpg,train,relation,n153118_18,Train.
+Does the shirt that is not long sleeved have black color?,verify,n298104.jpg,no,attribute,n298104_25,No
+Is the bicycle in the top part of the image?,verify,n37274.jpg,yes,attribute,n37274_39,Yes
+How are the animals in front of the people near the vehicle called?,query,n497789.jpg,zebras,relation,n497789_24,Zebras
+Which kind of vehicle is parked along the street?,query,n480253.jpg,fire truck,relation,n480253_37,Fire truck.
+Who is wearing a skirt?,query,n496803.jpg,athlete,relation,n496803_25,No
+Do the short shorts look black?,verify,n477702.jpg,no,attribute,n477702_26,Yes
+What kind of furniture is made of wood?,query,n166008.jpg,table,category,n166008_15,Table.
+Is the vehicle behind the table red or white?,choose,n429961.jpg,red,attribute,n429961_31,Red
+What is the piece of furniture on top of the floor?,query,n262920.jpg,desk,relation,n262920_40,Table
+What is the statue before?,query,n260521.jpg,fence,relation,n260521_24,man.
+Who is wearing the bracelet?,query,n488874.jpg,surfer,relation,n488874_33,man.
+What watercraft has the same color as the shirts in this image?,query,n507959.jpg,boats,relation,n507959_42,Boat
+Is there a brown bag or umbrella?,logical,n313060.jpg,yes,object,n313060_38,Yes
+Is the cap old and blue?,logical,n159284.jpg,no,attribute,n159284_13,yes
+Is the storage box made out of metal empty or full?,choose,n275148.jpg,full,attribute,n275148_42,Full
+What is the vacuum made of?,query,n64959.jpg,plastic,attribute,n64959_27,Plastic.
+How clean is the street?,query,n146555.jpg,dirty,attribute,n146555_27,Dirty
+Is the tennis racket black and short?,logical,n148872.jpg,no,attribute,n148872_16,no
+What kind of vehicle is behind the vehicle that is below the signal light?,query,n167164.jpg,truck,relation,n167164_24,Car
+Are there any black hats or gloves?,logical,n282607.jpg,no,object,n282607_24,No
+Who is the audience watching?,query,n258500.jpg,skater,relation,n258500_17,Skateboarder.
+What is the man looking at?,query,n326988.jpg,television,relation,n326988_41,tv
+What is hanging above the woman?,query,n498712.jpg,poster,relation,n498712_29,Sign.
+Which side of the photo is the lamp on?,query,n472825.jpg,left,attribute,n472825_15,Left.
+What is the laptop on?,query,n310828.jpg,computer desk,relation,n310828_37,Desk
+What type of vehicle is that goal in front of?,query,n259002.jpg,car,relation,n259002_45,Car
+Is the hat Nike and blue?,logical,n195249.jpg,yes,attribute,n195249_21,Yes
+Who is wearing the shoe?,query,n244826.jpg,soccer player,relation,n244826_9,Girl
+Is the large animal to the right or to the left of the man?,choose,n119944.jpg,left,relation,n119944_57,Left
+Who is wearing trousers?,query,n470920.jpg,woman,relation,n470920_43,Man on right
+Does the table seem to be white and round?,logical,n369313.jpg,yes,attribute,n369313_11,Yes
+What do you think is the man to the right of the child doing?,query,n347706.jpg,looking down,attribute,n347706_27,Standing.
+Is the round helmet to the right or to the left of the skier in the middle of the photo?,choose,n88366.jpg,left,relation,n88366_20,Right
+Is the table made of metal or wood?,choose,n295771.jpg,metal,attribute,n295771_16,Metal
+What color is the car the van is in front of?,query,n154856.jpg,silver,attribute,n154856_20,Black
+What gender is the jockey that is sitting in the cart?,query,n6309.jpg,male,attribute,n6309_26,Male
+Is the empty chair in the bottom part or in the top of the photo?,choose,n194179.jpg,top,attribute,n194179_13,Top
+Is there a microwave above the yellow fruits?,verify,n207708.jpg,yes,relation,n207708_35,Yes
+Is the still man sitting on a chair?,verify,n318684.jpg,no,relation,n318684_25,bench
+Is there food or ice in the photo?,logical,n37274.jpg,yes,object,n37274_41,no
+Is this a picture of a restaurant or a market?,choose,n541854.jpg,restaurant,global,n541854_22,restaurant.
+What is that trailer in front of?,query,n171169.jpg,trees,relation,n171169_31,parking sign
+Do the doors that look rectangular look brown and wooden?,logical,n262920.jpg,no,attribute,n262920_44,Yes
+Are there any apartment buildings next to the person that is on the road?,verify,n208302.jpg,yes,relation,n208302_13,Yes
+"How does the white shirt look, short sleeved or long sleeved?",choose,n181355.jpg,short sleeved,attribute,n181355_57,Short sleeved
+What is the name of the piece of furniture that the people that are not female sit on?,query,n477702.jpg,sofa,relation,n477702_29,Couch
+Who is watching the person that is in front of the wall?,query,n570181.jpg,crowd,relation,n570181_29,Umpire
+What is in the vase?,query,n51002.jpg,flowers,relation,n51002_36,Flowers
+Does that broom look dark and long?,logical,n260521.jpg,yes,attribute,n260521_27,Yes
+Who is riding a motorcycle?,query,n14.jpg,cyclist,relation,n14_12,man.
+Do you see any rugs under the table?,verify,n313060.jpg,no,relation,n313060_40,No
+Do you see a deer there that is not beautiful?,verify,n219840.jpg,no,object,n219840_27,no
+What do both the vest and the wheelchair have in common?,compare,n9181.jpg,color,attribute,n9181_15,Color
+Are there desks behind the chair?,verify,n125122.jpg,yes,relation,n125122_41,Yes
+What are the pieces of furniture that are above the countertop called?,query,n35676.jpg,cabinets,relation,n35676_27,Cabinets
+Are there trash cans near the sink?,verify,n249639.jpg,yes,relation,n249639_17,Yes
+What's leaning against the wall?,query,n275148.jpg,mirror,relation,n275148_44,speaker.
+Who is looking down?,query,n143672.jpg,skier,category,n143672_22,Skier
+Are there both horses and deer in the picture?,logical,n469525.jpg,no,object,n469525_12,No
+Does the olive look black or green?,choose,n200225.jpg,black,attribute,n200225_27,Black
+Are the walls both tan and hard?,logical,n65230.jpg,yes,attribute,n65230_23,Yes
+What is bigger than the logo?,query,n496803.jpg,sign,relation,n496803_29,window
+Which kind of clothing is long?,query,n352479.jpg,snow pants,category,n352479_21,jacket
+Are the walls that look hard white and dirty?,logical,n192021.jpg,no,attribute,n192021_31,No
+Are there any balls to the left of the male person?,verify,n260762.jpg,no,relation,n260762_26,No
+Does the necklace look black?,verify,n357784.jpg,yes,attribute,n357784_51,Yes.
+Is the tee shirt sleeveless and black?,logical,n329479.jpg,yes,attribute,n329479_14,Yes
+What is the weight of the fine sand?,query,n507149.jpg,heavy,attribute,n507149_11,light
+Is the woman near the wall tall and old?,logical,n86120.jpg,no,attribute,n86120_21,No
+Is the countertop beige and hard?,logical,n207708.jpg,yes,attribute,n207708_36,Yes
+On which side of the image is the woman?,query,n538039.jpg,right,attribute,n538039_18,Right.
+Is the picture frame brown and square?,logical,n500209.jpg,yes,attribute,n500209_30,no
+Who is staring?,query,n380113.jpg,spectator,category,n380113_22,goalie.
+Is the old person in front of the mirror?,verify,n9181.jpg,yes,relation,n9181_17,no
+Is the food tray on top of a cabinet?,verify,n55058.jpg,no,relation,n55058_62,No
+Is the pillow on the couch that is on the right?,verify,n51002.jpg,yes,relation,n51002_39,Yes
+What do both the mirror and the window have in common?,compare,n240666.jpg,material,attribute,n240666_36,color
+What is the umpire wearing?,query,n317260.jpg,face mask,relation,n317260_29,helmet
+What is underneath the bridge?,query,n477215.jpg,river,relation,n477215_14,river.
+Which color is the countertop behind the freezer?,query,n140421.jpg,blue,attribute,n140421_47,Blue
+"What color is the metal fence, black or green?",choose,n489190.jpg,black,attribute,n489190_24,Black
+What is the cupboard in front of?,query,n283587.jpg,staircase,relation,n283587_59,Window
+Is this a gray van?,verify,n579928.jpg,yes,attribute,n579928_25,no
+Does the book look closed?,verify,n398257.jpg,yes,attribute,n398257_44,Yes
+What do the plate and the stone have in common?,compare,n278453.jpg,color,attribute,n278453_19,Color
+What sign is the man standing beside of?,query,n79078.jpg,stop sign,relation,n79078_14,Stop
+Does the purse look dark and large?,logical,n223750.jpg,yes,attribute,n223750_20,Yes
+What items of furniture are padded?,query,n573460.jpg,chairs,category,n573460_29,Chairs.
+Are there lamps near the stacked books?,verify,n432591.jpg,yes,relation,n432591_26,Yes
+Is the candle red and beautiful?,logical,n238266.jpg,yes,attribute,n238266_17,Yes
+Are both the vase and the artwork the same color?,compare,n51002.jpg,yes,attribute,n51002_41,No
+What device is sitting next to the computer mouse?,query,n435808.jpg,keyboard,relation,n435808_36,Keyboard
+Are there any plates behind the orange fruit?,verify,n181210.jpg,no,relation,n181210_27,No
+What is the man standing beside of?,query,n551964.jpg,motorcycle,relation,n551964_29,Motorcycle.
+Is there a bottle near the wineglass?,verify,n68769.jpg,no,relation,n68769_41,No
+Are the pots both dirty and full?,logical,n62458.jpg,yes,attribute,n62458_12,Yes
+Is the talking man beside the bench wearing jeans?,verify,n451187.jpg,no,relation,n451187_17,Yes
+What is the skater doing?,query,n258500.jpg,looking down,attribute,n258500_20,skateboarding
+Does the floor seem to be metallic or wooden?,choose,n232810.jpg,wooden,attribute,n232810_7,Wooden
+Which side are the shelves on?,query,n97485.jpg,right,attribute,n97485_42,Right
+What's sitting inside the container?,query,n28996.jpg,brownie,relation,n28996_30,no container
+What is using the spices?,query,n314171.jpg,blender,relation,n314171_30,blender
+What animal is in front of the couch that is in front of the curtains?,query,n14087.jpg,dog,relation,n14087_40,Dog
+What is taller than the vehicles that look heavy?,query,n214497.jpg,sign,relation,n214497_24,Buildings.
+What is the color of the motorbike that is not little?,query,n14.jpg,white,attribute,n14_15,White
+Do you see canisters near the appliance below the chalkboard?,verify,n578564.jpg,yes,relation,n578564_46,Yes
+Is the can to the left of the bench orange or blue?,choose,n119944.jpg,orange,attribute,n119944_60,orange
+What kind of appliance is under the cabinets?,query,n386682.jpg,microwave,relation,n386682_22,Dishwasher
+Which color is the necklace that is not small?,query,n223750.jpg,dark,attribute,n223750_21,red
+On which side of the image is the microwave?,query,n386682.jpg,left,attribute,n386682_23,Left
+Are there utensils in the photo?,verify,n97485.jpg,yes,object,n97485_43,Yes
+Is the bright sky blue and clear?,logical,n46510.jpg,yes,attribute,n46510_13,Yes
+How big is that window?,query,n525029.jpg,huge,attribute,n525029_16,Large
+What is sitting on the table?,query,n71728.jpg,glass,relation,n71728_22,answer
+Does the wristband look small and gray?,logical,n51658.jpg,no,attribute,n51658_21,No
+Where is the sand?,query,n92308.jpg,beach,relation,n92308_18,Beach.
+The snow is resting on what?,query,n324908.jpg,mountains,relation,n324908_43,Mountains
+Do the outlet and the mug have the same color?,compare,n455563.jpg,no,attribute,n455563_23,Yes
+Is there any fence behind the trees that look green and brown?,verify,n489190.jpg,yes,relation,n489190_29,Yes
+Does the toilet that is to the right of the tap look hard and blue?,logical,n410289.jpg,no,attribute,n410289_12,No
+Is the shirt red and short sleeved?,logical,n298104.jpg,yes,attribute,n298104_28,Yes
+Which kind of food is on top of the plate?,query,n100991.jpg,egg,relation,n100991_45,waffle
+Are the blue candles on the right or on the left?,choose,n118102.jpg,right,attribute,n118102_36,Right
+Is the monitor to the left or to the right of the tall lamp?,choose,n433692.jpg,left,relation,n433692_39,Left
+Does the book look rectangular and open?,logical,n500209.jpg,no,attribute,n500209_32,No
+Is the woman to the right or to the left of the cone that looks orange and white?,choose,n12404.jpg,right,relation,n12404_31,Right
+Are the cows white?,verify,n331357.jpg,no,attribute,n331357_13,No
+Does the window that is made of glass look square?,verify,n77818.jpg,yes,attribute,n77818_48,Yes
+What kind of clothing is black?,query,n356822.jpg,jacket,category,n356822_28,Jacket.
+Which kind of clothing is old?,query,n579256.jpg,jeans,category,n579256_44,jeans.
+Is the old woman to the left or to the right of the car that looks black?,choose,n538039.jpg,left,relation,n538039_21,Left
+Where is the boy standing on?,query,n494918.jpg,ground,relation,n494918_23,Dirt
+Do the shorts appear to be short and white?,logical,n413319.jpg,yes,attribute,n413319_19,Yes
+"What type of food is not white, the orange or the cake?",choose,n200692.jpg,orange,category,n200692_17,orange.
+Where is the plane?,query,n545516.jpg,pavement,relation,n545516_19,Background
+Are there horses or zebras that are running?,logical,n324908.jpg,no,object,n324908_45,No
+What is the person to the right of the benches doing?,query,n119944.jpg,staring,attribute,n119944_62,talking
+Is the folding chair both still and blue?,logical,n380113.jpg,yes,attribute,n380113_27,Yes
+Which kind of meat is inside the sandwiches?,query,n28996.jpg,ham,relation,n28996_32,no sandwich
+Do you see any grass or sand that are not light brown?,logical,n469525.jpg,no,object,n469525_16,No
+Is the napkin to the right of a cake?,verify,n100991.jpg,no,relation,n100991_49,No
+What animal is looking toward the small tree branch?,query,n196058.jpg,zebras,relation,n196058_25,Zebra
+What color does the hat that is not dirty have?,query,n317189.jpg,white,attribute,n317189_10,Gray
+Who is watching the batter?,query,n570181.jpg,crowd,relation,n570181_32,catcher.
+What is the color of the skirt that the woman is wearing?,query,n223750.jpg,dark,attribute,n223750_23,Green
+Who wears the hat?,query,n272098.jpg,woman,relation,n272098_19,Girl.
+Does the ground look covered and dry?,logical,n335542.jpg,yes,attribute,n335542_35,Yes
+Is the person in front of the crowd wearing jeans?,verify,n257997.jpg,no,relation,n257997_23,No
+What color is the cooking utensil in the top of the image?,query,n184385.jpg,silver,attribute,n184385_41,Silver
+Is the pitcher wearing a shirt?,verify,n154160.jpg,yes,relation,n154160_14,Yes
+Is it indoors?,verify,n130638.jpg,no,global,n130638_13,No
+Could this place be a city?,verify,n217003.jpg,yes,global,n217003_7,Yes
+What piece of furniture is closed?,query,n95313.jpg,closet,category,n95313_43,Cabinet.
+How big is the table behind the person?,query,n319845.jpg,small,attribute,n319845_36,Large
+Which kind of device is electronic?,query,n520071.jpg,computer,category,n520071_49,Laptop
+Is the countertop green or white?,choose,n473688.jpg,white,attribute,n473688_35,White.
+Is the baked food in front of the tape on the wall?,verify,n470131.jpg,yes,relation,n470131_26,Yes
+What is the ground made of?,query,n79078.jpg,concrete,attribute,n79078_16,Concrete.
+Who is wearing a head band?,query,n380113.jpg,soccer player,relation,n380113_29,goalie
+Does the lush lawn have green color and short length?,logical,n171169.jpg,no,attribute,n171169_38,Yes
+What is the strawberry in front of?,query,n437064.jpg,bowl,relation,n437064_36,Cake.
+Are there any chairs or TV stands?,logical,n192021.jpg,yes,object,n192021_36,Yes
+Who is holding the surfboard?,query,n137182.jpg,girl,relation,n137182_19,Woman
+What kind of furniture is to the right of the phone?,query,n125122.jpg,bed,relation,n125122_47,Desk
+Does the large glass contain doors?,verify,n246334.jpg,yes,relation,n246334_25,Yes
+What animals are standing by the mountain?,query,n331357.jpg,cows,relation,n331357_16,Cows.
+Which kind of animal is the stone behind of?,query,n196058.jpg,zebras,relation,n196058_30,Zebra
+What length are the shorts that the surfer is wearing?,query,n488874.jpg,long,attribute,n488874_38,Short
+Is the wallet open?,verify,n403734.jpg,no,attribute,n403734_18,No
+Which kind of furniture is the umbrella sitting behind of?,query,n507959.jpg,table,relation,n507959_54,Table.
+Which type of animal is this?,query,n16656.jpg,cat,category,n16656_35,Cat
+Which side of the image is the blue pillow on?,query,n145498.jpg,left,attribute,n145498_18,Left
+Who is the boy in front of?,query,n126891.jpg,woman,relation,n126891_29,People
+What is the item of furniture that is comfortable?,query,n145498.jpg,bed,category,n145498_19,Bed
+What is the device that is sitting beside the bag?,query,n367944.jpg,laptop,relation,n367944_29,Laptop
+What type of food is on top of the plate near the fork?,query,n170941.jpg,pancake,relation,n170941_30,Pancake
+Is the cookie above milk?,verify,n28996.jpg,no,relation,n28996_34,No
+What is the person on the home plate doing?,query,n279581.jpg,playing,attribute,n279581_21,Batting
+What is the cable on?,query,n310828.jpg,computer desk,relation,n310828_49,Laptop
+Is the elephant large and dark brown?,logical,n119944.jpg,yes,attribute,n119944_65,Yes
+The jacket is worn around who?,query,n342511.jpg,man,relation,n342511_18,dog.
+Does the basket below the other basket look empty?,verify,n97485.jpg,yes,attribute,n97485_48,Yes
+The basket is of which color?,query,n546884.jpg,white,attribute,n546884_20,White
+Is the man in front of a bench?,verify,n329479.jpg,yes,relation,n329479_16,Yes
+What does the person next to the drink hold?,query,n318370.jpg,donut,relation,n318370_19,Donut
+Is there any small nightstand or mirror?,logical,n263180.jpg,no,object,n263180_34,No
+Are the gloves small and black and white?,logical,n400036.jpg,yes,attribute,n400036_33,Yes
+What color is the drink in the bottom part of the picture?,query,n235859.jpg,black,attribute,n235859_28,Red
+Are there stores or restaurants that are not open?,logical,n431447.jpg,no,object,n431447_32,No
+Are there any ovens near the drawers?,verify,n35676.jpg,yes,relation,n35676_33,Yes
+What is under the TV made of plastic?,query,n51002.jpg,fireplace,relation,n51002_45,fireplace
+Is the raw vegetable small and yellow?,logical,n500209.jpg,no,attribute,n500209_36,Yes
+On which side of the picture is the mug?,query,n310625.jpg,left,attribute,n310625_22,Left
+How is the vehicle to the right of the vehicle below the flag called?,query,n309148.jpg,fire truck,relation,n309148_51,Fire truck.
+Are there any benches or towel dispensers?,logical,n229548.jpg,no,object,n229548_31,No
+Are there both a microwave and a cabinet in the image?,logical,n97485.jpg,yes,object,n97485_49,Yes
+Are there tan chairs in this scene?,verify,n97485.jpg,yes,object,n97485_50,yes
+Are the pine trees growing behind the fence on the right?,verify,n200907.jpg,yes,relation,n200907_30,Yes
+Is the laptop computer to the right or to the left of the person that is sitting beside the gift?,choose,n554880.jpg,right,relation,n554880_76,Right
+Are the snowpants green?,verify,n143672.jpg,no,attribute,n143672_25,No
+What is the bench in front of?,query,n329479.jpg,trees,relation,n329479_19,Trees
+Is the sky small and blue?,logical,n216553.jpg,yes,attribute,n216553_34,No
+What is the desk made of?,query,n240973.jpg,wood,attribute,n240973_52,wood.
+Is the rug light brown?,verify,n278312.jpg,yes,attribute,n278312_61,Yes
+What is the appliance that the counter top that is not dirty is sitting atop?,query,n386682.jpg,washing machine,relation,n386682_27,Dishwasher
+Is the jacket light and brown?,logical,n16378.jpg,no,attribute,n16378_46,Yes
+Which side of the photo is the black bag on?,query,n400036.jpg,right,attribute,n400036_34,Right
+On which side of the image is the coffee maker?,query,n398429.jpg,left,attribute,n398429_31,Left
+What is in front of the chair?,query,n532191.jpg,rug,relation,n532191_37,laptop
+Do you see benches or fences there?,logical,n451187.jpg,yes,object,n451187_28,No
+Is this boy to the left of a skateboard?,verify,n262929.jpg,no,relation,n262929_24,No
+Does the sidewalk made of concrete look hard and dry?,logical,n514467.jpg,no,attribute,n514467_14,Yes
+How large is the device on the mousepad?,query,n310828.jpg,small,attribute,n310828_53,Small
+How big is the kitten the wall is behind of?,query,n567860.jpg,small,attribute,n567860_18,Small
+What's sitting atop the napkin?,query,n367944.jpg,donut,relation,n367944_30,Donut
+Does the table that is to the right of the toilet appear to be brown and large?,logical,n59147.jpg,no,attribute,n59147_32,Yes
+Is the pasture different in color than the house?,compare,n143935.jpg,yes,attribute,n143935_27,Yes
+Which kind of vehicle is on the street?,query,n271392.jpg,car,relation,n271392_27,Car
+Is the window made of metal or wood?,choose,n111390.jpg,wood,attribute,n111390_31,Wood
+Is the snow near the sign both wet and white?,logical,n317189.jpg,yes,attribute,n317189_13,Yes
+What is the depth of the pot?,query,n184385.jpg,deep,attribute,n184385_44,1 inch
+Is the plastic device on the right?,verify,n545516.jpg,yes,attribute,n545516_23,Yes
+Does the white shirt look long sleeved?,verify,n318684.jpg,yes,attribute,n318684_32,Yes
+How fat is the person that the table is behind of?,query,n319845.jpg,thin,attribute,n319845_38,Skinny
+What is the oven made of?,query,n548534.jpg,glass,attribute,n548534_32,Stainless steel
+Which side of the picture is the magazine on?,query,n90294.jpg,right,attribute,n90294_37,Right
+Is there any hat that is pink?,verify,n133585.jpg,no,object,n133585_22,No
+Does the racket to the left of the player look green and metallic?,logical,n274905.jpg,yes,attribute,n274905_43,Yes
+Which color is the kite?,query,n523165.jpg,green,attribute,n523165_13,Blue
+Is the bathtub white and clean?,logical,n473688.jpg,yes,attribute,n473688_39,Yes
+Who is wearing a shirt?,query,n347706.jpg,man,relation,n347706_31,Man
+What kind of animal are the people behind of?,query,n497789.jpg,zebras,relation,n497789_30,Giraffe
+Is the door wooden and open?,logical,n567860.jpg,no,attribute,n567860_23,No
+Who is standing on the ground?,query,n148872.jpg,girl,relation,n148872_23,People
+Is the heavy airplane vintage and metallic?,logical,n414992.jpg,no,attribute,n414992_23,Yes
+Who is wearing the shoes?,query,n380113.jpg,soccer player,relation,n380113_32,goalie
+Do you see large refrigerators in the picture?,verify,n140421.jpg,yes,object,n140421_63,Yes
+"Which color is the helmet, silver or red?",choose,n14.jpg,silver,attribute,n14_17,Silver
+Does the instrument have the same color as the suitcase?,compare,n302387.jpg,yes,attribute,n302387_25,Yes
+Are the cookies round?,verify,n296467.jpg,yes,attribute,n296467_75,Yes
+Which kind of fruit is healthy?,query,n363445.jpg,apples,category,n363445_45,Apple
+"What animal is the tissue box behind of, a puppy or a cat?",choose,n77818.jpg,cat,relation,n77818_57,Cat
+What is on the wall?,query,n470131.jpg,tape,relation,n470131_32,sign
+Is the person near the tree short or tall?,choose,n400036.jpg,tall,attribute,n400036_35,Short.
+"What material is the wide sidewalk, stone or cobblestone?",choose,n451187.jpg,stone,attribute,n451187_29,cobblestone
+Is the computer mouse on a mirror?,verify,n51002.jpg,no,relation,n51002_51,No.
+Is there a tomato beside the vegetable in the bottom?,verify,n184385.jpg,no,relation,n184385_50,No
+Which color is the desk near the wall?,query,n275148.jpg,gray,attribute,n275148_54,Black
+Is the color of the bed the same as that of the snack?,compare,n293477.jpg,no,attribute,n293477_55,No
+Do the vase and the toilet brush have the same color?,compare,n59147.jpg,no,attribute,n59147_33,no
+Does the sidewalk look brown?,verify,n208302.jpg,yes,attribute,n208302_16,Yes
+What is the male spectator doing?,query,n259002.jpg,standing,attribute,n259002_61,Watching.
+Which kind of furniture is to the right of the woman?,query,n554880.jpg,chair,relation,n554880_79,Bed
+What kind of clothing is white?,query,n98540.jpg,pants,category,n98540_25,uniform
+Are both the bag and the bedroom the same color?,compare,n69237.jpg,no,attribute,n69237_60,No
+Does the luggage cart look blue?,verify,n498712.jpg,no,attribute,n498712_36,yes
+What pieces of furniture are on top of the floor?,query,n527290.jpg,shelves,relation,n527290_39,Coffee table
+Is the countertop modern and light brown?,logical,n283587.jpg,yes,attribute,n283587_68,Yes
+Do you see a zebra near the fence in this photo?,verify,n116329.jpg,no,relation,n116329_28,No
+How is the item of furniture that is the same color as the device that is above the keyboard called?,query,n525901.jpg,office chair,relation,n525901_34,Desk
+On which side is the plastic water bottle?,query,n520071.jpg,right,attribute,n520071_61,Right.
+What's in front of the window?,query,n525901.jpg,desk,relation,n525901_35,desk
+The motorbike on the stone is of which color?,query,n62458.jpg,green,attribute,n62458_18,black.
+Does the sand in front of the buildings look clean and white?,logical,n90944.jpg,no,attribute,n90944_24,Yes
+What material is the sturdy bridge above the river made of?,query,n477215.jpg,concrete,attribute,n477215_18,concrete.
+What is in front of the doorway?,query,n154856.jpg,van,relation,n154856_28,Car
+What are this fruits called?,query,n222915.jpg,apples,category,n222915_55,apple
+What animal is the woman on?,query,n44249.jpg,elephant,relation,n44249_24,elephant.
+On which side of the photo is the white vase?,query,n51002.jpg,left,attribute,n51002_54,Left.
+Is the happy boy to the right or to the left of the food on the left side?,choose,n88933.jpg,right,relation,n88933_31,Right
+What is the name of the vehicles that the high windows are higher than?,query,n214497.jpg,cars,relation,n214497_28,Cars.
+Are there bags to the left of the wood chair that is sitting atop the floor?,verify,n69237.jpg,yes,relation,n69237_64,Yes
+Which place is it?,query,n48494.jpg,railroad,global,n48494_15,City
+What is the man holding?,query,n58220.jpg,flag,relation,n58220_30,Flag.
+Do you think the horse is walking?,verify,n168412.jpg,no,attribute,n168412_4,No
+What is walking on the grass?,query,n172618.jpg,boots,relation,n172618_31,Kite
+What food is in the basket?,query,n546884.jpg,donut,relation,n546884_26,donut.
+Is she above the sand?,verify,n117888.jpg,yes,relation,n117888_37,no
+What items of furniture in the picture are made of wood?,query,n326988.jpg,cabinets,category,n326988_48,shelf
+What is in front of the window?,query,n499081.jpg,blinds,relation,n499081_42,mirror
+Who is underneath the large tree?,query,n116329.jpg,woman,relation,n116329_30,pedestrians
+What item of furniture is the DVD player inside of?,query,n77818.jpg,entertainment center,relation,n77818_65,Tv stand
+What is the device on the desk?,query,n520071.jpg,computer,relation,n520071_64,Laptop
+Are there both monitors and computer mice in the image?,logical,n264887.jpg,yes,object,n264887_58,Yes
+What is the woman holding?,query,n127705.jpg,racket,relation,n127705_11,tennis racket
+What item of furniture is it?,query,n433532.jpg,shelf,category,n433532_59,Shelf.
+Do you see dirty mirrors or toilets?,logical,n54180.jpg,yes,object,n54180_27,no
+What food is to the left of the pan?,query,n234722.jpg,sausage,relation,n234722_24,Pizza
+What color is the sign next to the street light?,query,n173807.jpg,red,attribute,n173807_21,Red.
+Which color is the table made of cloth?,query,n437064.jpg,white,attribute,n437064_40,White
+"In which part of the photo is the empty bag, the bottom or the top?",choose,n59147.jpg,top,attribute,n59147_35,Top.
+Is the paper bag to the left or to the right of her?,choose,n313060.jpg,left,relation,n313060_46,right
+What is the lamp in front of?,query,n536256.jpg,wall,relation,n536256_36,television
+The flowers that look green and red are lying on what?,query,n276011.jpg,floor,relation,n276011_25,Table
+Is the street made of concrete both hard and gray?,logical,n279173.jpg,yes,attribute,n279173_40,Yes
+Who is in front of the wall?,query,n59676.jpg,woman,relation,n59676_27,woman.
+What kind of furniture is to the right of the router?,query,n435808.jpg,chair,relation,n435808_44,Chair
+Is the shirt short sleeved or long sleeved?,choose,n494918.jpg,long sleeved,attribute,n494918_27,short sleeved
+Is the umpire on the left of the image?,verify,n570181.jpg,no,attribute,n570181_42,yes
+Is there a helmet that is blue?,verify,n88366.jpg,no,object,n88366_32,No
+What is common to the lid and the cup?,compare,n546884.jpg,material,attribute,n546884_27,no
+What is the man doing?,query,n532213.jpg,looking down,attribute,n532213_22,Crossing street.

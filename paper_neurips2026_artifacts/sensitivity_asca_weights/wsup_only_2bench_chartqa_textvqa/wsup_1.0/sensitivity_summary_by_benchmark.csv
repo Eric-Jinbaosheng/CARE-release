@@ -1,0 +1,3 @@
+benchmark,default_score,best_setting,best_score,best_delta,stability,warning
+chartqa,NA,wsup1p0_wvalid1p0_wbase0p4_wrisk0p5,0.712000,-0.001000,isolated,
+textvqa,NA,wsup1p0_wvalid1p0_wbase0p4_wrisk0p5,0.772000,0.002000,isolated,

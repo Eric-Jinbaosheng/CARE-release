@@ -1,0 +1,15 @@
+{
+    "model": {
+        "InternVL2_5_2B_base": {
+            "class": "InternVLChat",
+            "model_path": "OpenGVLab/InternVL2_5-2B",
+            "version": "V2.0"
+        }
+    },
+    "data": {
+        "TextVQA_VAL": {
+            "class": "ImageVQADataset",
+            "dataset": "TextVQA_VAL"
+        }
+    }
+}

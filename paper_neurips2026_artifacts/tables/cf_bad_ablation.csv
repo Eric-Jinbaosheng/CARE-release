@@ -1,0 +1,3 @@
+Variant,Dataset,n,Score,Delta_vs_NoCF,Finding
+cf3_no_quality_gate,TextVQA,200,61.25,-7.80,ungated switching harms
+cf3_force_switch_analysis,TextVQA,200,60.75,-8.30,CF winner selector collapses

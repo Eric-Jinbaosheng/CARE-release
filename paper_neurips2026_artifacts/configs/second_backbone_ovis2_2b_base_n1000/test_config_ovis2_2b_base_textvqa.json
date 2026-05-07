@@ -1,0 +1,14 @@
+{
+    "model": {
+        "Ovis2_2B_base": {
+            "class": "Ovis2",
+            "model_path": "AIDC-AI/Ovis2-2B"
+        }
+    },
+    "data": {
+        "TextVQA_VAL": {
+            "class": "ImageVQADataset",
+            "dataset": "TextVQA_VAL"
+        }
+    }
+}

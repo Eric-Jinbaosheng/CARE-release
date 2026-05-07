@@ -1,0 +1,10 @@
+Benchmark,cf_used_rate,cf_final_changed_rate,mask_type_distribution,block_reason_counts,n,source_diag,override
+ocrbench,NA,NA,NA,NA,0,NA,no
+gqa,NA,NA,NA,NA,0,NA,no
+textvqa,NA,NA,NA,NA,0,NA,yes
+chartqa,NA,NA,NA,NA,0,NA,no
+ocrvqa,NA,NA,NA,NA,0,NA,no
+ai2d,NA,NA,NA,NA,0,NA,no
+mme_rw,NA,NA,NA,NA,0,NA,no
+coco,NA,NA,NA,NA,0,NA,no
+amber,NA,NA,NA,NA,0,NA,no

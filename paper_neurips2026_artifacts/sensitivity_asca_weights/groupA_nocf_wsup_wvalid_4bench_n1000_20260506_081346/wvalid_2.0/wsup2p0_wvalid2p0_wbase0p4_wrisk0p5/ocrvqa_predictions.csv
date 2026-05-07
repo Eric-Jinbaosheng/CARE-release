@@ -1,0 +1,1001 @@
+sample_id,prediction,default_prediction,changed_vs_default
+1,amy knapp,Amy Knapp.,0
+2,brown trout,Brown Trout.,0
+3,christiane stauik,Christiane Stauik.,0
+4,no,No.,0
+5,2013,2013,0
+6,calendars,Calendars.,0
+7,Brush Dance,Brush Dance,0
+8,brown trout,Brown Trout.,0
+9,calendars,Calendars,0
+10,calendars,Calendars.,0
+11,yes,Yes.,0
+12,jordan matter,Jordan Matter,0
+13,no,No.,0
+14,eco,ECO.,0
+15,2016,2016,0
+16,no,No.,0
+17,no,No.,0
+18,no,No,0
+19,adulthood is a myth,Adulthood Is A Myth,0
+20,ethan green,Ethan Green.,0
+21,star wars chewbacca,Star Wars Chewbacca,0
+22,romeo and juliet,Romeo and Juliet.,0
+23,yes,Yes.,0
+24,no,No.,0
+25,romance,Romance.,0
+26,yes,Yes.,0
+27,slam dunk,Slam Dunk,0
+28,comics,Comics.,0
+29,yes,Yes.,0
+30,test preparation,Test Preparation.,0
+31,yes,Yes,0
+32,test preparation,Test preparation.,0
+33,lovejoys prep and private school guide independent private nonpublic institutions boarding and day lovejoys educational guides,"Lovejoy's Prep and Private School Guide: Independent, Private, Nonpublic Institutions, Boarding and Day (Lovejoy's Educational Guides)",0
+34,test preparation,Test Preparation,0
+35,no,No.,0
+36,law,Law.,0
+37,science  math,Science & Math,0
+38,yes,Yes.,0
+39,test preparation,Test preparation,0
+40,test preparation,Test Preparation,0
+41,yes,Yes.,0
+42,no,No.,0
+43,yes,Yes.,0
+44,fiction,Fiction,0
+45,mystery,Mystery.,0
+46,yes,Yes.,0
+47,no,No.,0
+48,yes,Yes.,0
+49,no,No.,0
+50,patricia cornwell,Patricia Cornwell.,0
+51,no,No.,0
+52,science fiction  fantasy,Science Fiction & Fantasy.,0
+53,yes,Yes.,0
+54,jack whyte,Jack Whyte,0
+55,no,No.,0
+56,stardust,Stardust,0
+57,no,No.,0
+58,fantasy,Fantasy.,0
+59,the assassin chronicles,The Assassin Chronicles,0
+60,yes,Yes.,0
+61,gary gygax,Gary Gygax.,0
+62,fantasy,Fantasy,0
+63,no,No.,0
+64,spongebob squarepants,Spongebob Squarepants.,0
+65,yes,Yes.,0
+66,yes,Yes.,0
+67,mobile suit gundam the origin viii,Mobile Suit Gundam The Origin Viii,0
+68,akaela mayake chronicles book one,Akaela Mayake Chronicles Book One,0
+69,richard phillips,Richard Phillips.,0
+70,joshua dalzelle,Joshua Dalzelle.,0
+71,mystery thriller  suspense,"Mystery, Thriller & Suspense.",0
+72,yes,Yes.,0
+73,beverly jenkins,Beverly Jenkins.,0
+74,nora roberts,Nora Roberts.,0
+75,cattlemans club kristen blooming jenny penn,Cattleman's Club Kristen Blooming Jenny Penn,0
+76,no,No.,0
+77,romance,Romance,0
+78,no,No.,0
+79,no,No.,0
+80,yes,Yes.,0
+81,science fiction,Science Fiction,0
+82,natalie acres,Natalie Acres,0
+83,romance,Romance,0
+84,yes,Yes.,0
+85,no,No.,0
+86,yes,Yes.,0
+87,yes,Yes.,0
+88,yes,Yes.,0
+89,yes,Yes.,0
+90,romance,Romance.,0
+91,romance,Romance.,0
+92,garden of lies,Garden of Lies,0
+93,game for seduction,Game for Seduction,0
+94,mountain angel,Mountain Angel.,0
+95,mindfulness adult coloring book,Mindfulness Adult Coloring Book,0
+96,no,No.,0
+97,cookbook,Cookbook.,0
+98,cookbook,Cookbook.,0
+99,novel,Novel.,0
+100,parenting,Parenting.,0
+101,travel,Travel,0
+102,yes,Yes.,0
+103,biographies  memoirs,Biographies & Memoirs.,0
+104,horror,Horror.,0
+105,no,No.,0
+106,biographies  memoirs,Biographies & Memoirs,0
+107,biographies  memoirs,Biographies & Memoirs,0
+108,yes,Yes.,0
+109,no,No.,0
+110,yes,Yes,0
+111,christopher harris,Christopher Harris.,0
+112,politics,Politics.,0
+113,yes,Yes,0
+114,no,No.,0
+115,no,No.,0
+116,no,No.,0
+117,fantasy basketball and mathematics,Fantasy Basketball and Mathematics,0
+118,no,No.,0
+119,yes,Yes.,0
+120,fantasy,Fantasy,0
+121,will shortz presents trickiest sudoku,Will Shortz Presents Trickiest Sudoku.,0
+122,no,No.,0
+123,humor  entertainment,Humor & Entertainment.,0
+124,no,No.,0
+125,john thompson,John Thompson.,0
+126,tim burtons the nightmare before christmas,Tim Burton's The Nightmare Before Christmas,0
+127,john de lancie,John de Lancie.,0
+128,romance,Romance.,0
+129,yes,Yes.,0
+130,devil knows david joseph kolb,Devil Knows David Joseph Kolb.,0
+131,the black wall of silence,The Black Wall of Silence,0
+132,romance,Romance.,0
+133,jaquavis coleman,Jaquavis Coleman,0
+134,no,No.,0
+135,alexander mccall smith,Alexander McCall Smith,0
+136,yes,Yes.,0
+137,roald dahl,Roald Dahl,0
+138,yes,Yes.,0
+139,yes,Yes.,0
+140,the notsosilent night,The Not-So-Silent Night,0
+141,letter to my daughter,Letter to My Daughter,0
+142,yes,Yes.,0
+143,emily m danforth,Emily M. Danforth.,0
+144,no,No.,0
+145,upton sinclair,Upton Sinclair.,0
+146,where the memories lie,Where the Memories Lie,0
+147,no,No,0
+148,empire of self,Empire of Self,0
+149,nancy steinke,Nancy Steinke,0
+150,yes,Yes.,0
+151,no,No.,0
+152,literature  fiction,Literature & Fiction,0
+153,whispering bones,Whispering Bones.,0
+154,yes,Yes.,0
+155,literature  fiction,Literature & Fiction,0
+156,golden state,Golden State,0
+157,yes,Yes.,0
+158,religion  spirituality,Religion & Spirituality.,0
+159,paulo coelho,Paulo Coelho.,0
+160,literature  fiction,Literature & Fiction.,0
+161,biographies  memoirs,Biographies & Memoirs,0
+162,gay  lesbian,Gay & Lesbian.,0
+163,no,No.,0
+164,no,No,0
+165,the adventurous heart,The Adventurous Heart.,0
+166,no,No.,0
+167,dave grossman,Dave Grossman.,0
+168,engineering  transportation,Engineering & Transportation,0
+169,the essence of performance,The Essence of Performance,0
+170,no,No,0
+171,manual,Manual.,0
+172,paul g falkowski,Paul G. Falkowski,0
+173,engineering  transportation,Engineering & Transportation.,0
+174,no,No.,0
+175,no,No.,0
+176,lincoln p paine,Lincoln P. Paine,0
+177,yes,Yes.,0
+178,urban acupuncture,Urban Acupuncture,0
+179,yes,Yes.,0
+180,bob warden,Bob Warden.,0
+181,cookbooks food  wine,"Cookbooks, Food & Wine",0
+182,cookbooks food  wine,"Cookbooks, Food & Wine.",0
+183,no,No,0
+184,yes,Yes.,0
+185,alan rosen,Alan Rosen,0
+186,no,No,0
+187,tristan hogg,Tristan Hogg,0
+188,uncommon grounds the history of coffee and how it transformed the world,Uncommon Grounds: The History of Coffee and How It Transformed the World,0
+189,best green drinks boost your juice with antioxidants protein and more,"Best Green Drinks: Boost Your Juice with Antioxidants, Protein and More",0
+190,cookbooks food  wine,"Cookbooks, Food & Wine",0
+191,cookbooks food  wine,"Cookbooks, Food & Wine.",0
+192,james solheim,James Solheim.,0
+193,james beards american cookery,James Beard's American Cookery,0
+194,secrets from a caterers kitchen,Secrets from a Caterer's Kitchen,0
+195,sustainable homebrewing an allorganic approach to crafting great beer,Sustainable Homebrewing: An All-Organic Approach to Crafting Great Beer.,0
+196,no,No.,0
+197,yes,Yes.,0
+198,no,No.,0
+199,yes,Yes.,0
+200,no,No.,0
+201,sea salt sweet the art of using salts for the ultimate dessert experience,Sea Salt Sweet,1
+202,cookbooks food  wine,"Cookbooks, Food & Wine",0
+203,cookbooks food  wine,"Cookbooks, Food & Wine.",0
+204,gooseberry patch classics thanksgiving cookbooklet 6,Gooseberry Patch Classics Thanksgiving Cookbooklet #6,0
+205,food storage preserving meat dairy and eggs,"Food Storage: Preserving Meat, Dairy, and Eggs",0
+206,cast iron cookbook,Cast Iron Cookbook,0
+207,yes,Yes.,0
+208,science  math,Science & Math.,0
+209,recipes from an ecological kitchen,Recipes from an Ecological Kitchen.,0
+210,lunch at the shop,Lunch at the Shop,0
+211,sunset crockery cookbook,Sunset Crockery Cookbook,0
+212,500 sensational salads,500 Sensational Salads,0
+213,cookbooks food  wine,"Cookbooks, Food & Wine",0
+214,wayne gisslen,Wayne Gisslen.,0
+215,no,No.,0
+216,no,No.,0
+217,lucy garza,Lucy Garza,0
+218,yes,Yes,0
+219,better homes and gardens,Better Homes and Gardens.,0
+220,yes,Yes.,0
+221,cookbooks food  wine,"Cookbooks, Food & Wine.",0
+222,the plan cookbook,The Plan Cookbook,0
+223,health fitness  dieting,"Health, Fitness & Dieting.",0
+224,no,No.,0
+225,no,No.,0
+226,yes,Yes.,0
+227,yes,Yes.,0
+228,arts  photography,Arts & Photography,0
+229,reference,Reference.,0
+230,reference,Reference.,0
+231,no,No.,0
+232,collectors,Collectors.,0
+233,sports  outdoors,Sports & Outdoors,0
+234,biographies  memoirs,Biographies & Memoirs,0
+235,science fiction  fantasy,Science Fiction & Fantasy,0
+236,crafts hobbies  home,"Crafts, Hobbies & Home.",0
+237,yes,Yes.,0
+238,yes,Yes.,0
+239,heavy metal record price guide,Heavy Metal Record Price Guide.,0
+240,great britain concise stamp catalogue,Great Britain Concise Stamp Catalogue.,0
+241,yes,Yes,0
+242,no,No.,0
+243,no,No.,0
+244,no,No.,0
+245,mosaic patterns step by step techniques and stunning projects,Mosaic Patterns: Step by Step Techniques and Stunning Projects,0
+246,paula pryke,Paula Pryke.,0
+247,charm love friendship bracelets,Charm Love Friendship Bracelets.,0
+248,history,History.,0
+249,yes,Yes.,0
+250,history,History.,0
+251,cookbook,Cookbook,0
+252,no,No.,0
+253,cookbook,Cookbook,0
+254,no,No.,0
+255,yes,Yes.,0
+256,shade and ornamental trees their origins and history,Shade and Ornamental Trees: Their Origins and History.,0
+257,the potential of us cropland to sequester carbon and mitigate the greenhouse effect,The potential of U.S. cropland to sequester carbon and mitigate the greenhouse effect.,0
+258,no,No.,0
+259,cookbooks food  wine,"Cookbooks, Food & Wine.",0
+260,no,No.,0
+261,The author is not mentioned.,The author is not mentioned.,0
+262,kathleen taylor,Kathleen Taylor,0
+263,crafts,Crafts.,0
+264,yes,Yes.,0
+265,yes,Yes.,0
+266,no,No.,0
+267,no,No.,0
+268,frederick m hess,Frederick M. Hess.,0
+269,no,No.,0
+270,wendy murdoch,Wendy Murdoch,0
+271,no,No.,0
+272,no,No.,0
+273,no,No.,0
+274,no,No.,0
+275,cookbook,Cookbook.,0
+276,complexity and contradiction in architecture,Complexity and Contradiction in Architecture,0
+277,travel,Travel,0
+278,francis dk ching,Francis D.K. Ching.,0
+279,yes,Yes.,0
+280,no,No.,0
+281,peacock designs coloring book,Peacock Designs Coloring Book.,0
+282,yes,Yes.,0
+283,yes,Yes.,0
+284,arts and photography,Arts and Photography,0
+285,no,No.,0
+286,yes,Yes.,0
+287,typographie,Typographie.,0
+288,childrens books,Children's Books.,0
+289,margaret bradford boul,Margaret Bradford Boul.,0
+290,yes,Yes.,0
+291,yes,Yes.,0
+292,beyond golden clouds,Beyond Golden Clouds,0
+293,yes,Yes,0
+294,gail dziuba,Gail Dziuba,0
+295,mastering composition techniques and principles to dramatically improve your painting,Mastering Composition Techniques and Principles to Dramatically Improve Your Painting.,0
+296,yes,Yes,0
+297,no,No.,0
+298,science fiction,Science Fiction,0
+299,yes,Yes.,0
+300,yes,Yes,0
+301,no,No.,0
+302,no,No.,0
+303,no,No.,0
+304,yes,Yes,0
+305,yes,Yes.,0
+306,no,No,0
+307,travel,Travel,0
+308,peter felten,Peter Felten,0
+309,no,No.,0
+310,no,No.,0
+311,business  money,Business & Money.,0
+312,childrens books,Children's Books.,0
+313,no,No.,0
+314,yes,Yes.,0
+315,no,No.,0
+316,yes,Yes,0
+317,no,No.,0
+318,yes,Yes.,0
+319,dave pelzer,Dave Pelzer.,0
+320,strange women and other strangleholds,Strange Women and other Strangleholds,0
+321,the measure of a man,The Measure of a Man.,0
+322,the mindful momtobe,The Mindful Mom-to-Be.,0
+323,dr kevin leman,Dr. Kevin Leman,0
+324,corey wayne,Corey Wayne,0
+325,no,No.,0
+326,parenting,Parenting.,0
+327,self help,Self Help.,0
+328,you are a badass,You Are a Badass,0
+329,alexander l chapman,Alexander L. Chapman,0
+330,no,No.,0
+331,yes,Yes,0
+332,selfhelp,Self-Help.,0
+333,brené brown,Brené Brown.,0
+334,joe vitale,Joe Vitale.,0
+335,louise desalvo,Louise DeSalvo,0
+336,the road less traveled,The Road Less Traveled,0
+337,selfhelp,Self-Help.,0
+338,biographies  memoirs,Biographies & Memoirs.,0
+339,selfhelp,SelfHelp,0
+340,yes,Yes,0
+341,no,No.,0
+342,jim lupkin,Jim Lupkin.,0
+343,deepak agarwal,Deepak Agarwal.,0
+344,wayne breitbarth,Wayne Breitbarth,0
+345,administering windows server 2012 r2 exam ref 70411,Administering Windows Server 2012 R2 Exam Ref 70-411.,0
+346,yes,Yes.,0
+347,the tao of network security monitoring beyond intrusion detection,The Tao of Network Security Monitoring: Beyond Intrusion Detection.,0
+348,oracle certification prep study guide for 1z0061 oracle database 12c sql fundamentals,Oracle Certification Prep Study Guide for 1Z0-061 Oracle Database 12c SQL Fundamentals,0
+349,computers  technology,Computers & Technology.,0
+350,psychocybernetics,Psycho-Cybernetics.,0
+351,yes,Yes,0
+352,yes,Yes.,0
+353,business  money,Business & Money.,0
+354,peter john fugere jr,Peter John Fugere Jr.,0
+355,database design and development,Database Design and Development.,0
+356,computers  technology,Computers & Technology.,0
+357,computers  technology,Computers & Technology,0
+358,pokemon nacrene city adventures,Pokemon Nacrene City Adventures.,0
+359,yes,Yes,0
+360,yes,Yes.,0
+361,raj lal,Raj Lal,0
+362,brian m edwards,Brian M. Edwards,0
+363,no,No.,0
+364,my ipad seventh edition,My iPad Seventh Edition.,0
+365,yes,Yes.,0
+366,kimberly a houser,Kimberly A. Houser,0
+367,no,No.,0
+368,no,No.,0
+369,yes,Yes.,0
+370,yes,Yes.,0
+371,yes,Yes.,0
+372,jeffrey taylor,Jeffrey Taylor.,0
+373,michael w lucas,Michael W. Lucas,0
+374,computers  technology,Computers & Technology.,0
+375,yes,Yes.,0
+376,net multithreading,.NET Multithreading,0
+377,computers  technology,Computers & Technology.,0
+378,cameron buchanan,Cameron Buchanan,0
+379,leslie capachiotti,Leslie Capachiotti,0
+380,barcharts inc,"BarCharts, Inc.",0
+381,grauer,Grauer.,0
+382,computers  technology,Computers & Technology,0
+383,definitive voice xml,Definitive Voice XML.,0
+384,unmesh gundecha,Unmesh Gundecha.,0
+385,no,No.,0
+386,over diagnosed making people sick in the pursuit of health,Over Diagnosed: Making People Sick in the Pursuit of Health.,0
+387,yes,Yes.,0
+388,yes,Yes.,0
+389,no,No.,0
+390,medical books,Medical Books,0
+391,christopher j rapuano,Christopher J. Rapuano.,0
+392,sara d rynders,Sara D. Rynders,0
+393,forefoot reconstruction,Forefoot Reconstruction,0
+394,yes,Yes,0
+395,the practice of statistics in the life sciences,The Practice of Statistics in the Life Sciences,0
+396,science  math,Science & Math.,0
+397,no,No.,0
+398,molecular driving forces,Molecular Driving Forces,0
+399,medical books,Medical Books,0
+400,no,No.,0
+401,ls parmly,L.S. Parmly,0
+402,clinical practice of the dental hygienist,Clinical Practice of the Dental Hygienist.,0
+403,yes,Yes.,0
+404,john c bennett,John C Bennett,0
+405,yes,Yes,0
+406,yes,Yes.,0
+407,health fitness  dieting,"Health, Fitness & Dieting.",0
+408,the fifteen minute hour therapeutic talk in primary care,The Fifteen Minute Hour: Therapeutic Talk in Primary Care,0
+409,medical books,Medical Books.,0
+410,thoracic radiology,Thoracic Radiology.,0
+411,yes,Yes.,0
+412,yes,Yes.,0
+413,jk rowling,J.K. Rowling,0
+414,fast facts for the operating room nurse,Fast Facts for the Operating Room Nurse,0
+415,the handbook of structured life review,The Handbook of Structured Life Review.,0
+416,no,No.,0
+417,medical books,Medical Books.,0
+418,no,No.,0
+419,no,No.,0
+420,yes,Yes.,0
+421,yes,Yes.,0
+422,yes,Yes.,0
+423,drug therapy in psychiatry,Drug Therapy in Psychiatry.,0
+424,science  math,Science & Math.,0
+425,yes,Yes.,0
+426,no,No.,0
+427,no,No.,0
+428,black and white racial identity theory research and practice,"Black and White Racial Identity Theory, Research, and Practice",0
+429,law,Law.,0
+430,yes,Yes.,0
+431,sharon lund oneil,Sharon Lund O'Neil.,0
+432,medical books,Medical Books,0
+433,politics,Politics.,0
+434,yes,Yes.,0
+435,skin diseases of the dog and cat,Skin Diseases of the Dog and Cat,0
+436,yes,Yes.,0
+437,textbook of veterinary nursing,Textbook of Veterinary Nursing.,0
+438,slatters fundamentals of veterinary ophthalmology,Slatter's Fundamentals of Veterinary Ophthalmology,0
+439,yes,Yes.,0
+440,no,No.,0
+441,plowmans folly,plowman's folly,0
+442,science fiction  fantasy,Science Fiction & Fantasy.,0
+443,science fiction,Science Fiction,0
+444,science fiction,Science Fiction,0
+445,cosmic debris meteorites in history,Cosmic Debris: Meteorites in History,0
+446,science fiction,Science Fiction,0
+447,yes,Yes.,0
+448,no,No.,0
+449,no,No.,0
+450,daniel winkler,Daniel Winkler.,0
+451,no,No.,0
+452,science,Science.,0
+453,no,No.,0
+454,science  math,Science & Math.,0
+455,Mark twain.,Mark twain.,0
+456,di bower,D.I. Bower.,0
+457,william c hinds,William C. Hinds,0
+458,yes,Yes,0
+459,no,No.,0
+460,no,No.,0
+461,mark j hammer,Mark J. Hammer,0
+462,yes,Yes,0
+463,science,Science.,0
+464,no,No.,0
+465,robert d goldman,Robert D. Goldman.,0
+466,susanne friese,Susanne Friese.,0
+467,yes,Yes.,0
+468,no,No.,0
+469,yes,Yes.,0
+470,radu ioan bot,Radu Ioan Bot.,0
+471,blitzer algebra and trigonometry,Blitzer Algebra and Trigonometry.,0
+472,history,History.,0
+473,science  math,Science & Math.,0
+474,no,No.,0
+475,why a curveball,Why a Curveball,0
+476,yes,Yes.,0
+477,computational ergodic theory,Computational Ergodic Theory,0
+478,yes,Yes,0
+479,no,No.,0
+480,computers  technology,Computers & Technology,0
+481,no,No.,0
+482,yes,Yes.,0
+483,no,No.,0
+484,yes,Yes.,0
+485,health fitness  dieting,"Health, Fitness & Dieting.",0
+486,sports  outdoors,Sports & Outdoors.,0
+487,health fitness  dieting,"Health, Fitness & Dieting.",0
+488,yes,Yes.,0
+489,selfhelp,Self-Help.,0
+490,yes,Yes.,0
+491,sharon salzberg,Sharon Salzberg.,0
+492,yes,Yes.,0
+493,no,No.,0
+494,no,No.,0
+495,the 20132018 outlook for cystic fibrosis drugs in the middle east,The 2013-2018 outlook for cystic fibrosis drugs in the middle east,0
+496,alexander r lucas md,Alexander R. Lucas M.D.,0
+497,no,No.,0
+498,jessica jensen,Jessica Jensen.,0
+499,low calorie cookbook,Low Calorie Cookbook,0
+500,eat right 4 your type,Eat Right 4 Your Type.,0
+501,selfhelp,Self-Help.,0
+502,arthur agatston,Arthur Agatston.,0
+503,cookbooks food  wine,"Cookbooks, Food & Wine",0
+504,no,No.,0
+505,yes,Yes.,0
+506,health fitness  dieting,"Health, Fitness & Dieting.",0
+507,the endometriosis natural treatment program,The Endometriosis Natural Treatment Program,0
+508,age related macular degeneration an essential guide for the newly diagnosed,Age Related Macular Degeneration: An Essential Guide for the Newly Diagnosed,0
+509,alexander mauskop,Alexander Mauskop.,0
+510,yes,Yes.,0
+511,lowering your blood pressure,Lowering Your Blood Pressure,0
+512,selfhelp,Self-help.,0
+513,medical books,Medical Books.,0
+514,biographies  memoirs,Biographies & Memoirs.,0
+515,no,No.,0
+516,yes,Yes.,0
+517,health fitness  dieting,"Health, Fitness & Dieting.",0
+518,yes,Yes.,0
+519,parkinsons disease,Parkinson's Disease,0
+520,kurt brungardt,Kurt Brungardt,0
+521,no,No.,0
+522,philip friedman and gail eisen,Philip Friedman and Gail Eisen,0
+523,lareine chabut,LaReine Chabut.,0
+524,henry ash,Henry Ash.,0
+525,no,No.,0
+526,jailhouse strong,Jailhouse Strong,0
+527,medical books,Medical Books,0
+528,medical books,Medical Books.,0
+529,yes,Yes.,0
+530,yes,Yes.,0
+531,yes,Yes.,0
+532,institute of medicine,Institute of Medicine.,0
+533,science fiction,Science Fiction,0
+534,the artists way at work riding the dragon,The Artist's Way at Work: Riding the Dragon,0
+535,no,No.,0
+536,im not in the mood,I'm not in the mood,0
+537,selfhelp,Self-Help.,0
+538,luke sullivan,Luke Sullivan.,0
+539,annual tax mess organizer,Annual Tax Mess Organizer,0
+540,no,No.,0
+541,jim collins,Jim Collins.,0
+542,getting past no negotiating in difficult situations,Getting past no negotiating in difficult situations,0
+543,how to be a model,How to be a model,0
+544,ron carson,Ron Carson,0
+545,helping how to offer give and receive help,"Helping: How to Offer, Give, and Receive Help.",0
+546,business  money,Business & Money.,0
+547,using econometrics a practical guide,Using Econometrics A Practical Guide.,0
+548,yes,Yes.,0
+549,2005 yearbook market results for 19262004,2005 Yearbook Market Results for 1926-2004,0
+550,yes,Yes.,0
+551,jonathan gruber,Jonathan Gruber,0
+552,slaves to fashion,Slaves to Fashion.,0
+553,robert stine,Robert Stine,0
+554,business  money,Business & Money.,0
+555,business  money,Business & Money.,0
+556,turning points in environmental negotiation exploring conflict resolution dynamics in domestic and international cases,Turning Points in Environmental Negotiation: Exploring Conflict Resolution Dynamics in Domestic and International Cases.,0
+557,crowdsourcing,Crowdsourcing,0
+558,history,History,0
+559,yoram koren,Yoram Koren,0
+560,no,No.,0
+561,science  math,Science & Math,0
+562,law,Law.,0
+563,james broad,James Broad,0
+564,consuming the caribbean,Consuming the Caribbean,0
+565,yes,Yes.,0
+566,yes,Yes.,0
+567,business  money,Business & Money.,0
+568,understanding options,Understanding Options,0
+569,robert kiyosaki,Robert Kiyosaki,0
+570,richard hermann,Richard Hermann.,0
+571,no,No.,0
+572,yes,Yes.,0
+573,aviation logistics,Aviation Logistics,0
+574,no,No.,0
+575,yes,Yes,0
+576,ravi anupindi,Ravi Anupindi,0
+577,no,No.,0
+578,richard bayan,Richard Bayan.,0
+579,no,No.,0
+580,no,No.,0
+581,a passion for leadership,A Passion for Leadership,0
+582,business  money,Business & Money.,0
+583,reframing organizations artistry choice and leadership,"Reframing Organizations: Artistry, Choice, and Leadership.",0
+584,no,No.,0
+585,robert j shiller,Robert J. Shiller.,0
+586,sheryl lindsellroberts,Sheryl Lindsell-Roberts.,0
+587,heinemann,Heinemann.,0
+588,legal aspects of corrections management,Legal Aspects of Corrections Management,0
+589,yes,Yes.,0
+590,ken coates,Ken Coates.,0
+591,law,Law.,0
+592,no,No.,0
+593,masquerade,Masquerade.,0
+594,yes,Yes.,0
+595,no,No.,0
+596,law,Law.,0
+597,no,No.,0
+598,property principles and policies,Property Principles and Policies,0
+599,securities regulation cases and analysis fourth edition,Securities Regulation Cases and Analysis Fourth Edition,0
+600,the federalist papers,The Federalist Papers,0
+601,yes,Yes.,0
+602,yes,Yes.,0
+603,jay erskine leutze,Jay Erskine Leutze,0
+604,selfhelp,Self-Help.,0
+605,education  teaching,Education & Teaching,0
+606,mastering elder law,Mastering Elder Law,0
+607,no,No.,0
+608,no,No.,0
+609,copyright law in a nutshell,Copyright Law in a Nutshell.,0
+610,katherine a currier,Katherine A. Currier.,0
+611,julie brewer bogart rn mn,Julie Brewer Bogart RN MN,0
+612,law,Law.,0
+613,no,No.,0
+614,curtis a bradley,Curtis A. Bradley.,0
+615,no,No.,0
+616,no,No.,0
+617,civil procedure,Civil Procedure,0
+618,indiana evidence rules 2015 courtroom quick reference,Indiana Evidence Rules 2015 Courtroom Quick Reference,0
+619,kane on trademark law,Kane on Trademark Law,0
+620,larry l teply,Larry L. Teply.,0
+621,no,No.,0
+622,yes,Yes.,0
+623,no,No.,0
+624,storm of steel,Storm of Steel,0
+625,brian neve,Brian Neve,0
+626,da bull life over the edge,Da Bull Life Over The Edge.,0
+627,biographies  memoirs,Biographies & Memoirs,0
+628,yes,Yes.,0
+629,yes,Yes.,0
+630,yes,Yes.,0
+631,no,No,0
+632,a history of jordan,A History of Jordan,0
+633,biographies  memoirs,Biographies & Memoirs.,0
+634,uncivil rites,Uncivil Rites.,0
+635,olof alexandersson,Olof Alexandersson,0
+636,dying every day seneca at the court of nero,Dying Every Day: Seneca at the Court of Nero,0
+637,history,History,0
+638,yes,Yes,0
+639,no,No.,0
+640,alex palmer,Alex Palmer,0
+641,charley rosen,Charley Rosen.,0
+642,arnold palmer,Arnold Palmer,0
+643,the cost of courage,The Cost of Courage.,0
+644,andres lópez lópez,Andres López López.,0
+645,chancellor williams,Chancellor Williams.,0
+646,The late bronze and early ages of central transdanubian the baquar valley project 1977-1982,The late bronze and early ages of central transdanubian the baquar valley project 1977-1982,0
+647,history,History.,0
+648,yes,Yes.,0
+649,no,No.,0
+650,the lost cities of the maya,The Lost Cities of the Maya,0
+651,no,No.,0
+652,yes,Yes.,0
+653,no,No.,0
+654,no,No.,0
+655,history,History.,0
+656,yes,Yes.,0
+657,yes,Yes.,0
+658,yes,Yes.,0
+659,no,No.,0
+660,rodger w claire,Rodger W. Claire.,0
+661,no,No.,0
+662,oman and the south eastern shore of arabia,Oman and the South Eastern Shore of Arabia,0
+663,history,History,0
+664,mystery thriller  suspense,"Mystery, Thriller & Suspense.",0
+665,no,No.,0
+666,sun tzu,Sun Tzu.,0
+667,klaas r veenhof,Klaas R. Veenhof,0
+668,the rise of bronze age society,The Rise of Bronze Age Society,0
+669,daniel croles fitjar,Daniel Croles Fitjar.,0
+670,history,History.,0
+671,history,History.,0
+672,charles hughes,Charles Hughes,0
+673,reference,Reference.,0
+674,bloody ridge and beyond,Bloody Ridge and Beyond,0
+675,hell in a very small place,Hell in a Very Small Place,0
+676,japanese throwing weapons mastering shuriken throwing techniques,Japanese Throwing Weapons: Mastering Shuriken Throwing Techniques,0
+677,yes,Yes,0
+678,yes,Yes.,0
+679,no,No.,0
+680,simon critchley,Simon Critchley.,0
+681,no,No.,0
+682,yes,Yes,0
+683,the reincarnation of edgar cayce interdimensional communication and global transformation,The Reincarnation of Edgar Cayce: Interdimensional Communication and Global Transformation.,0
+684,business  money,Business & Money.,0
+685,literature  fiction,Literature & Fiction,0
+686,no,No.,0
+687,no,No.,0
+688,the old magic of christmas,The Old Magic of Christmas.,0
+689,reference,Reference.,0
+690,lester m salmon,Lester M. Salmon,0
+691,encyclopedia of domestic violence and abuse,Encyclopedia of Domestic Violence and Abuse.,0
+692,selfhelp,SelfHelp,0
+693,yes,Yes.,0
+694,biographies  memoirs,Biographies & Memoirs,0
+695,travel,Travel.,0
+696,yes,Yes.,0
+697,reference,Reference.,0
+698,yes,Yes.,0
+699,no,No.,0
+700,Yisrael Chasdan,Yisrael Chasdan,0
+701,queen the complete illustrated lyrics,Queen The Complete Illustrated Lyrics,0
+702,robert kirkman,Robert Kirkman.,0
+703,no,No.,0
+704,no,No.,0
+705,a guide for grownups,A Guide for Grown-Ups,0
+706,german grammar drills second edition,German Grammar Drills Second Edition.,0
+707,no,No.,0
+708,virginia p clark,Virginia P. Clark.,0
+709,education  teaching,Education & Teaching.,0
+710,otto von helsing,Otto von Helsing,0
+711,the old testament pseudepigrapha,The Old Testament Pseudepigrapha,0
+712,christian books  bibles,Christian Books & Bibles,0
+713,christian books  bibles,Christian Books & Bibles,0
+714,celia brewer marshall,Celia Brewer Marshall,0
+715,steven k scott,Steven K. Scott,0
+716,gods inspirational promises,God's Inspirational Promises,0
+717,john dominic crossan,John Dominic Crossan.,0
+718,yes,Yes,0
+719,no,No,0
+720,pope john paul ii,Pope John Paul II,0
+721,yes,Yes.,0
+722,michel reynaud,Michel Reynaud.,0
+723,christian books  bibles,Christian Books & Bibles,0
+724,yes,Yes.,0
+725,selfhelp,Self-Help,0
+726,self help,Self Help.,0
+727,yes,Yes.,0
+728,bpok,bpok.,0
+729,yes,Yes.,0
+730,no,No.,0
+731,ten most common mistakes made by new church starts,Ten Most Common Mistakes Made by New Church Starts,0
+732,no,No.,0
+733,yes,Yes.,0
+734,teaching to change lives,Teaching to Change Lives,0
+735,the gospel of john commentary,The Gospel of John Commentary,0
+736,yes,Yes.,0
+737,mortal,Mortal,0
+738,no,No.,0
+739,jim wideman,Jim Wideman,0
+740,christian books  bibles,Christian Books & Bibles,0
+741,Ray Clendenen.,Ray Clendenen.,0
+742,yes,Yes.,0
+743,carla krazl,Carla Krazl.,0
+744,philip gulley,Philip Gulley,0
+745,daniel w patterson,Daniel W. Patterson,0
+746,biblical demonology,Biblical Demonology,0
+747,the design of life,The Design of Life,0
+748,no,No.,0
+749,no,No.,0
+750,no,No.,0
+751,yes,Yes,0
+752,yes,Yes.,0
+753,yes,Yes.,0
+754,yes,Yes.,0
+755,caring economics,Caring Economics,0
+756,no,No.,0
+757,yes,Yes.,0
+758,no,No.,0
+759,religion  spirituality,Religion & Spirituality.,0
+760,yes,Yes.,0
+761,religion  spirituality,Religion & Spirituality.,0
+762,the lives of muhammad,The Lives of Muhammad,0
+763,yes,Yes.,0
+764,science fiction,Science Fiction.,0
+765,the logic of law making in islam,The Logic of Law Making in Islam,0
+766,haggadah companion meditations and readings,Haggadah Companion Meditations and Readings,0
+767,The menorah.,The menorah.,0
+768,religion  spirituality,Religion & Spirituality,0
+769,chumash,Chumash,0
+770,fantasy,Fantasy.,0
+771,selfhelp,Self-Help,0
+772,mystery thriller  suspense,"Mystery, Thriller & Suspense",0
+773,the synchronicity key,The Synchronicity Key,0
+774,the nature of things the secret life of inanimate objects,The Nature of Things: The Secret Life of Inanimate Objects,0
+775,no,No.,0
+776,yes,Yes.,0
+777,no,No.,0
+778,manly p hall,Manly P. Hall.,0
+779,kurtis hagen,Kurtis Hagen.,0
+780,body centered psychotherapy,Body Centered Psychotherapy,0
+781,sports  outdoors,Sports & Outdoors.,0
+782,self help,Self help,0
+783,no,No.,0
+784,no,No.,0
+785,yes,Yes.,0
+786,yes,Yes.,0
+787,no,No,0
+788,political theology,Political Theology,0
+789,politics,Politics.,0
+790,nonfiction,Non-fiction.,0
+791,INAPUBLICACION PASTORAL REDENTORISTA.,INAPUBLICACION PASTORAL REDENTORISTA.,0
+792,jerry krause,Jerry Krause.,0
+793,bucking the odds,Bucking the Odds,0
+794,yes,Yes.,0
+795,yes,Yes.,0
+796,yes,Yes.,0
+797,no,No.,0
+798,no,No.,0
+799,yes,Yes.,0
+800,daniel d chazin,Daniel D. Chazin,0
+801,sports  outdoors,Sports & Outdoors.,0
+802,no,No,0
+803,robert w smith,Robert W. Smith,0
+804,no,No.,0
+805,no,No.,0
+806,randy dayney,Randy Dayney.,0
+807,no,No.,0
+808,yes,Yes.,0
+809,brazils dance with the devil the world cup the olympics and the fight for democracy,"Brazil's Dance with the Devil: The World Cup, the Olympics, and the Fight for Democracy.",0
+810,yes,Yes.,0
+811,my life at the limit,My Life at the Limit.,0
+812,servsafe,ServSafe,0
+813,winning womens lacrosse,Winning Women's Lacrosse,0
+814,coaching youth rugby,Coaching Youth Rugby,0
+815,mind over water,Mind Over Water,0
+816,building the greenland kayak,Building the Greenland Kayak,0
+817,lonely planet,Lonely Planet,0
+818,where to ski and snowboard 2010,Where to ski and snowboard 2010,0
+819,racquetball,Racquetball,0
+820,health fitness  dieting,"Health, Fitness & Dieting.",0
+821,sports  outdoors,Sports & Outdoors.,0
+822,no,No.,0
+823,richard williams,Richard Williams.,0
+824,runaway girl,Runaway Girl.,0
+825,yes,Yes.,0
+826,no,No.,0
+827,Les I GURSE.,Les I GURSE.,0
+828,the young life of mother katharine drexel,The Young Life of Mother Katharine Drexel,0
+829,inspiring african american civil rights leaders,Inspiring African American Civil Rights Leaders,0
+830,test preparation,Test Preparation.,0
+831,yes,Yes.,0
+832,yes,Yes.,0
+833,julia v taylor,Julia V. Taylor.,0
+834,kitchener in sudan,Kitchener in Sudan.,0
+835,wei dong chen,Wei Dong Chen.,0
+836,romance,Romance.,0
+837,conspiracy of blood and smoke,Conspiracy of Blood and Smoke,0
+838,"Mystery, Thriller & Suspense.","Mystery, Thriller & Suspense.",0
+839,an introduction to programming using microsoft visual basic versions 5 and 6,An Introduction to Programming Using Microsoft Visual Basic Versions 5 and 6.,0
+840,cut assemble lincolns springfield home,Cut Assemble Lincoln's Springfield Home,0
+841,the spectacular now,The Spectacular Now,0
+842,selfhelp,SelfHelp.,0
+843,sweet little lies,Sweet Little Lies.,0
+844,pretty monsters,Pretty Monsters,0
+845,darren shan,Darren Shan.,0
+846,no,No.,0
+847,no,No.,0
+848,suicide,Suicide.,0
+849,health fitness  dieting,"Health, Fitness & Dieting.",0
+850,the power of i will,The Power of I Will.,0
+851,law,Law.,0
+852,no,No.,0
+853,yes,Yes.,0
+854,Dr. John S. Dunn.,Dr. John S. Dunn.,0
+855,bryce dymond,Bryce Dymond.,0
+856,no,No.,0
+857,football in the big east conference,Football in the Big East Conference,0
+858,yes,Yes,0
+859,yes,Yes.,0
+860,childrens books,Children's Books.,0
+861,secret of the staircase,Secret of the Staircase,0
+862,yes,Yes.,0
+863,no,No.,0
+864,no,No.,0
+865,mo willems,Mo Willems,0
+866,tony michaels,Tony Michaels.,0
+867,childrens books,Children's Books.,0
+868,save the animals,Save the Animals.,0
+869,childrens books,Children's Books.,0
+870,yes,Yes,0
+871,ed emberleys complete funprint drawing book,Ed Emberley's Complete FunPrint Drawing Book.,0
+872,education  teaching,Education & Teaching.,0
+873,no,No.,0
+874,diane stanley,Diane Stanley.,0
+875,yes,Yes.,0
+876,florence young,Florence Young,0
+877,lionel messi the ultimate fan book,Lionel Messi: The Ultimate Fan Book,0
+878,tugga tugboat,Tugga Tugboat.,0
+879,big machines,Big Machines.,0
+880,no,No.,0
+881,no,No.,0
+882,no,No.,0
+883,science fiction,Science Fiction,0
+884,feet are not for kicking,Feet Are Not for Kicking,0
+885,childrens books,Children's Books.,0
+886,history,History.,0
+887,yes,Yes.,0
+888,star wars kindergarten writing  abcs,Star wars kindergarten writing & abcs,0
+889,no,No.,0
+890,childrens books,Children's Books,0
+891,childrens books,Children's Books,0
+892,childrens books,Children's Books,0
+893,no,No.,0
+894,mummies of the pharaohs,Mummies of the Pharaohs,0
+895,refugees,Refugees.,0
+896,traveling man,Traveling Man,0
+897,history,History.,0
+898,no,No.,0
+899,lm montgomery,L.M. Montgomery,0
+900,the mayflower and the pilgrims new world,The Mayflower and the Pilgrims' New World,0
+901,childrens books,Children's Books.,0
+902,activity book,Activity book,0
+903,Self-Help,Self-Help,0
+904,the night before christmas,The Night Before Christmas.,0
+905,yes,Yes.,0
+906,childrens books,Children's Books,0
+907,childrens books,Children's Books.,0
+908,Gail Gibbons.,Gail Gibbons.,0
+909,stephenie meyer,Stephenie meyer,0
+910,uma krishnaswami,Uma Krishnaswami,0
+911,young adult,Young Adult.,0
+912,medical books,Medical Books,0
+913,science,Science.,0
+914,no,No.,0
+915,yes,Yes,0
+916,childrens books,Children's Books.,0
+917,childrens books,Children's Books,0
+918,yes,Yes.,0
+919,yes,Yes.,0
+920,no,No.,0
+921,yes,Yes.,0
+922,yes,Yes.,0
+923,yes,Yes,0
+924,albert podell,Albert Podell.,0
+925,jimmy cornell,Jimmy Cornell.,0
+926,travel,Travel.,0
+927,Ron & Barb Hofmeister,Ron & Barb Hofmeister,0
+928,historic photos of daytona beach,Historic Photos of Daytona Beach,0
+929,elizabeth vennekenskelly,Elizabeth Vennekens-Kelly.,0
+930,waterfalls of the pacific northwest,Waterfalls of the Pacific Northwest.,0
+931,travel,Travel.,0
+932,yes,Yes.,0
+933,yes,Yes,0
+934,no,No.,0
+935,yes,Yes,0
+936,kilimanjaro diaries,Kilimanjaro Diaries,0
+937,travel,Travel,0
+938,the present state of the empire of morocco with a faithful account of the manners religion and government of that people by monsieur de st olon,"The Present State Of The Empire Of Morocco With A Faithful Account Of The Manners, Religion, And Government Of That People By Monsieur De St. Olon.",0
+939,yes,Yes.,0
+940,no,No.,0
+941,no,No.,0
+942,ross veiton,Ross Veiton,0
+943,zimbabwe a visual souvenir,Zimbabwe A Visual Souvenir,0
+944,travel,Travel.,0
+945,bhutan himalayan mountain kingdom,Bhutan: Himalayan Mountain Kingdom,0
+946,travel,Travel.,0
+947,no,No.,0
+948,yes,Yes.,0
+949,travel,Travel.,0
+950,mysteries of the gobi searching for wild camels and lost cities in the heart of asia,Mysteries of the Gobi: Searching for Wild Camels and Lost Cities in the Heart of Asia,0
+951,the magic of nepal,The Magic of Nepal,0
+952,show me the money,Show Me The Money.,0
+953,top 10 singapore,Top 10 Singapore,0
+954,john still,John Still,0
+955,itmb,ITMB,0
+956,travel,Travel,0
+957,the adventure guide to barbados,The Adventure Guide to Barbados,0
+958,no,No.,0
+959,yes,Yes.,0
+960,no,No.,0
+961,travel,Travel,0
+962,essential barbados,Essential Barbados,0
+963,yes,Yes,0
+964,no,No.,0
+965,yes,Yes.,0
+966,travel,Travel,0
+967,yes,Yes.,0
+968,atsons,Atsons.,0
+969,michelin,Michelin.,0
+970,yes,Yes.,0
+971,travel,Travel.,0
+972,michelin,Michelin.,0
+973,no,No.,0
+974,travel,Travel.,0
+975,no,No.,0
+976,2008 country profile and guide lithuania national travel guidebook and handbook,2008 Country Profile and Guide: Lithuania National Travel Guidebook and Handbook.,0
+977,travel,Travel.,0
+978,travel,Travel,0
+979,walking in umbria,Walking in Umbria.,0
+980,yes,Yes.,0
+981,reaching deep sailing in the pacific and the sea of cortez,Reaching Deep: Sailing in the Pacific and the Sea of Cortez,0
+982,fodors,Fodor's,0
+983,travel,Travel.,0
+984,yes,Yes.,0
+985,yes,Yes.,0
+986,yes,Yes.,0
+987,yes,Yes,0
+988,William H. McNeill.,William H. McNeill.,0
+989,travel,Travel.,0
+990,bartholomew,Bartholomew.,0
+991,travel,Travel,0
+992,yes,Yes.,0
+993,yes,Yes.,0
+994,no,No.,0
+995,yes,Yes.,0
+996,indianapolis street map,Indianapolis street map.,0
+997,no,No.,0
+998,bob fitzhenry,Bob Fitzhenry,0
+999,yes,Yes.,0
+1000,no,No.,0

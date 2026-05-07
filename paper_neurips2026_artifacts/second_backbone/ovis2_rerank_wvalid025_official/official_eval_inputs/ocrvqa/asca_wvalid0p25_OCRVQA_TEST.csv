@@ -1,0 +1,1002 @@
+question,category,image_path,answer,index,prediction
+Who wrote this book?,Calendars,1492612766.jpg,Amy Knapp,1492612766_0,Amy Knapp
+Who is the author of this book?,Calendars,1465041559.jpg,Browntrout Publishers,1465041559_0,Browntrout Publishers
+Who is the author of this book?,Calendars,1623436095.jpg,Willow Creek Press,1623436095_0,yes
+Is this book related to Reference?,Calendars,081098914X.jpg,No,081098914X_4,No
+Which year's calendar is this?,Calendars,1594908842.jpg,2013,1594908842_5,2013
+What type of book is this?,Calendars,696301822.jpg,Calendars,696301822_1,Calendars.
+Who is the author of this book?,Calendars,1610463633.jpg,Brush Dance,1610463633_0,Brush Dance
+Who is the author of this book?,Calendars,1465041710.jpg,Browntrout Publishers,1465041710_0,Browntrout Publishers
+What type of book is this?,Calendars,1449453511.jpg,Calendars,1449453511_2,Calendars
+What is the genre of this book?,Calendars,1421699702.jpg,Calendars,1421699702_2,Calendars
+Is this book related to Calendars?,Calendars,1438833083.jpg,Yes,1438833083_3,Yes
+Who wrote this book?,Calendars,761179143.jpg,Jordan Matter,761179143_0,Jordan Matter
+Is this a pharmaceutical book?,Calendars,761183396.jpg,No,761183396_3,No
+Who wrote this book?,Calendars,162438031X.jpg,Muneesh Jain,162438031X_0,TF Publishing
+Which year's calendar is this?,Calendars,146504664X.jpg,2016,146504664X_4,2016
+Is this a games related book?,Comics & Graphic Novels,1421534711.jpg,No,1421534711_4,No
+Is this a judicial book?,Comics & Graphic Novels,B00C4IUHHW.jpg,No,B00C4IUHHW_4,No
+Is this book related to Arts & Photography?,Comics & Graphic Novels,1620100002.jpg,No,1620100002_4,No
+What is the title of this book?,Comics & Graphic Novels,1449474195.jpg,Adulthood is a Myth: A Sarah's Scribbles Collection,1449474195_1,Adulthood Is a Myth
+Who is the author of this book?,Comics & Graphic Novels,312076355.jpg,Eric Orner,312076355_0,Ethan Green
+What is the title of this book?,Comics & Graphic Novels,785193200.jpg,Star Wars: Chewbacca,785193200_1,Chewbacca
+What is the title of this book?,Comics & Graphic Novels,764120859.jpg,Romeo and Juliet (Simply Shakespeare),764120859_1,romeo  juliet
+Is this book related to Comics & Graphic Novels?,Comics & Graphic Novels,031624533X.jpg,Yes,031624533X_2,Yes
+Is this a comics book?,Comics & Graphic Novels,1421575418.jpg,No,1421575418_4,No
+What is the genre of this book?,Comics & Graphic Novels,1421543435.jpg,Comics & Graphic Novels,1421543435_2,comics  graphic novels
+Is this a comics book?,Comics & Graphic Novels,375860959.jpg,Yes,375860959_3,Yes
+What is the title of this book?,Comics & Graphic Novels,1421519860.jpg,"Slam Dunk, Vol. 4",1421519860_1,Slam Dunk
+What is the genre of this book?,Comics & Graphic Novels,177046087X.jpg,Comics & Graphic Novels,177046087X_2,Comics & Graphic Novels
+Is this an exam preparation book?,Test Preparation,323113435.jpg,Yes,323113435_3,Yes
+What is the genre of this book?,Test Preparation,1438000286.jpg,Test Preparation,1438000286_2,Test Preparation
+Is this an exam preparation book?,Test Preparation,1627335188.jpg,Yes,1627335188_3,Yes
+What type of book is this?,Test Preparation,768938929.jpg,Test Preparation,768938929_2,Test Preparation
+What is the title of this book?,Test Preparation,671252860.jpg,"Lovejoy's Prep and Private School Guide: Independent, Private, Nonpublic Institutions, Boarding and Day (Lovejoy's Educational Guides)",671252860_1,"Lovejoy's Prep and Private School Guide: Independent, Private, Nonpublic Institutions, Boarding and Day (Lovejoy's Educational Guides)"
+What is the genre of this book?,Test Preparation,837363012.jpg,Test Preparation,837363012_2,Test Preparation
+Is this a sci-fi book?,Test Preparation,9350872846.jpg,No,9350872846_4,No
+What is the genre of this book?,Test Preparation,735578419.jpg,Test Preparation,735578419_2,Test Preparation
+What is the genre of this book?,Test Preparation,160978605X.jpg,Test Preparation,160978605X_2,Test Preparation
+Is this book related to Test Preparation?,Test Preparation,735578427.jpg,Yes,735578427_3,Yes
+What type of book is this?,Test Preparation,837382114.jpg,Test Preparation,837382114_2,Test Preparation
+What is the genre of this book?,Test Preparation,032304879X.jpg,Test Preparation,032304879X_2,Test Preparation
+Is this book related to Business & Money?,Test Preparation,470294558.jpg,No,470294558_4,Yes
+Is this a motivational book?,Test Preparation,1111127115.jpg,No,1111127115_4,No
+Is this book related to Test Preparation?,Test Preparation,1628453389.jpg,Yes,1628453389_3,Yes
+What type of book is this?,"Mystery, Thriller & Suspense",804188971.jpg,"Mystery, Thriller & Suspense",804188971_2,Romance
+What type of book is this?,"Mystery, Thriller & Suspense",425276678.jpg,"Mystery, Thriller & Suspense",425276678_2,Mystery
+"Is this book related to Mystery, Thriller & Suspense?","Mystery, Thriller & Suspense",1943390177.jpg,Yes,1943390177_3,Yes
+Is this a homosexuality book?,"Mystery, Thriller & Suspense",802123538.jpg,No,802123538_3,No
+"Is this book related to Mystery, Thriller & Suspense?","Mystery, Thriller & Suspense",230218865.jpg,Yes,230218865_3,Yes
+Is this book related to Science & Math?,"Mystery, Thriller & Suspense",691169675.jpg,No,691169675_4,No
+Who wrote this book?,"Mystery, Thriller & Suspense",006112740X.jpg,Patricia Cornwell,006112740X_0,Patricia Cornwell
+Is this a comics book?,"Mystery, Thriller & Suspense",440246016.jpg,No,440246016_3,No
+What type of book is this?,"Mystery, Thriller & Suspense",812564375.jpg,"Mystery, Thriller & Suspense",812564375_2,"Mystery, Thriller & Suspense"
+Is this a sci-fi book?,Science Fiction & Fantasy,045146835X.jpg,Yes,045146835X_3,Yes
+Who is the author of this book?,Science Fiction & Fantasy,812544196.jpg,Jack Whyte,812544196_0,Jack Whyte
+Is this book related to Reference?,Science Fiction & Fantasy,1517301661.jpg,No,1517301661_4,No
+What is the title of this book?,Science Fiction & Fantasy,61689246.jpg,Stardust,61689246_1,Stardust
+Is this a religious book?,Science Fiction & Fantasy,62307401.jpg,No,62307401_4,No
+What type of book is this?,Science Fiction & Fantasy,990815706.jpg,Science Fiction & Fantasy,990815706_2,Children's Books
+What is the title of this book?,Science Fiction & Fantasy,1449514294.jpg,The Red Cross of Gold IV:. The Hesperian Dragon: Assassin Chronicles (The Red Cross of Gold: the Assassin Chronicles),1449514294_1,The Red Cross of Gold
+Is this a sci-fi book?,Science Fiction & Fantasy,1932564454.jpg,Yes,1932564454_3,Yes
+Who wrote this book?,Science Fiction & Fantasy,786964448.jpg,Wizards RPG Team,786964448_0,gary gygax
+What type of book is this?,Science Fiction & Fantasy,1601253605.jpg,Science Fiction & Fantasy,1601253605_2,Science Fiction & Fantasy
+Is this a historical book?,Science Fiction & Fantasy,1906508356.jpg,No,1906508356_4,No
+Who wrote this book?,Science Fiction & Fantasy,1932241094.jpg,Upper Deck,1932241094_0,nickelodeon
+Is this a sci-fi book?,Science Fiction & Fantasy,1939979021.jpg,Yes,1939979021_2,Yes
+Is this book related to Science Fiction & Fantasy?,Science Fiction & Fantasy,425276910.jpg,Yes,425276910_3,Yes
+What is the title of this book?,Science Fiction & Fantasy,1939130689.jpg,"Mobile Suit Gundam: THE ORIGIN, Volume 8: Operation Odessa",1939130689_0,"Mobile Suit Gundam: The Origin, Vol. 8: Operation Odessa"
+What is the title of this book?,Science Fiction & Fantasy,996045155.jpg,Akaela (Mayake Chronicles) (Volume 1),996045155_1,akaela mayake chronicles book one
+Who is the author of this book?,Science Fiction & Fantasy,1477828397.jpg,Richard Phillips,1477828397_0,Richard Phillips
+Who is the author of this book?,Science Fiction & Fantasy,B00W8EBE8I.jpg,Joshua Dalzelle,B00W8EBE8I_0,Joshua Dalzelle
+What is the genre of this book?,Science Fiction & Fantasy,446675601.jpg,Science Fiction & Fantasy,446675601_2,Children's Books
+Is this a sci-fi book?,Science Fiction & Fantasy,1882897447.jpg,Yes,1882897447_3,No
+Who wrote this book?,Romance,006223112X.jpg,Beverly Jenkins,006223112X_0,Beverly Jenkins
+Who is the author of this book?,Romance,042527831X.jpg,Nora Roberts,042527831X_0,Nora Roberts
+What is the title of this book?,Romance,1632597640.jpg,Kristen Blooming [Cattleman's Club 8] (Siren Publishing Menage Everlasting),1632597640_1,Cattleman's Club: Kristen Blooming
+Is this a romantic book?,Romance,1887368620.jpg,Yes,1887368620_3,No
+What is the genre of this book?,Romance,61283940.jpg,Romance,61283940_2,Romance
+Is this a pedagogy book?,Romance,993287832.jpg,No,993287832_4,No
+Is this book related to Education & Teaching?,Romance,1494286998.jpg,No,1494286998_4,No
+Is this a romantic book?,Romance,B00FFXIZUY.jpg,Yes,B00FFXIZUY_3,Yes
+What is the genre of this book?,Romance,1250058368.jpg,Romance,1250058368_2,Romance
+Who wrote this book?,Romance,1622429567.jpg,Natalie Acres,1622429567_0,Natalie Acres
+What type of book is this?,Romance,B012TRGLCW.jpg,Romance,B012TRGLCW_2,Romance
+Is this book related to Romance?,Romance,143124617.jpg,Yes,143124617_3,no
+Is this book related to Politics & Social Sciences?,Romance,1514198304.jpg,No,1514198304_4,No
+Is this a romantic book?,Romance,451468295.jpg,Yes,451468295_3,Yes
+Is this christianity book?,Romance,1451628323.jpg,No,1451628323_4,Yes
+Is this book related to Romance?,Romance,764201069.jpg,Yes,764201069_3,Yes
+Is this book related to Romance?,Romance,1518602193.jpg,Yes,1518602193_3,Yes
+What type of book is this?,Romance,1492608904.jpg,Romance,1492608904_2,Romance
+What type of book is this?,Romance,1476740321.jpg,Romance,1476740321_2,Romance
+What is the title of this book?,Romance,399165150.jpg,Garden of Lies,399165150_1,Garden of Lies
+What is the title of this book?,Romance,1416558527.jpg,Game for Seduction,1416558527_1,Game for Seduction
+What is the title of this book?,Romance,B00O5CQX2I.jpg,"Mountain Angel: Northstar Angels, Book 1",B00O5CQX2I_1,Mountain Angel
+What is the title of this book?,Humor & Entertainment,B014OUNSQ4.jpg,"Complete Adult Coloring Kit.Portable Case,Coloring Book""Mindfulness"",pencil bag,sharpener&colored pencils.Universal sized for all books,pens&pencils!Join Millions in the Secret of Coloring.Great Gift.",B014OUNSQ4_0,mindfulness
+Is this an art related book?,Humor & Entertainment,615953891.jpg,No,615953891_4,no
+What type of book is this?,Humor & Entertainment,62293036.jpg,Humor & Entertainment,62293036_2,humor  entertainment
+What type of book is this?,Humor & Entertainment,159448306X.jpg,Humor & Entertainment,159448306X_2,Humor & Entertainment
+What type of book is this?,Humor & Entertainment,385334141.jpg,Humor & Entertainment,385334141_2,science fiction  fantasy
+What type of book is this?,Humor & Entertainment,393338096.jpg,Humor & Entertainment,393338096_2,Humor & Entertainment
+What is the genre of this book?,Humor & Entertainment,930643259.jpg,Humor & Entertainment,930643259_2,Reference
+Is this a comedy book?,Humor & Entertainment,894805959.jpg,Yes,894805959_3,Yes
+What is the genre of this book?,Humor & Entertainment,B00917SMNU.jpg,Humor & Entertainment,B00917SMNU_2,Biographies & Memoirs
+What type of book is this?,Humor & Entertainment,764335871.jpg,Humor & Entertainment,764335871_2,Children's Books
+Is this a child-care book?,Humor & Entertainment,080184455X.jpg,No,080184455X_4,No
+What type of book is this?,Humor & Entertainment,140127224.jpg,Humor & Entertainment,140127224_2,Humor & Entertainment
+What type of book is this?,Humor & Entertainment,816044570.jpg,Humor & Entertainment,816044570_2,Reference
+Is this book related to Humor & Entertainment?,Humor & Entertainment,199731667.jpg,Yes,199731667_2,Yes
+Is this book related to Literature & Fiction?,Humor & Entertainment,146831002X.jpg,No,146831002X_4,no
+Is this book related to Humor & Entertainment?,Humor & Entertainment,819574058.jpg,Yes,819574058_3,Yes
+Who wrote this book?,Humor & Entertainment,1494955539.jpg,Christopher Harris,1494955539_0,Christopher Harris
+What is the genre of this book?,Humor & Entertainment,970312598.jpg,Humor & Entertainment,970312598_2,history
+Is this a comedy book?,Humor & Entertainment,966264959.jpg,Yes,966264959_3,yes
+Is this book related to Humor & Entertainment?,Humor & Entertainment,472065211.jpg,Yes,472065211_3,No
+Is this a comics book?,Humor & Entertainment,098211916X.jpg,No,098211916X_4,No
+Is this book related to Law?,Humor & Entertainment,880796863.jpg,No,880796863_4,No
+What is the title of this book?,Humor & Entertainment,787994499.jpg,Fantasy Basketball and Mathematics: Student Workbook,787994499_1,Fantasy Basketball and Mathematics
+Is this book related to Humor & Entertainment?,Humor & Entertainment,1592857329.jpg,Yes,1592857329_3,No
+Is this book related to Humor & Entertainment?,Humor & Entertainment,162937184X.jpg,Yes,162937184X_3,Yes
+What is the genre of this book?,Humor & Entertainment,880380187.jpg,Humor & Entertainment,880380187_2,Science Fiction & Fantasy
+What is the title of this book?,Humor & Entertainment,312590601.jpg,Will Shortz Presents Trickiest Sudoku: 200 Very Hard Puzzles,312590601_0,Will Shortz Presents Trickiest Sudoku
+Is this book related to Humor & Entertainment?,Humor & Entertainment,1502737612.jpg,Yes,1502737612_3,Yes
+What is the genre of this book?,Humor & Entertainment,1598878964.jpg,Humor & Entertainment,1598878964_2,childrens books
+Is this book related to Humor & Entertainment?,Humor & Entertainment,738561940.jpg,Yes,738561940_3,Yes
+Who is the author of this book?,Humor & Entertainment,877180059.jpg,John Thompson,877180059_0,John Thompson
+What is the title of this book?,Humor & Entertainment,793528275.jpg,Tim Burton's The Nightmare Before Christmas: P/V/G (Piano Vocal Series),793528275_0,The Nightmare Before Christmas
+Who is the author of this book?,Humor & Entertainment,146540337X.jpg,DK Publishing,146540337X_0,john de lancie
+What type of book is this?,Literature & Fiction,1609451341.jpg,Literature & Fiction,1609451341_2,Romance
+Is this book related to Literature & Fiction?,Literature & Fiction,399173943.jpg,Yes,399173943_3,Yes
+What is the title of this book?,Literature & Fiction,1942146221.jpg,Devil Knows: A Tale of Murder and Madness in America's First Century,1942146221_1,Devil Knows
+What is the title of this book?,Literature & Fiction,1457532506.jpg,The Black Wall of Silence: A Novel,1457532506_1,The Black Wall of Silence
+What type of book is this?,Literature & Fiction,62318659.jpg,Literature & Fiction,62318659_2,Romance
+Who is the author of this book?,Literature & Fiction,1601626266.jpg,JaQuavis Coleman,1601626266_0,JaQuavis Coleman
+Is this a fitness book?,Literature & Fiction,871407361.jpg,No,871407361_2,No
+Who is the author of this book?,Literature & Fiction,307275981.jpg,Alexander McCall Smith,307275981_0,Alexander McCall Smith
+Is this book related to Literature & Fiction?,Literature & Fiction,60653191.jpg,Yes,60653191_3,Yes
+Who wrote this book?,Literature & Fiction,374518688.jpg,Roald Dahl,374518688_0,Roald Dahl
+Is this book related to Literature & Fiction?,Literature & Fiction,B00475KSHE.jpg,Yes,B00475KSHE_3,Yes
+Is this book related to Literature & Fiction?,Literature & Fiction,573704015.jpg,Yes,573704015_3,Yes
+What is the title of this book?,Literature & Fiction,764420704.jpg,Instant Christmas Pageant: The Not So Silent Night,764420704_1,the not so silent night
+What is the title of this book?,Literature & Fiction,812980034.jpg,Letter to My Daughter,812980034_1,Letter to My Daughter
+Is this a journey related book?,Literature & Fiction,8401015561.jpg,No,8401015561_3,yes
+Who is the author of this book?,Literature & Fiction,62020579.jpg,emily m. danforth,62020579_0,Emily M. Danforth
+Is this a life story book?,Literature & Fiction,679735771.jpg,No,679735771_3,Yes
+Who wrote this book?,Literature & Fiction,1503331865.jpg,Upton Sinclair,1503331865_0,Upton Sinclair
+What is the title of this book?,Literature & Fiction,B014FYA3DK.jpg,Where the Memories Lie,B014FYA3DK_1,Where the Memories Lie
+Is this book related to Teen & Young Adult?,Literature & Fiction,1400043182.jpg,No,1400043182_4,No
+What is the title of this book?,Literature & Fiction,385537565.jpg,Empire of Self: A Life of Gore Vidal,385537565_1,Empire of Self: A Life of Gore Vidal
+Who wrote this book?,Literature & Fiction,032504435X.jpg,"Harvey ""Smokey"" Daniels",032504435X_0,"Harvey ""Smokey"" Daniels"
+Is this book related to Literature & Fiction?,Literature & Fiction,671748416.jpg,Yes,671748416_3,Yes
+Is this book related to Medical Books?,Literature & Fiction,849872077X.jpg,No,849872077X_4,No
+What type of book is this?,Literature & Fiction,253200016.jpg,Literature & Fiction,253200016_2,Romance
+What is the title of this book?,Literature & Fiction,1499553781.jpg,Whispering Bones,1499553781_1,Whispering Bones
+Is this book related to Literature & Fiction?,Literature & Fiction,1101965487.jpg,Yes,1101965487_3,Yes
+What is the genre of this book?,Literature & Fiction,965881156.jpg,Literature & Fiction,965881156_2,history
+What is the title of this book?,Literature & Fiction,385343280.jpg,Golden State: A Novel,385343280_1,Golden State
+Is this book related to Literature & Fiction?,Literature & Fiction,1481125273.jpg,Yes,1481125273_3,Yes
+What is the genre of this book?,Literature & Fiction,086171072X.jpg,Literature & Fiction,086171072X_1,Religion & Spirituality
+Who wrote this book?,Literature & Fiction,61578959.jpg,Paulo Coelho,61578959_0,Paulo Coelho
+What type of book is this?,Literature & Fiction,374531056.jpg,Literature & Fiction,374531056_2,teen  young adult
+What is the genre of this book?,Gay & Lesbian,1510702385.jpg,Gay & Lesbian,1510702385_2,Biographies & Memoirs
+What is the genre of this book?,Gay & Lesbian,807000922.jpg,Gay & Lesbian,807000922_2,Gay & Lesbian
+Is this book related to Education & Teaching?,Gay & Lesbian,615301053.jpg,No,615301053_4,No
+Is this book related to Comics & Graphic Novels?,Gay & Lesbian,1433123665.jpg,No,1433123665_3,No
+What is the title of this book?,Gay & Lesbian,914386484.jpg,The Adventurous Heart: Figures and Capriccios,914386484_1,The Adventurous Heart
+Is this a homosexuality book?,Gay & Lesbian,415170842.jpg,Yes,415170842_3,No
+Who is the author of this book?,Engineering & Transportation,964920549.jpg,Dave Grossman,964920549_0,yes
+What type of book is this?,Engineering & Transportation,873419332.jpg,Engineering & Transportation,873419332_1,Engineering & Transportation
+What is the title of this book?,Engineering & Transportation,078533498X.jpg,Porsche the Essence of Performance,078533498X_1,The Essence of Performance
+Is this a recipe book?,Engineering & Transportation,1899870571.jpg,No,1899870571_4,No
+What type of book is this?,Engineering & Transportation,1563928116.jpg,Engineering & Transportation,1563928116_2,Engineering & Transportation
+Who is the author of this book?,Engineering & Transportation,691155372.jpg,Paul G. Falkowski,691155372_0,Paul G. Falkowski
+What type of book is this?,Engineering & Transportation,71798803.jpg,Engineering & Transportation,71798803_2,Engineering & Transportation
+Is this a youngster related book?,Engineering & Transportation,1118113497.jpg,No,1118113497_4,No
+Is this book related to Reference?,Engineering & Transportation,865477485.jpg,No,865477485_4,No
+Who is the author of this book?,Engineering & Transportation,395715563.jpg,Lincoln P. Paine,395715563_0,Lincoln P. Paine
+Is this a digital technology book?,Engineering & Transportation,470903570.jpg,No,470903570_4,No
+What is the title of this book?,Engineering & Transportation,1610915836.jpg,Urban Acupuncture,1610915836_1,Urban Acupuncture
+Is this book related to Engineering & Transportation?,Engineering & Transportation,879389435.jpg,Yes,879389435_3,Yes
+Who is the author of this book?,"Cookbooks, Food & Wine",1934193798.jpg,Bob Warden,1934193798_0,Bob Warden
+What is the genre of this book?,"Cookbooks, Food & Wine",1740454723.jpg,"Cookbooks, Food & Wine",1740454723_2,travel
+What is the genre of this book?,"Cookbooks, Food & Wine",1401341284.jpg,"Cookbooks, Food & Wine",1401341284_2,"Cookbooks, Food & Wine"
+Is this book related to Romance?,"Cookbooks, Food & Wine",681375841.jpg,No,681375841_4,No
+"Is this book related to Health, Fitness & Dieting?","Cookbooks, Food & Wine",1118132718.jpg,No,1118132718_4,No
+Who wrote this book?,"Cookbooks, Food & Wine",1561588806.jpg,Alan Rosen,1561588806_0,Alan Rosen
+Is this book related to Medical Books?,"Cookbooks, Food & Wine",1495920275.jpg,No,1495920275_4,No
+Who wrote this book?,"Cookbooks, Food & Wine",593068092.jpg,Tristan Hogg,593068092_0,Tristan Hogg
+What is the title of this book?,"Cookbooks, Food & Wine",046501836X.jpg,Uncommon Grounds: The History of Coffee and How It Transformed Our World,046501836X_1,Uncommon Grounds: The History of Coffee and How It Transformed Our World
+What is the title of this book?,"Cookbooks, Food & Wine",1581572271.jpg,"Best Green Drinks Ever: Boost Your Juice with Protein, Antioxidants and More (Best Ever)",1581572271_1,"Best Green Drinks Ever: Boost Your Juice with Antioxidants, Protein and More"
+What is the genre of this book?,"Cookbooks, Food & Wine",1942556012.jpg,"Cookbooks, Food & Wine",1942556012_2,"Cookbooks, Food & Wine"
+What type of book is this?,"Cookbooks, Food & Wine",111828738X.jpg,"Cookbooks, Food & Wine",111828738X_2,"Cookbooks, Food & Wine"
+Who wrote this book?,"Cookbooks, Food & Wine",689843933.jpg,James Solheim,689843933_0,James Solheim
+What is the title of this book?,"Cookbooks, Food & Wine",031609868X.jpg,James Beard's American Cookery,031609868X_1,James Beard's American Cookery
+What is the title of this book?,"Cookbooks, Food & Wine",1557883521.jpg,Secrets from a Caterer's Kitchen: The Indispensable Guide for Planning a Party,1557883521_1,secrets from a caterers kitchen the indispensable guide for planning a party
+What is the title of this book?,"Cookbooks, Food & Wine",1612121233.jpg,Sustainable Homebrewing: An All-Organic Approach to Crafting Great Beer,1612121233_1,Sustainable Homebrewing: An All-Organic Approach to Crafting Great Beer
+Is this book related to Computers & Technology?,"Cookbooks, Food & Wine",811866572.jpg,No,811866572_4,No
+"Is this book related to Cookbooks, Food & Wine?","Cookbooks, Food & Wine",1455617008.jpg,Yes,1455617008_3,Yes
+Is this a recipe book?,"Cookbooks, Food & Wine",91883989.jpg,Yes,91883989_3,Yes
+"Is this book related to Cookbooks, Food & Wine?","Cookbooks, Food & Wine",618576819.jpg,Yes,618576819_3,Yes
+Is this a journey related book?,"Cookbooks, Food & Wine",B0048EL7TC.jpg,No,B0048EL7TC_3,No
+What is the title of this book?,"Cookbooks, Food & Wine",762453966.jpg,Sea Salt Sweet: The Art of Using Salts for the Ultimate Dessert Experience,762453966_1,sea salt sweet
+What is the genre of this book?,"Cookbooks, Food & Wine",1422614220.jpg,"Cookbooks, Food & Wine",1422614220_2,"Cookbooks, Food & Wine"
+What is the genre of this book?,"Cookbooks, Food & Wine",B00R59L8E6.jpg,"Cookbooks, Food & Wine",B00R59L8E6_2,"Cookbooks, Food & Wine"
+What is the title of this book?,"Cookbooks, Food & Wine",1931890072.jpg,"Thanksgiving (Gooseberry Patch Classic Cookbooklets, No. 6)",1931890072_1,Thanksgiving
+What is the title of this book?,"Cookbooks, Food & Wine",1482081210.jpg,"Food Storage: Preserving Meat, Dairy, and Eggs",1482081210_1,"Food Storage: Preserving Meat, Dairy, and Eggs"
+What is the title of this book?,"Cookbooks, Food & Wine",1515248372.jpg,"Cast Iron Cookbook: 33 Delicious Cast Iron Recipes For Breakfast, Lunch And Dinner (Cast Iron Cooking, Cast Iron Recipes, Cast Iron Cookbook)",1515248372_1,cast iron cookbook
+"Is this book related to Cookbooks, Food & Wine?","Cookbooks, Food & Wine",1589793528.jpg,Yes,1589793528_3,Yes
+What type of book is this?,"Cookbooks, Food & Wine",1332109225.jpg,"Cookbooks, Food & Wine",1332109225_2,"Cookbooks, Food & Wine"
+What is the title of this book?,"Cookbooks, Food & Wine",688100511.jpg,Recipes from an Ecological Kitchen: Healthy Meals for You and the Planet,688100511_1,Recipes from an Ecological Kitchen: Healthy Meals for You and the Planet
+What is the title of this book?,"Cookbooks, Food & Wine",1419710656.jpg,Lunch at the Shop: The Art and Practice of the Midday Meal,1419710656_1,Lunch at the Shop: The Art and Practice of the Midday Meal
+What is the title of this book?,"Cookbooks, Food & Wine",376022248.jpg,Crockery Cookbook,376022248_1,crockery
+What is the title of this book?,"Cookbooks, Food & Wine",754826279.jpg,"500 Sensational Salads: Recipes for every kind of salad from delicious appetizers and side dishes to impressive main courses, with meat, fish and vegetarian options, and 500 fabulous photographs",754826279_1,500 Sensational Salads
+What is the genre of this book?,"Cookbooks, Food & Wine",1476734917.jpg,"Cookbooks, Food & Wine",1476734917_2,"Cookbooks, Food & Wine"
+Who is the author of this book?,"Cookbooks, Food & Wine",470932147.jpg,Wayne Gisslen,470932147_0,Wayne Gisslen
+"Is this book related to Crafts, Hobbies & Home?","Cookbooks, Food & Wine",1988002095.jpg,No,1988002095_4,Yes
+Is this a pedagogy book?,"Cookbooks, Food & Wine",1607746417.jpg,No,1607746417_4,No
+Who is the author of this book?,"Cookbooks, Food & Wine",194013000X.jpg,Lucy M. Garza,194013000X_0,Lucy Garza
+Is this a recipe book?,"Cookbooks, Food & Wine",1408807564.jpg,Yes,1408807564_3,Yes
+Who is the author of this book?,"Cookbooks, Food & Wine",1118006895.jpg,Better Homes and Gardens,1118006895_0,Better Homes and Gardens
+"Is this book related to Cookbooks, Food & Wine?","Cookbooks, Food & Wine",1511964936.jpg,Yes,1511964936_3,Yes
+What is the genre of this book?,"Cookbooks, Food & Wine",1939529425.jpg,"Cookbooks, Food & Wine",1939529425_2,"Cookbooks, Food & Wine"
+What is the title of this book?,"Cookbooks, Food & Wine",145555653X.jpg,The Plan Cookbook: More Than 150 Recipes for Vibrant Health and Weight Loss,145555653X_1,The Plan Cookbook
+What is the genre of this book?,"Cookbooks, Food & Wine",089281635X.jpg,"Cookbooks, Food & Wine",089281635X_2,health fitness  dieting
+Is this book related to Religion & Spirituality?,"Cookbooks, Food & Wine",160774547X.jpg,No,160774547X_4,No
+Is this book related to Christian Books & Bibles?,"Cookbooks, Food & Wine",873518195.jpg,No,873518195_4,No
+"Is this book related to Cookbooks, Food & Wine?","Cookbooks, Food & Wine",935503110.jpg,Yes,935503110_3,Yes
+Is this a recipe book?,"Cookbooks, Food & Wine",1580080049.jpg,Yes,1580080049_3,Yes
+What type of book is this?,"Crafts, Hobbies & Home",383653570X.jpg,"Crafts, Hobbies & Home",383653570X_1,Arts & Photography
+What type of book is this?,"Crafts, Hobbies & Home",929975340.jpg,"Crafts, Hobbies & Home",929975340_2,"Crafts, Hobbies & Home"
+What is the genre of this book?,"Crafts, Hobbies & Home",1466436034.jpg,"Crafts, Hobbies & Home",1466436034_2,Reference
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",861591690.jpg,Yes,861591690_3,no
+What type of book is this?,"Crafts, Hobbies & Home",088740488X.jpg,"Crafts, Hobbies & Home",088740488X_2,collectors guide
+What type of book is this?,"Crafts, Hobbies & Home",1440236062.jpg,"Crafts, Hobbies & Home",1440236062_2,Reference
+What is the genre of this book?,"Crafts, Hobbies & Home",185149667X.jpg,"Crafts, Hobbies & Home",185149667X_2,arts  photography
+What type of book is this?,"Crafts, Hobbies & Home",762430621.jpg,"Crafts, Hobbies & Home",762430621_2,childrens books
+What is the genre of this book?,"Crafts, Hobbies & Home",1886606226.jpg,"Crafts, Hobbies & Home",1886606226_2,"Crafts, Hobbies & Home"
+Is this a crafts or hobbies related book?,"Crafts, Hobbies & Home",1614277990.jpg,Yes,1614277990_3,Yes
+Is this a crafts or hobbies related book?,"Crafts, Hobbies & Home",917046900.jpg,Yes,917046900_3,Yes
+What is the title of this book?,"Crafts, Hobbies & Home",873418115.jpg,Goldmine Heavy Metal Record Price Guide,873418115_1,heavy metal record price guide
+What is the title of this book?,"Crafts, Hobbies & Home",852598998.jpg,Great Britain Concise 2013 2013: GB Concise: Stanley Gibbons Stamp Catalogue: 2013,852598998_1,Great Britain Concise Stamp Catalogue
+Is this a crafts or hobbies related book?,"Crafts, Hobbies & Home",1600597807.jpg,Yes,1600597807_3,Yes
+Is this book related to Romance?,"Crafts, Hobbies & Home",1584798238.jpg,No,1584798238_4,No
+Is this a sociopolitical book?,"Crafts, Hobbies & Home",041583614X.jpg,No,041583614X_4,Yes
+Is this book related to Test Preparation?,"Crafts, Hobbies & Home",1574322338.jpg,No,1574322338_4,No
+What is the title of this book?,"Crafts, Hobbies & Home",1570763534.jpg,Mosaic Patterns: Step-by-Step Techniques and Stunning Projects,1570763534_1,Mosaic Patterns: Step-by-Step Techniques and Stunning Projects
+Who wrote this book?,"Crafts, Hobbies & Home",789322021.jpg,Paula Pryke,789322021_0,Paula Pryke
+What is the title of this book?,"Crafts, Hobbies & Home",163159043X.jpg,"Charm Love Friendship Bracelets: 35 Unique Designs with Polymer Clay, Macrame, Knotting, and Braiding * Make your own charms with polymer clay!",163159043X_1,"Charm Love Friendship Bracelets: 35 Unique Designs with Polymer Clay, Macrame, Knotting, and Braiding"
+What is the genre of this book?,"Crafts, Hobbies & Home",822316978.jpg,"Crafts, Hobbies & Home",822316978_2,History
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",1933516798.jpg,Yes,1933516798_3,Yes
+What type of book is this?,"Crafts, Hobbies & Home",1936120399.jpg,"Crafts, Hobbies & Home",1936120399_2,"Crafts, Hobbies & Home"
+What type of book is this?,"Crafts, Hobbies & Home",1462110940.jpg,"Crafts, Hobbies & Home",1462110940_2,"Crafts, Hobbies & Home"
+Is this book related to Medical Books?,"Crafts, Hobbies & Home",967007690.jpg,No,967007690_4,No
+What type of book is this?,"Crafts, Hobbies & Home",147222437X.jpg,"Crafts, Hobbies & Home",147222437X_2,Cookbook
+Is this a life story book?,"Crafts, Hobbies & Home",097003122X.jpg,No,097003122X_4,No
+Is this a crafts or hobbies related book?,"Crafts, Hobbies & Home",1580175708.jpg,Yes,1580175708_3,Yes
+What is the title of this book?,"Crafts, Hobbies & Home",812216059.jpg,Shade and Ornamental Trees: Their Origins and History,812216059_1,Shade and Ornamental Trees: Their Origins and History
+What is the title of this book?,"Crafts, Hobbies & Home",157504112X.jpg,The Potential of U.S. Cropland to Sequester Carbon and Mitigate the Greenhouse Effect,157504112X_1,The Potential of U.S. Cropland to Sequester Carbon and Mitigate the Greenhouse Effect
+Is this book related to History?,"Crafts, Hobbies & Home",1479168599.jpg,No,1479168599_4,No
+What type of book is this?,"Crafts, Hobbies & Home",1440333165.jpg,"Crafts, Hobbies & Home",1440333165_2,"Crafts, Hobbies & Home"
+Is this book related to Travel?,"Crafts, Hobbies & Home",1423620100.jpg,No,1423620100_4,No
+Who is the author of this book?,"Crafts, Hobbies & Home",B00528BRDE.jpg,Christian Art Gfits,B00528BRDE_0,no
+Who is the author of this book?,"Crafts, Hobbies & Home",1931499810.jpg,Kathleen Taylor,1931499810_0,Kathleen Taylor
+What type of book is this?,"Crafts, Hobbies & Home",1451568177.jpg,"Crafts, Hobbies & Home",1451568177_2,"Crafts, Hobbies & Home"
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",1574219030.jpg,Yes,1574219030_3,Yes
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",806140917.jpg,Yes,806140917_3,Yes
+"Is this book related to Mystery, Thriller & Suspense?","Crafts, Hobbies & Home",517574713.jpg,No,517574713_4,No
+Is this a pharmaceutical book?,"Crafts, Hobbies & Home",806997060.jpg,No,806997060_4,No
+Who is the author of this book?,"Crafts, Hobbies & Home",B00CCRVYKY.jpg,Frederick M. Hess,B00CCRVYKY_0,Frederick M. Hess
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",62351745.jpg,Yes,62351745_3,Yes
+Who wrote this book?,"Crafts, Hobbies & Home",1570764557.jpg,Wendy Murdoch,1570764557_0,Wendy Murdoch
+Is this a crafts or hobbies related book?,"Crafts, Hobbies & Home",415955769.jpg,No,415955769_4,No
+Is this book related to Biographies & Memoirs?,"Crafts, Hobbies & Home",615579655.jpg,No,615579655_4,No
+"Is this book related to Crafts, Hobbies & Home?","Crafts, Hobbies & Home",1564147983.jpg,Yes,1564147983_3,Yes
+Is this book related to Medical Books?,"Crafts, Hobbies & Home",825307961.jpg,No,825307961_4,No
+What type of book is this?,"Crafts, Hobbies & Home",825307473.jpg,"Crafts, Hobbies & Home",825307473_2,"Crafts, Hobbies & Home"
+What is the title of this book?,Arts & Photography,870702823.jpg,Complexity and Contradiction in Architecture,870702823_1,complexity and contradiction in architecture
+What is the genre of this book?,Arts & Photography,814341195.jpg,Arts & Photography,814341195_2,Arts & Photography
+Who wrote this book?,Arts & Photography,1118090713.jpg,Francis D. K. Ching,1118090713_0,Francis D. K. Ching
+Is this an art related book?,Arts & Photography,9081513214.jpg,Yes,9081513214_3,No
+Is this an art related book?,Arts & Photography,1599951509.jpg,Yes,1599951509_3,Yes
+What is the title of this book?,Arts & Photography,486779963.jpg,Creative Haven Peacock Designs Coloring Book (Creative Haven Coloring Books),486779963_1,Peacock Designs Coloring Book
+Is this an art related book?,Arts & Photography,1617690163.jpg,Yes,1617690163_3,Yes
+Is this book related to Arts & Photography?,Arts & Photography,1581801319.jpg,Yes,1581801319_3,Yes
+What is the genre of this book?,Arts & Photography,847836525.jpg,Arts & Photography,847836525_2,Arts & Photography
+Is this a homosexuality book?,Arts & Photography,1844485242.jpg,No,1844485242_4,No
+Is this an art related book?,Arts & Photography,810904969.jpg,Yes,810904969_3,Yes
+What is the title of this book?,Arts & Photography,3721200438.jpg,Typographie: A Manual of Design,3721200438_1,yes
+What type of book is this?,Arts & Photography,1449432603.jpg,Arts & Photography,1449432603_2,Children's Books
+Who wrote this book?,Arts & Photography,671258362.jpg,Norman Lloyd,671258362_0,harriet b pfeiffer
+Is this an art related book?,Arts & Photography,72977590.jpg,Yes,72977590_3,yes
+Is this book related to Arts & Photography?,Arts & Photography,486477495.jpg,Yes,486477495_3,Yes
+What is the title of this book?,Arts & Photography,300119488.jpg,Beyond Golden Clouds: Japanese Screens from the Art Institute of Chicago and the Saint Louis Art Museum,300119488_0,beyond golden clouds
+Is this an art related book?,Arts & Photography,500239215.jpg,Yes,500239215_3,Yes
+Who wrote this book?,Arts & Photography,1402721439.jpg,Gail Dziuba,1402721439_0,Gail Dziuba
+What is the title of this book?,Arts & Photography,1581809247.jpg,Mastering Composition: Techniques and Principles to Dramatically Improve Your Painting (Mastering (North Light Books)),1581809247_1,mastering composition
+Is this book related to Arts & Photography?,Arts & Photography,300163320.jpg,Yes,300163320_3,Yes
+Is this book related to Parenting & Relationships?,Arts & Photography,1440337179.jpg,No,1440337179_4,No
+What is the genre of this book?,Arts & Photography,1908211261.jpg,Arts & Photography,1908211261_2,arts  photography
+Is this book related to Arts & Photography?,Arts & Photography,321863852.jpg,Yes,321863852_3,Yes
+Is this book related to Politics & Social Sciences?,Arts & Photography,811874087.jpg,No,811874087_4,Yes
+Is this a pharmaceutical book?,Arts & Photography,1597111996.jpg,No,1597111996_3,No
+Is this an art related book?,Arts & Photography,1305271998.jpg,Yes,1305271998_3,Yes
+Is this a pedagogy book?,Arts & Photography,1477303723.jpg,No,1477303723_4,No
+Is this book related to Arts & Photography?,Arts & Photography,1576875938.jpg,No,1576875938_4,Yes
+Is this an art related book?,Arts & Photography,981093369X.jpg,Yes,981093369X_3,Yes
+"Is this book related to Crafts, Hobbies & Home?",Arts & Photography,615228771.jpg,No,615228771_4,Yes
+What type of book is this?,Arts & Photography,752498703.jpg,Arts & Photography,752498703_2,Travel
+Who is the author of this book?,Education & Teaching,1421414376.jpg,Charity Johansson,1421414376_0,Charity Johansson
+Is this a pedagogy book?,Education & Teaching,495804703.jpg,Yes,495804703_3,no
+Is this a religious book?,Education & Teaching,738818615.jpg,No,738818615_4,No
+What is the genre of this book?,Education & Teaching,199241112.jpg,Education & Teaching,199241112_2,Business & Money
+What type of book is this?,Education & Teaching,1624427928.jpg,Education & Teaching,1624427928_1,reference
+Is this book related to Education & Teaching?,Education & Teaching,133998649.jpg,Yes,133998649_3,No
+Is this book related to Education & Teaching?,Education & Teaching,787988049.jpg,Yes,787988049_3,Yes
+Is this a digital technology book?,Education & Teaching,596514921.jpg,No,596514921_4,No
+Is this a pedagogy book?,Education & Teaching,71760725.jpg,Yes,71760725_3,No
+Is this a sci-fi book?,Parenting & Relationships,61243035.jpg,No,61243035_4,No
+Is this a child-care book?,Parenting & Relationships,1440561192.jpg,Yes,1440561192_3,yes
+Who is the author of this book?,Parenting & Relationships,452281903.jpg,Dave Pelzer,452281903_0,Dave Pelzer
+What is the title of this book?,Parenting & Relationships,692509984.jpg,"Strange Women and Other Strangleholds: An African, Christian Memoir of Marriage, Divorce, and Survival",692509984_1,Strange Women and Other Strangleholds
+What is the title of this book?,Parenting & Relationships,61357901.jpg,The Measure of a Man: A Spiritual Autobiography (Oprah's Book Club),61357901_1,The Measure of a Man
+What is the title of this book?,Parenting & Relationships,1623363012.jpg,The Mindful Mom-To-Be: A Modern Doula's Guide to Building a Healthy Foundation from Pregnancy Through Birth,1623363012_1,the mindful momtobe a modern doulas guide to building a healthy foundation from pregnancy through birth
+Who wrote this book?,Parenting & Relationships,B000GSPX9O.jpg,Kevin Leman,B000GSPX9O_0,Kevin Leman
+Who wrote this book?,Parenting & Relationships,1411673360.jpg,Corey Wayne,1411673360_0,Corey Wayne
+Is this a games related book?,Parenting & Relationships,61797413.jpg,No,61797413_4,No
+What is the genre of this book?,Parenting & Relationships,770436552.jpg,Parenting & Relationships,770436552_2,Parenting & Relationships
+What type of book is this?,Parenting & Relationships,992360943.jpg,Parenting & Relationships,992360943_2,Self-Help
+What is the title of this book?,Self-Help,762447699.jpg,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,762447699_1,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+Who wrote this book?,Self-Help,1572249544.jpg,Alexander L. Chapman PhD  RPsych,1572249544_0,alexander l chapman
+Is this a child-care book?,Self-Help,1499750277.jpg,No,1499750277_4,No
+Is this a life story book?,Self-Help,1943526028.jpg,No,1943526028_4,Yes
+What is the genre of this book?,Self-Help,967979013.jpg,Self-Help,967979013_2,Self-Help
+Who is the author of this book?,Self-Help,1604078510.jpg,Brené Brown,1604078510_0,Brené Brown
+Who is the author of this book?,Self-Help,470101474.jpg,Joe Vitale,470101474_0,Joe Vitale
+Who is the author of this book?,Self-Help,62515195.jpg,Louise DeSalvo,62515195_0,Louise DeSalvo
+What is the title of this book?,Self-Help,743243153.jpg,"The Road Less Traveled, Timeless Edition: A New Psychology of Love, Traditional Values and Spiritual Growth",743243153_1,The Road Less Traveled
+What is the genre of this book?,Self-Help,1567182828.jpg,Self-Help,1567182828_2,Self-Help
+What is the genre of this book?,Self-Help,740771116.jpg,Self-Help,740771116_2,Children's Books
+What type of book is this?,Self-Help,076243774X.jpg,Self-Help,076243774X_2,Self-Help
+Is this a romantic book?,Self-Help,1618370855.jpg,No,1618370855_3,yes
+"Is this book related to Health, Fitness & Dieting?",Self-Help,399168125.jpg,No,399168125_4,Yes
+Who is the author of this book?,Computers & Technology,150232816X.jpg,Jim Lupkin,150232816X_0,Jim Lupkin
+Who is the author of this book?,Computers & Technology,1784395382.jpg,Deepak Agarwal,1784395382_0,Deepak Agarwal
+Who is the author of this book?,Computers & Technology,1608324338.jpg,Wayne Breitbarth,1608324338_0,Wayne Breitbarth
+What is the title of this book?,Computers & Technology,735684790.jpg,Exam Ref 70-411 Administering Windows Server 2012 R2 (MCSA),735684790_1,Exam Ref 70-411 Administering Windows Server 2012 R2
+Is this book related to Computers & Technology?,Computers & Technology,078972717X.jpg,Yes,078972717X_3,Yes
+What is the title of this book?,Computers & Technology,321246772.jpg,The Tao of Network Security Monitoring: Beyond Intrusion Detection,321246772_1,the tao of network security monitoring beyond intrusion detection
+What is the title of this book?,Computers & Technology,1492323896.jpg,Study Guide for 1Z0-061: Oracle Database 12c: SQL Fundamentals: Oracle Certification Prep,1492323896_1,Oracle Certification Prep
+What is the genre of this book?,Computers & Technology,1597499579.jpg,Computers & Technology,1597499579_2,Computers & Technology
+What is the title of this book?,Computers & Technology,B000BHN4K0.jpg,Psycho-Cybernetics: A New Technique for Using Your Subconscious Power,B000BHN4K0_1,Psycho-Cybernetics
+Is this book related to Computers & Technology?,Computers & Technology,136079474.jpg,Yes,136079474_3,Yes
+Is this an exam preparation book?,Computers & Technology,1285168968.jpg,No,1285168968_4,Yes
+What type of book is this?,Computers & Technology,1782173293.jpg,Computers & Technology,1782173293_2,Computers & Technology
+Who wrote this book?,Computers & Technology,71770445.jpg,Peter Fugere,71770445_0,Peter John Fugere Jr.
+What is the title of this book?,Computers & Technology,130351229.jpg,Database Design and Development: A Visual Approach,130351229_1,Database Design and Development: A Visual Approach
+What type of book is this?,Computers & Technology,415712386.jpg,Computers & Technology,415712386_2,Computers & Technology
+What type of book is this?,Computers & Technology,321902920.jpg,Computers & Technology,321902920_2,Computers & Technology
+What is the title of this book?,Computers & Technology,756671213.jpg,Pokemon ReaderActive: Nacrene City Adventures! (DK Reader: Active!),756671213_1,pokemon
+Is this book related to Computers & Technology?,Computers & Technology,8441536538.jpg,Yes,8441536538_3,Yes
+Is this a digital technology book?,Computers & Technology,470117249.jpg,Yes,470117249_3,Yes
+Who wrote this book?,Computers & Technology,1592538037.jpg,Rajesh Lal,1592538037_0,Raj Lal
+Who wrote this book?,Computers & Technology,201746123.jpg,Brian M. Edwards,201746123_0,Brian M. Edwards
+"Is this book related to Health, Fitness & Dieting?",Computers & Technology,72263555.jpg,No,72263555_4,No
+What is the title of this book?,Computers & Technology,789753464.jpg,"My iPad (Covers iOS 8 on all models of  iPad Air, iPad mini, iPad 3rd/4th generation, and iPad 2) (7th Edition)",789753464_1,My iPad
+Is this a digital technology book?,Computers & Technology,816691835.jpg,Yes,816691835_3,Yes
+Who wrote this book?,Computers & Technology,1621532674.jpg,Kimberly A. Houser,1621532674_0,Kimberly A. Houser
+Is this book related to Humor & Entertainment?,Computers & Technology,1118157699.jpg,No,1118157699_4,No
+Is this book related to Education & Teaching?,Computers & Technology,1451668392.jpg,No,1451668392_4,No
+Is this a digital technology book?,Computers & Technology,979510228.jpg,No,979510228_4,Yes
+Is this book related to Computers & Technology?,Computers & Technology,1118646614.jpg,Yes,1118646614_3,Yes
+Is this book related to Computers & Technology?,Computers & Technology,470844469.jpg,Yes,470844469_3,Yes
+Who is the author of this book?,Computers & Technology,1782174540.jpg,Jeffrey Taylor,1782174540_0,Jeffrey Taylor
+Who wrote this book?,Computers & Technology,1470069717.jpg,Michael W Lucas,1470069717_0,Michael W. Lucas
+What is the genre of this book?,Computers & Technology,595132219.jpg,Computers & Technology,595132219_2,Computers & Technology
+Is this book related to Computers & Technology?,Computers & Technology,596002610.jpg,Yes,596002610_3,Yes
+What is the title of this book?,Computers & Technology,1930110545.jpg,.NET Multithreading,1930110545_1,.Net Multithreading
+What is the genre of this book?,Computers & Technology,1118903331.jpg,Computers & Technology,1118903331_2,Computers & Technology
+Who wrote this book?,Computers & Technology,1783985984.jpg,Cameron Buchanan,1783985984_0,Cameron Buchanan
+Who wrote this book?,Computers & Technology,71809341.jpg,Leslie Capachietti,71809341_0,leslie capachietti
+Who wrote this book?,Computers & Technology,1423202821.jpg,John Hales,1423202821_0,Inc. BarCharts
+Who is the author of this book?,Computers & Technology,013509139X.jpg,Robert T. Grauer,013509139X_0,gary b grauer
+What is the genre of this book?,Computers & Technology,133412121.jpg,Computers & Technology,133412121_2,Computers & Technology
+What is the title of this book?,Computers & Technology,130463450.jpg,Definitive VoiceXML,130463450_1,definitive voicexml
+Who is the author of this book?,Computers & Technology,1783983507.jpg,Unmesh Gundecha,1783983507_0,Unmesh Gundecha
+"Is this book related to Cookbooks, Food & Wine?",Medical Books,323086780.jpg,No,323086780_4,No
+What is the title of this book?,Medical Books,807021997.jpg,Overdiagnosed: Making People Sick in the Pursuit of Health,807021997_1,Overdiagnosed: Making People Sick in the Pursuit of Health
+Is this book related to Medical Books?,Medical Books,470300175.jpg,Yes,470300175_3,Yes
+Is this a pharmaceutical book?,Medical Books,982705514.jpg,Yes,982705514_3,Yes
+Is this a pharmaceutical book?,Medical Books,553375393.jpg,Yes,553375393_3,No
+What is the genre of this book?,Medical Books,133943305.jpg,Medical Books,133943305_2,Medical Books
+Who wrote this book?,Medical Books,1609133382.jpg,Christopher J Rapuano MD,1609133382_0,Christopher J. Rapuano MD
+Who is the author of this book?,Medical Books,1455725315.jpg,Sara D Rynders MPAS  PA-C,1455725315_0,Sara D. Rynders MS  PT
+What is the title of this book?,Medical Books,2287252517.jpg,Forefoot Reconstruction,2287252517_1,Forefoot Reconstruction
+Is this book related to Medical Books?,Medical Books,080537373X.jpg,No,080537373X_3,Yes
+What is the title of this book?,Medical Books,1464175365.jpg,The Practice of Statistics in the Life Sciences: w/CrunchIt/EESEE Access Card,1464175365_1,The Practice of Statistics in the Life Sciences
+What type of book is this?,Medical Books,1466551402.jpg,Medical Books,1466551402_1,Medical Books
+Is this book related to Law?,Medical Books,1449653286.jpg,No,1449653286_4,No
+What is the title of this book?,Medical Books,815344309.jpg,"Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience, 2nd Edition",815344309_1,molecular driving forces statistical thermodynamics in biology chemistry physics and nanotechnology
+What is the genre of this book?,Medical Books,73378305.jpg,Medical Books,73378305_2,Medical Books
+Is this book related to Business & Money?,Medical Books,323069169.jpg,No,323069169_4,No
+Who is the author of this book?,Medical Books,5519057788.jpg,L.S. Parmly,5519057788_0,L.S. Parmly
+What is the title of this book?,Medical Books,1451193114.jpg,Clinical Practice of the Dental Hygienist,1451193114_1,Clinical Practice of the Dental Hygienist
+Is this book related to Medical Books?,Medical Books,B00HUGJNU0.jpg,Yes,B00HUGJNU0_3,Yes
+Who wrote this book?,Medical Books,1899066918.jpg,John C. Bennett,1899066918_0,John C. Bennett
+Is this book related to Medical Books?,Medical Books,1591950619.jpg,Yes,1591950619_3,Yes
+Is this a pharmaceutical book?,Medical Books,081519899X.jpg,Yes,081519899X_3,Yes
+What type of book is this?,Medical Books,1583335765.jpg,Medical Books,1583335765_2,Medical Books
+What is the title of this book?,Medical Books,1846192889.jpg,The Fifteen Minute Hour: Therapeutic Talk in Primary Care,1846192889_1,The Fifteen Minute Hour: Therapeutic Talk in Primary Care
+What is the genre of this book?,Medical Books,1578065879.jpg,Medical Books,1578065879_2,Medical Books
+What is the title of this book?,Medical Books,801663547.jpg,Thoracic Radiology: the Requisites,801663547_1,Thoracic Radiology
+Is this book related to Medical Books?,Medical Books,781728541.jpg,Yes,781728541_3,Yes
+Is this book related to Medical Books?,Medical Books,132706687.jpg,Yes,132706687_3,Yes
+Who wrote this book?,Medical Books,815107269.jpg,Joan M. Birchenall RN  MEd,815107269_0,sue mckeown
+What is the title of this book?,Medical Books,826123686.jpg,Fast Facts for the Operating Room Nurse: An Orientation and Care Guide in a Nutshell,826123686_1,Fast Facts for the Operating Room Nurse: An Orientation and Care Guide in a Nutshell
+What is the title of this book?,Medical Books,1932529276.jpg,The Handbook of Structured Life Review,1932529276_1,The Handbook of Structured Life Review
+Is this a religious book?,Medical Books,398073503.jpg,No,398073503_4,No
+What type of book is this?,Medical Books,083082765X.jpg,Medical Books,083082765X_2,Medical Books
+"Is this book related to Cookbooks, Food & Wine?",Medical Books,1451192541.jpg,No,1451192541_4,No
+Is this a kids book?,Medical Books,1469894904.jpg,No,1469894904_4,No
+Is this book related to Medical Books?,Medical Books,323077501.jpg,Yes,323077501_3,Yes
+Is this book related to Medical Books?,Medical Books,781789370.jpg,Yes,781789370_3,Yes
+Is this book related to Medical Books?,Medical Books,935078738.jpg,Yes,935078738_3,Yes
+What is the title of this book?,Medical Books,801681014.jpg,"Handbook of Drug Therapy In Psychiatry, 3e",801681014_1,Handbook of Drug Therapy in Psychiatry
+What is the genre of this book?,Medical Books,1849739617.jpg,Medical Books,1849739617_1,Medical Books
+Is this a pharmaceutical book?,Medical Books,71847081.jpg,Yes,71847081_3,Yes
+Is this a pharmaceutical book?,Medical Books,1933779829.jpg,Yes,1933779829_3,Yes
+Is this an art related book?,Medical Books,316246093.jpg,No,316246093_4,No
+What is the title of this book?,Medical Books,275946126.jpg,Black and White Racial Identity,275946126_1,black and white racial identity
+What type of book is this?,Medical Books,1462506933.jpg,Medical Books,1462506933_2,Medical Books
+Is this a pharmaceutical book?,Medical Books,1416587098.jpg,Yes,1416587098_3,No
+Who wrote this book?,Medical Books,132429047.jpg,Sharon Lund O'Neil,132429047_0,Sharon Lund O'Neil
+What is the genre of this book?,Medical Books,1451107145.jpg,Medical Books,1451107145_2,Medical Books
+What is the genre of this book?,Medical Books,1137391847.jpg,Medical Books,1137391847_1,politics  social sciences
+Is this book related to Medical Books?,Medical Books,124159362.jpg,Yes,124159362_3,Yes
+What is the title of this book?,Medical Books,632064528.jpg,Skin Diseases of the Dog and Cat,632064528_1,Skin Diseases of the Dog and Cat: Clinical and Histopathologic Diagnosis
+Is this a pharmaceutical book?,Medical Books,1628080485.jpg,Yes,1628080485_2,Yes
+What is the title of this book?,Medical Books,702053678.jpg,"The Complete Textbook of Veterinary Nursing, 2e",702053678_1,The Complete Textbook of Veterinary Nursing
+What is the title of this book?,Medical Books,721605613.jpg,"Slatter's Fundamentals of Veterinary Ophthalmology, 4e",721605613_1,slatters fundamentals of veterinary ophthalmology 4e
+Is this book related to Medical Books?,Medical Books,813819172.jpg,No,813819172_4,Yes
+"Is this book related to Crafts, Hobbies & Home?",Medical Books,721659403.jpg,No,721659403_4,No
+What is the title of this book?,Science & Math,806111690.jpg,Plowman's Folly,806111690_1,Plowman's Folly
+What type of book is this?,Science & Math,547085974.jpg,Science & Math,547085974_2,cookbooks food  wine
+What is the genre of this book?,Science & Math,847675920.jpg,Science & Math,847675920_2,Travel
+What is the genre of this book?,Science & Math,3836549220.jpg,Science & Math,3836549220_1,Science & Math
+What is the title of this book?,Science & Math,520056515.jpg,Cosmic Debris: Meteorites in History,520056515_1,cosmic debris
+What is the genre of this book?,Science & Math,739322869.jpg,Science & Math,739322869_2,Science & Math
+Is this book related to Self-Help?,Science & Math,3981744101.jpg,No,3981744101_4,Yes
+Is this a judicial book?,Science & Math,1250033373.jpg,No,1250033373_3,No
+Is this book related to Science & Math?,Science & Math,1577319729.jpg,Yes,1577319729_3,No
+Who is the author of this book?,Science & Math,1550175424.jpg,Daniel Winkler,1550175424_0,Daniel Winkler
+Is this an art related book?,Science & Math,012391826X.jpg,No,012391826X_2,No
+What is the genre of this book?,Science & Math,824771117.jpg,Science & Math,824771117_2,Science & Math
+Is this book related to Gay & Lesbian?,Science & Math,73402753.jpg,No,73402753_4,No
+What is the genre of this book?,Science & Math,470257628.jpg,Science & Math,470257628_2,Science & Math
+Who is the author of this book?,Science & Math,444407634.jpg,C.A. Parker,444407634_0,protokoljek
+Who is the author of this book?,Science & Math,521421950.jpg,D. I. Bower,521421950_0,d j bower
+Who wrote this book?,Science & Math,471194107.jpg,William C. Hinds,471194107_0,William C. Hinds
+Is this book related to Science & Math?,Science & Math,764552430.jpg,Yes,764552430_3,Yes
+Is this a pharmaceutical book?,Science & Math,471485365.jpg,No,471485365_3,No
+Is this christianity book?,Science & Math,1420081829.jpg,No,1420081829_2,No
+Who is the author of this book?,Science & Math,130973254.jpg,Mark J. Hammer,130973254_0,Mark J. Hammer
+Is this book related to Science & Math?,Science & Math,310492173.jpg,Yes,310492173_3,Yes
+What is the genre of this book?,Science & Math,140264450.jpg,Science & Math,140264450_2,Medical Books
+Is this a journey related book?,Science & Math,1859961479.jpg,No,1859961479_3,No
+Who is the author of this book?,Science & Math,879698934.jpg,Robert D. Goldman,879698934_0,Robert D. Goldman
+Who wrote this book?,Science & Math,144628204X.jpg,Susanne Friese,144628204X_0,Susanne Friese
+Is this book related to Science & Math?,Science & Math,321878051.jpg,Yes,321878051_3,Yes
+Is this book related to Arts & Photography?,Science & Math,898716136.jpg,No,898716136_4,No
+Is this book related to Science & Math?,Science & Math,71778497.jpg,Yes,71778497_3,Yes
+Who is the author of this book?,Science & Math,3642048994.jpg,Radu Ioan-Bot,3642048994_0,Radu Ioan Bot
+What is the title of this book?,Science & Math,131362186.jpg,BLITZER ALGEBRA and TRIGONOMETRY,131362186_1,Blitzer
+What is the genre of this book?,Science & Math,691161372.jpg,Science & Math,691161372_2,Science & Math
+What is the genre of this book?,Science & Math,813523990.jpg,Science & Math,813523990_2,Sports & Outdoors
+Is this book related to Education & Teaching?,Science & Math,62251422.jpg,No,62251422_4,No
+What is the title of this book?,Science & Math,1588167941.jpg,Why a Curveball Curves: The Incredible Science of Sports (Popular Mechanics),1588167941_0,Why a Curveball Curves: The Incredible Science of Sports
+Is this book related to Science & Math?,Science & Math,9810200897.jpg,Yes,9810200897_2,Yes
+What is the title of this book?,Science & Math,3540231218.jpg,"Computational Ergodic Theory (Algorithms and Computation in Mathematics, Vol. 13)",3540231218_1,computational ergodic theory algorithms and computation in mathematics vol 13
+Is this book related to Science & Math?,Science & Math,1107034736.jpg,Yes,1107034736_3,Yes
+Is this a judicial book?,Science & Math,471603856.jpg,No,471603856_3,No
+What type of book is this?,Science & Math,047074586X.jpg,Science & Math,047074586X_2,Computers & Technology
+Is this book related to Science & Math?,"Health, Fitness & Dieting",1401948294.jpg,No,1401948294_4,No
+"Is this book related to Health, Fitness & Dieting?","Health, Fitness & Dieting",006224180X.jpg,Yes,006224180X_3,Yes
+Is this a fitness book?,"Health, Fitness & Dieting",195140923.jpg,Yes,195140923_3,Yes
+"Is this book related to Health, Fitness & Dieting?","Health, Fitness & Dieting",1903734983.jpg,Yes,1903734983_3,Yes
+What is the genre of this book?,"Health, Fitness & Dieting",1606521055.jpg,"Health, Fitness & Dieting",1606521055_2,"Health, Fitness & Dieting"
+What is the genre of this book?,"Health, Fitness & Dieting",805059202.jpg,"Health, Fitness & Dieting",805059202_2,Sports & Outdoors
+What is the genre of this book?,"Health, Fitness & Dieting",089281490X.jpg,"Health, Fitness & Dieting",089281490X_2,"Health, Fitness & Dieting"
+Is this a reference book?,"Health, Fitness & Dieting",B00IEWX2ZG.jpg,No,B00IEWX2ZG_3,No
+What is the genre of this book?,"Health, Fitness & Dieting",1556434995.jpg,"Health, Fitness & Dieting",1556434995_2,Self-Help
+Is this a fitness book?,"Health, Fitness & Dieting",1592335756.jpg,Yes,1592335756_3,Yes
+Who wrote this book?,"Health, Fitness & Dieting",157062903X.jpg,Sharon Salzberg,157062903X_0,Sharon Salzberg
+Is this a fitness book?,"Health, Fitness & Dieting",1627871292.jpg,Yes,1627871292_3,No
+Is this a fitness book?,"Health, Fitness & Dieting",1742577717.jpg,Yes,1742577717_3,No
+Is this a recipe book?,"Health, Fitness & Dieting",671632655.jpg,No,671632655_4,No
+What is the title of this book?,"Health, Fitness & Dieting",B00E4YIUQY.jpg,The 2013-2018 Outlook for Cystic Fibrosis Drugs in The Middle East,B00E4YIUQY_1,The 2013-2018 Outlook for Cystic Fibrosis Drugs in The Middle East
+Who wrote this book?,"Health, Fitness & Dieting",195340809.jpg,Alexander R Lucas,195340809_0,Alexander R. Lucas
+Is this a sociopolitical book?,"Health, Fitness & Dieting",805061282.jpg,No,805061282_4,No
+Who is the author of this book?,"Health, Fitness & Dieting",9198152246.jpg,Jessica Jensen,9198152246_0,Jessica Jensen
+What is the title of this book?,"Health, Fitness & Dieting",812928555.jpg,American Heart Association Low-Calorie Cookbook: More than 200 Delicious Recipes for Healthy Eating,812928555_1,Low-Calorie Cookbook
+What is the title of this book?,"Health, Fitness & Dieting",B00HTK96JU.jpg,By Dr. Peter J. D'Adamo - Eat Right 4 Your Type Personalized Cookbook Type B: 150+ Healthy Recipes For Your Blood Type Diet (1st Edition) (9.1.2013),B00HTK96JU_1,eat right 4 your type
+What is the genre of this book?,"Health, Fitness & Dieting",996143408.jpg,"Health, Fitness & Dieting",996143408_2,Self-Help
+Who wrote this book?,"Health, Fitness & Dieting",B009DPB3KE.jpg,Arthur Agatston,B009DPB3KE_0,Arthur agaston
+What is the genre of this book?,"Health, Fitness & Dieting",471998028.jpg,"Health, Fitness & Dieting",471998028_2,health fitness  dieting
+Is this book related to Education & Teaching?,"Health, Fitness & Dieting",984383220.jpg,No,984383220_4,No
+Is this a fitness book?,"Health, Fitness & Dieting",1591848032.jpg,Yes,1591848032_3,No
+What type of book is this?,"Health, Fitness & Dieting",1569245215.jpg,"Health, Fitness & Dieting",1569245215_2,"Health, Fitness & Dieting"
+What is the title of this book?,"Health, Fitness & Dieting",1577315693.jpg,The Endometriosis Natural Treatment Program: A Complete Self-Help Plan for Improving Health and Well-Being,1577315693_1,The Endometriosis Natural Treatment Program
+What is the title of this book?,"Health, Fitness & Dieting",1569242860.jpg,The First Year: Age-Related Macular Degeneration: An Essential Guide for the Newly Diagnosed,1569242860_1,The First Year: Age-Related Macular Degeneration: An Essential Guide for the Newly Diagnosed
+Who is the author of this book?,"Health, Fitness & Dieting",440508207.jpg,Alexander Mauskop,440508207_0,Alexander Mauskop
+"Is this book related to Health, Fitness & Dieting?","Health, Fitness & Dieting",1507685432.jpg,Yes,1507685432_3,Yes
+What is the title of this book?,"Health, Fitness & Dieting",71448012.jpg,Harvard Medical School Guide to Lowering Your Blood Pressure (Harvard Medical School Guides),71448012_1,the harvard medical school guide to lowering your blood pressure
+What type of book is this?,"Health, Fitness & Dieting",722524013.jpg,"Health, Fitness & Dieting",722524013_2,"Health, Fitness & Dieting"
+What type of book is this?,"Health, Fitness & Dieting",982321902.jpg,"Health, Fitness & Dieting",982321902_2,"Health, Fitness & Dieting"
+What is the genre of this book?,"Health, Fitness & Dieting",609602217.jpg,"Health, Fitness & Dieting",609602217_2,"Health, Fitness & Dieting"
+Is this book related to Gay & Lesbian?,"Health, Fitness & Dieting",1501000020.jpg,No,1501000020_4,No
+Is this a fitness book?,"Health, Fitness & Dieting",1416560521.jpg,Yes,1416560521_3,Yes
+What is the genre of this book?,"Health, Fitness & Dieting",805089586.jpg,"Health, Fitness & Dieting",805089586_2,selfhelp
+"Is this book related to Health, Fitness & Dieting?","Health, Fitness & Dieting",199945713.jpg,Yes,199945713_3,Yes
+What is the title of this book?,"Health, Fitness & Dieting",B005Z3AL9M.jpg,Franklin Watts Medical Library 5 Book Set: Parkinson's Disease / STDs / Depression / Tourette Syndrome / Multiple Sclerosis [5 Hardcovers] Grades 5-12,B005Z3AL9M_1,Parkinson's disease
+Who wrote this book?,"Health, Fitness & Dieting",375751432.jpg,Kurt Brungardt,375751432_0,Kurt Brungardt
+Is this book related to Children's Books?,"Health, Fitness & Dieting",446679984.jpg,No,446679984_4,No
+Who wrote this book?,"Health, Fitness & Dieting",142005045.jpg,Philip Friedman,142005045_0,Philip Friedman
+Who is the author of this book?,"Health, Fitness & Dieting",470067411.jpg,LaReine Chabut,470067411_0,LaReine Chabut
+Who wrote this book?,"Health, Fitness & Dieting",1841261041.jpg,Barbara Warren,1841261041_0,Henry Ash
+Is this a crafts or hobbies related book?,"Health, Fitness & Dieting",899976255.jpg,No,899976255_4,no
+What is the title of this book?,"Health, Fitness & Dieting",1492755796.jpg,Jailhouse Strong,1492755796_1,Jailhouse Strong
+What type of book is this?,"Health, Fitness & Dieting",1936303663.jpg,"Health, Fitness & Dieting",1936303663_2,"Health, Fitness & Dieting"
+What type of book is this?,"Health, Fitness & Dieting",807061158.jpg,"Health, Fitness & Dieting",807061158_2,Parenting & Relationships
+"Is this book related to Health, Fitness & Dieting?","Health, Fitness & Dieting",990344517.jpg,Yes,990344517_3,Yes
+Is this book related to Children's Books?,"Health, Fitness & Dieting",192629352.jpg,No,192629352_4,No
+Is this a digital technology book?,"Health, Fitness & Dieting",743228979.jpg,No,743228979_4,No
+Who is the author of this book?,"Health, Fitness & Dieting",030908525X.jpg,"Standing Committee on the Scientific Evaluation of Dietary
+Reference Intakes",030908525X_0,Institute of Medicine
+What is the genre of this book?,"Health, Fitness & Dieting",B00HG3COP8.jpg,"Health, Fitness & Dieting",B00HG3COP8_2,health fitness  dieting
+What is the title of this book?,"Health, Fitness & Dieting",688166350.jpg,The Artist's Way at Work: Riding the Dragon,688166350_1,The Artist's Way at Work: Riding the Dragon: Twelve Weeks to Creative Freedom
+Is this a fitness book?,"Health, Fitness & Dieting",B000LF4NB6.jpg,Yes,B000LF4NB6_3,no
+What is the title of this book?,"Health, Fitness & Dieting",688172253.jpg,I'm Not in the Mood: What Every Woman Should Know About Improving Her Libido,688172253_1,I'm Not in the Mood
+What is the genre of this book?,"Health, Fitness & Dieting",684842270.jpg,"Health, Fitness & Dieting",684842270_2,Self-Help
+Who wrote this book?,Business & Money,1118101332.jpg,Luke Sullivan,1118101332_0,Luke Sullivan
+What is the title of this book?,Business & Money,941361446.jpg,"Annual Tax Mess Organizer for Massage Therapists, Estheticians & Spa Owners: Help for self-employed individuals who did not keep itemized income & expense records during the business year.",941361446_1,Annual Tax Mess Organizer
+Is this a fitness book?,Business & Money,1137353198.jpg,No,1137353198_4,No
+Who wrote this book?,Business & Money,977326411.jpg,Jim Collins,977326411_0,Jim Collins
+What is the title of this book?,Business & Money,553371312.jpg,Getting Past No: Negotiating in Difficult Situations,553371312_1,Getting Past No: Negotiating in Difficult Situations
+What is the title of this book?,Business & Money,1500712485.jpg,How to Be a Model: The Ultimate Guide to Becoming a Model,1500712485_1,How to Be a Model
+Who wrote this book?,Business & Money,1626342148.jpg,Ron Carson,1626342148_0,Ron Carson
+What is the title of this book?,Business & Money,1605098566.jpg,"Helping: How to Offer, Give, and Receive Help",1605098566_1,"Helping: How to Offer, Give, and Receive Help"
+What is the genre of this book?,Business & Money,1619424185.jpg,Business & Money,1619424185_1,Law
+What is the title of this book?,Business & Money,131367730.jpg,Using Econometrics: A Practical Guide (6th Edition) (Addison-Wesley Series in Economics),131367730_1,using econometrics a practical guide
+Is this a financial book?,Business & Money,374235546.jpg,Yes,374235546_3,Yes
+What is the title of this book?,Business & Money,1882864204.jpg,"Stocks, Bonds, Bills, And Inflation Yearbook, 2005: CLASSIC EDITION (Stocks, Bonds, Bills and Inflation (Sbbi) Yearbook (Classic Edition))",1882864204_0,2005 yearbook
+Is this book related to Business & Money?,Business & Money,231170548.jpg,Yes,231170548_3,Yes
+Who wrote this book?,Business & Money,716766310.jpg,Jonathan Gruber,716766310_0,Jonathan Gruber
+What is the title of this book?,Business & Money,472030221.jpg,Slaves to Fashion: Poverty and Abuse in the New Sweatshops,472030221_1,Slaves to Fashion: Poverty and Abuse in the New Sweatshops
+Who is the author of this book?,Business & Money,321836510.jpg,Robert Stine,321836510_0,Robert Stine
+What type of book is this?,Business & Money,1118939735.jpg,Business & Money,1118939735_2,Business & Money
+What type of book is this?,Business & Money,1511697423.jpg,Business & Money,1511697423_2,Business & Money
+What is the title of this book?,Business & Money,9089791280.jpg,Turning Points in Environmental Negotiation: Exploring Conflict Resolution Dynamics in Domestic and International Cases,9089791280_1,Turning Points in Environmental Negotiations: Exploring Conflict Resolution Dynamics in Domestic and International Cases
+What is the title of this book?,Business & Money,262518473.jpg,Crowdsourcing (The MIT Press Essential Knowledge series),262518473_1,Crowdsourcing
+What is the genre of this book?,Business & Money,870493418.jpg,Business & Money,870493418_2,History
+Who is the author of this book?,Business & Money,470583770.jpg,Yoram Koren,470583770_0,Yoram Koren
+Is this book related to Business & Money?,Business & Money,1409440370.jpg,Yes,1409440370_3,yes
+What type of book is this?,Business & Money,387759581.jpg,Business & Money,387759581_2,Medical Books
+What type of book is this?,Business & Money,894632493.jpg,Business & Money,894632493_2,Law
+Who wrote this book?,Business & Money,1597499951.jpg,James Broad,1597499951_0,James Broad
+What is the title of this book?,Business & Money,415257603.jpg,Consuming the Caribbean: From Arawaks to Zombies (International Library of Sociology),415257603_1,Consuming the Caribbean: From Arawaks to Zombies
+Is this a financial book?,Business & Money,8495787806.jpg,Yes,8495787806_3,Yes
+Is this book related to Business & Money?,Business & Money,B007OZTM26.jpg,Yes,B007OZTM26_3,Yes
+What type of book is this?,Business & Money,470592206.jpg,Business & Money,470592206_2,Business & Money
+What is the title of this book?,Business & Money,71476369.jpg,Understanding Options,71476369_1,Understanding Options
+Who wrote this book?,Business & Money,1593155328.jpg,Robert T. Kiyosaki,1593155328_0,Robert Kiyosaki
+Who wrote this book?,Business & Money,940675684.jpg,Richard L. Hermann,940675684_0,Richard L. Hermann
+"Is this book related to Crafts, Hobbies & Home?",Business & Money,1557668639.jpg,No,1557668639_4,yes
+Is this a financial book?,Business & Money,123749484.jpg,Yes,123749484_3,Yes
+What is the title of this book?,Business & Money,749472707.jpg,Aviation Logistics: The Dynamic Partnership of Air Freight and Supply Chain,749472707_1,aviation logistics the dynamic partnership of air freight and supply chain
+Is this book related to Christian Books & Bibles?,Business & Money,60799129.jpg,No,60799129_4,No
+Is this book related to Business & Money?,Business & Money,787951935.jpg,No,787951935_4,Yes
+Who is the author of this book?,Business & Money,136036376.jpg,Ravi Anupindi,136036376_0,Ravi Anupindi
+Is this a fitness book?,Business & Money,273757091.jpg,No,273757091_4,No
+Who wrote this book?,Business & Money,71418539.jpg,Richard Bayan,71418539_0,Richard Bayan
+Is this book related to Education & Teaching?,Business & Money,1937077209.jpg,No,1937077209_4,No
+"Is this book related to Cookbooks, Food & Wine?",Business & Money,1941627498.jpg,No,1941627498_4,No
+What is the title of this book?,Business & Money,030795949X.jpg,A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service,030795949X_1,a passion for leadership
+What is the genre of this book?,Business & Money,156327311X.jpg,Business & Money,156327311X_2,Business & Money
+What is the title of this book?,Business & Money,787987999.jpg,"Reframing Organizations: Artistry, Choice and Leadership",787987999_1,reframing organizations artistry choice and leadership
+Is this book related to Humor & Entertainment?,Business & Money,749468955.jpg,No,749468955_4,No
+Who is the author of this book?,Business & Money,691139296.jpg,Robert J. Shiller,691139296_0,Robert J. Shiller
+Who is the author of this book?,Business & Money,618448330.jpg,Sheryl Lindsell-Roberts,618448330_0,Sheryl Lindsell-Roberts
+Who wrote this book?,Business & Money,435453599.jpg,Mavis Smith,435453599_0,heinemann
+What is the title of this book?,Law,1449639402.jpg,"Legal Aspects of Corrections Management, 3rd Edition",1449639402_1,Legal Aspects of Corrections Management
+Is this a judicial book?,Law,199699437.jpg,Yes,199699437_3,Yes
+Who is the author of this book?,Law,1403939292.jpg,Ken S. Coates,1403939292_0,Ken Coates
+What type of book is this?,Law,1439803986.jpg,Law,1439803986_2,Law
+"Is this book related to Cookbooks, Food & Wine?",Law,615397522.jpg,No,615397522_4,No
+What is the title of this book?,Law,1611450241.jpg,Masquerade: The Incredible True Story of How George Soros' Father Outsmarted the Gestapo,1611450241_1,Masquerade
+Is this book related to Law?,Law,195166981.jpg,Yes,195166981_3,Yes
+Is this book related to Medical Books?,Law,111863117X.jpg,No,111863117X_4,No
+What type of book is this?,Law,991121139.jpg,Law,991121139_2,Law
+Is this book related to Religion & Spirituality?,Law,1285427041.jpg,No,1285427041_4,No
+What is the title of this book?,Law,1599415763.jpg,Property: Principles and Policies (University Casebook Series),1599415763_1,Property: Principles and Policies
+What is the title of this book?,Law,1609304195.jpg,"Securities Regulation, Cases and Analysis (University Casebook Series)",1609304195_1,Securities Regulation: Cases and Analysis
+What is the title of this book?,Law,1508481547.jpg,The Federalist Papers,1508481547_1,The Federalist Papers
+Is this book related to Law?,Law,700610464.jpg,Yes,700610464_3,Yes
+Is this a judicial book?,Law,314275401.jpg,Yes,314275401_3,Yes
+Who is the author of this book?,Law,1451682646.jpg,Jay Erskine Leutze,1451682646_0,Jay Erskine Leutze
+What type of book is this?,Law,140237755.jpg,Law,140237755_2,Medical Books
+What is the genre of this book?,Law,1843108933.jpg,Law,1843108933_2,Law
+What is the title of this book?,Law,1594604487.jpg,Mastering Elder Law,1594604487_1,mastering elder law
+Is this book related to Law?,Law,300203659.jpg,Yes,300203659_3,Yes
+Is this book related to Law?,Law,1439803587.jpg,Yes,1439803587_2,No
+What is the title of this book?,Law,314271902.jpg,Copyright Law in a Nutshell,314271902_1,Copyright Law in a Nutshell
+Who wrote this book?,Law,735598754.jpg,Katherine A. Currier,735598754_0,Katherine A. Currier
+Who wrote this book?,Law,157444123X.jpg,"i>American Association of Legal Nurse Consultants, Glenview, Illinois </i> Julie Bogart",157444123X_0,julie brewer bogart
+What is the genre of this book?,Law,1587783894.jpg,Law,1587783894_2,Law
+Is this a judicial book?,Law,1890495417.jpg,Yes,1890495417_3,No
+Who wrote this book?,Law,190217774.jpg,Curtis A. Bradley,190217774_0,Curtis A. Bradley
+Is this a youngster related book?,Law,674177592.jpg,No,674177592_4,No
+Is this book related to History?,Law,198743246.jpg,No,198743246_4,Yes
+What is the title of this book?,Law,314207155.jpg,Sum and Substance Audio on Civil Procedure,314207155_1,Civil Procedure
+What is the title of this book?,Law,1507885032.jpg,Indiana Evidence Rules Courtroom Quick Reference: 2015,1507885032_1,Indiana Evidence Rules: 2015 Courtroom Quick Reference
+What is the title of this book?,Law,1402420668.jpg,Kane on Trademark Law: A Practitioner's Guide (includes CD) (Intellectual Property Law Library),1402420668_1,Kane on Trademark Law: A Practitioner's Guide
+Who is the author of this book?,Law,314281819.jpg,Larry Teply,314281819_0,larry l teply
+Is this a judicial book?,Law,813562465.jpg,Yes,813562465_2,No
+Is this a judicial book?,Law,1107033535.jpg,Yes,1107033535_3,Yes
+Is this a comedy book?,Law,1454809965.jpg,No,1454809965_4,No
+What is the title of this book?,Biographies & Memoirs,142437905.jpg,Storm of Steel (Penguin Classics Deluxe Edition),142437905_1,Storm of Steel
+Who wrote this book?,Biographies & Memoirs,299303748.jpg,Brian Neve,299303748_0,Brian Neve
+What is the title of this book?,Biographies & Memoirs,1556431430.jpg,Da Bull: Life Over the Edge,1556431430_1,Da Bull: Life Over The Edge
+What is the genre of this book?,Biographies & Memoirs,1416540059.jpg,Biographies & Memoirs,1416540059_2,travel
+Is this a religious book?,Biographies & Memoirs,1298624525.jpg,No,1298624525_4,No
+Is this book related to Biographies & Memoirs?,Biographies & Memoirs,1410482596.jpg,Yes,1410482596_3,Yes
+Is this book related to Biographies & Memoirs?,Biographies & Memoirs,307381218.jpg,Yes,307381218_3,Yes
+Is this book related to History?,Biographies & Memoirs,312278691.jpg,No,312278691_4,Yes
+What is the title of this book?,Biographies & Memoirs,521598958.jpg,A History of Jordan,521598958_1,A History of Jordan
+What is the genre of this book?,Biographies & Memoirs,801017300.jpg,Biographies & Memoirs,801017300_2,Biographies & Memoirs
+What is the title of this book?,Biographies & Memoirs,1608465772.jpg,Uncivil Rites: Palestine and the Limits of Academic Freedom,1608465772_1,Uncivil Rites: Palestine and the Limits of Academic Freedom
+Who wrote this book?,Biographies & Memoirs,717133907.jpg,Olof Alexandersson,717133907_0,Olof Alexandersson
+What is the title of this book?,Biographies & Memoirs,307743748.jpg,Dying Every Day: Seneca at the Court of Nero,307743748_1,Dying Every Day: Seneca at the Court of Nero
+What is the genre of this book?,Biographies & Memoirs,1487000057.jpg,Biographies & Memoirs,1487000057_2,History
+Is this book related to Biographies & Memoirs?,Biographies & Memoirs,803220391.jpg,Yes,803220391_3,Yes
+Is this book related to Law?,Biographies & Memoirs,674484274.jpg,No,674484274_4,No
+Who wrote this book?,Biographies & Memoirs,1493008447.jpg,Alex Palmer,1493008447_0,Alex Palmer
+Who is the author of this book?,Biographies & Memoirs,1583225625.jpg,Charley Rosen,1583225625_0,Charley Rosen
+Who wrote this book?,Biographies & Memoirs,1584793309.jpg,Arnold Palmer,1584793309_0,Arnold Palmer
+What is the title of this book?,Biographies & Memoirs,1590516141.jpg,The Cost of Courage,1590516141_1,The Cost of Courage
+Who wrote this book?,Biographies & Memoirs,161435961X.jpg,Andrés López López,161435961X_0,Andres Lopez Lopez
+Who is the author of this book?,History,883780305.jpg,Chancellor Williams,883780305_0,chancellor williams
+Who wrote this book?,History,093471875X.jpg,Patrick E. McGovern,093471875X_0,michael c coe
+What is the genre of this book?,History,821415689.jpg,History,821415689_2,History
+Is this a historical book?,History,520249887.jpg,Yes,520249887_3,Yes
+Is this book related to Humor & Entertainment?,History,307361411.jpg,No,307361411_4,No
+What is the title of this book?,History,8854408174.jpg,"The Lost Cities of the Maya: The Life, Art, and Discoveries of Frederick Catherwood",8854408174_1,the lost cities of the maya the life art and discoveries of frederick catherwood
+Is this book related to Engineering & Transportation?,History,312415990.jpg,No,312415990_3,No
+Is this book related to History?,History,142004170.jpg,Yes,142004170_3,Yes
+Is this book related to History?,History,1568985401.jpg,Yes,1568985401_3,Yes
+Is this a comedy book?,History,1432961349.jpg,No,1432961349_4,No
+What is the genre of this book?,History,9980939796.jpg,History,9980939796_1,History
+Is this a historical book?,History,850528348.jpg,Yes,850528348_3,Yes
+Is this a historical book?,History,190240202.jpg,Yes,190240202_3,Yes
+Is this a historical book?,History,1854092677.jpg,Yes,1854092677_3,Yes
+Is this book related to Engineering & Transportation?,History,1426209878.jpg,No,1426209878_4,No
+Who is the author of this book?,History,767914252.jpg,Rodger Claire,767914252_0,Rodger W. Claire
+Is this a crafts or hobbies related book?,History,815670559.jpg,No,815670559_4,No
+What is the title of this book?,History,863721990.jpg,Oman and the South-Eastern Shore of Arabia (Archive documents on the history of the Arab world series),863721990_1,Oman and the South-Eastern Shore of Arabia
+What is the genre of this book?,History,60937084.jpg,History,60937084_2,History
+What is the genre of this book?,History,451482212.jpg,History,451482212_2,History
+Is this christianity book?,History,674951913.jpg,No,674951913_4,No
+Who is the author of this book?,History,1780282990.jpg,Sun Tzu,1780282990_0,Sun Tzu
+Who wrote this book?,History,3525534523.jpg,Klaas R Veenhof,3525534523_0,Klaas R. Veenhof
+What is the title of this book?,History,521604664.jpg,"The Rise of Bronze Age Society: Travels, Transmissions and Transformations",521604664_1,"The Rise of Bronze Age Society: Travels, Transmissions and Transformations"
+Who wrote this book?,History,3631654731.jpg,Daniel Croles Fitjar,3631654731_0,Daniel Croles Fitjar
+What type of book is this?,History,1846031842.jpg,History,1846031842_2,History
+What type of book is this?,History,806987324.jpg,History,806987324_2,History
+Who is the author of this book?,History,1452827605.jpg,Charles Hughes,1452827605_0,Charles Hughes
+What is the genre of this book?,History,1591148227.jpg,History,1591148227_2,Reference
+What is the title of this book?,History,425273008.jpg,Bloody Ridge and Beyond: A World War II Marine's Memoir of Edson's Raiders in the Pacific,425273008_1,bloody ridge and beyond a world war ii marines memoir of edsons raiders in the pacific
+What is the title of this book?,History,030681157X.jpg,Hell In A Very Small Place: The Siege Of Dien Bien Phu,030681157X_1,hell in a very small place the siege of dien bien phu
+What is the title of this book?,History,4805311010.jpg,Japanese Throwing Weapons: Mastering Shuriken Throwing Techniques [DVD Included],4805311010_1,Japanese Throwing Weapons
+Is this a historical book?,History,080614307X.jpg,Yes,080614307X_3,Yes
+Is this book related to History?,History,582894123.jpg,Yes,582894123_3,Yes
+Is this book related to Christian Books & Bibles?,Politics & Social Sciences,520226119.jpg,No,520226119_4,No
+Who wrote this book?,Politics & Social Sciences,415251214.jpg,Simon Critchley,415251214_0,Simon Critchley
+Is this a pharmaceutical book?,Politics & Social Sciences,907845584.jpg,No,907845584_4,No
+Is this book related to Politics & Social Sciences?,Politics & Social Sciences,199764867.jpg,Yes,199764867_3,Yes
+What is the title of this book?,Politics & Social Sciences,1583940839.jpg,The Reincarnation of Edgar Cayce?: Interdimensional Communication and Global Transformation,1583940839_1,The Reincarnation of Edgar Cayce?: Interdimensional Communication and Global Transformation
+What is the genre of this book?,Politics & Social Sciences,1578513308.jpg,Politics & Social Sciences,1578513308_2,Business & Money
+What is the genre of this book?,Politics & Social Sciences,199563276.jpg,Politics & Social Sciences,199563276_2,history
+Is this a transportation engineering book?,Politics & Social Sciences,1457601842.jpg,No,1457601842_4,No
+Is this a crafts or hobbies related book?,Politics & Social Sciences,030931707X.jpg,No,030931707X_4,No
+What is the title of this book?,Politics & Social Sciences,738733342.jpg,The Old Magic of Christmas: Yuletide Traditions for the Darkest Days of the Year,738733342_1,The Old Magic of Christmas
+What type of book is this?,Politics & Social Sciences,325028737.jpg,Politics & Social Sciences,325028737_2,Reference
+Who wrote this book?,Politics & Social Sciences,199357544.jpg,Lester M. Salamon,199357544_0,Lester M. Salamon
+What is the title of this book?,Politics & Social Sciences,161069001X.jpg,Encyclopedia of Domestic Violence and Abuse [2 volumes],161069001X_0,Encyclopedia of Domestic Violence and Abuse
+What type of book is this?,Politics & Social Sciences,813348714.jpg,Politics & Social Sciences,813348714_2,Law
+Is this book related to Politics & Social Sciences?,Politics & Social Sciences,615848699.jpg,Yes,615848699_3,no
+What type of book is this?,Politics & Social Sciences,B001SERNZW.jpg,Politics & Social Sciences,B001SERNZW_2,childrens books
+What is the genre of this book?,Reference,899333265.jpg,Reference,899333265_2,Travel
+Is this a reference book?,Reference,1597752134.jpg,Yes,1597752134_3,Yes
+What is the genre of this book?,Reference,9653070274.jpg,Reference,9653070274_1,Reference
+Is this book related to Reference?,Reference,525933948.jpg,Yes,525933948_3,Yes
+Is this book related to Arts & Photography?,Reference,756614155.jpg,No,756614155_4,No
+Who wrote this book?,Reference,899060250.jpg,Yisrael Yitshak Hasidah,899060250_0,yosef chasid
+What is the title of this book?,Reference,1617130133.jpg,Queen: The Complete Illustrated Lyrics,1617130133_1,yes
+Who wrote this book?,Reference,1600102956.jpg,James McDonough,1600102956_0,Michael DeForge
+Is this a reference book?,Reference,1416602844.jpg,Yes,1416602844_3,No
+Is this a homosexuality book?,Reference,1857336658.jpg,No,1857336658_4,No
+What is the title of this book?,Reference,152167110.jpg,A Guide for Grown-ups: Essential Wisdom from the Collected Works of Antoine de Saint-Exupry,152167110_1,A Guide for Grown-Ups
+What is the title of this book?,Reference,71789456.jpg,German Grammar Drills,71789456_1,German Grammar Drills
+Is this book related to Politics & Social Sciences?,Reference,130072532.jpg,No,130072532_4,yes
+Who wrote this book?,Reference,312450184.jpg,Virginia Clark,312450184_0,virginia p clark
+What is the genre of this book?,Reference,1416609199.jpg,Reference,1416609199_2,Education & Teaching
+Who wrote this book?,Reference,1480186775.jpg,Otto von Helsing,1480186775_0,Otto Von Helsing
+What is the title of this book?,Christian Books & Bibles,300140207.jpg,"The Old Testament Pseudepigrapha, Volume 2: Expansions of the ""Old Testament"" and Legends, Wisdom and Philosophical Literature, Prayers, Psalms and ... (The Anchor Yale Bible Reference Library)",300140207_1,the old testament pseudepigrapha vol 2
+What type of book is this?,Christian Books & Bibles,031022697X.jpg,Christian Books & Bibles,031022697X_2,Christian Books & Bibles
+What is the genre of this book?,Christian Books & Bibles,830814671.jpg,Christian Books & Bibles,830814671_2,Reference
+Who is the author of this book?,Christian Books & Bibles,804201242.jpg,Celia B. Sinclair,804201242_0,Celia Brewer Marshall
+Who is the author of this book?,Christian Books & Bibles,1400074630.jpg,Steven K. Scott,1400074630_0,steven k scott
+What is the title of this book?,Christian Books & Bibles,140032176X.jpg,God's Inspirational Promises,140032176X_1,God's Inspirational Promises
+Who wrote this book?,Christian Books & Bibles,006180035X.jpg,John Dominic Crossan,006180035X_0,John Dominic Crossan
+Is this christianity book?,Christian Books & Bibles,60732032.jpg,Yes,60732032_3,Yes
+Is this a kids book?,Christian Books & Bibles,1783792833.jpg,No,1783792833_4,No
+Who wrote this book?,Christian Books & Bibles,B00378L4FW.jpg,U.S. Catholic Church,B00378L4FW_0,Catholic Church
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,1400317207.jpg,Yes,1400317207_3,Yes
+Who is the author of this book?,Christian Books & Bibles,081541076X.jpg,Michel Reynaud,081541076X_0,Michel Reynaud
+What is the genre of this book?,Christian Books & Bibles,1468193856.jpg,Christian Books & Bibles,1468193856_2,Christian Books & Bibles
+Is this christianity book?,Christian Books & Bibles,1462113397.jpg,Yes,1462113397_3,Yes
+What is the genre of this book?,Christian Books & Bibles,310342465.jpg,Christian Books & Bibles,310342465_2,Self-Help
+What type of book is this?,Christian Books & Bibles,898705258.jpg,Christian Books & Bibles,898705258_2,Self-Help
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,1426714254.jpg,Yes,1426714254_3,Yes
+Who is the author of this book?,Christian Books & Bibles,089869194X.jpg,Church Publishing,089869194X_0,the lift every voice and sing committee
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,892281057.jpg,Yes,892281057_3,Yes
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,943616190.jpg,Yes,943616190_3,Yes
+What is the title of this book?,Christian Books & Bibles,827236476.jpg,Ten Most Common Mistakes Made by Church Starts,827236476_1,Ten Most Common Mistakes Made by New Church Starts
+Is this christianity book?,Christian Books & Bibles,1890947075.jpg,Yes,1890947075_3,Yes
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,801031362.jpg,Yes,801031362_3,Yes
+What is the title of this book?,Christian Books & Bibles,1590521382.jpg,Teaching to Change Lives: Seven Proven Ways to Make Your Teaching Come Alive,1590521382_1,teaching to change lives
+What is the title of this book?,Christian Books & Bibles,802866352.jpg,The Gospel of John: A Commentary,802866352_1,The Gospel of John: A Commentary
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,830813217.jpg,Yes,830813217_3,Yes
+What is the title of this book?,Christian Books & Bibles,1599953579.jpg,Mortal (The Books of Mortals),1599953579_1,Mortal
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,842384111.jpg,Yes,842384111_3,Yes
+Who is the author of this book?,Christian Books & Bibles,764425277.jpg,Jim Wideman,764425277_0,Jim Wideman
+What is the genre of this book?,Christian Books & Bibles,830839089.jpg,Christian Books & Bibles,830839089_2,Christian Books & Bibles
+Who wrote this book?,Christian Books & Bibles,805448357.jpg,Brad J. Waggoner,805448357_0,e ray clendenen
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,1848711093.jpg,Yes,1848711093_3,Yes
+Who wrote this book?,Christian Books & Bibles,758615043.jpg,Carla Krazl,758615043_0,Carla Krazl
+Who is the author of this book?,Christian Books & Bibles,006072708X.jpg,Philip Gulley,006072708X_0,Philip Gulley
+Who is the author of this book?,Christian Books & Bibles,486413756.jpg,Daniel W. Patterson,486413756_0,Daniel W. Patterson
+What is the title of this book?,Christian Books & Bibles,825441587.jpg,Biblical Demonology: A Study of Spiritual Forces at Work Today,825441587_1,Biblical Demonology
+What is the title of this book?,Christian Books & Bibles,980021308.jpg,The Design of Life: Discovering Signs of Intelligence in Biological Systems,980021308_1,the design of life
+Is this a romantic book?,Christian Books & Bibles,830826688.jpg,No,830826688_4,No
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,814680275.jpg,Yes,814680275_2,Yes
+Is this a comedy book?,Christian Books & Bibles,800630998.jpg,No,800630998_4,No
+Is this book related to Christian Books & Bibles?,Christian Books & Bibles,B00X37LDTO.jpg,Yes,B00X37LDTO_3,Yes
+Is this christianity book?,Christian Books & Bibles,1596389753.jpg,Yes,1596389753_3,Yes
+Is this christianity book?,Christian Books & Bibles,231144075.jpg,Yes,231144075_3,Yes
+Is this book related to Religion & Spirituality?,Religion & Spirituality,1137364548.jpg,Yes,1137364548_3,Yes
+What is the title of this book?,Religion & Spirituality,1250064120.jpg,"Caring Economics: Conversations on Altruism and Compassion, Between Scientists, Economists, and the Dalai Lama",1250064120_1,Caring Economics
+Is this book related to Education & Teaching?,Religion & Spirituality,877734208.jpg,No,877734208_4,No
+Is this a religious book?,Religion & Spirituality,1614291888.jpg,Yes,1614291888_3,Yes
+Is this a religious book?,Religion & Spirituality,609803980.jpg,Yes,609803980_3,Yes
+What is the genre of this book?,Religion & Spirituality,097770081X.jpg,Religion & Spirituality,097770081X_2,Religion & Spirituality
+Is this a religious book?,Religion & Spirituality,1478196505.jpg,Yes,1478196505_3,Yes
+What is the genre of this book?,Religion & Spirituality,199559287.jpg,Religion & Spirituality,199559287_2,history
+What is the title of this book?,Religion & Spirituality,674050606.jpg,The Lives of Muhammad,674050606_1,The lives of muhammad
+Is this a religious book?,Religion & Spirituality,093354670X.jpg,Yes,093354670X_3,Yes
+What is the genre of this book?,Religion & Spirituality,692484469.jpg,Religion & Spirituality,692484469_2,travel
+What is the title of this book?,Religion & Spirituality,1107529786.jpg,The Logic of Law Making in Islam: Women and Prayer in the Legal Tradition (Cambridge Studies in Islamic Civilization),1107529786_1,The Logic of Law Making in Islam: Women and Prayer in the Legal Tradition
+What is the title of this book?,Religion & Spirituality,1940353262.jpg,Haggadah Companion: Meditations and Readings,1940353262_1,Haggadah Companion: Meditations and Readings
+What is the title of this book?,Religion & Spirituality,300106238.jpg,"Five Centuries of Hanukkah Lamps from The Jewish Museum: A Catalogue Raisonné (Published in Association with the Jewish Museum, New York S)",300106238_1,the book is titled menorah
+What type of book is this?,Religion & Spirituality,1555401813.jpg,Religion & Spirituality,1555401813_2,Religion & Spirituality
+What is the title of this book?,Religion & Spirituality,1934152005.jpg,Book of Haftaros - Gutnick Edition,1934152005_1,onrined
+What type of book is this?,Religion & Spirituality,1400072506.jpg,Religion & Spirituality,1400072506_2,Children's Books
+What type of book is this?,Religion & Spirituality,140190713X.jpg,Religion & Spirituality,140190713X_2,Self-Help
+What is the genre of this book?,Religion & Spirituality,738741019.jpg,Religion & Spirituality,738741019_2,Religion & Spirituality
+What is the title of this book?,Religion & Spirituality,142181080.jpg,The Synchronicity Key: The Hidden Intelligence Guiding the Universe and You,142181080_1,the synchronicity key
+What is the title of this book?,Religion & Spirituality,089281408X.jpg,The Nature of Things: The Secret Life of Inanimate Objects,089281408X_1,The Secret Life of Inanimate Objects
+Is this a homosexuality book?,Religion & Spirituality,62372017.jpg,No,62372017_4,No
+Is this a religious book?,Religion & Spirituality,802465714.jpg,Yes,802465714_3,Yes
+Is this a religious book?,Religion & Spirituality,1454914262.jpg,Yes,1454914262_2,yes
+Who is the author of this book?,Religion & Spirituality,893148407.jpg,Manly P. Hall,893148407_0,Manly P. Hall
+Who is the author of this book?,Religion & Spirituality,812695976.jpg,Kurtis Hagen,812695976_0,Kurtis Hagen
+What is the title of this book?,Religion & Spirituality,940795035.jpg,"Body-Centered Psychotherapy: The Hakomi Method: The Integrated Use of Mindfulness, Nonviolence and the Body",940795035_1,Body-Centered Psychotherapy: The Hakomi Method
+What is the genre of this book?,Religion & Spirituality,914732374.jpg,Religion & Spirituality,914732374_2,Religion & Spirituality
+What type of book is this?,Religion & Spirituality,399524207.jpg,Religion & Spirituality,399524207_2,Religion & Spirituality
+Is this christianity book?,Religion & Spirituality,082482038X.jpg,No,082482038X_4,No
+Is this book related to Children's Books?,Religion & Spirituality,1783201436.jpg,No,1783201436_4,No
+Is this book related to Religion & Spirituality?,Religion & Spirituality,271018461.jpg,Yes,271018461_3,Yes
+Is this book related to Religion & Spirituality?,Religion & Spirituality,1844838056.jpg,Yes,1844838056_3,Yes
+Is this book related to Romance?,Religion & Spirituality,911336923.jpg,No,911336923_4,No
+What is the title of this book?,Religion & Spirituality,226738892.jpg,Political Theology: Four Chapters on the Concept of Sovereignty,226738892_1,Political Theology
+What type of book is this?,Religion & Spirituality,080701205X.jpg,Religion & Spirituality,080701205X_2,religion  spirituality
+What type of book is this?,Religion & Spirituality,745640621.jpg,Religion & Spirituality,745640621_2,History
+Who wrote this book?,Religion & Spirituality,764812483.jpg,Misionaros Redentoristas,764812483_0,redentoristas
+Who is the author of this book?,Sports & Outdoors,1585188573.jpg,Jerry Krause,1585188573_0,Jerry Krause
+What is the title of this book?,Sports & Outdoors,1582613133.jpg,Jim O'Brien: Bucking the Odds,1582613133_1,Bucking the Odds
+Is this book related to Sports & Outdoors?,Sports & Outdoors,71387382.jpg,Yes,71387382_3,Yes
+Is this a games related book?,Sports & Outdoors,671683195.jpg,Yes,671683195_3,Yes
+Is this a games related book?,Sports & Outdoors,1591641098.jpg,Yes,1591641098_3,Yes
+Is this book related to Sports & Outdoors?,Sports & Outdoors,805070931.jpg,Yes,805070931_3,Yes
+Is this book related to Self-Help?,Sports & Outdoors,803266596.jpg,No,803266596_4,No
+Is this book related to Sports & Outdoors?,Sports & Outdoors,312384874.jpg,Yes,312384874_3,Yes
+Who wrote this book?,Sports & Outdoors,1889386901.jpg,Daniel D. Chazin,1889386901_0,daniel d chazin
+What type of book is this?,Sports & Outdoors,156836511X.jpg,Sports & Outdoors,156836511X_2,Sports & Outdoors
+Is this book related to Arts & Photography?,Sports & Outdoors,1887956379.jpg,No,1887956379_4,No
+Who wrote this book?,Sports & Outdoors,804838240.jpg,Robert W. Smith,804838240_0,Robert W. Smith
+Is this book related to Sports & Outdoors?,Sports & Outdoors,158160517X.jpg,Yes,158160517X_3,Yes
+Is this a games related book?,Sports & Outdoors,943292263.jpg,Yes,943292263_3,Yes
+Who wrote this book?,Sports & Outdoors,809281546.jpg,Randy Dayney,809281546_0,Randy dayney
+Is this a sci-fi book?,Sports & Outdoors,151537064X.jpg,No,151537064X_4,No
+Is this a games related book?,Sports & Outdoors,1888723009.jpg,Yes,1888723009_3,No
+What is the title of this book?,Sports & Outdoors,1608463605.jpg,"Brazil's Dance with the Devil: The World Cup, The Olympics, and the Struggle for Democracy",1608463605_1,"Brazil's Dance with the Devil: The World Cup, the Olympics, and the Fight for Democracy"
+Is this a sociopolitical book?,Sports & Outdoors,145600316X.jpg,No,145600316X_4,No
+What is the title of this book?,Sports & Outdoors,1594858527.jpg,Reinhold Messner: My Life at the Limit (Legends & Lore),1594858527_1,My Life at the Limit
+Who is the author of this book?,Sports & Outdoors,135107687.jpg,National Restaurant Association,135107687_0,national restaurant association
+What is the title of this book?,Sports & Outdoors,736080007.jpg,Winning Women's Lacrosse,736080007_1,Winning Women's Lacrosse
+What is the title of this book?,Sports & Outdoors,1847976115.jpg,"Coaching Youth Rugby: An Essential Guide for Coaches, Parents and Teachers",1847976115_1,"Coaching Youth Rugby: An Essential Guide for Coaches, Parents and Teachers"
+What is the title of this book?,Sports & Outdoors,618001840.jpg,Mind Over Water: Lessons on Life from the Art of Rowing,618001840_1,mind over water
+What is the title of this book?,Sports & Outdoors,71392378.jpg,Building the Greenland Kayak : A Manual for Its Contruction and Use,71392378_1,Building the Greenland Kayak
+Who wrote this book?,Sports & Outdoors,1742205607.jpg,Lonely Planet,1742205607_0,Lonely Planet
+What is the title of this book?,Sports & Outdoors,955866316.jpg,"Where to Ski and Snowboard 2010: The 1,000 Best Winter Sports Resorts in the World",955866316_1,where to ski and snowboard 2010 the definitive guide to the 1000 best winter resorts in the world
+What is the title of this book?,Sports & Outdoors,896414108.jpg,Racquetball,896414108_1,Racquetball
+What type of book is this?,Sports & Outdoors,1507646364.jpg,Sports & Outdoors,1507646364_2,Sports & Outdoors
+What is the genre of this book?,Sports & Outdoors,967361478.jpg,Sports & Outdoors,967361478_2,Sports & Outdoors
+Is this book related to Calendars?,Sports & Outdoors,859891348.jpg,No,859891348_4,No
+Who is the author of this book?,Teen & Young Adult,849770122.jpg,Richard Williams,849770122_0,Richard Williams
+What is the title of this book?,Teen & Young Adult,810942372.jpg,Runaway Girl: The Artist Louise Bourgeois (Bccb Blue Ribbon Nonfiction Book Award (Awards)),810942372_1,Runaway Girl: The Artist Louise Bourgeois
+Is this book related to Teen & Young Adult?,Teen & Young Adult,1847305660.jpg,Yes,1847305660_3,Yes
+Is this book related to Medical Books?,Teen & Young Adult,208025138.jpg,No,208025138_4,No
+Who is the author of this book?,Teen & Young Adult,531158365.jpg,Leslie Gourse,531158365_0,leslie gurse
+What is the title of this book?,Teen & Young Adult,962150029.jpg,"Katie, The Young Life of Mother Katharine Drexel (Chritian Hero)",962150029_1,Katie
+What is the title of this book?,Teen & Young Adult,1464400350.jpg,Inspiring African-American Civil Rights Leaders (African-American Collective Biographies),1464400350_1,inspiring africanamerican civil rights leaders african american collective biographies
+What is the genre of this book?,Teen & Young Adult,30355672.jpg,Teen & Young Adult,30355672_2,Test Preparation
+Is this book related to Teen & Young Adult?,Teen & Young Adult,325010463.jpg,Yes,325010463_3,Yes
+Is this book related to Teen & Young Adult?,Teen & Young Adult,1604134461.jpg,No,1604134461_3,Yes
+Who is the author of this book?,Teen & Young Adult,1626250189.jpg,Julia V. Taylor MA,1626250189_0,Julia V. Taylor
+What is the title of this book?,Teen & Young Adult,B00LI49IT6.jpg,With Kitchener in Sudan (Annotated): A Story of Atbara and Omdurman,B00LI49IT6_1,With Kitchener in Sudan
+Who wrote this book?,Teen & Young Adult,8998341719.jpg,Wei Dong Chen,8998341719_0,Wei Dong Chen
+What is the genre of this book?,Teen & Young Adult,1550027891.jpg,Teen & Young Adult,1550027891_2,Romance
+What is the title of this book?,Teen & Young Adult,62278843.jpg,Conspiracy of Blood and Smoke,62278843_1,Conspiracy of Blood and Smoke
+What type of book is this?,Teen & Young Adult,439916259.jpg,Teen & Young Adult,439916259_2,History
+What is the title of this book?,Teen & Young Adult,1879233207.jpg,An Introduction to Programming Using Microsoft Visual Basic: Versions 5 and 6,1879233207_1,An Introduction to Programming Using Microsoft Visual Basic Versions 5 and 6
+What is the title of this book?,Teen & Young Adult,486262790.jpg,Cut & Assemble Lincoln's Springfield Home,486262790_1,Cut & Assemble Lincoln's Springfield Home
+What is the title of this book?,Teen & Young Adult,385754302.jpg,The Spectacular Now,385754302_1,The Spectacular Now
+What type of book is this?,Teen & Young Adult,1932010734.jpg,Teen & Young Adult,1932010734_2,Romance
+What is the title of this book?,Teen & Young Adult,61767611.jpg,Sweet Little Lies (L.A. Candy),61767611_1,Sweet Little Lies
+What is the title of this book?,Teen & Young Adult,014241672X.jpg,Pretty Monsters,014241672X_1,Pretty Monsters
+Who is the author of this book?,Teen & Young Adult,316182842.jpg,Darren Shan,316182842_0,darren shan
+Is this a sociopolitical book?,Teen & Young Adult,1423137787.jpg,No,1423137787_4,No
+Is this book related to Science & Math?,Teen & Young Adult,62125923.jpg,No,62125923_4,No
+What is the title of this book?,Teen & Young Adult,737724897.jpg,Suicide (Current Controversies),737724897_0,Suicide
+What is the genre of this book?,Teen & Young Adult,766043223.jpg,Teen & Young Adult,766043223_2,Teen & Young Adult
+What is the title of this book?,Teen & Young Adult,1423634292.jpg,"The Code: The Power of ""I Will""",1423634292_1,The Code
+What type of book is this?,Teen & Young Adult,1590847008.jpg,Teen & Young Adult,1590847008_2,Children's Books
+Is this book related to Comics & Graphic Novels?,Teen & Young Adult,737709022.jpg,No,737709022_4,No
+Is this a sci-fi book?,Teen & Young Adult,1423165675.jpg,No,1423165675_4,No
+Who wrote this book?,Teen & Young Adult,737739746.jpg,Jacqueline Langwith,737739746_0,Noah Berlatsky
+Who is the author of this book?,Teen & Young Adult,B00T57NW3G.jpg,Bryce Dymond,B00T57NW3G_0,Bryce Dymond
+Is this a youngster related book?,Teen & Young Adult,822589699.jpg,Yes,822589699_3,Yes
+What is the title of this book?,Teen & Young Adult,1404219234.jpg,Football in the Big East Conference (Inside College Football),1404219234_1,Football in the Big East Conference (Inside College Football)
+Is this a youngster related book?,Teen & Young Adult,766040275.jpg,Yes,766040275_3,Yes
+Is this a youngster related book?,Teen & Young Adult,189402060X.jpg,Yes,189402060X_3,Yes
+What type of book is this?,Children's Books,843174986.jpg,Children's Books,843174986_2,Children's Books
+What is the title of this book?,Children's Books,989341453.jpg,Secret of the Staircase (The Virginia Mysteries) (Volume 4),989341453_1,Secret of the Staircase
+Is this a kids book?,Children's Books,811870545.jpg,Yes,811870545_3,Yes
+Is this an art related book?,Children's Books,394822862.jpg,No,394822862_4,No
+Is this a pharmaceutical book?,Children's Books,375851194.jpg,No,375851194_4,No
+Who is the author of this book?,Children's Books,1423114108.jpg,Mo Willems,1423114108_0,Mo Willems
+Who wrote this book?,Children's Books,1508457123.jpg,Tony Michaels,1508457123_0,Tony Michaels
+What type of book is this?,Children's Books,1423112954.jpg,Children's Books,1423112954_2,Children's Books
+What is the title of this book?,Children's Books,1477758887.jpg,Bat Hospital (Save the Animals),1477758887_1,Bat Hospital
+What type of book is this?,Children's Books,60266864.jpg,Children's Books,60266864_2,Children's Books
+Is this a kids book?,Children's Books,1433957442.jpg,Yes,1433957442_3,Yes
+What is the title of this book?,Children's Books,316174483.jpg,Ed Emberley's Complete Funprint Drawing Book,316174483_1,Ed Emberley's Complete FunPrint Drawing Book
+What type of book is this?,Children's Books,739037048.jpg,Children's Books,739037048_2,Children's Books
+Is this a kids book?,Children's Books,1596439521.jpg,Yes,1596439521_3,No
+Who is the author of this book?,Children's Books,068816708X.jpg,Diane Stanley,068816708X_0,Diane stanley
+Is this a motivational book?,Children's Books,448454424.jpg,No,448454424_4,No
+Who is the author of this book?,Children's Books,1576583139.jpg,Geoff Benge,1576583139_0,janet  geoff benge
+What is the title of this book?,Children's Books,1780974434.jpg,Lionel Messi: The Ultimate Fan Book,1780974434_1,Lionel Messi: The Ultimate Fan Book
+What is the title of this book?,Children's Books,786856157.jpg,Tugga-Tugga Tugboat,786856157_1,Tugga Tugga Tugboat
+Who wrote this book?,Children's Books,1433955628.jpg,Katie Kawa,1433955628_0,roger priddy
+Is this a digital technology book?,Children's Books,073643240X.jpg,No,073643240X_4,No
+Is this a homosexuality book?,Children's Books,1554986923.jpg,No,1554986923_4,No
+Is this book related to Test Preparation?,Children's Books,1608863220.jpg,No,1608863220_4,No
+What is the genre of this book?,Children's Books,B00RD8RCRG.jpg,Children's Books,B00RD8RCRG_2,Children's Books
+What is the title of this book?,Children's Books,1575421585.jpg,Feet Are Not for Kicking (Board Book) (Best Behavior Series),1575421585_1,Feet Are Not For Kicking
+What is the genre of this book?,Children's Books,544225252.jpg,Children's Books,544225252_2,Children's Books
+What is the genre of this book?,Children's Books,618559493.jpg,Children's Books,618559493_2,Children's Books
+Is this a kids book?,Children's Books,756625580.jpg,No,756625580_4,Yes
+What is the title of this book?,Children's Books,761178058.jpg,Star Wars Workbook: Kindergarten Writing and ABCs (Star Wars Workbooks),761178058_1,kindergarten writing  abcs
+Is this book related to Business & Money?,Children's Books,805065709.jpg,No,805065709_4,No
+What is the genre of this book?,Children's Books,938497324.jpg,Children's Books,938497324_2,Children's Books
+What type of book is this?,Children's Books,316244082.jpg,Children's Books,316244082_2,Children's Books
+What is the genre of this book?,Children's Books,590676849.jpg,Children's Books,590676849_2,Children's Books
+Is this a games related book?,Children's Books,486447480.jpg,No,486447480_4,No
+What is the title of this book?,Children's Books,792272234.jpg,Mummies of the Pharaohs: Exploring the Valley of the Kings,792272234_1,Mummies of the Pharaohs: Exploring the Valley of the Kings
+What is the title of this book?,Children's Books,1590846923.jpg,Refugees (Changing Face of North America),1590846923_1,Refugees (Changing Face of North America)
+What is the title of this book?,Children's Books,618432337.jpg,Traveling Man: The Journey of Ibn Battuta 1325-1354,618432337_1,Traveling Man
+What is the genre of this book?,Children's Books,1432913409.jpg,Children's Books,1432913409_2,Children's Books
+"Is this book related to Mystery, Thriller & Suspense?",Children's Books,857981927.jpg,No,857981927_4,No
+Who is the author of this book?,Children's Books,1402289189.jpg,L.M. Montgomery,1402289189_0,L. M. Montgomery
+What is the title of this book?,Children's Books,142414581.jpg,The Mayflower and the Pilgrims' New World,142414581_1,the mayflower
+What is the genre of this book?,Children's Books,778740706.jpg,Children's Books,778740706_2,Children's Books
+What type of book is this?,Children's Books,1580372155.jpg,Children's Books,1580372155_2,Children's Books
+What type of book is this?,Children's Books,1852108231.jpg,Children's Books,1852108231_2,Children's Books
+What is the title of this book?,Children's Books,689838999.jpg,The Night Before Christmas Pop-up,689838999_1,The Night Before Christmas
+Is this a kids book?,Children's Books,545214076.jpg,Yes,545214076_3,Yes
+What is the genre of this book?,Children's Books,147516080.jpg,Children's Books,147516080_2,Children's Books
+What type of book is this?,Children's Books,545761093.jpg,Children's Books,545761093_2,Children's Books
+Who is the author of this book?,Children's Books,1585365475.jpg,Brad Herzog,1585365475_0,diane muldrow
+Who is the author of this book?,Children's Books,316244252.jpg,Stephenie Meyer,316244252_0,Stephenie Meyer
+Who is the author of this book?,Children's Books,874838061.jpg,Uma Krishnawsami,874838061_0,Uma Krishnawsami
+What is the genre of this book?,Children's Books,1442421703.jpg,Children's Books,1442421703_2,Children's Books
+What type of book is this?,Children's Books,1927173574.jpg,Children's Books,1927173574_2,Medical Books
+What type of book is this?,Children's Books,054533019X.jpg,Children's Books,054533019X_2,Children's Books
+Is this book related to History?,Children's Books,823963977.jpg,No,823963977_4,No
+Is this a kids book?,Children's Books,1465429425.jpg,Yes,1465429425_3,Yes
+What type of book is this?,Children's Books,750248017.jpg,Children's Books,750248017_2,Children's Books
+What is the genre of this book?,Children's Books,1442417048.jpg,Children's Books,1442417048_2,Children's Books
+Is this a kids book?,Children's Books,1499401620.jpg,Yes,1499401620_3,Yes
+Is this a kids book?,Children's Books,1467752347.jpg,Yes,1467752347_3,Yes
+Is this book related to Children's Books?,Children's Books,1491481617.jpg,Yes,1491481617_3,Yes
+Is this book related to Children's Books?,Children's Books,1429656476.jpg,Yes,1429656476_3,Yes
+Is this book related to Children's Books?,Children's Books,316142697.jpg,Yes,316142697_3,Yes
+Is this a journey related book?,Travel,811865266.jpg,Yes,811865266_3,Yes
+Who wrote this book?,Travel,1250051983.jpg,Albert Podell,1250051983_0,Albert Podell
+Who is the author of this book?,Travel,007159289X.jpg,Jimmy Cornell,007159289X_0,Jimmy Cornell
+What is the genre of this book?,Travel,762761040.jpg,Travel,762761040_2,Travel
+Who is the author of this book?,Travel,963731912.jpg,Ron Hofmeister,963731912_0,ron  barb hofmeister
+What is the title of this book?,Travel,1596523263.jpg,Historic Photos of Daytona Beach,1596523263_1,Historic Photos of Daytona Beach
+Who wrote this book?,Travel,1904881661.jpg,Elizabeth Vennekens-Kelly,1904881661_0,Elizabeth Vennekens-Kelly
+What is the title of this book?,Travel,088150713X.jpg,Waterfalls of the Pacific Northwest: 200+ Falls throughout Oregon & Washington,088150713X_1,Waterfalls of the Pacific Northwest
+What type of book is this?,Travel,1460252128.jpg,Travel,1460252128_2,Travel
+Is this book related to Travel?,Travel,1517023025.jpg,Yes,1517023025_3,Yes
+Is this a journey related book?,Travel,1841625574.jpg,Yes,1841625574_3,Yes
+Is this a historical book?,Travel,1492169048.jpg,No,1492169048_4,No
+Is this book related to Travel?,Travel,9774163443.jpg,Yes,9774163443_3,Yes
+What is the title of this book?,Travel,1497599385.jpg,"Kilimanjaro Diaries: Or, How I Spent a Week Dreaming of Toilets, Drinking Crappy Water, and Making Bad Jokes While Having the Time of My Life",1497599385_1,Kilimanjaro Diaries
+What is the genre of this book?,Travel,B00086NB0W.jpg,Travel,B00086NB0W_2,Travel
+What is the title of this book?,Travel,1240419376.jpg,"The present state of the empire of Morocco with a faithful account of the manners, religion, and government of that people / by Monsieur de St. Olon. (1695)",1240419376_1,"The Present State of the Empire of Morocco with a Faithful Account of the Manners, Religion, and Government of That People / by Monsieur De St. Olon. (1695)"
+Is this book related to Travel?,Travel,714618667.jpg,Yes,714618667_3,Yes
+Is this book related to Calendars?,Travel,2856535976.jpg,No,2856535976_3,No
+Is this book related to Children's Books?,Travel,3980125904.jpg,No,3980125904_4,No
+Who wrote this book?,Travel,1898323933.jpg,Ross Velton,1898323933_0,Ross Velton
+What is the title of this book?,Travel,1868722090.jpg,Zimbabwe: A Visual Souvenir (Visual Souvenirs),1868722090_1,zimbabwe
+What type of book is this?,Travel,1553411056.jpg,Travel,1553411056_2,Travel
+What is the title of this book?,Travel,9622177026.jpg,"Bhutan: Himalayan Mountain Kingdom, Fourth Edition (Odyssey Illustrated Guide)",9622177026_1,Bhutan Himalayan Mountain Kingdom
+What type of book is this?,Travel,1409342107.jpg,Travel,1409342107_2,Travel
+Is this a journey related book?,Travel,1934159417.jpg,Yes,1934159417_3,No
+Is this a journey related book?,Travel,1936010992.jpg,Yes,1936010992_3,Yes
+What is the genre of this book?,Travel,9624216703.jpg,Travel,9624216703_1,Travel
+What is the title of this book?,Travel,1845115120.jpg,Mysteries of the Gobi: Searching for Wild Camels and Lost Cities in the Heart of Asia,1845115120_1,Mysteries of the Gobi
+What is the title of this book?,Travel,8129105675.jpg,The Magic of Nepal,8129105675_1,The Magic of Nepal
+What is the title of this book?,Travel,1496994078.jpg,Show Me the Money: Where Did All the Aid and Money Go After Typhoon Yolanda in the Philippines November 2013,1496994078_1,Show Me The Money
+What is the title of this book?,Travel,075669678X.jpg,Top 10 Singapore (EYEWITNESS TOP 10 TRAVEL GUIDE),075669678X_1,Top 10 Singapore
+Who is the author of this book?,Travel,B0007JU7R0.jpg,John Still,B0007JU7R0_0,John Still
+Who wrote this book?,Travel,1553412850.jpg,International Travel Maps and Books,1553412850_0,itm canada
+What type of book is this?,Travel,646423908.jpg,Travel,646423908_2,Travel
+What is the title of this book?,Travel,155650277X.jpg,The Adventure Guide to Barbados (Caribbean Guides Series),155650277X_1,The Adventure Guide to Barbados
+Is this a fitness book?,Travel,1853108103.jpg,No,1853108103_4,No
+Is this book related to Travel?,Travel,B00DF5IFMC.jpg,Yes,B00DF5IFMC_3,Yes
+Is this book related to Teen & Young Adult?,Travel,762746122.jpg,No,762746122_4,No
+What type of book is this?,Travel,B002E19ML6.jpg,Travel,B002E19ML6_2,Travel
+What is the title of this book?,Travel,658010948.jpg,Barbados (AAA Essential Guides),658010948_1,Essential Barbados
+Is this a journey related book?,Travel,3865740235.jpg,Yes,3865740235_3,Yes
+Is this book related to Engineering & Transportation?,Travel,548098646.jpg,No,548098646_4,No
+Is this a journey related book?,Travel,B010WFA6QU.jpg,Yes,B010WFA6QU_3,Yes
+What is the genre of this book?,Travel,428605148X.jpg,Travel,428605148X_1,Travel
+Is this a journey related book?,Travel,B004G7P0ZI.jpg,Yes,B004G7P0ZI_3,Yes
+Who wrote this book?,Travel,1514305453.jpg,Atsons,1514305453_0,Atsons
+Who is the author of this book?,Travel,2061007791.jpg,Michelin,2061007791_0,Michelin
+Is this a journey related book?,Travel,789451808.jpg,Yes,789451808_3,Yes
+What is the genre of this book?,Travel,1856913937.jpg,Travel,1856913937_2,Travel
+Who wrote this book?,Travel,2067194186.jpg,Michelin,2067194186_0,Michelin
+Is this book related to Science Fiction & Fantasy?,Travel,3944721241.jpg,No,3944721241_4,No
+What type of book is this?,Travel,1588343774.jpg,Travel,1588343774_2,Travel
+Is this book related to Medical Books?,Travel,1511438703.jpg,No,1511438703_4,No
+What is the title of this book?,Travel,1422013367.jpg,"2008 Country Profile and Guide to Lithuania- National Travel Guidebook and Handbook - USAID, Baltic Caucus, Trade, Business, European Union, NATO, U.S. Relations (Two CD-ROM Set)",1422013367_1,2008 country profile and guide to lithuania
+What type of book is this?,Travel,749524111.jpg,Travel,749524111_2,Travel
+What is the genre of this book?,Travel,1848364342.jpg,Travel,1848364342_2,Travel
+What is the title of this book?,Travel,1852847115.jpg,Walking in Umbria (Cicerone Guides),1852847115_1,walking in umbria
+Is this book related to Travel?,Travel,756661080.jpg,Yes,756661080_2,Yes
+What is the title of this book?,Travel,983224277.jpg,Reaching Deep: Sailing in the Pacific and in the Sea of Cortez,983224277_1,reaching deep
+Who is the author of this book?,Travel,1400018560.jpg,Jane Onstott,1400018560_0,Fodor's
+What is the genre of this book?,Travel,1841622893.jpg,Travel,1841622893_2,Travel
+Is this a journey related book?,Travel,1479278971.jpg,Yes,1479278971_3,Yes
+Is this a journey related book?,Travel,1484028848.jpg,Yes,1484028848_3,Yes
+Is this book related to Travel?,Travel,1879568934.jpg,Yes,1879568934_3,Yes
+Is this book related to Travel?,Travel,1118009789.jpg,Yes,1118009789_3,Yes
+Who wrote this book?,Travel,9589393381.jpg,Benjamin Villegas,9589393381_0,w l
+What type of book is this?,Travel,1895907748.jpg,Travel,1895907748_1,Travel
+Who is the author of this book?,Travel,702822558.jpg,Bartholomew,702822558_0,Bartholomew
+What is the genre of this book?,Travel,841609047.jpg,Travel,841609047_1,Travel
+Is this book related to Travel?,Travel,052887649X.jpg,Yes,052887649X_3,Yes
+Is this a journey related book?,Travel,1560372850.jpg,Yes,1560372850_3,Yes
+Is this book related to Engineering & Transportation?,Travel,762773200.jpg,No,762773200_4,No
+Is this book related to Travel?,Travel,982991991.jpg,Yes,982991991_3,Yes
+What is the title of this book?,Travel,528008846.jpg,Rand McNally Folded Map: Indianapolis Street Map,528008846_1,rand mcnally indianapolis street map
+Is this a child-care book?,Travel,963417924.jpg,No,963417924_4,No
+Who wrote this book?,Travel,762707003.jpg,Bob Fitzhenry,762707003_0,Bob Fitzhenry
+Is this book related to Travel?,Travel,1555533442.jpg,Yes,1555533442_3,Yes
+Is this christianity book?,Travel,963659812.jpg,No,963659812_3,No

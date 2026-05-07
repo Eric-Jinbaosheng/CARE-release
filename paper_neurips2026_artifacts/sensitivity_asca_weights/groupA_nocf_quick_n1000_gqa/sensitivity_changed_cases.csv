@@ -1,0 +1,10 @@
+benchmark,setting_name,changed,default_wins,setting_wins,net
+gqa,wsup2p0_wvalid1p0_wbase0p4_wrisk0p5,0,0,0,0
+gqa,wsup1p0_wvalid1p0_wbase0p4_wrisk0p5,42,16,5,-11
+gqa,wsup1p5_wvalid1p0_wbase0p4_wrisk0p5,29,11,5,-6
+gqa,wsup2p5_wvalid1p0_wbase0p4_wrisk0p5,1,0,0,0
+gqa,wsup3p0_wvalid1p0_wbase0p4_wrisk0p5,6,0,2,2
+gqa,wsup2p0_wvalid0p25_wbase0p4_wrisk0p5,8,1,2,1
+gqa,wsup2p0_wvalid0p5_wbase0p4_wrisk0p5,7,0,2,2
+gqa,wsup2p0_wvalid1p5_wbase0p4_wrisk0p5,1,1,0,-1
+gqa,wsup2p0_wvalid2p0_wbase0p4_wrisk0p5,2,1,1,0

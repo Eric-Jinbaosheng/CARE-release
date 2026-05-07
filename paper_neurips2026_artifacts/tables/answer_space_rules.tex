@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{ll}
+\toprule
+Component & Rule summary \\
+\midrule
+Normalization & lowercase + punctuation removal + strip \\
+Answer spaces & yes/no, MCQ, numeric, ocr\_text\_short, open\_entity, chart, caption, unknown \\
+Format validity & space-dependent validity score (\_format\_validity) \\
+Length risk & penalize suspicious long outputs in short-answer spaces (\_length\_risk) \\
+General score & $2.0f+1.0v+0.4b-0.5r$ \\
+\bottomrule
+\end{tabular}
+\caption{Answer-space classifier and normalization rules used by V91-NoCF.}
+\label{tab:answer_space_rules}
+\end{table}

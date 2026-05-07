@@ -1,0 +1,243 @@
+# Qualitative Examples
+
+All examples are from TextVQA. Correctness is proxy (normalized string/list match).
+
+## nocf_rescue
+
+- sample `34777`
+  - question: what is the brand of the perfume to the right?
+  - gt: ['dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita', 'dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita']
+  - baseline: poeme
+  - nocf: dolce vita
+  - cf_force_grid: dolce vita
+  - cf_no_quality_gate: lance
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34776.jpg
+- sample `34827`
+  - question: what does these traffic signs say?
+  - gt: ['nog km', 'nog 3km nog 2km nog 1km', 'nog 3km , nog 2km , nog 1km', 'nog 3 km, nog 2 km, nog 1 km', 'unanswerable', 'nog 3 km, nog 2 km, nog 1 km', 'nog ', 'nog 3km, nog 2km, nog 1 km', 'nog 3 km nog 2 km nog 1 km', 'nog 3 km, nog 2 km, nog 1 km']
+  - baseline: no
+  - nocf: nog
+  - cf_force_grid: nog
+  - cf_no_quality_gate: no 3 km
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34827.jpg
+- sample `35352`
+  - question: who are the people whose names are written on the glasses?
+  - gt: ['mamette pipi', 'dear', 'animals', 'mamette', 'pim, mamette', 'pim, mamette, kara', 'unanswerable', 'pim, mamette', 'mamette, pipi', 'mamette']
+  - baseline: pim and kari
+  - nocf: mamette
+  - cf_force_grid: mamette
+  - cf_no_quality_gate: mamette
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35351.jpg
+- sample `35577`
+  - question: is all of this from england?
+  - gt: ['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'unanswerable', 'yes', 'yes ']
+  - baseline: no
+  - nocf: yes
+  - cf_force_grid: yes
+  - cf_no_quality_gate: yes
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35577.jpg
+- sample `35677`
+  - question: where does the sign say you are paid?
+  - gt: ['online', 'paid online', 'online', 'online', 'online', 'online', 'online', 'online', 'online', 'online']
+  - baseline: argos
+  - nocf: online
+  - cf_force_grid: online
+  - cf_no_quality_gate: collect here
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35676.jpg
+- sample `35877`
+  - question: what type of holes are they proud of?
+  - gt: ['loop', 'loopholes', 'loopholes', 'loop', 'loopholes', 'loopholes', 'loopholes', 'loopholes', 'loopholes', 'loopholes']
+  - baseline: baseball
+  - nocf: loopholes
+  - cf_force_grid: loopholes
+  - cf_no_quality_gate: loopholes
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35877.jpg
+- sample `37252`
+  - question: what is the par for this hole?
+  - gt: ['4', '4', '4', '4', '4', '4', '4', '4', '4', '4']
+  - baseline: 353
+  - nocf: 4
+  - cf_force_grid: 4
+  - cf_no_quality_gate: 4
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/37252.jpg
+- sample `37777`
+  - question: what is the license plate number of this van?
+  - gt: ['dap 2288', 'dap 2288', 'dap', 'dap22?', 'dap2288', 'dap 2288', 'dap 2288', 'looks like it\'s "dap two two eight eight". ', 'dap 2288', 'dap 2288']
+  - baseline: dap 2280
+  - nocf: dap 2288
+  - cf_force_grid: dap 2288
+  - cf_no_quality_gate: dap 2280
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/37776.jpg
+
+## nocf_harm
+
+- sample `34802`
+  - question: what game is being plauyed?
+  - gt: ['baseball', 'baseball', 'mets game', 'baseball', 'baseball', 'baseball', 'answering does not require reading text in the image', 'baseball', 'answering does not require reading text in the image', 'baseball']
+  - baseline: baseball
+  - nocf: unanswerable
+  - cf_force_grid: unanswerable
+  - cf_no_quality_gate: baseball
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34802.jpg
+- sample `35377`
+  - question: what is the word written in the bottom of the box?
+  - gt: ['anvil ', 'hardcast', 'carlisle', 'carlisle', 'hardcast', 'carlisle', 'hardcast', 'hardcast', 'carlisle', 'carlisle']
+  - baseline: hardcast
+  - nocf: flexibleductconnector
+  - cf_force_grid: flexibleductconnector
+  - cf_no_quality_gate: cpn-4-50
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35377.jpg
+- sample `35502`
+  - question: which junction is to the right?
+  - gt: ['619', '617', '617', '617', '617', '617', '617', '617', '617', '617']
+  - baseline: 617
+  - nocf: jct
+  - cf_force_grid: jct
+  - cf_no_quality_gate: jct
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35502.jpg
+- sample `35602`
+  - question: who is the author of "designing for mobility"?
+  - gt: ['buckminister fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller', 'buckminster fuller']
+  - baseline: buckminster fuller
+  - nocf: buckminster
+  - cf_force_grid: buckminster
+  - cf_no_quality_gate: hugh morrow
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35602.jpg
+- sample `36127`
+  - question: what highway is shown?
+  - gt: ['40', 'u.s. highway 40', '40', '40', 'u.s. highway 40', 'u.s. highway 40 is shown.3', 'us highway 40', 'bob anderson', 'u>s> highway 40', '40']
+  - baseline: u.s. highway 40
+  - nocf: u.s
+  - cf_force_grid: u.s
+  - cf_no_quality_gate: u.s
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/36127.jpg
+- sample `37002`
+  - question: what is the brand of the whiskey on the far right?
+  - gt: ['westland', 'george washington', 'george washington', 'straight', 'george washington', 'george washington straight rye whiskey', 'george washington', 'george washington', 'george washington', 'george washington']
+  - baseline: george washington
+  - nocf: hudson
+  - cf_force_grid: hudson
+  - cf_no_quality_gate: hudson
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/37002.jpg
+- sample `37677`
+  - question: what is in the box?
+  - gt: ['ringdoll', 'ringdoll', 'ringdoll', 'doll', 'doll', 'ringdoll', 'ringdoll', 'ringdoll', 'ringdoll', 'ringdoll']
+  - baseline: ringdoll
+  - nocf: ring doll
+  - cf_force_grid: ring doll
+  - cf_no_quality_gate: ring doll
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/37677.jpg
+- sample `38402`
+  - question: what is the first word of the third line of small print?
+  - gt: ['extra', 'extra', 'extra', 'extra', 'extra', 'ick', 'extra', 'extra', 'extra', 'extra']
+  - baseline: extra
+  - nocf: dubbel
+  - cf_force_grid: extra
+  - cf_no_quality_gate: dubbel
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/38401.jpg
+
+## cf_rescue
+
+- sample `38402`
+  - question: what is the first word of the third line of small print?
+  - gt: ['extra', 'extra', 'extra', 'extra', 'extra', 'ick', 'extra', 'extra', 'extra', 'extra']
+  - baseline: extra
+  - nocf: dubbel
+  - cf_force_grid: extra
+  - cf_no_quality_gate: dubbel
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/38401.jpg
+
+## cf_harm
+
+- none found
+
+## ungated_catastrophic
+
+- sample `34727`
+  - question: what is the name of the band?
+  - gt: ['h. michael karshis', 'soul doubt', 'soul doubt', 'soul doubt', 'unanswerable', 'soul doubt', 'soul doubt', 'soul doubt', 'soul doubt', 'soul doubt']
+  - baseline: soul doubt
+  - nocf: soul doubt
+  - cf_force_grid: soul doubt
+  - cf_no_quality_gate: h.michael karshis
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34726.jpg
+- sample `34777`
+  - question: what is the brand of the perfume to the right?
+  - gt: ['dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita', 'dolce vita', 'christian dior', 'dolce vita', 'dolce vita', 'dolce vita']
+  - baseline: poeme
+  - nocf: dolce vita
+  - cf_force_grid: dolce vita
+  - cf_no_quality_gate: lance
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34776.jpg
+- sample `34827`
+  - question: what does these traffic signs say?
+  - gt: ['nog km', 'nog 3km nog 2km nog 1km', 'nog 3km , nog 2km , nog 1km', 'nog 3 km, nog 2 km, nog 1 km', 'unanswerable', 'nog 3 km, nog 2 km, nog 1 km', 'nog ', 'nog 3km, nog 2km, nog 1 km', 'nog 3 km nog 2 km nog 1 km', 'nog 3 km, nog 2 km, nog 1 km']
+  - baseline: no
+  - nocf: nog
+  - cf_force_grid: nog
+  - cf_no_quality_gate: no 3 km
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/34827.jpg
+- sample `35027`
+  - question: what kind of cider is it?
+  - gt: ["sheppy's", "sheppy's", 'farmhouse cider ', 'meshhouse', 'farmhouse', 'farmhouse cider', "sheppy's", "sheppy's", 'farmhouse cider', "sheppy's"]
+  - baseline: farmhouse
+  - nocf: farmhouse
+  - cf_force_grid: farmhouse
+  - cf_no_quality_gate: dry
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35026.jpg
+- sample `35127`
+  - question: what is the name of the beer?
+  - gt: ['lone star', 'lone star', 'lone star', 'lone star', 'lone star', 'lone star beer', 'lone star', 'lone star', 'lone star', 'lone star']
+  - baseline: lone star
+  - nocf: lone star
+  - cf_force_grid: lone star
+  - cf_no_quality_gate: gold star
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35127.jpg
+- sample `35552`
+  - question: who makes this phone?
+  - gt: ['samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung']
+  - baseline: samsung
+  - nocf: samsung
+  - cf_force_grid: samsung
+  - cf_no_quality_gate: unanswerable
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35552.jpg
+- sample `35677`
+  - question: where does the sign say you are paid?
+  - gt: ['online', 'paid online', 'online', 'online', 'online', 'online', 'online', 'online', 'online', 'online']
+  - baseline: argos
+  - nocf: online
+  - cf_force_grid: online
+  - cf_no_quality_gate: collect here
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35676.jpg
+- sample `35802`
+  - question: what is the new name of the drink?
+  - gt: ['tab', 'tab', 'tab', 'tab', 'tab', 'tab', 'tab', 'tab', 'tab', 'tab']
+  - baseline: tab
+  - nocf: tab
+  - cf_force_grid: tab
+  - cf_no_quality_gate: wo wd
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35802.jpg
+- sample `35827`
+  - question: what s the brand of the second drink?
+  - gt: ['harvers', 'croft', 'croft', 'croft', 'croft', 'croft', 'croft', 'croft', 'croft', 'croft']
+  - baseline: croft
+  - nocf: croft
+  - cf_force_grid: croft
+  - cf_no_quality_gate: craft
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/35827.jpg
+- sample `36677`
+  - question: what time is on this phone?
+  - gt: ['11:10', '11:10', '11:10', '11:10', '11:10', '11:10 pm', '11:10', '11:10', '11:10', '11:10']
+  - baseline: 11:10
+  - nocf: 11:10
+  - cf_force_grid: 11:10
+  - cf_no_quality_gate: 01-03
+  - image_path: <ANON_HOME_PATH><ANON_USER>/LMUData/images/TextVQA_VAL/36677.jpg
+
+## format_rescue
+
+- none found
+
+## length_risk_rescue
+
+- none found

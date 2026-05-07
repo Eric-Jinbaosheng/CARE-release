@@ -1,0 +1,2 @@
+Benchmark,n,TTAug,NoCF,CF_force_grid,Delta_vs_NoCF,rescue,harm,net,cf_used_rate,prediction_changed_rate,note
+TextVQA,1000,72.28,71.96,72.28,0.3200,9,4,+5,0.023,0.021,focused force-grid check

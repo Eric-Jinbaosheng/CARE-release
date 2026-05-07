@@ -1,0 +1,5 @@
+benchmark,n,full_asca,without_consistency_module,delta_without_consistency,without_answer_space_module,delta_without_answer_space,changed_without_consistency,changed_without_answer_space,full_wins_without_consistency,ablation_wins_without_consistency,full_wins_without_answer_space,ablation_wins_without_answer_space,notes
+textvqa,1000,71.96,71.61,-0.35,72.09,+0.13,31,5,8,5,0,2,official metric; changed/wins are proxy exact-match diagnostics
+ocrvqa,1000,16.20,16.10,-0.10,16.20,+0.00,15,0,2,1,0,0,official metric; changed/wins are proxy exact-match diagnostics
+chartqa,1000,76.30,76.10,-0.20,76.20,-0.10,39,3,9,6,0,0,official metric; changed/wins are proxy exact-match diagnostics
+ocrbench,1000,72.50,71.30,-1.20,72.40,-0.10,52,6,12,6,1,2,official metric; changed/wins are proxy exact-match diagnostics
