@@ -31,10 +31,10 @@ CARE score for candidate `a`:
 
 ```text
 s_CARE(a) =
-    w_freq  * s_freq(a)
-  + w_valid * s_valid(a)
-  + w_base  * s_base(a)
-  - w_risk  * s_risk(a)
+    w_fre  * s_freq(a)
+  + w_val  * s_valid(a)
+  + w_con  * s_base(a)
+  - w_len  * s_risk(a)
 ```
 
 Where:
@@ -46,10 +46,10 @@ Where:
 Default weights:
 
 ```text
-w_freq  = 2.0
-w_valid = 1.0
-w_base  = 0.4
-w_risk  = 0.5
+w_fre  = 2.0
+w_val  = 1.0
+w_con  = 0.4
+w_len  = 0.5
 ```
 
 ### Optional gated evidence switching
